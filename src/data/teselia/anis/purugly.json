@@ -1,12 +1,21 @@
 {
-    "id": "purugly",
-    "name": "Purugly",
-    "image": "/placeholder.svg?height=80&width=80",
-    "initialMove": "",
-    "tricks": [
-      {
-        "detail": "TRUCO para bloquear a Golurk, Excadrill pone Trampa Rocas, Cloyster usa Rompecoraza +6.",
-        "variant": []
-      }
-    ]
-  }
+  "id": "purugly",
+  "name": "Purugly",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Trampa rocas",
+  "tricks": [
+    {
+      "detail": "Hydreigon ➜ Amortiguador (si no cambia Amortiguador otra vez) ↓",
+      "variant": [
+        {
+          "detail": "Golurk ➜ Gengar Otra Vez +4 sin velocidad x",
+          "variant": []
+        },
+        {
+          "detail": "Notas Chandelure Gafas elegidas / Lucario Banda Focus",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}
