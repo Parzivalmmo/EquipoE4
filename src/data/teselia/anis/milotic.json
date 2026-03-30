@@ -1,12 +1,17 @@
 {
-    "id": "milotic",
-    "name": "Milotic",
-    "image": "/placeholder.svg?height=80&width=80",
-    "initialMove": "",
-    "tricks": [
-      {
-        "detail": "Truco bloquea Golurk, Excadrill coloca Trampa Rocas, Cloyster +6",
-        "variant": []
-      }
-    ]
-  }
+  "id": "milotic",
+  "name": "Milotic",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Trampa Rocas 🪨",
+  "tricks": [
+    {
+      "detail": "Hydreigon ➜ Amortiguador (por 2 turnos hasta que cambie)",
+      "variant": [
+        {
+          "detail": "Golurk ➜ 👻 Gengar Otra vez +4 +2",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}
