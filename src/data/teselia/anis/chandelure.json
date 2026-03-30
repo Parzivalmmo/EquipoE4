@@ -2,13 +2,13 @@
   "id": "chandelure",
   "name": "Chandelure",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A CHANDELURE",
+  "initialMove": "Trampa rocas",
   "tricks": [
     {
-      "detail": "SOFOCO / LLAMARADA→ Usa Bola Sombra para eliminar",
+      "detail": "Absol ➜ Gengar Otra vez Cambai a jirachi ➜ Chandelure +2 +2 ",
       "variant": [
         {
-          "detail": "ROTOM → Cambia a Metagross y usa Truco",
+          "detail": "Tambien Puedes usar Amortiguador ➜ Gengar Otra vez +4 +2  ",
           "variant": [
             {
               "detail": "Metagross enfrenta Bisharp → Cambia a Chandelure y usa Truco",
