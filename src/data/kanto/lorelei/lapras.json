@@ -19,7 +19,7 @@
     {"detail": "Si se queda → Observa la habilidad", "variant": [
       {"detail": "Rayo Hielo → Cambia a Jirachi y luego a Chandelure"}, "variant": [ 
          {"detail": "Sale Weavile → Cambia a Chansey y usa contador para matarlo" "variant": [ 
-           {"detail": "Lucario → Cambia a gengar, encara y usa maquinacion, mata a lapras" "variant": [ 
+           {"detail": "Lucario → Cambia a gengar, encara y usa maquinacion, mata a lapras" "variant": []} 
              {"detail": "Dragonite → Cambia a jirachi y encara, luego saca a chandelure 2+2"
     ]},
            
