@@ -2,11 +2,16 @@
   "id": "blissey",
   "name": "Blissey",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A SCRAFTY",
+  "initialMove": "TRAMPA ROCAS",
   "tricks": [
     {
-      "detail": "Scrafty con +1 usa Raíz Energía para curarse y luego vuelve a subir a +1. // Usa Puño Drenaje seguido de A Bocajarro para derrotar a Skarmory.",
-      "variant": []
+      "detail": "Mienshao → Gengar encara y usa maquinacion",
+      "variant": [
+         {
+          "detail": "Migmagius → Matalo luego usa maquinacion frente a Walrein o Dewgong y luego pushea",
+          "variant": []
+         }
+      ]
     }
   ]
 }
