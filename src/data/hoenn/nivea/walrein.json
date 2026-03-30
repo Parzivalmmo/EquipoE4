@@ -23,101 +23,13 @@
           "detail": "Estrageia segura → Cambia jirachi despues usa rayo luego encara y entra gallade o chandelure 2+2",
           "variant": []
         },
-        {
-          "detail": "Escaldar → Poliwrath +2 Velocidad / +6 Ataque. Si cambia a Nidoqueen, cambia a Excadrill, luego a Chandelure y usa Truco:",
-          "variant": [
-            {
-              "detail": "Tierra Viva → Excadrill +4 Ataque / +2 Velocidad",
-              "variant": []
-            },
-            {
-              "detail": "Si entra Dewgong → Poliwrath +2 Velocidad / +6 Ataque",
-              "variant": []
-            }
-          ]
-        },
-        {
-          "detail": "Chispazo → Excadrill +4 Ataque / +2 Velocidad",
-          "variant": []
-        },
-        {
-          "detail": "Nidoqueen → Cambia a Excadrill y luego a Chandelure para hacer Truco:",
-          "variant": [
-            {
-              "detail": "Tierra Viva → Excadrill +4 Ataque / +2 Velocidad",
-              "variant": []
-            },
-            {
-              "detail": "Dewgong → Poliwrath +2 Velocidad / +6 Ataque",
-              "variant": []
-            }
-          ]
-        }
-      ]
-    },   
+        
     {
-      "detail": "Metagross → Coloca Trampa Rocas y observa su movimiento.",
-      "variant": [
-        {
-          "detail": "Conkeldurr → Chandelure usa Truco para bloquear en Trampa Rocas, luego entra Scrafty +3",
-          "variant": []
-        },
-        {
-          "detail": "Poder Oculto → Chandelure ataca con Lanzallamas y observa qué entra. Si entra Lanturn, cambia a Poliwrath, luego a Chandelure y haz Truco para bloquear en Surf, luego entra Poliwrath +6 +2",
-          "variant": []
-        },
-        {
-          "detail": "Terremoto → Entra Excadrill +4 +2 Velocidad, si luego entra Dewgong → Poliwrath +6 +2.",
-          "variant": []
-        }
-      ]
-    },
-   
-    {
-      "detail": "Hariyama → Coloca Trampa Rocas.",
-      "variant": [
-        {
-          "detail": "Lanturn → Cambia a Chandelure sin importar quién esté enfrente y usa Truco:",
-          "variant": [
-            {
-              "detail": "Surf → Poliwrath +2 / +6",
-              "variant": []
-            },    
-            {
-              "detail": "Si se queda Conkeldurr → Scrafty +2. Usa A Bocajarro para derrotar a Skarmory",
-              "variant": []
-            }
-          ]
-        },
-        {
-          "detail": "Metagross → Chandelure usa Lanzallamas para debilitarlo:",
-          "variant": [
-            {
-              "detail": "Lanturn, cambia a Poliwrath, luego a Chandelure y usa Truco para bloquear en Surf, entra Poliwrath +2 / +6",
-              "variant": []
-            },
-            {
-              "detail": "Conkeldurr, entra Scrafty +2 y usa A Bocajarro para Skarmory",
-              "variant": []
-            }
-          ]
-        },
-        {
-          "detail": "Dewgong → Scrafty con 1 PS y Raíz Energía se cura y luego usa A Bocajarro para matar a Skarmory",
-          "variant": []
-        },
-        {
-          "detail": "Si no se va Conkeldurr → Recupera objeto con Truco, luego cambia a Chandelure y usa Truco para bloquear en Trampa Rocas, entra Scrafty +2, usa A Bocajarro",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "Superdiente → Cloyster +6. Usa Poder Oculto para derrotar a Froslass. El daño de Superdiente baja en cada turno, no te preocupes.",
+      "detail": "Gallade → Gengar +4 (No encares)",
       "variant": []
     },
     {
-      "detail": "Surf → Observa el objeto:",
+      "detail": "Hariyama → Gengar encara 4+2",
       "variant": [
         {
           "detail": "Si lleva Restos → Poliwrath 2+6, si luego entra Nidoqueen, cambia a Excadrill y luego a Chandelure para bloquear Tierra Viva, Excadrill +6 / +2",
