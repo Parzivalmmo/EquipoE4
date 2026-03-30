@@ -2,6 +2,15 @@
   "id": "banette",
   "name": "Banette",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A CHANDELURE contra Bronzong, usa Lanzallamas para eliminar, Entra Hydreigon → Scrafty +1",
-  "tricks": []
+  "initialMove": "si banete se queda usa pantalla luz",
+  "tricks": [
+    {
+      "detail": "Absol: Amortiguador Gengar Otra Vez +4 +2
+      Gengar Otra vez Mequinacion si cambia a Hydreigon Cambia a Chansey Amortiguador Cambia a Absol Mete Gengar Cambia Jirachi va salir Hydreigon tiene pañuelo Cambia Chandelure +2 + 2",
+      "variant": []
+    },
+    {
+      "id_del_siguiente_objeto": "Si usaste Pantalla luz Sale Absol , Amortiguador Cambia a Gengar Otra vez +4 +2"
+    }
+  ]
 }
