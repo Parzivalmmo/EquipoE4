@@ -5,10 +5,10 @@
   "initialMove": "Trampa Rocas",
   "tricks": [
     {
-      "detail": "Si usa Fuerza Bruta Saca a Gengar +6 +2 (rayo en banette) ",
-      "variant": [
+      "detail": "Si usa Fuerza Bruta, saca a Gengar +6 +2 (rayo en Banette).",
+      "variants": [
         {
-          "detail": "Si Cambia a Hydreigon Usa Amortiguador si sale Absol, Gengar Otra vez cambia a jirachi sale hydreigon cambia a chandelure +2 velocidad"
+          "detail": "Si cambia a Hydreigon, usa Amortiguador. Si sale Absol, Gengar otra vez; cambia a Jirachi. Si sale Hydreigon, cambia a Chandelure +2 velocidad."
         }
       ]
     }
