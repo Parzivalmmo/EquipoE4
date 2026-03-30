@@ -2,10 +2,10 @@
   "id": "aggron",
   "name": "Aggron",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "TRAMPA ROCAS",
   "tricks": [
     {
-      "detail": "Bloquear Terremoto, luego Cloyster +6. Usa Surf para matar a Hariyama.",
+      "detail": "Aggron → Cambia a Jirachi luego Cambia a Dragonite usa Otra Vez +2",
       "variant": []
     }
   ]
