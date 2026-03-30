@@ -2,20 +2,20 @@
     "id": "hydreigon",
     "name": "Hydreigon",
     "image": "/placeholder.svg?height=80&width=80",
-    "initialMove": "CAMBIA A CHANDELURE",
+    "initialMove": "Usa Trampa Rocas,
     "tricks": [
       {
-        "detail": "LLAMARADA → usa Truco para cambiar objeto, Scrafty usa Danza Dragón +4.",
+        "detail": "Absol: Cambia a Gengar otra vez Cambia a Jirachi si cambia a Hydreigon Cambia a Chandelure +2 +2",
         "variant": []
       },
       {
-        "detail": "LANZALLAMAS → cambia a Metagross para enfrentar a Milotic, usa Truco,",
+        "detail": "Golurk: Gengar Otra Vez +6 +2,",
         "variant": [
           {
-            "detail": "Si entra GOLURK, Excadrill pone Trampa Rocas, cambia a Cloyster +6."
+            "detail": ""
           },
           {
-            "detail": "Si usa Escaldar, pon Trampa rocas, Poliwrath usa Tambor +6 y Velocidad X."
+            "detail": "."
           }
         ]
       }
