@@ -2,17 +2,17 @@
   "id": "garchomp",
   "name": "Garchomp",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "TRAMPA ROCAS",
   "tricks": [
     {
-      "detail": "Terremoto: Cloister +6. Mata a Basculin / Huntail con Carámbano.",
+      "detail": "Se queda → cambia a Dragonite luego a jirachi y encara, luego a chandelura 2+2.",
       "variant": []
     },
     {
-      "detail": "Colmillo Ígneo: Chandelure usa Truco, luego Cloyster +6. Mata todo con Carámbano, menos a Metagross.",
+      "detail": "Absol → Cambia a Gengar y encara luego cambia a jirachi",
       "variant": [
         {
-          "detail": "Si cambia a Metagross mientras te boosteas: cambia a Chandelure, usa Truco para bloquear Terremoto, luego Cloister 6+. Mata a Basculin con Carámbano",
+          "detail": "Garchomp → Jirachi encara despues cambia a Dragonite +2",
           "variant": []
         }
       ]
