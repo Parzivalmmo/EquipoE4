@@ -2,14 +2,23 @@
   "id": "altaria",
   "name": "Altaria",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "TRAMPA ROCAS",
   "tricks": [
     {
-      "detail": "Terremoto / Nidoqueen: Cloyster +6. Usa Carámbano para matar a Froslass / Glalie y a Mamoswine.",
-      "variant": []
+      "detail": "Mienshao → Cambia a Gengar usa Otra Vez +2",
+      "variant": [
+        {
+          "detail": "Cambia a Altaria → Cambia a Jirachi usa Otra Vez luego saca a Dragonite +2",
+          "variant": []
+        },  
+        {    
+          "detail": "Cambia a Metagross → Cambia a Dragonite usa Otra Vez +2",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "Metagross: Excadrill 4+2 y luego poner Trampa Rocas.",
+      "detail": "Garra dragon → Cambia a Jirachi luego a Gallade usa Otra Vez 2+2",
       "variant": []
     }
   ]
