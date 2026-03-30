@@ -1,23 +1,23 @@
 {
-    "id": "luxray",
-    "name": "Luxray",
-    "image": "/placeholder.svg?height=80&width=80",
-    "initialMove": "Trampa Rocas",
-    "tricks": [
-      {
-        "detail": "Si usa Fuerza Bruta Saca a Gengar +6 +2 (rayo en banette) ",
-        "variant": [
-          {
-            "detail": "Si Cambia a Hydreigon Usa Amortiguador si sale Absol , Gengar Otra vez cambia a jirachi sale hydreigon cambia a chandelure +2 velocidad"
-          },
-          {
-            "detail": ""
-          }
-        ]
-      },
-      {
-        "detail": "",
-        "variant": []
-      }
-    ]
-  }
+  "id": "luxray",
+  "name": "Luxray",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Trampa Rocas",
+  "tricks": [
+    {
+      "detail": "Si usa Fuerza Bruta Saca a Gengar +6 +2 (rayo en banette) ",
+      "variant": [
+        {
+          "detail": "Si Cambia a Hydreigon Usa Amortiguador si sale Absol , Gengar Otra vez cambia a jirachi sale hydreigon cambia a chandelure +2 velocidad"
+        },
+        {
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "detail": "",
+      "variant": []
+    }
+  ]
+}
