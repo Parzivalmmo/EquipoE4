@@ -2,101 +2,30 @@
   "id": "milotic",
   "name": "Milotic",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "BRONZONG → Excadrill +4+2 y coloca Trampa Rocas.",
+      "detail": "Metagross ➜ Gengar Otra Vez ➜ Gallade",
       "variant": []
     },
     {
-      "detail": "METAGROSS → Coloca Trampa Rocas.",
+      "detail": "Umbreon ➜ Muere por Gallade, entra Staraptor (va a usar Sacrificio). Cambia a Gengar +4 no velo (no usar Otra Vez).",
       "variant": [
         {
-          "detail": "Puño Certero / Machada → Cambia a Chandelure.",
+          "detail": "Nidoqueen ➜ Dragonite Otra Vez + x4 Danza Dragón.",
           "variant": [
             {
-              "detail": "No se retira → Chandelure usa Lanzallamas para eliminar, luego:",
+              "detail": "Houndoom ➜ Chansey Pantalla Luz",
               "variant": [
                 {
-                  "detail": "Houndoom → Cambia a Scrafty, luego a Chandelure y usa Truco:",
+                  "detail": "Metagross ➜ Gengar Otra Vez +4 +2",
                   "variant": [
                     {
-                      "detail": "Triturar → Scrafty +4",
+                      "detail": "Milotic ➜ Chansey Amortiguador (Nota 💡 Puede entrar Dragonite, usa Defensa X + x4 Danza Dragón antes de debilitar a Milotic, cura tu vida).",
                       "variant": []
                     },
                     {
-                      "detail": "Milotic → Poliwrath +6+2",
-                      "variant": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "detail": "Bronzong → Truco, luego:",
-              "variant": [
-                {
-                  "detail": "Terremoto → Excadrill +4+2",
-                  "variant": []
-                },
-                {
-                  "detail": "Milotic → Poliwrath +6+2",
-                  "variant": []
-                }
-              ]
-            }    
-          ]
-        },
-        {
-          "detail": "Bronzong → Cambia a Excadrill",
-          "variant": [
-            {
-              "detail": "No se retira → Cambia a Chandelure y usa Truco, luego:",
-              "variant": [
-                {
-                  "detail": "Terremoto → Excadrill +4+2",
-                  "variant": []
-                },
-                {
-                  "detail": "Milotic → Poliwrath +6+2",
-                  "variant": []
-                }
-              ]
-            },
-            {
-              "detail": "Milotic → Poliwrath +6+2",
-              "variant": []
-            },
-            {
-              "detail": "Serperior → Chandelure usa Lanzallamas para eliminar, luego:",
-              "variant": [
-                {
-                  "detail": "Houndoom → Cambia a Scrafty, luego Chandelure usa Truco:",
-                  "variant": [
-                    {
-                      "detail": "Triturar → Scrafty +4 / A Bocajarro contra Metagross",
-                      "variant": []
-                    },
-                    {
-                      "detail": "Milotic → Poliwrath +6+2",
-                      "variant": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "detail": "Metagross → Chandelure usa Lanzallamas para eliminar, luego:",
-              "variant": [
-                {
-                  "detail": "Houndoom → Cambia a Scrafty, luego Chandelure usa Truco:",
-                  "variant": [
-                    {
-                      "detail": "Triturar → Scrafty +4",
-                      "variant": []
-                    },
-                    {
-                      "detail": "Milotic → Poliwrath +6+2",
+                      "detail": "Metagross ➜ Gengar Otra Vez +4 no velo (Nota 💡 Si entra Milotic, resiste el daño, Defensa X +4, no debilitar a Milotic primero, curar. Si tienes más de la mitad de PS, avanza).",
                       "variant": []
                     }
                   ]
@@ -106,29 +35,6 @@
           ]
         }
       ]
-    },
-    {
-      "detail": "STARAPTOR → Chandelure usa Lanzallamas para observar el cambio. // Si Staraptor no se retira, sigue atacando",
-      "variant": [
-        {
-          "detail": "Milotic → Cambia a Poliwrath, luego a Metagross contra Gothitelle, Truco para bloquear Nidoking, Excadrill coloca Trampa Rocas, Cloyster +6",
-          "variant": []
-        },
-        {
-          "detail": "Umbreon → Sacar Scrafty +3 / Usar A Bocajarro para eliminar a Metagross / Si entra Milotic, seguir con Danza Dragón",
-          "variant": [
-            {
-              "detail": "Tras Danza Dragón, entra Nidoking → Cambiar a Chandelure y usar Truco, bloquear con Terremoto, luego Excadrill con Cinta Focus, finalmente Cloyster +6",
-              "variant": []
-            }
-          ]
-        }
-      ]
-    },
-
-    {
-      "detail": "NIDOKING / NIDOQUEEN → Excadrill coloca Trampa Rocas, Cloyster +6.",
-      "variant": []
     }
   ]
 }
