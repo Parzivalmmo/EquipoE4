@@ -2,10 +2,10 @@
   "id": "haxorus",
   "name": "Haxorus",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Cambia a Chandelure",
+  "initialMove": "💡 Amortiguador Cambia a Gengar Otra vez +6 +2",
   "tricks": [
     {
-      "detail": "usa Truco para bloquear Cola Agua, Cloyster +4",
+      "detail": "",
       "variant": []
     }
   ]
