@@ -2,23 +2,10 @@
   "id": "scrafty",
   "name": "Scrafty",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIAR A CHANDELURE",
+  "initialMove": "💡 Chandelure +2 +2💡",
   "tricks": [
     {
-      "detail": "HAXORUS → Truco bloquea Cola Agua, Cloyster +4",
-      "variant": []
-    },
-    {
-      "detail": "BISHARP → Truco bloquea Persecución, Scrafty +3",
-      "variant": []
-    },
-    {
-      "detail": "PATADA SALTO ALTA→ Lanzallamas para eliminar, entra Chandelure, Scrafty +2 // Paliza para eliminar Haxorus, Puño Drenaje para Espeon (Último Poke)",
-      "variant": []
-    },
-    {
-      "detail": "Juego Sucio → Scrafty +2 Paliza para eliminar Haxorus",
-      "variant": []
+      
     }
   ]
 }
