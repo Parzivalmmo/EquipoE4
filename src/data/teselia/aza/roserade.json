@@ -2,10 +2,10 @@
   "id": "roserade",
   "name": "Roserade",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Cambia a Scrafty",
+  "initialMove": "💡 Pantalla luz 💡",
   "tricks": [
     {
-      "detail": "Scrafty +2 Usa una Poción Máxima para recuperar salud → Scrafty +1 Danza Dragón adicional",
+      "detail": "Samurott ➜ Gengar Otra vez +4 +2 ",
       "variant": []
     }
   ]
