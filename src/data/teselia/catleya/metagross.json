@@ -2,98 +2,99 @@
   "id": "metagross_6",
   "name": "Metagross",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Observa si el rival tiene Globo Helio",
+  "initialMove": "🪨 Trampa rocas 🪨 ",
   "tricks": [
     {
-      "detail": "SI TIENE GLOBO HELIO → Cambia a Excadrill, luego a Chandelure y usa Truco para bloquear Terremoto, Excadrill coloca Trampa Rocas +4+2",
+      "detail": "Metagross con Globo Helio ➜ Abrir para ver ramas (Emolga / Entei con Banda Focus)",
       "variant": []
     },
     {
-      "detail": "NO TIENE GLOBO HELIO → Usa Truco directamente:",
-      "variant": [
-        {
-          "detail": "TERREMOTO, cambia a Excadrill +6+2",
-          "variant": []
-        },
-        {
-          "detail": "MACHADA, observa el objeto:",
-          "variant": [
-            {
-              "detail": "PAÑ. ELEGIDO → Cambiar a Chandelure y usar Truco, si Metagross no se retira o se queda bloqueado contra Snorlax, sacar a Scrafty +3. // Raichu lleva Banda Focus",
-              "variant": []
-            },
-            {
-              "detail": "VIDASFERA → Cambia a Chandelure",
-              "variant": [
-                {
-                  "detail": "Nidoking/Nidoqueen → Usa Truco para bloquear Tierra Viva, luego Excadrill coloca Trampa Rocas, Cloyster +6",
-                  "variant": []
-                },
-                {
-                  "detail": "Bronzong → Usa Truco y ajusta según el movimiento:",
-                  "variant": [
-                    {
-                      "detail": "Terremoto → Excadrill +4+2 y coloca Trampa Rocas",
-                      "variant": []
-                    },
-                    {
-                      "detail": "Milotic → Scrafty usa objeto de defensa y se fortalece +4 / A Bocajarro contra Metagross",
-                      "variant": []
-                    }
-                  ]
-                },
-                {
-                  "detail": "METAGROSS NO SE RETIRA, usa Lanzallamas para eliminarlo y observa el cambio",
-                  "variant": [
-                    {
-                      "detail": "MILOTIC → Cambia a Poliwrath, luego a Chandelure contra Gothitelle, usa Truco para bloquear Psicocarga, Scrafty +3",
-                      "variant": []
-                    },
-                    {
-                      "detail": "Houndoom → Cambia a Scrafty, luego a Chandelure y usa Truco para bloquear Triturar, Scrafty +4",
-                      "variant": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "detail": "PUÑO METEORO, cambia a Chandelure + Especial X y usa Lanzallamas para eliminarlo, aparece Houndoom → cambia a Scrafty, luego vuelve a cambiar a Chandelure y usa Truco, Scrafty +2",
-          "variant": []
-        },
-        {
-          "detail": "PUÑO HIELO, cambia a Scrafty // Metagross queda congelado, prioriza la descongelación antes de continuar",
-          "variant": [
-            {
-              "detail": "No se retira, usa Scrafty +3 // Si tienes +2, puedes aprovechar Puño Drenaje para recuperar HP",
-              "variant": []
-            },
-            {
-              "detail": "Entei → Usa Chandelure y Truco para bloquear Roca Afilada, luego Scrafty +3. // Metagross sigue en combate, usa dos Puño Drenaje para eliminarlo. // tienes +1, puedes aprovechar Puño Drenaje para recuperar HP",
-              "variant": []
-            }
-          ]
-        },
-        {
-          "detail": "GALLADE → Usa Chandelure y una vez Lanzallamas para observar la reacción",
-          "variant": [
-            {
-              "detail": "GALLADE NO SE RETIRA, cambia a Scrafty contra Houndoom, luego Chandelure usa Truco para bloquear Pulso Umbrío, Scrafty +4",
-              "variant": []
-            },
-            {
-              "detail": "Si Gallade se quema, sigue usando Lanzallamas hasta que Houndoom entre, luego cambia a Scrafty y repite el ajuste",
-              "variant": []
-            },
-            {
-              "detail": "Houndoom directamente → Cambia a Scrafty, luego a Chandelure y usa Truco para bloquear Pulso Umbrío, Scrafty +4 / A Bocajarro contra Metagross",
-              "variant": []
-            }
-          ]
-        }
-      ]
+      "detail": "Leafeon ➜ Chansey contador ; frente a Alakazam usar Jirachi Otra Vez",
+      "variant": []
+    },
+    {
+      "detail": "Bola Sombra ➜ Chansey Amortiguador; frente a Entei contador para debilitar a entei; frente a Empoleon Pantalla Luz, Dragonite usa (Defensa Especial X) x3 danza dragon",
+      "variant": []
+    },
+    {
+      "detail": "Onda Certera a Chansey➜ Chandelure +2 +2",
+      "variant": []
+    },
+    {
+      "detail": "Alakazam ➜ Pantalla Luz, cambiar a Jirachi; frente a Leafeon usar Otra Vez, cambiar a Dragonite; frente a Metagross cambiar a Jirachi y luego a Gallade Otra Vez +2 +2",
+      "variant": []
+    },
+    {
+      "detail": "Si no cambia ➜ Cambia a Jirachi y luego a Gallade Otra Vez +2 +2",
+      "variant": []
+    },
+    {
+      "detail": "Metagross con Vidaesfera  se queda ➜ [mira abajo que usa ]",
+      "variant": []
+    },
+    {
+      "detail": "Puño Meteoro ➜ Cambia a Jirachi y usa Protección",
+      "variant": []
+    },
+    {
+      "detail": "Cambio de Jirachi a Mienshao ➜ Cambia a Chansey , luego a Gengar Otra Vez +2 +2",
+      "variant": []
+    },
+    {
+      "detail": "Terremoto ➜ Jirachi Otra Vez, Gallade +2 +2",
+      "variant": []
+    },
+    {
+      "detail": "Machada➜ Cambia a Jirachi, luego a Gengar Otra Vez, cambia a Gallade",
+      "variant": []
+    },
+    {
+      "detail": "Milotic ➜ Chansey Amortiguador",
+      "variant": []
+    },
+    {
+      "detail": "Metagross ➜ Gengar Otra Vez 40, Rayo sin debilitar a Milotic (que tu vida no baje del 53% ), curar y atacar de nuevo",
+      "variant": []
+    },
+    {
+      "detail": "Umbreon ➜ Debilitar (kill)",
+      "variant": []
+    },
+    {
+      "detail": "Staraptor ➜ Gengar +4 no velo  (Staraptor p,elegido)",
+      "variant": []
+    },
+    {
+      "detail": "Gallade ➜ Gengar Otra Vez +4 no velo ,sicambia  pones a Chansey  y usar Llave Giro",
+      "variant": []
+    },
+    {
+      "detail": "Mienshao ➜ Cambia a Gengar, usar Bola Sombra",
+      "variant": []
+    },
+    {
+      "detail": "Umbreon ➜ Cambia a Chansey Amortiguador; frente a Mienshao cambia a Chandelure (sacrificio); frente a Entei cambia a Chansey contador ; (frente a Musharna Amortiguador + Pantalla Luz), Chandelure +2 no velo ",
+      "variant": []
+    },
+    {
+      "detail": "Jolteon ➜ Cambia a Chansey  Pantalla Luz, Gengar Otra Vez +4 +2",
+      "variant": []
+    },
+    {
+      "detail": "Machada con Pañuelo Elegido  ➜ Cambia a Gengar, luego a Gallade para debilitar a Snorlax; cambia a Jirachi Otra Vez, Chandelure +2 velocidad no subir ataque especial",
+      "variant": []
+    },
+    {
+      "detail": "Absol ➜ Gengar Otra Vez, cambia a Chandelure",
+      "variant": []
+    },
+    {
+      "detail": "Blissey ➜ Chandelure +2 +2 (No usar Otra Vez), Chandelure se boostea y corre a Togekiss para resistir daño tras el boost",
+      "variant": []
+    },
+    {
+      "detail": "Metagross ➜ Gallade +4 +2 (No usar Otra Vez)",
+      "variant": []
     }
   ]
 }
