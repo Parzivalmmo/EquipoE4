@@ -2,39 +2,38 @@
   "id": "mienshao",
   "name": "Mienshao",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove":"Cambia a Gengar Otra vez  ",
- {
+  "initialMove": "Cambia a Gengar Otra Vez",
   "tricks": [
     {
-      "detail": "Gengar Otra Vez, Frende a Umbreon ➜ Cambia a Chansey  Pantalla Luz, cambia a Gengar, luego cambia de Gallade para matar a umbreon ",
+      "detail": "Gengar Otra Vez, frente a Umbreon ➜ Cambia a Chansey Pantalla Luz, cambia a Gengar, luego cambia a Gallade para matar a Umbreon",
       "variant": []
     },
     {
-      "detail": "Umbreon ➜ muere mira abajo ",
+      "detail": "Umbreon ➜ muere (mira abajo)",
       "variant": []
     },
     {
-      "detail": "Entei ➜ Cambia a Chandelure, cambia a Chansey contador para matar a entei",
+      "detail": "Entei ➜ Cambia a Chandelure, cambia a Chansey contador para matar a Entei",
       "variant": []
     },
     {
-      "detail": "Metagross ➜ Jirachi trampa rocas , Chandelure +2 no velo ( Nota metagros no tiene nada efectivo contra chande ) ",
+      "detail": "Metagross ➜ Jirachi Trampa Rocas, Chandelure +2 no velo (Nota: Metagross no tiene nada efectivo contra Chande)",
       "variant": []
     },
     {
-      "detail": "Musharna ➜ Amortiguador,Trampa rocas , Pantalla Luz, Chandelure +2 no velo ( Nota tener cuidado con la vida de chansey y usar Amortiguador)",
+      "detail": "Musharna ➜ Amortiguador, Trampa Rocas, Pantalla Luz, Chandelure +2 no velo (Nota: tener cuidado con la vida de Chansey)",
       "variant": []
     },
     {
-      "detail": "quedate y mueres contra altaria ? sacrificio frente a Altaria ➜ Jirachi Otra Vez, Chandelure +2 +2",
+      "detail": "¿Quedarte y morir contra Altaria? Sacrificio frente a Altaria ➜ Jirachi Otra Vez, Chandelure +2 +2",
       "variant": []
     },
     {
-      "detail": "Mienshao con Pañuelo Elegido ➜ matarlo ",
+      "detail": "Mienshao con Pañuelo Elegido ➜ Matarlo",
       "variant": []
     },
     {
-      "detail": "Jolteon ➜ Cambia a Chansey Trampa rocas ; frente a Staraptor , Gengar Otra Vez +2 +2",
+      "detail": "Jolteon ➜ Cambia a Chansey Trampa Rocas; frente a Staraptor, Gengar Otra Vez +2 +2",
       "variant": []
     },
     {
@@ -42,31 +41,31 @@
       "variant": []
     },
     {
-      "detail": "Snorlax ➜ con gallade matar a snorlax ",
+      "detail": "Snorlax ➜ Con Gallade matar a Snorlax",
       "variant": []
     },
     {
-      "detail": "Metagross ➜ Chansey Trampa rocas  + contador ",
+      "detail": "Metagross ➜ Chansey Trampa Rocas + Contador",
       "variant": []
     },
     {
-      "detail": "Mienshao ➜ Cambia a Gengar , cambia a Jirachi; frente a Raichu cambia a Chansey  Amortiguador; frente a Excadrill  cambia a Jirachi Otra Vez, Chandelure +2 +2",
+      "detail": "Mienshao ➜ Cambia a Gengar, cambia a Jirachi; frente a Raichu cambia a Chansey Amortiguador; frente a Excadrill cambia a Jirachi Otra Vez, Chandelure +2 +2",
       "variant": []
     },
     {
-      "detail": "Sigilyph ➜ Cambia a Jirachi Otra Vez, Chandelure +2 +2; usar Bola Sombra para debilitar al ave, a los demas lanzallamas",
+      "detail": "Sigilyph ➜ Cambia a Jirachi Otra Vez, Chandelure +2 +2; usar Bola Sombra para el ave, a los demás Lanzallamas",
       "variant": []
     },
     {
-      "detail": "Umbreon ➜muere ",
+      "detail": "Umbreon ➜ Muere",
       "variant": []
     },
     {
-      "detail": "Entei ➜ Cambia Chandelure ➜ Chansey contador mira abajo  ",
+      "detail": "Entei ➜ Cambia Chandelure ➜ Chansey contador (mira abajo)",
       "variant": []
     },
     {
-      "detail": "Metagross ➜ Cambia a Jirachi Proteccion Frente a Altaria  ➜ Chandelure no ataque esp +2 velo ",
+      "detail": "Metagross ➜ Cambia a Jirachi Protección; frente a Altaria ➜ Chandelure 02",
       "variant": []
     },
     {
