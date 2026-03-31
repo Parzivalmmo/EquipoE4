@@ -2,24 +2,21 @@
   "id": "blissey",
   "name": "Blissey",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "Pantalla luz /🪨 Trampa Rocas 🪨 ",
   "tricks": [
-    {
-      "detail": "NIDOKING / NIDOQUEEN → Excadrill coloca Trampa Rocas, luego Cloyster +6",
-      "variant": []
-    },
-    {
-      "detail": "LANZALLAMAS→ Coloca Trampa Rocas",
-      "variant": [
-        {
-          "detail": "Si el rival no se retira → Scrafty +3 / A Bocajarro contra Crobat",
-          "variant": []
-        },
-        {
-          "detail": "Nidoking / Nidoqueen → Cambia a Excadrill, luego Chandelure y usa Truco para bloquear Tierra Viva, Cloyster +6",
-          "variant": []
-        }
-      ]
-    }
-  ]
-}
+   [
+  {
+    "detail": "ABSOL → Cambiar a Gengar con Otra Vez , luego cambiar a Jirachi",
+    "variant": [
+      {
+        "detail": "METAGROSS → Dragonite con 3 danza dragon (No usar Otra Vez/esta encerrado"
+      },
+      {
+        "detail": "Nidoqueen → Otra Vez y luego Chandelure +2 +2"
+      },
+      {
+        "detail": "BLISSEY → Chandelure +2 +2 [Si recibe Golpe Veneno , empujar hacia Togekiss y curar veneno "
+      }
+    ]
+  }
+]
