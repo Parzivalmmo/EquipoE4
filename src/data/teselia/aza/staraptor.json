@@ -2,27 +2,11 @@
   "id": "staraptor",
   "name": "Staraptor",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Cambia a Chandelure, usa Truco para intercambiar objeto, luego cambia a Metagross y usa Puño Trueno para atacar Si Staraptor no se retira → Sigue atacando",
+  "initialMove": "🪨 Trampa Rocas 🪨 Gengar +4 +2 x Defensa (tiene pañuelo Staraptor)",
   "tricks": [
     {
-      "detail": "GARCHOMP → Cambia a Excadrill, luego a Chandelure y usa Truco para bloquear Terremoto, Cloyster +4 Hielo para eliminar Sharpedo",
+      "detail": "GARCHOMP → Dragonite Cambia a jirachi Otra vez si usa terremoto ➜ Dragonite +2 danza dragon",
       "variant": []
-    },
-    {
-      "detail": "CHANDELURE → Usa Bola Sombra para eliminar, observa quién entra después",
-      "variant": [
-        {
-          "detail": "Garchomp → Cambia a Excadrill, luego a Chandelure y usa Truco para bloquear Terremoto, Cloyster +4 Hielo para eliminar Sharpedo"
-        },
-        {
-          "detail": "Bisharp → Cambia a Scrafty, luego a Metagross y usa Truco para bloquear Tajo Umbrío, Scrafty +3 Paliza para eliminar Sharpedo",
-          "variant": [
-            {
-              "detail": "Si Metagross es derrotado → Scrafty debe ayudar a su recuperación"
-            }
-          ]
-        }
-      ]
     }
   ]
 }
