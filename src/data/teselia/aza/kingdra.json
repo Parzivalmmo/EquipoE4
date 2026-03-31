@@ -2,10 +2,10 @@
   "id": "kingdra",
   "name": "Kingdra",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Coloca Trampa Rocas",
+  "initialMove": "🪨 Coloca Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Krookodile entra → Excadrill 2+0",
+      "detail": "Honchkrow ➜ Gengar Otra Vez +6 +2",
       "variant": []
     }
   ]
