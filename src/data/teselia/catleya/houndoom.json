@@ -2,6 +2,11 @@
   "id": "houndoom",
   "name": "Houndoom",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Chandelure y usa Truco para bloquear Triturar, luego Scrafty +4 // A Bocajarro para eliminar Metagross",
-  "tricks": []
+  "initialMove": "🪨 Trampa Rocas 🪨",
+  "tricks": [
+    {
+      "detail": "Metagross ➜ Gengar Otra Vez +4 no velo (Milotic aguanta Rayo, no eliminar a Milotic todavía, primero curar)",
+      "variant": []
+    }
+  ]
 }
