@@ -2,15 +2,22 @@
   "id": "tyranitar",
   "name": "Tyranitar",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIAR CHANDELURE Y USA TRUCO",
+  "initialMove": "💡Usa Contador 💡",
   "tricks": [
     {
-      "detail": "AVALANCHA → Scrafty +2 A Bocajarro para eliminar Gallade",
+      "detail": "SAMUROTT → Gengar con Otra Vez +4 +2 [Si baja la defensa de Chansey, usar x defensa y luego cambiar a Gengar]",
       "variant": []
     },
     {
-      "detail": "TRITURAR → Scrafty +3",
-      "variant": []
+      "detail": "BISHARP (Globo Helio) → Cambiar a Jirachi, luego a Gengar con Otra Vez +4 +2",
+      "variant": [
+        {
+          "detail": "Si Gengar usa Otra Vez +4 +2 → Cambiar a Chansey y activar Pantalla de Luz"
+        },
+        {
+          "detail": "Frente a SAMUROTT → Cambiar a Gengar con Otra Vez +4 +2"
+        }
+      ]
     }
   ]
 }
