@@ -2,147 +2,74 @@
   "id": "chandelure",
   "name": "Chandelure",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA CHANDELURE Y USA BOLA SOMBRA",
+  "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "KROOKODILE → Excadrill coloca Trampa Rocas 2+0",
+      "detail": "Haxorus ➜ Amortiguador, Gengar Otra Vez +4 +2 ",
       "variant": []
     },
     {
-      "detail": "GYARADOS → Cambia a Poliwrath, luego a Metagross, usa Puño Trueno para eliminar",
+      "detail": "Honchkrow ➜ Gengar +6 +2 ",
       "variant": [
         {
-          "detail": "si aparece GARCHOMP → Cambia a Excadrill, luego a Chandelure usa Truco para bloquear Terremoto, Cloyster +6 → Hielo para eliminar todos los objetivos",
+          "detail": "Frente a Krookodile ➜ Cambiar a Chansey Contador / Frente a Honchkrow Gengar Otra Vez +4 0",
           "variant": []
         }
       ]
     },
     {
-      "detail": "GARCHOMP → Cambia a Excadrill, luego a Chandelure, observa el movimiento utilizado",
+      "detail": "Garchomp ➜ Amortiguador para ver que ataque usa mira abajo ➜ ",
       "variant": [
         {
-          "detail": "Lanzallamas → Truco bloquea Terremoto, Cloyster +6 → Hielo para eliminar todos los objetivos",
+          "detail": "Terremoto ➜ Dragonite Cambia a Jirachi Otra vez (usa terremoto Dragonite 2 Danza)(usa Ataque fuego chandelure +2 +2)",
           "variant": []
         },
         {
-          "detail": "COLMILLO ÍGNEO → Truco bloquea Terremoto, Cloyster +4 → Carámbano para eliminar Sharpedo / Surf para Bisharp",
+          "detail": "COLMILLO ÍGNEO ➜ Usar Contador entra Staraptor ➜ Gengar +4 x Defensa fisica (tiene pañuelo elegido y Spiritomb tiene cinta elegida)",
           "variant": []
         }
       ]
     },
     {
-      "detail": "MISMAGIUS → Scrafty +2, usa Raíz Energía para recuperar vida (evita movimientos de prioridad) → A Bocajarro para eliminar Samurott",
+      "detail": "Samurot ➜ Cambia a Gengar Otra vez Cambiar a Gallade Mata a Tyranitar",
       "variant": []
     },
     {
-      "detail": "BISHARP → Cambia a Scrafty y observa",
+      "detail": "Frente a chandelure ➜ Chansey Pantalla luz",
       "variant": [
         {
-          "detail": "CHANDELURE ES DERROTADO POR PERSECUCIÓN → Entra Metagross, usa Truco",
+          "detail": "Frente a Bisharp ➜ Gengar Otra vez +2 +2 ",
           "variant": [
             {
-              "detail": "CABEZAHIERRO / PERSECUCIÓN → Revivir Chandelure y evaluar la situación",
+              "detail": "Frente a Bisharp ➜ Usar Contador para debilitar / Frente a Gran Espada (Bisharp) ➜ Fantasma Otra Vez +2 +2",
               "variant": [
                 {
-                  "detail": "SCRAFTY → Cambia a Chandelure y observa el movimiento",
+                  "detail": "Contador frente a Chandelure ➜ Poner Pantalla Luz y Amortiguador para forzar cambio frente a Samurott",
                   "variant": [
                     {
-                      "detail": "DESARME → Scrafty +2, Paliza para eliminar Haxorus",
+                      "detail": "Frente a Serperior ➜ Cambiar a Jirachi Otra Vez Fuego, Chandelure +2 +2 / Bisharp Vidasfera, Acua Jet, cuidado con los PS de Chandelure",
                       "variant": []
                     },
                     {
-                      "detail": "PAT. SALTO ALTA → Usa Hyper Poción o Raíz Energía para recuperar vida, deja que se autoderrote y entre Haxorus, Truco bloquea Acua Cola, Cloyster +4",
+                      "detail": "Frente a Mismagius ➜ Cambiar a Chansey Pantalla Luz / Frente a Samurott Gengar Otra Vez +4 +2 / Frente a Bisharp usar Contador una vez",
                       "variant": []
                     }
                   ]
                 },
                 {
-                  "detail": "HAXORUS → Usa Hyper Poción o Raíz Energía en Chandelure, luego cambia y usa Truco para bloquear Acua Cola, Cloyster +4",
+                  "detail": "Frente a Scrafty ➜ chandelure +2 +2",
                   "variant": []
                 },
                 {
-                  "detail": "BISHARP NO SE RETIRA (CABEZAHIERRO) → Excadrill +4+2+2 (Defensa X), primero usa la píldora, luego Danza Espada",
-                  "variant": []
-                },
-                {
-                  "detail": "BISHARP NO SE RETIRA (PERSECUCIÓN) → Scrafty +3 → Si cambia a Scrafty contra Scrafty, sigue las instrucciones",
-                  "variant": [
-                    {
-                      "detail": "Cambia a Chandelure, usa Raíz Energía (si aparece Haxorus), Truco bloquea Acua Cola, Cloyster +4",
-                      "variant": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "detail": "SCRAFTY → Revivir Chandelure y observar el movimiento",
-              "variant": [
-                {
-                  "detail": "DESARME → Scrafty +2, Paliza para eliminar Haxorus → Si",
-                  "variant": []
-                },
-                {
-                  "detail": "PAT. SALTO ALTA → Cambia a Chandelure, usa Raíz Energía recuperar vida, espera su autoderrota (entra Haxorus), Truco bloquea Acua Cola, Cloyster +4",
+                  "detail": "Staraptor ➜ Gengar +4 xDefensa (no otra vez) (no velo)",
                   "variant": []
                 }
               ]
-            },
-            {
-              "detail": "HAXORUS → Revivir Chandelure, cambia a Chandelure, usa Hyper Potion / Raíz Energía para recuperar vida, luego Truco intercambia objeto, Cloyster +4",
-              "variant": []
             }
           ]
-        },
-        {
-          "detail": "TAJO UMBRÍO → Cambia a Metagross, usa Truco",
-          "variant": [
-            {
-              "detail": "Si repite TAJO UMBRÍO → Scrafty +3, Paliza para eliminar Staraptor",
-              "variant": []
-            },
-            {
-              "detail": "Si aparece GARCHOMP → Cloyster +4, Carámbano para eliminar Sharpedo",
-              "variant": []
-            }
-          ]
-        },
-        {
-          "detail": "AVALANCHA → Chandelure usa Truco para bloquear Avalancha → Scrafty +2, A Bocajarro para eliminar Garchomp, Paliza para eliminar Liepard",
-          "variant": []
         }
-      ]
-    },
-    {
-      "detail": "TYRANITAR → Cambia a Metagross, luego a Chandelure, usa Truco",
-      "variant": [
-        {
-          "detail": "AVALANCHA→ Scrafty +2, A Bocajarro para eliminar Samurott",
-          "variant": []
-        },
-        {
-          "detail": "TRITURAR → Scrafty +3",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "SCRAFTY → Scrafty +2, Paliza para eliminar Haxorus → Si huye Bisharp, cambia a Chandelure, usa Truco para bloquear Persecución, Scrafty +3",
-      "variant": []
-    },
-    {
-      "detail": "STARAPTOR → Cambia a Metagross, usa un Puño Trueno",
-      "variant": [
-        {
-          "detail": "STARAPTOR NO SE RETIRA → Cambia a Chandelure, enfrenta Garchomp, usa Truco para bloquear Terremoto, Cloyster +4 → Hielo para eliminar Sharpedo → Si Puño Trueno activa parálisis, seguir usando Puño Trueno hasta eliminar",
-          "variant": [
-            {
-              "detail": "PUÑO TRUENO LOGRÓ GOLPE CRÍTICO , aparece Garchomp → Cambia a Excadrill, luego a Chandelure, usa Truco para bloquear Terremoto, Cloyster +4 → Hielo para eliminar Sharpedo",
-              "variant": []
-            }
-          ]
-        }       
       ]
     }
   ]
 }
+                
