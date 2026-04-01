@@ -2,24 +2,47 @@
   "id": "cloyster",
   "name": "Cloyster",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨Trampa rocas 🪨",
   "tricks": [
     {
-      "detail": "GOLEM → Excadrill coloca Trampa Rocas, Cloyster +4.",
+      "detail": "Se queda y usa Carámbano  ➜ Amortiguador  continuo hasta forzar cambio",
       "variant": []
     },
     {
-      "detail": "RHYPERIOR → depende del objeto:",
-      "variant": [
-        {
-          "detail": "Restos → Excadrill coloca Trampa Rocas, Cloyster +2. / Surf derrota a Rhyperior.",
-          "variant": []
-        },
-        {
-          "detail": "Baya Pasio → Excadrill coloca Trampa Rocas, Cloyster +4 / Surf derrota a Rhyperior.",
-          "variant": []
-        }
-      ]
+      "detail": "Emboar ➜ Cambia a Gengar Otra Vez +4 +0",
+      "variant": []
+    },
+    {
+      "detail": "Gliscor / Druddigon / Rhyperior ➜ Cambia a Gallade Otra Vez +6 +2",
+      "variant": []
+    },
+    {
+      "detail": "Gliscor / Druddigon / Rhyperior ➜ Cambia a Gallade Otra Vez +6 +2",
+      "variant": []
+    },
+    {
+      "detail": "Durant ➜ Cambia a Chandelure +0 +2; Bola Sombra debilita Gengar ",
+      "variant": []
+    },
+    {
+      "detail": "Durant ➜ Cambia a Jirachi; (Bola Sombra debilita Gengar) ",
+      "variant": []
+    },
+    {
+      "detail": "Vidasfera (Life Orb) ➜ Otra Vez  Chandelure +2 +2; (si resives un critico cambia a  Dragonite Otra Vez  Danza Dragón x3, Atk x1",
+      "variant": []
+    },
+    {
+      "detail": "Pañuelo elegido  ➜ Chandelure +0 +2",
+      "variant": []
+    },
+    {
+      "detail": "Volcarona  ➜ Cambia a Gengar Otra Vez (Encore) +4 no velo ",
+      "variant": []
+    },
+    {
+      "detail": "Gliscor / Druddigon / Rhyperior ➜ Cambia a Gallade Otra Vez +6 +2; ( Dragonite necesita fortalecerse  +5 solo así puede barrer )",
+      "variant": []
     }
   ]
 }
