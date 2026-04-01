@@ -2,28 +2,6 @@
   "id": "absol",
   "name": "Absol",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
-  "tricks": [
-    {
-      "detail": "Nidoking: entra Cloyster +6.",
-      "variant": []
-    },
-    {
-      "detail": "Lanzallamas: intenta poner Trampa Rocas.",
-      "variant": [
-        {
-          "detail": "Si falla al ponerlas: usa Chandelure para debilitarlos con Lanzallamas, cuando salga Rhyperior, cambia a Excadrill y luego a Chandelure para hacer Truco y bloquear con Terremoto, entra Cloyster +6. (Situación por confirmar)",
-          "variant": []
-        },
-        {
-          "detail": "Si el rival no se retira: usa Scrafty +2, elimina con A Bocajarro a Skarmory o Rhyperior.",
-          "variant": []
-        },
-        {
-          "detail": "Nidoking: cambia a Excadrill, luego a Chandelure, usa Truco para bloquear con Poder Oculto (Tierra) y entra Cloyster +6.",
-          "variant": []
-        }
-      ]
-    }    
-  ]
+  "initialMove": "🪨Trampa rocas 🪨 ➜ cambia a Gengar  Otra Vez  +2 +2; Atacar",
+  "tricks": []
 }
