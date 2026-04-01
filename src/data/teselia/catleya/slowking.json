@@ -2,18 +2,18 @@
   "id": "slowking",
   "name": "Slowking",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas 🪨",
-  "tricks": []
-{
-      "detail": "Absol ➜ Cambia a Gengar  Otra Vez, cambia a Jirachi",
+  "initialMove": "🪨 Trampa Rocas 🪨",
+  "tricks": [
+    {
+      "detail": "Absol ➜ Cambia a Gengar Otra Vez, cambia a Jirachi",
       "variant": []
     },
     {
-      "detail": "Blissey ➜ Chandelure +2 +2; si recibe Tóxico, esperar a que se elimine; si entra Metagross, cambiar a Dragonite +3 danza dragon",
+      "detail": "Blissey ➜ Chandelure +2 +2; si recibe Tóxico, esperar a que se elimine; si entra Metagross, cambiar a Dragonite +3 Danza Dragón",
       "variant": []
     },
     {
-      "detail": "Metagross ➜ Dragonite x3 Danza dragon (No usar Otra Vez)",
+      "detail": "Metagross ➜ Dragonite x3 Danza Dragón (No usar Otra Vez)",
       "variant": []
     },
     {
