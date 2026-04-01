@@ -3,14 +3,13 @@
   "name": "Electivire",
   "image": "/placeholder.svg?height=80&width=80",
   "initialMove": "💡 Gengar Otra Vez +2 ",
-  {
   "tricks": [
     {
-      "detail": "Electivire se queda  ➜ ataca hasta que entre Crawdaunt, cambia a Chansey, cambia a Gengar Otra Vez +4 +2; ( 💡 Banda Focus Crawdaunt)",
+      "detail": "Electivire se queda ➜ ataca hasta que entre Crawdaunt, cambia a Chansey, cambia a Gengar Otra Vez +4 +2; ( 💡 Banda Focus Crawdaunt)",
       "variant": []
     },
     {
-      "detail": "Machamp ➜ Cambia a Chansey , cambia a Gengar  Otra Vez +4; atacar hasta que entre  Crawdaunt cambia a Chansey , cambia a Gengar  Otra Vez +4 +2( 💡 Banda Focus Crawdaunt) ",
+      "detail": "Machamp ➜ Cambia a Chansey, cambia a Gengar Otra Vez +4; atacar hasta que entre Crawdaunt cambia a Chansey, cambia a Gengar Otra Vez +4 +2 ( 💡 Banda Focus Crawdaunt) ",
       "variant": []
     },
     {
@@ -18,7 +17,8 @@
       "variant": []
     },
     {
-      "detail": "Crawdaunt ➜ Cambia a Chansey , cambia a Gengar  Otra Vez +4 +2; ( 💡 Banda Focus  Crawdaunt) ",
+      "detail": "Crawdaunt ➜ Cambia a Chansey, cambia a Gengar Otra Vez +4 +2; ( 💡 Banda Focus Crawdaunt) ",
+      "variant": []
     }
   ]
 }
