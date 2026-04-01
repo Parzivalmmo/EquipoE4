@@ -2,23 +2,98 @@
   "id": "excadrill",
   "name": "Excadrill",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO Y OBSERVA OBJETO",
+  "initialMove": " 🪨 Trampa rocas 🪨",
   "tricks": [
     {
-      "detail": "PAÑUELO ELEGIDO → Excadrill +4+2 / Terremoto para eliminar Druddigon",
-      "variant": [
-        {
-          "detail": "Si inesperadamente recibe Cabeza de Hierro, cambia a Metagross para sacrificar, entra Chandelure y usa Truco para intercambiar objeto, Cloyster +6 con objeto de defensa especial",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "BANDA FOCUS → Cloyster +4",
+      "detail": "Sin Rompemoldes ",
       "variant": []
     },
     {
-      "detail": "VIDASFERA → Excadrill +4+2",
+      "detail": "Terremoto  ➜ Cambia a Chandelure; sacrifica a Jirachi Otra Vez, Dragonite x4 danza dragon",
+      "variant": []
+    },
+    {
+      "detail": "Lucario ➜ Cambia a Chansey , ver variantes/ramas de Lucario mira abajo ",
+      "variant": []
+    },
+    {
+      "detail": "Lucario ➜ Cambia a Gengar, cambia a Jirachi",
+      "variant": []
+    },
+    {
+      "detail": "Volcarona  ➜ Jirachi Otra Vez ",
+      "variant": []
+    },
+    {
+      "detail": "Descanso  ➜ Rayo ; frente a Excadrill, Jirachi Otra Vez; Dragonite +2 / Gallade   +2 +2 +4; de hecho  +1 Reuniclus",
+      "variant": []
+    },
+    {
+      "detail": "Danza Llama  ➜ Chandelure +2 +2",
+      "variant": []
+    },
+    {
+      "detail": "Latias ➜ Jirachi Otra Vez ",
+      "variant": []
+    },
+    {
+      "detail": "Poder Oculto  ➜ Dragonite +1 barrer hasta Lucario, curar; Gengar  +4 +2; uno aleatorio Excadrill",
+      "variant": []
+    },
+    {
+      "detail": "Poder Oculto Fuego  ➜ Chandelure +2 +2",
+      "variant": []
+    },
+    {
+      "detail": "Excadrill ➜ Jirachi Otra Vez  Gallade  +4 +2",
+      "variant": []
+    },
+    {
+      "detail": "Escavalier  ➜ Chandelure +2 +2; (Cinta elegida) ",
+      "variant": []
+    },
+    {
+      "detail": "Rompemoldes ",
+      "variant": []
+    },
+    {
+      "detail": "Conkeldurr ➜ Cambia a Gengar Otra Vez, Maquinación ; frente a Excadrill cambia a Dragonite x4 Danza Dragón (tiene pañuelo elegido)",
+      "variant": []
+    },
+    {
+      "detail": "Terremoto  ➜ Ver objeto mira abajo ",
+      "variant": []
+    },
+    {
+      "detail": "Vidaesfera  ➜ Sacrifica  a Chandelure, Jirachi Otra Vez, Dragonite  x3 Danza Dragón ",
+      "variant": []
+    },
+    {
+      "detail": "Sin Vidaesfera  ➜ Amortiguador mira abajo ",
+      "variant": []
+    },
+    {
+      "detail": "Conkeldurr ➜ Gengar Otra Vez, Dragonite x4  Danza Dragón (tiene pañuelo )",
+      "variant": []
+    },
+    {
+      "detail": "Escavalier  ➜ Chandelure +2 +2; (tiene pañuelo)",
+      "variant": []
+    },
+    {
+      "detail": "Terremoto ➜ Sacrifica  a Chandelure, Jirachi Otra Vez, Dragonite Otra Vez,  x3 Danza Dragón   ",
+      "variant": []
+    },
+    {
+      "detail": "Bouffalant ➜ Cambia a Jirachi",
+      "variant": []
+    },
+    {
+      "detail": "Excadrill ➜ Jirachi Otra Vez, Dragonite x2 Danza Dragón ",
+      "variant": []
+    },
+    {
+      "detail": "Chandelure ➜ Chandelure +2 +2; (pañuelo elegido)",
       "variant": []
     }
   ]
