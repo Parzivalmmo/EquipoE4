@@ -2,10 +2,10 @@
   "id": "heracross",
   "name": "Heracross",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨 Trampa rocas 🪨 (si no cambia ➜ Gengar +2 ",
   "tricks": [
     {
-      "detail": "GLISCOR → Cloyster +6 (Mata todo con Carámbano)",
+      "detail": "Durant ➜ Gengar +2 no velo (no usar otra vez) ",
       "variant": []
     }
   ]
