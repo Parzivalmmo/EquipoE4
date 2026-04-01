@@ -2,14 +2,14 @@
   "id": "latios",
   "name": "Latios",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨 Trampa Rocas 🪨 y si no cambia usa Pantalla luz",
   "tricks": [
     {
-      "detail": "PODER OCULTO → Scrafty usa objeto de defensa especial +3 / Puño Drenaje para eliminar Latios y Excadrill",
+      "detail": "Excadrill ➜sacrifica a chandelure ➜ jirachi otra vez ➜ dragonite x3 danza dragon ",
       "variant": []
     },
     {
-      "detail": "TERREMOTO → Cloyster +4 con objeto de defensa especial / No curar quemaduras",
+      "detail": "Escavalir ➜ Chandelure +2 +2 ",
       "variant": []
     }
   ]
