@@ -2,22 +2,23 @@
   "id": "skarmory",
   "name": "Skarmory",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "  🪨 Trampa rocas 🪨 tambien puede quedarte  ➜ Usar Amortiguador  por segunda vez y eliminar con Contador",
   "tricks": [
     {
-      "detail": "SEISMITOAD → Cloyster +4 + Ataque X",
+      "detail": "Aggron ➜ Contador ; frente a Conkeldurr, Gengar Otra Vez, Bola Sombra frente a Seismitoad, Gallade +4 +2 (Defensa X)",
       "variant": []
     },
     {
-      "detail": "GOLURK → Cloyster +4",
+      "detail": " Contador  frente a Dusknoir ➜ Dragonite   x4 Danza Dragón ; ( 💡 Chansey  con PS en rojo usar Max pocion ; si no es correcto, recibir Persecución ",
       "variant": []
     },
     {
-      "detail": "AGGRON→ Coloca Trampa Rocas, luego cambia a Chandelure y usa Truco",
-      "variant": [
-        { "detail": "Aggron no se retira, usa objeto de ataque especial, luego Lanzallamas para eliminar // entra Seismitoad, cambia a Cloyster, luego Metagross y usa Truco para bloquear Terremoto, Cloyster +4 / Surf para eliminar Skarmory" },
-        { "detail": "Seismitoad → Cloyster +4 / Surf para eliminar Skarmory" }
-      ]
+      "detail": "Conkeldur ) ➜ Gengar Otra Vez +4 no velo ",
+      "variant": []
+    },
+    {
+      "detail": "Haxorus ➜ Cambia a Gengar  Otra Vez +4 +no velo ",
+      "variant": []
     }
   ]
 }
