@@ -2,10 +2,10 @@
   "id": "steelix",
   "name": "Steelix",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨 Trampa Rocas 🪨 (sceptile y omastar tienen banda focus)",
   "tricks": [
     {
-      "detail": "TERREMOTO → Cloyster +6 (Todo se mata con Carámbano)",
+      "detail": "Kingler ➜ Gengar +6 no velo ",
       "variant": []
     }
   ]
