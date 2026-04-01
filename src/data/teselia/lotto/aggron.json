@@ -2,34 +2,43 @@
   "id": "aggron",
   "name": "Aggron",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Chandelure usa Lanzallamas y observa la respuesta. (Si Aggron no se retira sigue atacando)",
+  "initialMove": "💡 Usa Contador 💡 ",
   "tricks": [
     {
-      "detail": "SEISMITOAD → Verifica si está quemado",
-      "variant": [
-        {
-          "detail": "Si no está quemado o tiene HP completo → Cambia a Cloyster, luego a Metagross y usa Truco para bloquear Terremoto, Cloyster +4 + Medicina de Crítico (Directo)",
-          "variant": []
-        },
-        {
-          "detail": "Si está quemado → Cambia a Metagross y coloca Trampa Rocas, luego Poliwrath +6 con Raíz Energía para limpiar el equipo (sin usar objeto de velocidad, pendiente de pruebas)",
-          "variant": []
-        }
-      ]
+      "detail": "Conkeldurr ➜ Cambia a Gengar Otra Vez, cambia a Chansey ",
+      "variant": []
     },
     {
-      "detail": "CONKELDURR → Cambia a Metagross",
-      "variant": [
-        {
-          "detail": "NO SE RETIRA→ Usa Truco para bloquear Puño Drenaje, luego cambia a Chandelure y vuelve a usar Truco para bloquear a Seismitoad, Cloyster +6 con Medicina Defensa X",
-          "variant": []
-        },
-        {
-          "detail": "SEISMITOAD → Usa Truco para bloquear Terremoto, Cloyster +4 con Medicina Poder",
-          "variant": []
-        }
-      ]
+      "detail": "Seismitoad ➜ Trampa rocas , te quedas y usar Amortiguador ",
+      "variant": []
+    },
+    {
+      "detail": "Conkeldurr ➜ Gengar Otra Vez +2 +2 (usar Defensa X)",
+      "variant": []
+    },
+    {
+      "detail": "Seismitoad ➜ Gallade Otra Vez +4  +2 (usar Defensa X)",
+      "variant": []
+    },
+    {
+      "detail": "Dusknoir ➜ Cambia a Dragonite Otra Vez, cambia a Chandelure",
+      "variant": []
+    },
+    {
+      "detail": "Frenta a skarmory  ➜ Debilitar;  cambia a Jirachi, cambia a Gengar Otra Vez +4 +0 +2 (usar Defensa X); recibir Vuelo (fly hit) con Chandelure +5 +0; Gengar Otra Vez +2; frente a Seismitoad, Dragonite Otra Vez, Danza Dragón x3 y presionar; llevar Danza Dragón x3 puede no ser suficiente",
+      "variant": []
+    },
+    {
+      "detail": "se queda ) ➜ Dejar que se debilite ",
+      "variant": []
+    },
+    {
+      "detail": "Conkeldurr ➜ Jirachi trampa rocas , Gengar Otra Vez, Bola Sombra ",
+      "variant": []
+    },
+    {
+      "detail": "Seismitoad ➜ Gallade Otra Vez +4 +0",
+      "variant": []
     }
-    
   ]
 }
