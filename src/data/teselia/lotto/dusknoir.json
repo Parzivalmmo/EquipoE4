@@ -2,27 +2,30 @@
   "id": "dusknoir",
   "name": "Dusknoir",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Coloca Trampa Rocas y observa el movimiento",
+  "initialMove": "🪨 Coloca Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "DEMOLICIÓN → Cambiar a Chandelure y usar Truco",
-      "variant": [
-        {
-          "detail": "SEISMITOAD → Cloyster +4. // Surf para Skarmory",
-          "variant": []
-        },
-        {
-          "detail": "Golpe Bajo → Scrafty +4 o +2 con Medicina de Ataque. / A bocajarro contra Skarmory",
-          "variant": []
-        },
-        {
-          "detail": "Avalancha → Poliwrath usa Tambor, luego Raíz Energía (para evitar Puño Bala). // No utilices Velocidad X",
-          "variant": []
-        }
-      ]
-    },   
+      "detail": "Frente a Aggron ➜ Cambia a Jirachi Protección ",
+      "variant": []
+    },
     {
-      "detail": "MOV. SÍSMICO → Cambiar a Chandelure, luego a Metagross para enfrentarse a Tyranitar, usar Truco para bloquear Terremoto, Excadrill +6+2 (Defensa). // No necesita Velocidad X",
+      "detail": "Recibir Patada  ➜ Chandelure +2  No velocidad",
+      "variant": []
+    },
+    {
+      "detail": "Frente a Seismitoad ➜ Cambia a Chansey Amortiguador; cambia a Gengar  Otra Vez, Bola Sombra frente a Seismitoad; cambia a Gallade Otra Vez +4  +2 (usar Defensa X)",
+      "variant": []
+    },
+    {
+      "detail": "se quedan  ➜ Cambia a Jirachi Otra Vez, Chandelure +2 +0 atacar ",
+      "variant": []
+    },
+    {
+      "detail": "Breloom ➜ Cambia a Jirachi, cambia a Gengar Otra Vez, cambia a Gallade para debilitar a Tyranitar ",
+      "variant": []
+    },
+    {
+      "detail": "Gyarados ➜ Cambia a Chansey Amortiguador; cambia a Gengar  Otra Vez +6 +0; si entra  Conkeldurr, cambia a Chansey, cambia a Gengar Otra Vez +6 +0",
       "variant": []
     }
   ]
