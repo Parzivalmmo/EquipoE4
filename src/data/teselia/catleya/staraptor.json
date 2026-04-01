@@ -2,64 +2,51 @@
   "id": "staraptor",
   "name": "Staraptor",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "OBSERVA SI HAY INTIMIDACIÓN",
-  "tricks": [
+  "initialMove": "💡Cambia a Gengar💡",
+ "tricks": [
     {
-      "detail": "SIN INTIMIDACIÓN→ Trampa Rocas (recibe A Bocajarro)，cambiar a Chandelure y eliminar con Lanzallamas",
-      "variant": [
-        {
-          "detail": "Vaporeon → Cambiar a Poliwrath y luego a Chandelure, enfrentar a Reuniclus, usar Truco para bloquear Psíquico, Scrafty x3 / Si Vaporeon huye, no importa. Continuar fortaleciendo",
-          "variant": []
-        },
-        {
-          "detail": "Mienshao → Cambiar a Scrafty y observar la situación",
-          "variant": [
-            {
-              "detail": "Mienshao no se retira → Scrafty x3 / Si Vaporeon huye, no importa. Continuar fortaleciendo",
-              "variant": []
-            },
-            {
-              "detail": "Vaporeon → Cambiar a Poliwrath luego a Chandelure, enfrentar a Reuniclus, usar Truco para bloquear Psíquico, Scrafty x3 / Si Vaporeon huye, no importa. Continuar fortaleciendo",
-              "variant": []
-            }
-          ]
-        },
-        {
-          "detail": "Imprevisto --- sale Reuniclus tras Trampa Rocas → Cambiar a Chandelure, usar Truco, bloquear Psíquico, Scrafty x3 / Si Vaporeon huye, no importa. Continuar fortaleciendo",
-          "variant": []
-        }
-      ]
+      "detail": "【Sin Intimidación】 ➜ Gengar  Otra Vez +4 +2",
+      "variant": []
     },
     {
-      "detail": "CON INTIMIDACIÓN → Cambia a Chandelure usa Lanzallamas para tantear, observa quién entra // Staraptor no se retira → Seguir usando Lanzallamas",
-      "variant": [
-        {
-          "detail": "Milotic → Cambiar a Poliwrath, a Metagross, enfrentar a Gothitelle, usar Truco para bloquear a Nidoking, entra Excadrill con Trampa Rocas, Cloyster x6",
-          "variant": []
-        },
-        {
-          "detail": "Umbreon → cambia a Scrafty y observa la situación 👇🏻",
-          "variant": [
-            {
-              "detail": "Umbreon se queda → Scrafty +3. / A Bocajarro mata a Metagross, Paliza mata a Staraptor",
-              "variant": []
-            },
-            {
-              "detail": "Milotic → cambia a Poliwrath",
-              "variant": [
-                {
-                  "detail": "Milotic se queda → cambia a Metagross, usa Truco para bloquear a Nidoqueen, luego Excadrill pone Trampa Rocas y Cloyster +6. (Metagross se topa inesperadamente con Staraptor, repite la operación)",
-                  "variant": []
-                },
-                {
-                  "detail": "Nidoqueen → cambia a Excadrill, luego a Chandelure y usa Truco para bloquear Poder Tierra. Después Excadrill coloca Trampa Rocas y Cloyster +6",
-                  "variant": []
-                }
-              ]
-            }
-          ]
-        }
-      ]
+      "detail": "【Con Intimidación】 ➜ Frente a Umbreon, cambia a Chansey ; Gengar Otra Vez, cambia a Gallade para debilitar a Umbreon; cambia a Chansey Amortiguador; Gengar +4 no velo",
+      "variant": []
+    },
+    {
+      "detail": "Mantener ➜ ¿Ahorrar dinero? Usar medicina, Rayo para debilitar; Chandelure +2 +2 (priorizar velocidad)",
+      "variant": []
+    },
+    {
+      "detail": "Metagross ➜ Cambia a Chansey, cambia a Gengar Otra Vez, cambia a Gallade mira abajo ",
+      "variant": []
+    },
+    {
+      "detail": "Umbreon ➜ Debilitar, cambia a Chansey  Amortiguador",
+      "variant": []
+    },
+    {
+      "detail": "Metagross ➜ Gengar Otra Vez 4+ no velo ",
+      "variant": []
+    },
+    {
+      "detail": "Umbreon ➜ Cambia a Chansey (egg) Amortiguador (Igual que en otras ramas)",
+      "variant": []
+    },
+    {
+      "detail": "Umbreon ➜ Cambia a Chansey Amortiguador",
+      "variant": []
+    },
+    {
+      "detail": "Metagross ➜ Gengar Otra Vez, cambia a Gallade",
+      "variant": []
+    },
+    {
+      "detail": "Umbreon ➜ Espada Santa para debilitar, cambia a Chansey Amortiguador",
+      "variant": []
+    },
+    {
+      "detail": "Metagross ➜ Gengar Otra Vez +4 no velo ",
+      "variant": []
     }
   ]
 }
