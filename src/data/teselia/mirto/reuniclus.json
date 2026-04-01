@@ -2,14 +2,22 @@
   "id": "reuniclus",
   "name": "Reuniclus",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Coloca Trampa Rocas,.",
+  "initialMove": "🪨Coloca Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Cambia a Chandelure y usa Truco para bloquear movimiento Psíquico, Scrafty +3 o +2 + ATAQUE X.",
+      "detail": "Lucario ➜ Gengar  Otra Vez matalo; cambia a Jirachi Otra Vez a Excadrill, Dragonite x3  Danza Dragón (💡 Bola Sombra  debilita a Dragonite💡)",
       "variant": []
     },
     {
-      "detail": "Si hay daño insuficiente y Excadrill logra un golpe crítico → Metagross usa Truco para bloquear Terremoto, Cloyster +4",
+      "detail": "Gengar  Otra Vez  frente a Volcarona ➜ Chandelure +2 +2; Zumbido golpea alrededor de 14%",
+      "variant": []
+    },
+    {
+      "detail": "Frente a Empoleon ➜ Cambia a Jirachi Otra Vez, Chandelure +2 +2",
+      "variant": []
+    },
+    {
+      "detail": "Excadrill ➜  a Chandelure, Jirachi Otra Vez , Dragonite x3 Danza Dragón ",
       "variant": []
     }
   ]
