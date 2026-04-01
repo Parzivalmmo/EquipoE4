@@ -2,6 +2,6 @@
   "id": "medicham",
   "name": "Medicham",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Cambia a Chandelure y usa Truco para intercambiar objeto, luego Scrafty +2 // A Bocajarro para eliminar Conkeldurr // Magnezone no tiene Robustez",
+  "initialMove": "Cambia a Chandelure +2 +2 / o Cambiar a Gengar +4 ( pero puede entrar Magnezone )",
   "tricks": []
 }
