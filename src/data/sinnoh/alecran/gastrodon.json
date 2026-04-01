@@ -2,10 +2,22 @@
   "id": "gastrodon",
   "name": "Gastrodon",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨Trampa rocas🪨",
   "tricks": [
     {
-      "detail": "TERREMOTO → Cloyster +4 (Carámbano mata a Kabutops y Omastar)",
+      "detail": "Flygon ➜ Cambia a Dragonite, cambia a Jirachi Otra Vez  , Chandelure +2 +2",
+      "variant": []
+    },
+    {
+      "detail": "Terremoto  ➜ Cambia a Gallade Otra Vez  +6 +2",
+      "variant": []
+    },
+    {
+      "detail": "Escavalier / Magcargo ➜ Cambia a Chandelure, cambia a Dragonite Otra Vez  x3 Danza Dragón; frente a Gastrodon resistir daño , si te quema curate (sigue bosteandote no te mata  )",
+      "variant": []
+    },
+    {
+      "detail": "Kabutops ➜ Cambia a Jirachi Otra Vez Fuego, Chandelure +2 +2",
       "variant": []
     }
   ]
