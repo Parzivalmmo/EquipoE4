@@ -2,41 +2,20 @@
   "id": "luxray",
   "name": "Luxray",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨 Trampa rocas y amortiguador (si recibe un critico Dragonite x3 danza dragon)",
   "tricks": [
     {
-      "detail": "FUERZA BRUTA → Coloca Trampa Rocas y evalúa:",
+      "detail": "Conkeldur ➜ Gengar Otra vez +4 +2 ",
       "variant": [
         {
-          "detail": "Colmillo Hielo → Scrafty +3 / Bocajarro contra Conkeldurr o Metagross si aparecen",
+          "detail": "Usas Maquinacion y sale Krokodile ➜ Dragonite ➜ Jirachi Otra vez ➜ Dragonite x3 Danza dragon ",
           "variant": []
         },
         {
-          "detail": "Krookodile → Cambia a Cloyster, luego a Metagross y usa Truco:",
-          "variant": [
-            {
-              "detail": "Terremoto, Cloyster +4",
-              "variant": []
-            },
-            {
-              "detail": "A Bocajarro, Chandelure entra, hace Truco para robar objeto, luego Cloyster +4",
-              "variant": []
-            }
-          ]
+          "detail": "Absol ➜ Gengar Otra Vez ➜ Jirachi Frente a Salamance Otra Vez ➜ Chandelure +2 +2 ",
+          "variant": []
         }
       ]
-    },
-    {
-      "detail": "SI VUELVE A USAR COLMILLO HIELO → Usar Truco otra vez para bloquear a Krookodile, Cloyster +4",
-      "variant": []
-    },
-    {
-      "detail": "KROOKODILE→ Cloyster +4 // Carámbano en Sawk",
-      "variant": []
-    },
-    {
-      "detail": "CONKELDURR → Colocar Trampa Rocas (aunque reciba A Bocajarro), luego Chandelure +4 en Ataque Especial, luego usar Bola Sombra para barrer el equipo.",
-      "variant": []
     }
   ]
 }
