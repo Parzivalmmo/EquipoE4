@@ -2,14 +2,30 @@
   "id": "latias",
   "name": "Latias",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
-  "tricks": [
+  "initialMove": "Cambia a jirachi ( 💡 ESTRATEGIA INICIAL  ➜ Ver abajo: Método de combate con Trampa Rocas💡) ",
+ "tricks": [
     {
-      "detail": "EXCADRILL → Cloyster +4",
+      "detail": "Esfera Aural  ➜ Trampa rocas Otra Vez , Chandelure +2 +2",
       "variant": []
     },
     {
-      "detail": "CHANDELURE → Cambia a tu Chandelure para luego usar Bola Sombra y eliminar, entra Excadrill, se sacrifica, Metagross usa Truco para bloquear Terremoto, Cloyster +4",
+      "detail": "Pulso Dragón  ➜ Cambia a Chansey ➜ frente a Excadrill presiona , cambia a Dragonite, cambia a Jirachi Otra Vez; Dragonite +4; (Excadrill Banda Focus  no recibe daño; usa movimiento Dragón tras fortalecer, luego Otra Vez ",
+      "variant": []
+    },
+    {
+      "detail": "Correr hacia Lucario ➜ Cambia a Chansey, cambia a Gengar ; usa Bola Sombra  para romper Banda Focus  de Excadrill; cambia a Dragonite, cambia a Jirachi Otra Vez ; Dragonite Danza Dragón x4",
+      "variant": []
+    },
+    {
+      "detail": "Lucario se queda y muere por su patada salto ➜   frente a Latias ➜ Cambia a Jirachi Trampa  rocas Otra Vez; Chandelure +2 +2",
+      "variant": []
+    },
+    {
+      "detail": "Excadrill ➜ Otra Vez , Dragonite  x4 Danza Dragón ",
+      "variant": []
+    },
+    {
+      "detail": "Excadrill ➜ Otra Vez , Dragonite  x3 Danza Dragón ",
       "variant": []
     }
   ]
