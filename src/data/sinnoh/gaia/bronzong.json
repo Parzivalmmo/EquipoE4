@@ -2,22 +2,30 @@
   "id": "bronzong",
   "name": "Bronzong",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨Trampa rocas 🪨",
   "tricks": [
     {
-      "detail": "RHYPERIOR CON VIDASFERA: entra Excadrill +6+0.",
+      "detail": "Rhyperior ➜ Gallade Otra Vez +4 +2; Al cambiar puede resivir (Mega cuerno o roca afilada",
       "variant": []
     },
     {
-      "detail": "RHYPERIOR CON RESTOS: entra Excadrill +6+2. / Terremoto elimina a Donphan.",
+      "detail": "Parasect ➜ Cambia a Chandelure",
       "variant": []
     },
     {
-      "detail": "BAYA: entra Chandelure frente a Rhyperior, usa Truco para bloquear Terremoto, luego entra Excadrill con Restos +6+0.",
+      "detail": "Prueba de velocidad  ➜ Cambia a Chandelure +2 +2; (+(120) presionar (push); no curar golpe crítico (ct), puede cambiar a car",
       "variant": []
     },
     {
-      "detail": "REFLELUZ: entra Chandelure frente a Rhyperior, usa Truco para bloquear Terremoto, luego entra Excadrill +6+2.",
+      "detail": "¿Ahorrar dinero medicina/rezar estabilidad  ➜ Cambia a Chandelure debilita",
+      "variant": []
+    },
+    {
+      "detail": "Donphan / Rhyperior ➜ Gallade Otra Vez (Encore) +2 +2",
+      "variant": []
+    },
+    {
+      "detail": "Blastoise  ➜ Cambia a ChanseyAmortiguador frente a Rhyperior, ver arriba ⬆ ",
       "variant": []
     }
   ]
