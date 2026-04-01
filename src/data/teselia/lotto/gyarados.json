@@ -2,68 +2,87 @@
   "id": "gyarados",
   "name": "Gyarados",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Verifica si el rival tiene Intimidación",
+  "initialMove": "🪨Trampa Rocas🪨",
+  {
   "tricks": [
     {
-      "detail": "SI TIENE INTIMIDACIÓN → Usa Puño Trueno para debilitar, observa la respuesta:",
-      "variant": [
-        {
-          "detail": "TYRANITAR → Cambia a Cloyster, luego a Metagross y usa Truco para bloquear Terremoto, Excadrill +4+2 (defensa, sin objeto de velocidad*)",
-          "variant": []
-        },
-        {
-          "detail": "Breloom → Chandelure usa Lanzallamas para eliminar, luego aparece Tyranitar, cambia a Metagross y usa Truco para bloquear Terremoto, Excadrill coloca Trampa Rocas, Cloyster +4",
-          "variant": []
-        },
-        {
-          "detail": "Magnezone → Cambia a Excadrill, luego a Metagross y usa Truco para bloquear Rayo, Excadrill +4+2 (defensa, sin objeto de velocidad*)",
-          "variant": []
-        }
-      ]
+      "detail": "Intimidación ",
+      "variant": []
     },
     {
-      "detail": "NO TIENE INTIMIDACIÓN → Usa Truco",
-      "variant": [
-        {
-          "detail": "Cascada → Poliwrath +6+2 / A Bocajarro contra Conkeldurr / guarda el Puño Hielo",
-          "variant": []
-        },
-        {
-          "detail": "Llamarada → Coloca Trampa Rocas, luego cambia a Chandelure y usa Truco",
-          "variant": [
-            {
-              "detail": "Krookodile, Cloyster +4",
-              "variant": []
-            },
-            {
-              "detail": "Gyarados no se retira, usa Truco nuevamente, si sigue sin retirarse, Chandelure usa objeto de Especial X 2+2 y empieza a eliminar con Lanzallamas // Durante el refuerzo, primero aplica medicina de Ataque Especial. Si entra Krookodile, usar Truco para bloquear Terremoto, Cloyster +4",
-              "variant": []
-            },
-            {
-              "detail": "Conkeldurr con Restos → Cambia a Chandelure",
-              "variant": [
-                {
-                  "detail": "Si no se retira, usa Truco para bloquear Gyarados, Poliwrath +6+2 / A Bocajarro para eliminar Conkeldurr, Puño Hielo contra Gliscor",
-                  "variant": []
-                },
-                {
-                  "detail": "Magnezone → Usa Truco para bloquear Rayo, Excadrill coloca Trampa Rocas +4+2",
-                  "variant": []
-                }
-              ]
-            },           
-            {
-              "detail": "Conkeldurr con Llama Esfera → Coloca Trampa Rocas, luego Chandelure usa Lanzallamas para eliminar",
-              "variant": [
-                {
-                  "detail": "Si aparece Gyarados, cambia a Poliwrath, luego a Chandelure y usa Truco para bloquear Cascada, Poliwrath +6+2 / A Bocajarro para eliminar Conkeldurr",
-                  "variant": []
-                }
-              ]
-            }           
-          ]
-        }
-      ]
+      "detail": "Breloom ➜ Cambia a Jirachi, cambia a Gengar  Otra Vez, cambia a Gallade para eliminar a Tyranitar ",
+      "variant": []
+    },
+    {
+      "detail": "Gyarados ➜ Cambia a Chansey Pantalla de Luz; cambia a Gengar  Otra Vez +6 no velo",
+      "variant": []
+    },
+    {
+      "detail": "Centra  Conkeldurr ➜ Cambia a Chansey  cambia a Gengar  Otra Vez +6 +No velo ",
+      "variant": []
+    },
+    {
+      "detail": "Breloom Se queda  ➜ Gengar Otra Vez, cambia a Chansey Contador ",
+      "variant": []
+    },
+    {
+      "detail": "Conkeldurr ➜ Gengar Otra Vez +6 no velo",
+      "variant": []
+   {
+      "detail": "Sin Intimidación ",
+      "variant": []
+    },
+    {
+      "detail": "Frente a Conkeldur ➜ Cambia a Gengar ",
+      "variant": []
+    },
+    {
+      "detail": "Sin Llamasfera  ➜ Gengar  Otra Vez, Bola Sombra ",
+      "variant": []
+    },
+    {
+      "detail": "conkeldur se queda ➜ Gengar  +6",
+      "variant": []
+    },
+    {
+      "detail": "Magnezone ➜ Cambia a Chansey  Amortiguador; Gengar  Otra Vez +4",
+      "variant": []
+    },
+    {
+      "detail": "Llamasfera ➜ Gengar  Otra Vez +6 +2",
+      "variant": []
+    },
+    {
+      "detail": "entra Krookodile  ➜ Cambia a Dragonite, cambia a Jirachi Otra Vez, cambia a Dragonite Danza x3 danza dragon",
+      "variant": []
+    },
+    {
+      "detail": "Toxicroak ➜ Cambia a Gengar Otra Vez, Bola Sombra ",
+      "variant": []
+    },
+    {
+      "detail": "Toxicroak no cambia  ➜ Gengar  +6 +0",
+      "variant": []
+    },
+    {
+      "detail": "conkeldur ➜ Cambia a Chansey  cambia a Gengar  Otra Vez, Bola Sombra ",
+      "variant": []
+    },
+    {
+      "detail": "Magnezone ➜ Cambia a Chansey Amortiguador",
+      "variant": []
+    },
+    {
+      "detail": "Crawdaunt ➜ Gengar +4 no velo ; No usar Otra Vez (tiene pañuelo)",
+      "variant": []
+    },
+    {
+      "detail": "Conkeldur  / Toxicroak ➜ Gengar Otra Vez +4 +0",
+      "variant": []
+    },
+    {
+      "detail": "Magnezone ➜ Cambia a Chansey  Amortiguador; Gengar Otra Vez +4 no velocidad; frente a Crawdaunt No usar Otra Vez (Tiene pañuelo )",
+      "variant": []
     }
   ]
 }
