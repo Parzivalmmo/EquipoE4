@@ -2,10 +2,14 @@
   "id": "nidoqueen",
   "name": "Nidoqueen",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "💡Cambia a Chandelure💡",
   "tricks": [
     {
-      "detail": "Utilizar Truco para bloquear Tierra Viva, luego cambiar a Excadrill 4+2",
+      "detail": "Garchomp ➜ Gallade/Roserade +4 +2 ; (Pañuelo)",
+      "variant": []
+    },
+    {
+      "detail": "Quedarse para debilitar a Chandelure ➜ Gallade Otra Vez  +4 +2 ; frente a Garchomp Pañuelo Elegido",
       "variant": []
     }
   ]
