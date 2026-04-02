@@ -2,7 +2,7 @@
   "id": "aggron",
   "name": "Aggron",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRAMPA ROCAS",
+  "initialMove": "🪨TRAMPA ROCAS🪨",
   "tricks": [
     {
       "detail": "Aggron → Cambia a Jirachi luego Cambia a Dragonite usa Otra Vez +2",
