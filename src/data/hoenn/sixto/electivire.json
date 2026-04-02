@@ -2,7 +2,7 @@
   "id": "electivire",
   "name": "Electivire",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRAMPA ROCAS",
+  "initialMove": "🪨TRAMPA ROCAS🪨",
   "tricks": [
     {
       "detail": "Gengar Otra Vez +2 y Pushea",
