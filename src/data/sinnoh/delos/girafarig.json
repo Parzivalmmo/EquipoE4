@@ -2,20 +2,15 @@
   "id": "girafarig",
   "name": "Girafarig",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨TrampaRocas🪨➜ Método de perro arriesgado  buscando hacer rapido : Gengar  Otra Vez  +2 no velo  atacar al equipo; (Metagross probabilidad extremadamente baja de uno aleatorio)",
   "tricks": [
     {
-      "detail": "Si cambia a Dragonite, cambiar a Chandelure 4+0 / Lanzallamas para matar a todos.",
+      "detail": "Gallade ➜ Cambiar a Gengar  Otra Vez  +4 no velocidad ; luego Otra Vez  (el Gallade con Banda Focus ",
       "variant": []
     },
     {
-      "detail": "Si cambia a Metagross, utilizar Trampa Rocas, luego cambiar a Chandelure 4+0 / Lanzallamas para matar a todos. Luego de boostear, cura. Si Dragonite hace crítico, revisa abajo:",
-      "variant": [
-        {
-          "detail": "Si cambia a Chandelure, cambiar a Metagross para revivir a Chandelure (Dragonite muere por rebote), entra Ninetales, cambiar a Chandelure y usar Truco para bloquear en Poder Oculto, luego cambiar a Scrafty 2",
-          "variant": []
-        }
-      ]
+      "detail": "Corre a Dragonite ➜ Cambiar a Jirachi Otra Vez ; Chandelure +2 +2 ",
+      "variant": []
     }
   ]
 }
