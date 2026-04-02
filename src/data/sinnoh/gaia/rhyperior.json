@@ -2,48 +2,70 @@
   "id": "rhyperior",
   "name": "Rhyperior",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO Y OBSERVA EL OBJETO",
+  "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Baya → Excadrill Trampa Rocas, Cloyster +4 // Surf para matar a Rhyperior.",
+      "detail": "Terremoto  ➜ Ver objeto ",
       "variant": []
     },
     {
-      "detail": "Restos → Depende del daño recibido:",
-      "variant": [
-        {
-          "detail": "64%-75% → Excadrill Trampa Rocas, Cloyster +2. // Surf para matar a Rhyperior.",
-          "variant": []
-        },
-        {
-          "detail": "85% o más → Excadrill 6+2 / Gengar CabezaHierro",
-          "variant": []
-        },
-        {
-          "detail": "Golpe crítico y mata a Metagross → Excadrill Trampa Rocas, +6+2",
-          "variant": []
-        },
-        {
-          "detail": "Golpe crítico y deja a Metagross herido → Excadrill Trampa Rocas, Cloyster +2.",
-          "variant": []
-        }
-      ]
-    },    
-    {
-      "detail": "Vidasfera → Excadrill +6+2 +Trampa Rocas",
-      "variant": [
-        {
-          "detail": "Si Excadrill muere por Tangrowth→ Entra Chandelure, revive a Excadrill y lo cura por encima del 80%. // Luego sacrifica a Metagross, Excadrill +2 +0. // Prioriza movimientos fuertes",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "Banda Focus → Cloyster +6",
+      "detail": "Vidasfera  ➜ Ver Velocidades ",
       "variant": []
     },
     {
-      "detail": "Casco Dentado → Excadrill +6+2",
+      "detail": "stone edge thunder flower (falta traducir esta ruta ",
+      "variant": []
+    },
+    {
+      "detail": "Frente a Tangrowth ➜ Rayo frente a Camerupt; Protección  + Otra Vez   Chandelure no x especial  +2",
+      "variant": []
+    },
+    {
+      "detail": "vs. Chansey rápido  ➜ Gallade Otra Vez  +2 +2",
+      "variant": []
+    },
+    {
+      "detail": "vs. Chansey lento ➜ Gallade  Otra Vez ) +4 +0",
+      "variant": []
+    },
+    {
+      "detail": "【Inesperado】 Roca Afilada ➜ Cambia a Dragonite Otra Vez cambia a Jirachi frente a  Tangrowth Jirachi rayo frente a Camerupt; Jirachi proteccion  + Otra Vez ; Chandelure no x especial +2",
+      "variant": []
+    },
+    {
+      "detail": "Sin Vidasfera  ➜ Cambia a Jirachi, cambia a Gallade Otra Vez +6 +2; después de fortalecer usar Otra Vez  una vez; Rhyperior tiene BANDA FOCUS ",
+      "variant": []
+    },
+    {
+      "detail": "Amoonguss  ➜ Chandelure +2 +2",
+      "variant": []
+    },
+    {
+      "detail": "Sin Vidasfera Roca Violenta  ➜ contador  frente a Paras; Chandelure +2 +2 (cura si tiene la vida baja )",
+      "variant": []
+    },
+    {
+      "detail": "Durant ➜ Cambia a Gengar  Otra Vez y Maquinación ",
+      "variant": []
+    },
+    {
+      "detail": "Emboar ➜ Gengar  Otra Vez y Maquinación ",
+      "variant": []
+    },
+    {
+      "detail": "Rhyperior ➜ GalladeOtra Vez  +6 +2",
+      "variant": []
+    },
+    {
+      "detail": "si tienes la vida en rojo  ➜ Dragonite Otra Vez  Danza Dragón x4",
+      "variant": []
+    },
+    {
+      "detail": " Se queda ➜ Continuar fortaleciendo  hasta +6 +2",
+      "variant": []
+    },
+    {
+      "detail": "Absol ➜ Cambia a Jirachi Otra Vez  Chandelure +2 +2",
       "variant": []
     }
   ]
