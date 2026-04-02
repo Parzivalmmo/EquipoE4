@@ -2,20 +2,11 @@
   "id": "arcanine",
   "name": "Arcanine",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A CHANDELURE",
+  "initialMove": "💡Amortiguador💡",
   "tricks": [
     {
-      "detail": "(aguanta Llamarada) y usa Truco.",
-      "variant": [
-        {
-          "detail": "Voltio Cruel → Excadrill entra, Danza Espada 6+2",
-          "variant": []
-        },
-        {
-          "detail": "Mandibuzz → Scrafty +3 obliga a Arcanine a huir, Chandelure con Bola Sombra lo elimina (si sale Raichu), cambia a Metagross y luego a Scrafty de nuevo, para enfrentar a Mandibuzz, Scrafty +2",
-          "variant": []
-        }
-      ]
+      "detail": "A bocajarro ➜ Gengar Otra vez +4 +2",
+      "variant": []
     }
   ]
 }
