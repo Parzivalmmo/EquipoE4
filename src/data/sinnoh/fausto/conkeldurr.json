@@ -2,18 +2,42 @@
   "id": "conkeldurr",
   "name": "Conkeldurr",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Si utiliza Puño Drenaje, utilizar Trampa Rocas, luego cambiar a Chandelure +4 / Lanzallamas para matar a todo el equipo",
+      "detail": "Ludicolo ➜ Buscando velocidad directamente  Gengar +6 no velo ) Bola Sombra  golpea a Serperior aleatorio 1",
       "variant": []
     },
     {
-      "detail": "Si utiliza Desquite, cambiar a Scrafty 2 / Paliza + Puño Drenaje para matar a Steelix ( A prueba)",
+      "detail": "Arreglo estable  ➜ Debilitar frente a Steelix  Dragonite Otra Vez Danza Dragón x3 ",
       "variant": []
     },
     {
-      "detail": "Si cambia a Steelix, cambiar a Cloyster +4 / Carámbano para matar a Magmortar",
+      "detail": "Quédate ➜ Gengar  Otra Vez ",
+      "variant": []
+    },
+    {
+      "detail": "Ahorrar medicina ➜ Maquinación ",
+      "variant": []
+    },
+    {
+      "detail": "Steelix ➜ Dragonite Otra Vez Danza Dragón x2  Otra Vez +4 ",
+      "variant": []
+    },
+    {
+      "detail": "Salamence / Ludicolo ➜ Debilitar frente a Steelix  Dragonite Otra Vez Danza Dragón x2 ); Otra Vez",
+      "variant": []
+    },
+    {
+      "detail": "Buscando velocidad  ➜ Cambia a Jirachi",
+      "variant": []
+    },
+    {
+      "detail": "Steelix ➜ Dragonite Otra Vez Danza Dragón x2  Otra Vez ",
+      "variant": []
+    },
+    {
+      "detail": "Salamence / Ludicolo ➜ Jirachi Otra Vez  Chandelure +2 +2 ",
       "variant": []
     }
   ]
