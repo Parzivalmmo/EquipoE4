@@ -2,14 +2,18 @@
   "id": "serperior",
   "name": "Serperior",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "Si utiliza Poder Oculto, utilizar Trampa Rocas, luego cambiar a Scrafty 2. Si sale Arcanine, seguir boosteando, luego cambia a Scrafty 3. Al terminar de boostear, utilizar Raíz Grande para curarse, por si usa Velocidad Extrema.",
+      "detail": "Quedarse (stay) ➜ Pantalla Luz ; cambiar a Jirachi Otra Vez; Chandelure +2 +2",
       "variant": []
     },
     {
-      "detail": "Si cambia a Garchomp, cambiar a Excadrill 4+2 / Terremoto mata a Bastiodon",
+      "detail": " si un Golpe crítico debilita a Jirachi ➜ Usa a Chandelure eliminarlo",
+      "variant": []
+    },
+    {
+      "detail": "Jellicent ➜ Sacrificar  Chandelure; Dragonite Danza Dragón x2 ",
       "variant": []
     }
   ]
