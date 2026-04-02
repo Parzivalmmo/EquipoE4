@@ -2,14 +2,18 @@
   "id": "golduck",
   "name": "Golduck",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨TrampaRocas🪨 Amortiguador ",
   "tricks": [
     {
-      "detail": "Si utiliza Surf, utilizar Trampa Rocas, luego cambiar a Poliwrath 6+2",
+      "detail": "Tajo Cruzado ➜ Amortiguador ",
       "variant": []
     },
     {
-      "detail": "Si cambia a Gallade, utilizar Trampa Rocas, luego cambiar a Chandelure 4+0 / Lanzallamas para matar a todos, también se puede utilizar Bola Sombra para matar a todos.",
+      "detail": "Gallade ➜ Chandelure +2 +2 / Gengar +4 +2 NO usar Otra Vez",
+      "variant": []
+    },
+    {
+      "detail": "Quedarse ➜ Cambiar a Gengar Otra Vez +4 +2 ",
       "variant": []
     }
   ]
