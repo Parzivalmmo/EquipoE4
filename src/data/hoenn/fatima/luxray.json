@@ -2,18 +2,10 @@
   "id": "luxray",
   "name": "Luxray",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨Trampa Rocas🪨 Gengar Otra Vez +4 x defensa no velo ",
   "tricks": [
     {
-      "detail": "DUSKNOIR → Cloyster +4. / Usar Carámbano para eliminar a Houndoom. Puede eliminarse todo con Carámbano.",
-      "variant": []
-    },
-    {
-      "detail": "Fuerza Bruta → Cambiar a Chandelure y usar Truco para intercambiar objetos, luego Scrafty +3 y ayudar a Metagross a curar la quemadura. / Usar Paliza para vencer a Houndoom y A Bocajarro para eliminar a Meganium / Tangrowth",
-      "variant": []
-    },
-    {
-      "detail": "Meganium / Tangrowth → Cambiar a Chandelure frente a Chandelure rival, usar Truco para bloquear Terremoto, luego Cloyster +4. / Usar Carámbano para eliminar a Houndoom. Aún por confirmar.",
+      "detail": "-",
       "variant": []
     }
   ]
