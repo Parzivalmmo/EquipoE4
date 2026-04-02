@@ -2,20 +2,35 @@
   "id": "donphan",
   "name": "Donphan",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Truco para bloquear Terremoto",
+  "initialMove": "🪨Trampa Rocas🪨 ",
   "tricks": [
     {
-      "detail": "Excadrill 4+2. Si el rival saca otro Pokémon tras Danza Espada, ver siguientes casos. / Terremoto derrota a Donphan. ",
-      "variant": [
-        {
-          "detail": "Si saca Blastoise tras Danza Espada → Poliwrath 6+0. / Terremoto derrota a Donphan, A Bocajarro derrota a Whiscash.",
-          "variant": []
-        },
-        {
-          "detail": "Si saca Parasect tras Danza Espada → Cabeza de Hierro lo derrota, sale Blastoise → Poliwrath 6+0. / Terremoto derrota a Donphan, A Bocajarro derrota a Whiscash.",
-          "variant": []
-        }
-      ]
-    }    
+      "detail": "Parasect ➜ Cambia a Gengar  Otra Vez +4 +2",
+      "variant": []
+    },
+    {
+      "detail": "Rhyperior/Whiscash ➜ Gallade Otra Vez  +4 +2",
+      "variant": []
+    },
+    {
+      "detail": "Blastoise ➜ Chansey e Pantalla Luz; Jirachi Rayo  fuerza el cambio ",
+      "variant": []
+    },
+    {
+      "detail": "si sale brongzong ➜ Chandelure +2 +2; +curar Ignífugo  Bronzong golpea a Chandelure 35% aprox ",
+      "variant": []
+    },
+    {
+      "detail": "Rhyperior ➜ Cambia a Jirachi Protección ",
+      "variant": []
+    },
+    {
+      "detail": "Terremoto ➜ Gallade  Otra Vez (Encore) +4 +2",
+      "variant": []
+    },
+    {
+      "detail": "Prueba Puño Fuego ) ➜ Cambia a Chandelure, cambia a Gallade  Otra Vez +4 +2",
+      "variant": []
+    }
   ]
 }
