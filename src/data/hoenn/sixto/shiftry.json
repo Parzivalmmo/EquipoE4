@@ -2,27 +2,14 @@
   "id": "shiftry",
   "name": "Shiftry",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A CHANDELURE",
+  "initialMove": "🪨TrampasRocas🪨",
   "tricks": [
     {
-      "detail": "Contra Hariyama → usa Truco para bloquear JuegoSucio, entra Scrafty 2.",
+      "detail": "Aggron ➜ cambiar a Jirachi; cambiar a Dragonite Otra Vez ; Danza Dragón x2 ",
       "variant": []
     },
     {
-      "detail": "Contra Aggron → Excadrill lo mata con Terremoto, fíjate quién entra después 👇🏻.",
-      "variant": [
-        {
-          "detail": "Sale Hydreigon → Chandelure usa Truco para cambiar objeto, entra Scrafty 2. / Usa A Bocajarro para matar a Hariyama.",
-          "variant": []
-        },
-        {
-          "detail": "Sale Salamence → Chandelure usa Poder Oculto para matar, entra Hydreigon, Scrafty 2. / Usa A Bocajarro para matar a Hariyama.",
-          "variant": []
-        }
-      ]
-    },    
-    {
-      "detail": "Contra Sombra Vil → Scrafty 2. / Usa A Bocajarro para matar a Hariyama. Si Salamence cambia → Chandelure usa Poder Oculto para matar, entra Hydreigon, Scrafty 2. / Usa A Bocajarro para Hariyama.",
+      "detail": "Absol (pañuelo elegido) ➜ Chandelure +2 +2 ",
       "variant": []
     }
   ]
