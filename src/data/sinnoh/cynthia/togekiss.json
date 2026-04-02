@@ -2,20 +2,11 @@
   "id": "togekiss",
   "name": "Togekiss",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "💡Cambia a Jirachi💡",
   "tricks": [
     {
-      "detail": "Utilizar Truco para bloquear a Garchomp, luego utiliza Trampa Rocas y revisa si tiene éxito:",
-      "variant": [
-        {
-          "detail": "SI TIENE ÉXITO, cambiar a Cloyster +6",
-          "variant": []
-        },
-        {
-          "detail": "FALLA EN PONER ROCAS, cambiar a Cloyster utiliza RompeCoraza 1 vez, utilizar Carámbano para matar a Garchomp, si entra Lapras, cambiar a Excadrill 6+2",
-          "variant": []
-        }
-      ]
+      "detail": "Lucario ➜ Jirachi Otra Vez ; Chandelure +2 +2 ",
+      "variant": []
     }
   ]
 }
