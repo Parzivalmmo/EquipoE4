@@ -2,17 +2,17 @@
   "id": "metagross",
   "name": "Metagross",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Truco",
+  "initialMove": "🪨 Trampa rocas 🪨(huntail Banda Focus)",
   "tricks": [
     {
-      "detail": "Si usa terremoto Cambia a Cloyster +6",
+      "detail": "Absol/Luxray ➜ Gengar Otra Vez +2 no velo ",
       "variant": [
         {
-          "detail": "Si Cambia a Gyarados Cambia a Chandelure usa truco para Intercambiar objetos Cambia a poliwarth usa Tambor 2 Veces + Velocidad X.(Huntai Terremoto).",
+          "detail": "-",
           "variant": []
         },
         {
-          "detail": "Si Usa Surf Cambia a Cloyster Y Rompecoraza a +6 Y todo usa Carámbano",
+          "detail": "-",
           "variant": []
         }
       ]
