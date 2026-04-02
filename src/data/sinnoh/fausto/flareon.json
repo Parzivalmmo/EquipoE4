@@ -2,10 +2,10 @@
   "id": "flareon",
   "name": "Flareon",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIAR A CHANDELURE",
+  "initialMove": "💡Chandelure +2 +2💡",
   "tricks": [
     {
-      "detail": "Chandelure 4 + 0 / Lanzallamas para matar a todo el equipo",
+      "detail": "-",
       "variant": []
     }
   ]
