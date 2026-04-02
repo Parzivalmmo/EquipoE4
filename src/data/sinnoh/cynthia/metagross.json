@@ -2,29 +2,11 @@
   "id": "metagross",
   "name": "Metagross",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": " 💡Cambia a Jirachi 💡 ",
   "tricks": [
     {
-      "detail": "GARCHOMP, cambiar a Excadrill 4+2:",
-      "variant": [
-        {
-          "detail": "Lento: Excadrill utiliza Trampa Rocas, luego cambiar a Cloyster 6",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "PUÑO HIELO, cambiar a Chandelure",
-      "variant": [
-        {
-          "detail": "METAGROSS NO CAMBIA, cambiar a Scrafty y utilizar Defensa X +3",
-          "variant": []
-        },
-        {
-          "detail": "Si cambia a Garchomp, utilizar Truco para bloquearlo en Terremoto, luego cambiar a Excadrill 4+2",
-          "variant": []
-        }
-      ]
+      "detail": "Garchomp ➜ Jirachi Otra Vez; Dragonite Danza Dragón x4 / Chandelure +2 +2  / Gallade  +4 +2 ",
+      "variant": []
     }
   ]
 }
