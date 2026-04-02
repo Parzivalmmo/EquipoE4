@@ -2,56 +2,59 @@
   "id": "lapras",
   "name": "Lapras",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "GARCHOMP → revisar ítem",
-      "variant": [
-        {
-          "detail": "Si tiene Vidasfera, utilizar Trampa Rocas, luego cambiar a Cloyster +6. Si falla Metagross la Trampa Rocas, ver abajo:",
-          "variant": [
-            {
-              "detail": "Cuando entra el Chandelure enemigo, Cloyster 1, Carámbano mata a Garchomp, si entra Lapras, cambiar a Excadrill 6+2",
-              "variant": []
-            }
-          ]
-        },
-        {
-          "detail": "Si tiene Casco Dentado, cambiar a Metagross y utilizar Trampa Rocas, luego cambiar a Cloyster +6. Si falla Trampa Rocas, cambiar a Cloyster 6 + Crítico / Carámbano mata a Lucario",
-          "variant": []
-        },
-        {
-          "detail": "Si tiene Pañuelo Elegido, cambiar a Excadrill 4+2. Si sale Lapras, cambiar a Poliwrath 6+2 y curarse con (Raíz Energía)",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "NIDOKING → cambiar a Excadrill 4+2",
+      "detail": "Cascada ➜ Cambiar a Jirachi Protección",
       "variant": []
     },
     {
-      "detail": "GAFAS ELEGIDAS → revisar el HP le queda a Metagross:",
-      "variant": [
-        {
-          "detail": "MÁS DEL 45.3%, Colo Trampa Rocas y Observa",
-          "variant": [
-            {
-              "detail": "LAPRAS NO SE RETIRA → Politoed +6+2 / No se necesita Puño Hielo",
-              "variant": []
-            },
-            {
-              "detail": "Si entra Garchomp → Déjalo caer, Chandelure usa Truco para bloquear Terremoto, Cloyster +6",
-              "variant": []
-            }
-          ]
-        },   
-        {
-          "detail": "MENOS O IGUAL 45.3%, cambiar a Poliwrath 6+2",
-          "variant": []
-        }
-      ]
+      "detail": "Frente a Nidoqueen/Nidoking  ➜ Otra Vez ; Chandelure +2 +2",
+      "variant": []
+    },
+    {
+      "detail": "Frente a Garchomp ➜ Gallade/Roserade +4 +2 ; (pañuelo)",
+      "variant": []
+    },
+    {
+      "detail": "Altaria ➜ Cambiar a Chansey  Pantalla Luz ; frente a Garchomp Gallade +4 +2 ;(pañuelo)",
+      "variant": []
+    },
+    {
+      "detail": "Lucario ➜ Gengar Otra Vez ; cambiar a Jirachi",
+      "variant": []
+    },
+    {
+      "detail": "Otra Vez frente a Arcanine   ➜ Chandelure +2 +2 ; NO usar Otra Vez",
+      "variant": []
+    },
+    {
+      "detail": "Garchomp Pañuelo Elección  ➜ Cambiar a Gallade +4 +2  NO usar Otra Vez ; ( Ojo: el frente solo tiene el equipo número 7  frente a Garchomp; si no es ese equipo, dar retroalimentación ",
+      "variant": []
+    },
+    {
+      "detail": "Eelektross ➜ Jirachi Otra Vez ; Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Lapras ➜ Eléctrico frente a Garchomp; Jirachi Otra Vez ; Gallade +4 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Garchomp ➜ Amortiguador  ver situación; ¿solo un equipo )?; probando ",
+      "variant": []
+    },
+    {
+      "detail": "Garchomp Vidasfera  ➜ Cambiar a Dragonite, cambiar a Jirachi Otra Vez; Gallade +4 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Garchomp Pañuelo Elección  ➜ Gallade +4 +2 ; NO usar Otra Vez",
+      "variant": []
+    },
+    {
+      "detail": "Gallade fortalecidos huyen hacia Altaria ➜ Cambiar a Jirachi Otra Vez ; Chandelure +2 +2 ",
+      "variant": []
     }
-
   ]
 }
