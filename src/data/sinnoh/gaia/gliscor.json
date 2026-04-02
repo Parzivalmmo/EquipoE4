@@ -2,6 +2,19 @@
   "id": "gliscor",
   "name": "Gliscor",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Coloca Trampa Rocas, luego entra Cloyster +2. // Usa Surf para derrotar a Rhydon.",
-  "tricks": []
+  "initialMove": " 🪨 Coloca Trampa Rocas 🪨",
+  "tricks": [
+    {
+      "detail": "Emboar ➜ Gengar Otra Vez  cambia a Jirachi",
+      "variant": []
+    },
+    {
+      "detail": "Rhyperior ➜ Gallade Otra Vez (Encore) +6 +2",
+      "variant": []
+    },
+    {
+      "detail": "Druddigon ➜ Dragonite  Otra Vez  Danza Dragón x2, Atk +X; (Terremoto debilita a Dragonite)",
+      "variant": []
+    }
+  ]
 }
