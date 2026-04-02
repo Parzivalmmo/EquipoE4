@@ -2,18 +2,10 @@
   "id": "mismagius",
   "name": "Mismagius",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨Trampa rocas 🪨",
   "tricks": [
     {
-      "detail": "Bola Sombra → Scrafty +3, Paliza para matar a Houndoom, Puño Drenaje para matar a Meowstic. Si Scrafty tiene menos del 40% y enfrenta a Lucario, usa baya para aguantar un prioridad.",
-      "variant": []
-    },
-    {
-      "detail": "Rayo → Excadrill 4+2 pone Trampa Rocas",
-      "variant": []
-    },
-    {
-      "detail": "Dusknoir → Cloyster +4. Carámbano para matar a Houndoom y Lucario",
+      "detail": "Lucario ➜ cambiar a Gengar  Otra Vez  debilitar ; cambiar a Chansey  Amortiguador ; frente a Luxray Gengar  Otra Vez  +4 no velo  usar x defensa ",
       "variant": []
     }
   ]
