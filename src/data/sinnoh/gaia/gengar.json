@@ -2,32 +2,43 @@
   "id": "gengar",
   "name": "Gengar",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "RHYPERIOR / GOLEM + BAYA → Entra Excadrill Trampa Rocas, Cloyster +4",
+      "detail": "Rhyperior ➜ Cambia a Jirachi",
       "variant": []
     },
     {
-      "detail": "RHYPERIOR + RESTOS → Excadrill +6 y +2.",
+      "detail": "Vidasfera  Terremoto  ➜ Cambia a Gallade  Otra Vez  +4 +2",
       "variant": []
     },
     {
-      "detail": "RHYPERIOR + VIDASFERA → Cloyster +6.",
+      "detail": "Roca/Explosión  ➜ Cambia a Gallade Otra Vez  +4 +2",
       "variant": []
     },
     {
-      "detail": "NIDOKING → Cloyster +6.",
+      "detail": "cambia a Amoonguss  o Durant  ➜ Chandelure +2 +2",
       "variant": []
     },
     {
-      "detail": "NO CAMBIA / ENCIERRA RAYO→ Excadrill, Trampa Rocas 6+2 / Cabezahierro para Gengar.",
-      "variant": [
-        {
-          "detail": "Cambia repentinamente a Rhyperior Sacrifica a metagross y entra chandelure con Truco y sigue los pasos de arriba.",
-          "variant": []
-        }
-      ]
+      "detail": "Terremoto  sin Vidasfera ➜ Cambia a Gallade Otra Vez +4 +2; corre a Amoonguss o Durant , ver arriba Roca/Explosión",
+      "variant": []
+    },
+    {
+      "detail": "Durant ➜ Cambia a Chandelure +2 +2; (bola sombra  debilita Gengar )",
+      "variant": []
+    },
+    {
+      "detail": "Absol ➜ Cambia a Gengar  Otra Vez  +2 +2; (rayo para gengar)",
+      "variant": []
+    },
+    {
+      "detail": "si sale  Rhyperior mientras de bosteas ataca hasta que salga  ➜ Walrein o Dewgong; ",
+      "variant": []
+    },
+    {
+      "detail": "  Rhyperior frente a Gengar ➜ Cambia a Chansey , cambia a Jirachi para Absol Otra Vez ; Chandelure no x especial +2 (Energibola  debilita Walrein o Dewgong)",
+      "variant": []
     }
   ]
 }
