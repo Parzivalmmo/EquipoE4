@@ -2,18 +2,38 @@
   "id": "meganium",
   "name": "Meganium",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "Terremoto o dusknoir → Cloyster +4",
+      "detail": "Arcanine ➜ Amortiguador ; Gengar Otra Vez +4 +2 ",
       "variant": []
     },
     {
-      "detail": "Dusknoir→ Cloyster 4+. / Carámbano mata a todos.",
+      "detail": "Mandibuzz ➜ Rayo ; cambiar a Chansey contador atraer a Arcanine contador ; se queda arcanine; Gengar +2 +2  usando x defensa",
       "variant": []
     },
     {
-      "detail": "Lucario → cambia a Chandelure, usa Truco para cambiar objeto, luego Scrafty +3. Paliza para matar a Houndoom, A bocajarro para matar a Tangrowth.",
+      "detail": "Meganium ➜ Gallade Otra Vez  +2 +2 ; Sombra Vil hace 75%; rezar estabilidad; usar x defensa ",
+      "variant": []
+    },
+    {
+      "detail": "Mandibuzz  ➜ Espada Santa ",
+      "variant": []
+    },
+    {
+      "detail": "Arcanine ➜ cambiar a Chandelure; cambiar a Chansey contador ; atraer a Arcanine; se queda ; Gengar +4 +2  usando x defensa",
+      "variant": []
+    },
+    {
+      "detail": "Se queda  ➜ Gengar +4 +2  usando x defensa",
+      "variant": []
+    },
+    {
+      "detail": "Lucario ➜ cambiar a Gengar  Otra Vez ; debilitar; cambiar a Chansey Amortiguador ; frente a Luxray cambiar a Chansey  y luego a Gengar",
+      "variant": []
+    },
+    {
+      "detail": "Luxray ➜ Gengar Otra Vez +4 no velo ; usar x2 defensa ; ( priorizar velocidad  +2 +0 +2 )",
       "variant": []
     }
   ]
