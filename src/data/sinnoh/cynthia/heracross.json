@@ -2,28 +2,51 @@
   "id": "heracross",
   "name": "Heracross",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "💡Cambiar a Gengar Otra vez💡",
   "tricks": [
     {
-      "detail": "Si tiene Vidasfera y utiliza A Bocajarro, cambiar a Chandelure y utilizar Truco para cambiar de ítem, cambiar a Excadrill 4+2",
+      "detail": "A Bocajarro con Vidasfera ➜ Cambiar a Gallade; debilitar a Tyranitar ",
       "variant": []
     },
     {
-      "detail": "Si tiene Vidasfera y utiliza Terremoto, cambiar a Excadrill 4+2",
+      "detail": "Heracross ➜ Cambiar a Dragonite, cambiar a Jirachi Otra Vez; Chandelure +2 +2 ",
       "variant": []
     },
     {
-      "detail": "Si tiene PAÑUELO ELEGIDO, cambiar a Chandelure para ver el mov.",
-      "variant": [
-        {
-          "detail": "Si utiliza Terremoto, cambiar a Excadrill 4+2 / Terremoto para matar a Clefable",
-          "variant": []
-        },
-        {
-          "detail": "Si utiliza A BOCAJARRO, utilizar Truco para cambiar de ítem, luego cambiar a Excadrill 4+2 / Terremoto para matar a Clefable",
-          "variant": []
-        }
-      ]
+      "detail": "Garchomp ➜ Cambiar a Jirachi; Chandelure +2 +2 ;( Garchomp con Velo Arena; Otra Vez puede fallar)",
+      "variant": []
+    },
+    {
+      "detail": "Si falla Otra Vez  ➜ Cambiar a Chansey  para curar a Jirachi; cambiar a Dragonite, cambiar a Jirachi Otra Vez ; Gallade +4 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Bloqueado en A Bocajarro  ➜ Gengar (ghost) +6 no velo ; autobloqueo de Heracross ",
+      "variant": []
+    },
+    {
+      "detail": "Garchomp ➜ Sacrificar a Chandelure; Jirachi Otra Vez ; Gallade +4 +2 ; primero buscar velocidad ",
+      "variant": []
+    },
+    {
+      "detail": "Bronzong ➜ Chandelure resistir daño  +2 +2 ); si no recibe crítico, no se debilita ; si muere por crítico , ver abajo",
+      "variant": []
+    },
+    {
+      "detail": "Muerte por crítico  ➜ Cambiar a Jirachi Protección frente a Garchomp; Jirachi Otra Vez ; Gallade/Roserade +4 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Bronzong ➜ Cambiar a Jirachi; usar Rayo",
+      "variant": []
+    },
+    {
+      "detail": "Garchomp ➜ Jirachi Otra Vez ; Gallade +4 +2 ; primero buscar velocidad ",
+      "variant": []
+    },
+    {
+      "detail": "Garchomp ➜ Sacrificar a Chandelure; Jirachi Otra Vez ; Gallade +4 +2 ; primero buscar velocidad ",
+      "variant": []
     }
   ]
 }
