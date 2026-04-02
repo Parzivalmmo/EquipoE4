@@ -2,77 +2,50 @@
   "id": "absol",
   "name": "Absol",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Trampa rocas",
+  "initialMove": "🪨Trampa rocas🪨",
   "tricks": [
     {
-      "detail": "Sin vida esfera → Cambia a gengar usa OtraVez +4+2",
-      "variant": [
-        {
-          "detail": "Vidasfera → Scrafty +5 o +3 con Ataque X. (Usa Paliza para Toxicroak.)",
-          "variant": []
-        },
-        {
-          "detail": "Pañuelo Elegida → Scrafty 4 o +2 con Ataque X. (Usa Paliza para matar a Houndoom, A Bocajarro para matar a Scizor)",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "Tajo Umbrío → Scrafty +4 o +2 + Ataque X // usa Paliza para matar a Houndoom y A Bocajarro para Scizor; si Chandelure muere, mete una Danza Dragón extra",
+      "detail": "Sin Vidasfera  ➜ cambiar a Gengar  Otra Vez  +4 +2 ; (contra Gengar veloz, ver abajo)",
       "variant": []
     },
     {
-      "detail": "Lanzallamas → usa Truco para bloquear Cabezazo Zen, luego Scrafty 3+. Usa Puño Drenaje para robar vida a Hydreigon, y el resto ataca con Paliza",
+      "detail": "Excadrill sin Globo Helio  al azar ➜ rezar por estabilidad , ver abajo",
       "variant": []
     },
     {
-      "detail": "Luxray → mete a Excadrill 6+2",
+      "detail": "Fortalecerse y huir hacia Excadrill ➜ cambiar a Dragonite, cambiar a Jirachi Otra Vez ",
       "variant": []
     },
     {
-      "detail": "Spiritomb → cambia a Scrafty y utiliza Def. Especial X (sin importar frente a quien estés). Después cambia a Chandelure y usa Truco, sacas a Cloyster +4",
+      "detail": "Globo Helio  ➜ Galladee +4 +2 ",
       "variant": []
     },
     {
-      "detail": "Garchomp → usa Truco para bloquear Terremoto, Cloyster +6. mata todo con Carámbano menos a Metagross con el usa Surf",
+      "detail": "Sin Globo Helio  ➜ Dragonite +2 )",
       "variant": []
     },
     {
-      "detail": "Magnezone → usa Truco para bloquear Voltio, luego Excadrill pone Trampa Rocas 4+2. Terremoto para matar a Golem",
+      "detail": "Absol Pañuelo elegido  ➜ Dragonite aguanta x Defensa Danza Dragón x3 / Gengar  +6 +0 +2  (querer hacer daño);( Gengar +6 al azar, para matar a  (crafty)",
       "variant": []
     },
     {
-      "detail": "Excadrill → usa Truco y revisa el objeto",
-      "variant": [
-        {
-          "detail": "Si lleva Globo, Cloister 6+. Mata todo con Carámbano",
-          "variant": []
-        },
-        {
-          "detail": "Si lleva Cinta Elegida o banda focus, Cloister 4+",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "Hariyama → usa Truco para bloquear Contraataque, Scrafty +2. Houndoom matalo con Paliza",
+      "detail": "Cambiar Gengar  ante Hariyama ➜ cambiar a huevo, cambiar a Gengar Otra Vez; frente a Aggron puede aguantar mucho, cambiar a Dragonite Otra Vez , Danza Dragón x2 ",
       "variant": []
     },
     {
-      "detail": "Aggron → Excadrill usa Terremoto para matar rápido. Fíjate quién sale después",
-      "variant": [
-        {
-          "detail": "Si sale Hydreigon: Chandelure usa Truco para cambiar objeto, luego Scrafty 2. Usa A Bocajarro para matar a Conkeldurr. Houndoom necesita Paliza",
-          "variant": []
-        },
-        {
-          "detail": "Si sale Salamence: Chandelure usa Truco para despertar y matar rápido, luego Hydreigon, Scrafty 2. Usa A Bocajarro para matar a Conkeldurr. Houndoom necesita Paliza",
-          "variant": []
-        }
-      ]
+      "detail": "Shiftry ➜ Dragonite Danza Dragón x2 ",
+      "variant": []
     },
     {
-      "detail": "Sableye → cambia a Scrafty o Chandelure. Si es Salamence, usa Truco para despertar y matar rápido (Hydreigon sale), luego Scrafty 4 o 2+ Ataque X. Usa Paliza para matar a Houndoom",
+      "detail": "Vidasfera (Life Orb) ➜ cambiar a Jirachi Otra Vez (Encore), cambiar a Chandelure +2 +2 (22)",
+      "variant": []
+    },
+    {
+      "detail": "Garchomp ➜ Otra Vez (Encore) para bloquear en Colmillo Ígneo (fire fang); Chandelure +2 +2 (22)",
+      "variant": []
+    },
+    {
+      "detail": "Electivire ➜ Otra Vez (Encore) para bloquear en Fuego; cambiar a Chandelure +2 +2 (22)",
       "variant": []
     }
   ]
