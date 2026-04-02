@@ -2,48 +2,90 @@
   "id": "magmortar",
   "name": "Magmortar",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIAR A CHANDELURE",
+  "initialMove": "🪨Trampa roca🪨",
   "tricks": [
     {
-      "detail": "MAGMORTAR NO CAMBIA, utilizar Truco:",
-      "variant": [
-        {
-          "detail": "Si tiene Vidasfera y utiliza Rayo (o Poder Oculto), cambiar a Excadrill 4+2",
-          "variant": []
-        },
-        {
-          "detail": "Si tiene Cinta Experto y utiliza Rayo, cambiar a Excadrill y utilizar Trampa Rocas 4+2 / Terremoto para matar a Ludicolo",
-          "variant": []
-        },
-        {
-          "detail": "Si cambia a Ludicolo, cambiar a Poliwrath 6+2",
-          "variant": []
-        },
-        {
-          "detail": "Si cambia a Bouffalant, cambiar a Cloyster 2 + Velocidad / Surf para matar a Steelix",
-          "variant": []
-        },
-        {
-          "detail": "Si cambia a Dragonite, cambiar a Metagross, luego cambiar a Chandelure, enfrentar a Blaziken, luego cambiar a Excadrill 4+2",
-          "variant": []
-        }
-      ]
-    },   
-    {
-      "detail": "Si cambia a BRONZONG, utilizar Lanzallamas para matarlo y ver que entra después:",
-      "variant": [
-        {
-          "detail": "Si entra ROTOM, cambiar a Excadrill 4+2",
-          "variant": []
-        },
-        {
-          "detail": "Si cambia a Magmar, cambiar a Excadrill, luego cambiar a Chandelure y utilizar Truco para bloquear en Rayo, luego cambiar a Excadrill 4+2",
-          "variant": []
-        } 
-      ]
+      "detail": "Blaziken ➜ Cambia a Chandelure +2 +2  (Tiene pañuelo)",
+      "variant": []
     },
     {
-      "detail": "Si cambia a STEELIX, utilizar Truco para bloquear en Terremoto, luego cambiar a Cloyster +4 / Carámbano para matar a Magmar",
+      "detail": "Medicham ➜ Gengar Bola Sombra ; ver si no es Vidasfera ",
+      "variant": []
+    },
+    {
+      "detail": "Vidasfera  ➜ Gengar  Bola Sombra; frente a Steelix, Dragonite Otra Vez  Danza Dragón x3 (si  Steelix  cambia directamente a Dragonite Otra Vez  Danza Dragón x3 ",
+      "variant": []
+    },
+    {
+      "detail": "(Pañuelo elegido) ➜ Gengar ataca  ",
+      "variant": []
+    },
+    {
+      "detail": "Steelix ➜ Dragonite Otra Vez  Danza Dragón x3 ",
+      "variant": []
+    },
+    {
+      "detail": "Bronzong ➜ Cambia a Chansey Pantalla de Luz",
+      "variant": []
+    },
+    {
+      "detail": "Magmortar ➜ Gengar  Otra Vez  +4 no velo si corre a Ludicolo es igual , fortalecer y eliminar quemadura ",
+      "variant": []
+    },
+    {
+      "detail": "Ludicolo ➜ Cambia a Chansey , cambia a Jirachi Otra Vez; Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Conkeldurr ➜ Cambia a Gengar  Otra Vez; frente a Steelix, Dragonite Otra Vez Danza Dragón x2, luego Otra Vez una vez más y presionar al equipo; quedarse con Gengar +6 no velo  ",
+      "variant": []
+    },
+    {
+      "detail": "Tajo Cruzado quedarse ➜ Cambia a Gengar Otra Vez  Maquinación ",
+      "variant": []
+    },
+    {
+      "detail": "Steelix ➜ Dragonite Otra Vez  Danza Dragón x2 Otra Vez  y atacar )",
+      "variant": []
+    },
+    {
+      "detail": "Entei ➜ Debilitar frente a Steelix  mismo procedimiento que arriba ",
+      "variant": []
+    },
+    {
+      "detail": "Bouffalant ➜ Cambia a Chandelure +2 y ataca",
+      "variant": []
+    },
+    {
+      "detail": "Haxorus ➜ ",
+      "variant": []
+    },
+    {
+      "detail": "Rezar estabilidad ) ➜ Gengar  Otra Vez ; cambia a Jirachi",
+      "variant": []
+    },
+    {
+      "detail": "Salamence / Magmortar ➜ Jirachi Otra Vez; Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Flareon ➜ Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "¿Ahorrar $? medicina ➜ Amortiguador; Gengar Otra Vez  +6 no velo )",
+      "variant": []
+    },
+    {
+      "detail": "Camerupt ➜ Amortiguador  frente a Bouffalant; Chandelure +2 no velo  ",
+      "variant": []
+    },
+    {
+      "detail": "Arcanine ➜ Gengar  Otra Vez ; cambia a Jirachi",
+      "variant": []
+    },
+    {
+      "detail": "Dragonite ➜ Jirachi Otra Vez; Chandelure +2 +2 ",
       "variant": []
     }
   ]
