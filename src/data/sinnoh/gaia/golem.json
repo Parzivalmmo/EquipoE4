@@ -2,10 +2,10 @@
   "id": "golem",
   "name": "Golem",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Truco para bloquear Terremoto, luego entra Excadrill Trampa Rocas, entra Cloyster +4. // Si Surf queda bloqueado, revisar lo siguiente",
+  "initialMove": " 🪨Trampa rocas🪨 Frente a Durant Chandelure no x especial +2 (Si no cambia usa amortiguador",
   "tricks": [
     {
-      "detail": "Cloyster contra Durant (Surf bloqueado) - Chandelure usa Truco dos veces, Excadrill +4+0",
+      "detail": "",
       "variant": []
     }
   ]
