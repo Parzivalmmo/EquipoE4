@@ -2,24 +2,15 @@
   "id": "honchkrow",
   "name": "Honchkrow",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "LANZA PUÑO TRUENO",
+  "initialMove": "🪨Trampa Roca 🪨 Jirachi Otra Vez ",
   "tricks": [
     {
-      "detail": "Si no lo mata → cambia a Chandelure y usa Bola Sombra para rematar, luego Hydreigon entra, Poliwrath 6+2+2 (especial defensa). Si usa Puño Hielo para matar a Hydreigon, Lucario o Mismagius, y recibe un golpe psíquico, usa baya para curar y sigue presionando al equipo.",
+      "detail": "Fuerza Bruta ➜ Dragonite Danza Dragón x2 ; aguantar Golpe Crítico ; curar",
       "variant": []
     },
     {
-      "detail": "Si lo matan de un golpe con crítico → cambia a Chandelure y usa Truco.",
-      "variant": [
-        {
-          "detail": "Si Hydreigon no se retira → Poliwrath 6+2+2 (especial defensa). Si usa Puño Hielo para matar a Hydreigon, // Lucario o Mismagius y recibe un crítico psíquico, usa baya para curar y sigue presionando al equipo.",
-          "variant": []
-        },
-        {
-          "detail": "Si sale Houndoom → cambia a Metagross para poner Trampa Rocas, luego Scrafty+2.",
-          "variant": []
-        }
-      ]
+      "detail": "Hydreigon ➜ Dragonite Danza Dragón x2 ; esperar a que se bloquee solo ; antes de presionar, volver a tener más de la mitad de la vida ",
+      "variant": []
     }
   ]
 }
