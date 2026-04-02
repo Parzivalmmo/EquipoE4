@@ -2,10 +2,10 @@
   "id": "excadrill",
   "name": "Excadrill",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "💡Sacrifica a Chandelure 💡 Entra jirachi Otra Vez Gallade +4 +2",
   "tricks": [
     {
-      "detail": "Cambia a Cloyster +6 / Carámbano mata a Jellicent",
+      "detail": "-",
       "variant": []
     }
   ]
