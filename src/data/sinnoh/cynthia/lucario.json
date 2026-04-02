@@ -2,27 +2,42 @@
   "id": "lucario",
   "name": "Lucario",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIAR A CHANDELURE",
+  "initialMove": "💡Cambia a Gengar💡",
   "tricks": [
     {
-      "detail": "LUCARIO NO CAMBIA, utilizar Truco:",
-      "variant": [
-        {
-          "detail": "Si utiliza TRITURAR, cambiar a Scrafty 4 o 2 + Ataque X / A Bocajarro mata a Gliscor",
-          "variant": []
-        },
-        {
-          "detail": "Si utiliza ROCA AFILADA, cambiar a Scrafty con Defensa x +3 / 2 Paliza matan a Garchomp",
-          "variant": []
-        },
-        {
-          "detail": "Si utiliza PULSO UMBRÍO, cambiar a Scrafty +3 / Bronzong necesita 2 Paliza",
-          "variant": []
-        }
-      ]
-    },    
+      "detail": "Eelektross 【probando】 ➜ Cambiar a Jirachi Rayo; Otra Vez ; Chandelure +2 +2 ",
+      "variant": []
+    },
     {
-      "detail": "Si cambia a GARCHOMP, utilizar Truco para bloquearlo en Terremoto, luego cambiar a Cloyster 6 + Crítico / Carámbano mata a Lucario / Poder Oculto mata a Lapras. Si cambia a Lapras mientras te boosteas, cambiar a Poliwrath con Tambor.",
+      "detail": "A Bocajarro (close combat) ➜ Cambiar a Jirachi",
+      "variant": []
+    },
+    {
+      "detail": "Lucario Vidasfera ➜ Jirachi Protección; Otra Vez ; Chandelure +2 +2 ; huye hacia Garchomp; Otra Vez ; Dragonite Danza Dragón x3",
+      "variant": []
+    },
+    {
+      "detail": "Lucario Banda Focus  ➜ FIJAR Trampa rocas Gengar  +4  no velo ; NO usar Otra Vez  frente a Arcanine resistir daño ",
+      "variant": []
+    },
+    {
+      "detail": "Arcanine ➜ FIJAR (Trampa rocas) Chandelure +2 +2 ; NO usar Otra Vez ; buscando superar velocidad ; no fijar ; recibir una Roca Afilada (stone edge); si no es crítico  no se debilita ",
+      "variant": []
+    },
+    {
+      "detail": "Esfera Aural  ➜ Cambiar a Chansey abrir Pantalla Luz  Amortiguador; frente a Garchomp Gallade +4 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Garchomp ➜ Gallade +4 +2 ; (Pañuelo)",
+      "variant": []
+    },
+    {
+      "detail": "Arcanine ➜ Buscando superar velocidad ; Chandelure +2 +2; NO usar Otra Vez ",
+      "variant": []
+    },
+    {
+      "detail": "Solución estable  ➜ Chansey  FIJAR Trampa rocas ; frente a Lucario Gengar +4  no velo; NO usar Otra Vez ; frente a Arcanine resistir daño reducido ; Maquinación ",
       "variant": []
     }
   ]
