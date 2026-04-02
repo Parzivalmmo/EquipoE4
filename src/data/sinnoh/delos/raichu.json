@@ -2,41 +2,51 @@
   "id": "raichu",
   "name": "Raichu",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "Si utiliza VOLTIO CRUEL / PLACAJE ELÉCTRICO, cambiar a Excadrill 4 + 2 + Trampa rocas / Cabezahierro para matar a todos",
+      "detail": "Lucario ➜ Cambiar a Gengar , cambiar a Jirachi",
       "variant": []
     },
     {
-      "detail": "Si utiliza RAYO, mirar el objeto:",
-      "variant": [
-        {
-          "detail": "Si tiene Banda Focus, cambiar a Excadrill y utilizar Trampa Rocas 4+2",
-          "variant": []
-        },
-        {
-          "detail": "Si tiene Vidasfera, cambiar a Excadrill 6+2",
-          "variant": []
-        }
-      ]
-    },    
-    {
-      "detail": "Si cambia a GALLADE, Metagross utiliza Trampa Rocas, luego cambiar a Chandelure 4+0 / Lanzallamas para matar a todos, también se puede con Bola Sombra",
+      "detail": "Dragonite ➜ Jirachi Otra Vez ; Chandelure +2 +2 ",
       "variant": []
     },
     {
-      "detail": "Si cambia a DRAGONITE, utiliza Trampa Rocas, y revisar el daño que hace Puño Fuego, usa el registro de combate:",
-      "variant": [
-        {
-          "detail": "45% (crítico 68%), cambiar a Chandelure 2+2 / Lanzallamas para matar a todos",
-          "variant": []
-        },
-        {
-          "detail": "36.2% o menos (crítico 50%), cambiar a Chandelure y utiliza Truco para bloquear a Empoleon, luego cambiar a Poliwrath 6+2",
-          "variant": []
-        }
-      ]
+      "detail": "Triturar➜ Jirachi Otra Vez ; Chandelure +2 +2",
+      "variant": []
+    },
+    {
+      "detail": "Gallade ➜ Cambiar a Gengar  Otra Vez ",
+      "variant": []
+    },
+    {
+      "detail": "Dragonite ➜ Cambiar a Chansey , cambiar a Jirachi; Gallade Sombra Vil a Chandelure",
+      "variant": []
+    },
+    {
+      "detail": "Gallade ➜ Jirachi Otra Vez Chandelure +2 +2",
+      "variant": []
+    },
+    {
+      "detail": "Lucario ➜ Jirachi Otra Vez ; Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Medicham ➜ Cambiar a Chansey, cambiar a Jirachi; (hacia Jirachi daño por retroalimentación de Patada Salto Alta) ",
+      "variant": []
+    },
+    {
+      "detail": "Gallade / Sawsbuck➜ Jirachi Otra Vez  Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Se queda  vs. Gengar  lento ➜ Chandelure +2 +2 Gengar +4 +2 ; NO usar Otra Vez ",
+      "variant": []
+    },
+    {
+      "detail": "vs. Gengar rápido ➜ Gengar +4 +2 ",
+      "variant": []
     }
   ]
 }
