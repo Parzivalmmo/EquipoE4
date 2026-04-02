@@ -2,49 +2,26 @@
   "id": "stantler",
   "name": "Stantler",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "Si utiliza Patada Salto Alta, cambiar a Chandelure",
-      "variant": [
-        {
-          "detail": "Si no cambia, utilizar Truco hasta que se debilite. Si entra Hydreigon o Empoleon, utilizar Truco:",
-          "variant": [
-            {
-              "detail": "Si utiliza Pulso Umbrío, cambiar a Scrafty 2",
-              "variant": []
-            },
-            {
-              "detail": "Si utiliza Cascada, cambiar a Poliwrath 6+2",
-              "variant": []
-            }
-          ]
-        },
-        {
-          "detail": "Si entra Hydreigon, utilizar Truco para bloquear en Pulso Umbrío, luego cambiar a Scrafty +3",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "Si cambia a Mismagius, cambiar a Excadrill 4+2. Si cambia a Hydreigon, cambiar a Chandelure y utilizar para bloquear Pulso Umbrío, luego cambiar a Scrafty 3",
+      "detail": "Patada Salto  ➜ Cambiar a Gengar Rayo",
       "variant": []
     },
     {
-      "detail": "Si cambia a Hydreigon, cambiar a Chandelure y utilizar Truco:",
-      "variant": [
-        {
-          "detail": "Si no cambia, cambiar a Scrafty 3",
-          "variant": []
-        },
-        {
-          "detail": "Si cambia a Empoleon, cambiar a Poliwrath 6+2 (Si tiene Vínculo Férreo(?) (aguanta Lanzallamas, cambiar a Scrafty utilizar Defensa Especial X +3)",
-          "variant": []
-        }
-      ]
-    },    
+      "detail": "Hydreigon ➜ Cambiar a Dragonite , cambiar a Jirachi Otra Vez ; Chandelure +2 +2 ",
+      "variant": []
+    },
     {
-      "detail": "Si cambia a Dragonite, cambiar a Chandelure y utilizar Truco para bloquear a Empoleon, luego cambiar a Poliwrath 6+2",
+      "detail": "Espeon / Dragonite ➜ Jirachi Otra Vez ; Chandelure +2 +2; primero recibir el golpe especial ",
+      "variant": []
+    },
+    {
+      "detail": "Empoleon ➜ Empujar  a Raichu / Medicham; Chansey  Contador; Medicham y Dragonite ( Terremoto  a Raichu)",
+      "variant": []
+    },
+    {
+      "detail": "Medicham ➜ Chandelure +2 +2 ;(pañuelo)",
       "variant": []
     }
   ]
