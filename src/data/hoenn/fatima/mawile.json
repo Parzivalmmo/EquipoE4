@@ -2,19 +2,6 @@
   "id": "mawile",
   "name": "Mawile",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
-  "tricks": [
-    {
-      "detail": "Hydreigon → Cambia a Chandelure, luego a Scrafty, enfrenta a Umbreon, Scrafty +3 // Si Paliza queda bloqueado y entra Dusknoir, usa objeto de defensa o Danza Dragón hasta que se pase la Maldición",
-      "variant": []
-    },
-    {
-      "detail": "Jellicent → Excadrill 4+2.",
-      "variant": []
-    },
-    {
-      "detail": "Puño Trueno → Excadrill 4+2.",
-      "variant": []
-    }
-  ]
+  "initialMove": "💡 Dragonite usar x defensa ; Danza Dragón x1 ; usar x ataque ; si los PS bajan de 35, usar Máxima Poción ; no aguantar Golpe Crítico ; aguantar un golpe de Bisharp 💡",
+  "tricks": []
 }
