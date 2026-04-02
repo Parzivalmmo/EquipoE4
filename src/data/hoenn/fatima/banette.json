@@ -2,23 +2,14 @@
   "id": "banette",
   "name": "Banette",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "USAR TRAMPA ROCAS",
+  "initialMove": "🪨USAR TRAMPA ROCAS🪨en honchkrow mira abajo ",
   "tricks": [
     {
-      "detail": "Si sale Hydreigon → cambia a Chandelure y usa Truco.",
-      "variant": [
-        {
-          "detail": "Si Hydreigon se queda, entra Poliwrath y usa Tambor 6+2",
-          "variant": []
-        },
-        {
-          "detail": "Si sale Houndoom, Scrafty +2, juega al aguante (resiste Sofoco): Scrafty usa Ataque",
-          "variant": []
-        }       
-      ]
+      "detail": "Método 1 ➜ Amortiguador ; cambiar a Dragonite Danza Dragón x1; Máxima Poción ; Danza Dragón x1; antes de presionar, mantener línea de PS en 150hp si falta salud, usar medicina",
+      "variant": []
     },
     {
-      "detail": "Si sale Jellicent → Scrafty +2",
+      "detail": "Método 2 ➜ cambiar a Gengar  Otra Vez  cambiar a chansey  hacia Hydreigon; Gengar +4 no velo  usar x defensa ; Hydreigon se bloquea solo en Llamarada ; Gengar  aguantar Golpe Crítico; ",
       "variant": []
     }
   ]
