@@ -2,85 +2,34 @@
   "id": "metagross_4",
   "name": "Metagross",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "Machada → Chandelure usa Lanzallamas para debilitarlos",
-      "variant": [
-        {
-          "detail": "Nidoking/Nidoqueen → Cambiar a Excadrill y luego a Chandelure para usar Truco, bloquear en Tierra Viva, luego usar Excadrill +6+2",
-          "variant": []
-        },
-        {
-          "detail": "Walrein o Dewgong→ Poliwrath +6+2. También puede usar A Bocajarro para eliminarlo",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "TERREMOTO → Excadrill +4+2, luego vuelve a colocar Trampa Rocas",
+      "detail": "Mamoswine ➜ cambiar a Dragonite; cambiar a Jirachi Otra Vez  ; cambiar a Gallade +4 +2  priorizando usar x velocidad primero",
       "variant": []
     },
     {
-      "detail": "Pode Oculto → Chandelure usa Lanzallamas para debilitar, observa qué envía el rival:",
-      "variant": [
-        {
-          "detail": "Hariyama → Cambia a Scrafty, luego a Chandelure para usar Truco y bloquearlo en Roca Afilada. Scrafty +2. / A Bocajarro mata a Hariyama y a Skarmory; si sale Lanturn, mira abajo",
-          "variant": []
-        },
-        {
-          "detail": "Lanturn → cambia a Poliwrath, luego a Excadrill para matarlo. / Si sale Walrein o Dewgong, Scrafty +1, usa Puño Drenaje para curarse y luego +1 más. / Paliza + Puño Drenaje a Skarmory",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "PUÑO METEORO → Colocar Trampa Rocas",
-      "variant": [
-        {
-          "detail": "No cambia → Chandelure usa Lanzallamas, observa qué saca el rival:",
-          "variant": [
-            {
-              "detail": "Walrein o Dewgong → revisa la vida de Chandelure:",
-              "variant": [
-                {
-                  "detail": "PS bajos → usa Lanzallamas con Chandelure y déjalo caer, luego entra Poliwrath +6, cúralo con Raíz Energía y después +2 (Puño Hielo para Mismagius)",
-                  "variant": [
-                    {
-                      "detail": "Si Poliwrath está al 75% PS, primero sacrifica a Chandelure, entra Scrafty y luego cambia a Poliwrath 6+2",
-                      "variant": []
-                    }
-                  ]
-                },
-                {
-                  "detail": "Si tiene PS suficiente → Poliwrath +6 con Raíz Energía, recupera PS y sube a +2. (Puño Hielo para Mismagius)",
-                  "variant": []
-                }
-              ]
-            },
-            {
-              "detail": "Lanturn → Cambiar a Poliwrath, luego a Chandelure para esperar que active Voltiocambio, luego entra Mamoswine. Usa Truco para bloquear en Terremoto, Cloyster +6",
-              "variant": [
-                {
-                  "detail": "Si pasa algo raro → Encierra a Lanturn en Mov. Agua, saca a Poliwrath 6+2+2 (Defensa X)",
-                  "variant": []
-                }
-              ]
-            },
-            {
-              "detail": "Mamoswine → Cambiar a Excadrill, luego a Chandelure para usar Truco, bloquear en Terremoto, Cloyster +6",
-              "variant": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "detail": "Nidoking / Nidoqueen → Excadrill +6+2",
+      "detail": "Machada  ➜ cambiar a Jirachi",
       "variant": []
     },
     {
-      "detail": "Mamoswine → Excadrill +6+2. / Skarmory muere de 2 Cabezahierro",
+      "detail": "Machada ➜ ESTABILIZAR Trampa Rocas dos veces; Otra Vez  sacrificio ; Chandelure +2 +2  con Golpe Crítico (CT); si la salud es baja 27% usar Otra Vez directamente",
+      "variant": []
+    },
+    {
+      "detail": "Nidoqueen ➜ Jirachi Otra Vez ; Chandelure +2 +2 / Gallade +2 +2; hacia Jirachi hay probabilidad de recibir movimiento de Fuego",
+      "variant": []
+    },
+    {
+      "detail": "Puño Meteoro  ➜ cambiar a Jirachi; Protección ",
+      "variant": []
+    },
+    {
+      "detail": "Terremoto  ➜ cambiar a Gallade; Otra Vez +2 +2",
+      "variant": []
+    },
+    {
+      "detail": "Poder Oculto Fuego  ➜ Jirachi Otra Vez ; Gallade +2 +2 ",
       "variant": []
     }
   ]
