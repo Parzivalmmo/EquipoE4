@@ -2,14 +2,18 @@
   "id": "braviary",
   "name": "Braviary",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "PUÑO TRUENO",
+  "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "Si entra Garchomp, cambia a Chandelure y dejarlo morir, luego saca a Metagross y usa Truco para bloquear Terremoto, cambia a Excadrill 4+2 (Terremoto mata a Bastiodon)",
+      "detail": "Se Queda  ➜ Cambiar a Gengar  Otra Vez ; Maquinación",
       "variant": []
     },
     {
-      "detail": "Si Braviary no cambia, seguir usando Puño Trueno",
+      "detail": "Bastiodon ➜ Maquinación  hasta que no use Represión Metal ; Otra Vez  y atacar ",
+      "variant": []
+    },
+    {
+      "detail": "Arcanine ➜ muere arca ) con Bastiodon hacer lo mismo de arriba ",
       "variant": []
     }
   ]
