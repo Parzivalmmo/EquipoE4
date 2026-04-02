@@ -2,27 +2,30 @@
   "id": "mismagius",
   "name": "Mismagius",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "💡Amortiguador💡",
   "tricks": [
     {
-      "detail": "Si cambia a Hydreigon, cambiar a Chandelure y utilizar Truco",
-      "variant": [
-        {
-          "detail": "Si Hydreigon se queda, cambiar a Scrafty 2",
-          "variant": []
-        },
-        {
-          "detail": "Si cambia a Empoleon, cambiar a Poliwrath 6+4",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "Si utiliza Bola Sombra, cambiar a Scrafty y utilizar Defensa Especial X +3. Si su vida baja del 40%, usar Curación Fuerte para aguantar prioridad",
+      "detail": "Gallade ➜ Gengar  Otra Vez (Encore) +6 +2",
       "variant": []
     },
     {
-      "detail": "Si utiliza Rayo, cambiar a Excadrill 4+2. Si cambia a Hydreigon o Gallade, cambiar a Chandelure y utilizar Truco para bloquear en Pulso Umbrío o Sombra Vil, luego cambiar a Scrafty 3",
+      "detail": "Lucario ➜ Cambiar a Gengar  Otra Vez ; cambiar a Gallade para debilitar a Kecleon",
+      "variant": []
+    },
+    {
+      "detail": "Lucario ➜ Gengar Otra Vez  +4 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Gallade ➜ Cambiar a Jirachi",
+      "variant": []
+    },
+    {
+      "detail": "Espada Santa  ➜ Chandelure +2 +2  / Gengar  +4 +2  NO usar Otra Vez ",
+      "variant": []
+    },
+    {
+      "detail": "Psicocorte  ➜ Cambiar a Chansey Amortiguador  frente a Gallade / Lucario; Gengar  Otra Vez  +4 +2  / Chandelure +2 +2 (frente a  Gallade  NO usar Otra Vez )",
       "variant": []
     }
   ]
