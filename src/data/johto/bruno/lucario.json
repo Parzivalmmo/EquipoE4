@@ -5,11 +5,15 @@
   "initialMove": "CAMBIA A CHANDELURE",
   "tricks": [
     {
-      "detail": "NO SE VA → Usar Truco para bloquear Pulso Umbrío o Bola Sombra, luego entra Scrafty con +4; también puedes usar A Bocajarro para eliminar a Poliwrath o Metagross",
+      "detail": "Staraptor ➜ cambiar a Gengar  +4 +2  o Chandelure +2 +2 ; se queda encerrado por Pañuelo elegido ",
       "variant": []
     },
     {
-      "detail": "KROOKODILE→ Cloyster entra con +4 y usa Medicina Especial X para potenciar el ataque, también puedes usar Carámbano para eliminar a Lucario si entra en relevo",
+      "detail": "Machamp ➜ cambiar a Gengar  usar Otra Vez ; cambiar a Jirachi",
+      "variant": []
+    },
+    {
+      "detail": "Krookodile ➜ cambiar a Dragonite +3; (no usar Otra Vez , movimiento aleatorio; aguanta bien el daño , el problema no es grave",
       "variant": []
     }
   ]
