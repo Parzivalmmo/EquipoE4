@@ -2,30 +2,30 @@
   "id": "flygon",
   "name": "Flygon",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "Lucario ➜ cambiar a Gengar ; Otra Vez ; cambiar a Jirachi; (si entra Dragonite tiene cinta elegida)  , poner Trampa Rocas  y cambiar a Jirachi; Otra Vez  ; Chandelure +2 +2 ",
+      "detail": "Lucario ➜ cambiar a Gengar usar Otra Vez ; cambiar a Jirachi; si Dragonite Cinta Elegida Trampa rocas, cambiar a Jirachi usar Otra Vez; cambiar a Chandelure +2 +2 ",
       "variant": []
     },
     {
-      "detail": "Aerodactyl ➜ usar Protección; sale Flygon; Otra Vez ",
+      "detail": "Aerodactyl ➜ usar Protección , correr hacia Flygon; usar Otra Vez ",
       "variant": []
     },
     {
-      "detail": "Llamarada  ➜ Chandelure +2 +2 ",
+      "detail": "Llamarada  ➜ cambiar a Chandelure +2 +2 ",
       "variant": []
     },
     {
-      "detail": "Terremoto  ➜ Gallade  +4 +2 ",
+      "detail": "Terremoto  ➜ cambiar a Gallade +4 +2 ",
       "variant": []
     },
     {
-      "detail": "Dragonite Cinta elegida  ➜ Chandelure +2 +2 ",
+      "detail": "Dragonite Cinta Elegida ➜ cambiar a Chandelure +2 +2 ",
       "variant": []
     },
     {
-      "detail": "Poner Trampa Rocas frente a Dragonite ➜ Chandelure +2 +2 ",
+      "detail": "Frente a Dragonite Trampa rocas ➜ cambiar a Chandelure +2 +2 ",
       "variant": []
     }
   ]
