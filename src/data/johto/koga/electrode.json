@@ -2,33 +2,35 @@
   "id": "electrode",
   "name": "Electrode",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "NIDOQUEEN → Cloyster 6. / Mátalos a todos con Carambano. Si Cloyster recibe Fuego por error, confirma que es Zoroark y sigue la segunda línea.",
+      "detail": "Se queda ➜ Dragonite debilita; ",
       "variant": []
     },
     {
-      "detail": "Lanzallamas [Zoroark disfraz] → Chandelure usa Truco para cambiar objeto, Scrafty 3. / Usa Puño Drenaje + A Bocajarro para matar a Skarmory.",
+      "detail": "Skarmory ➜ cambiar a Chansey; usar Amortiguador ; cambiar a Jirachi para resistir Pájaro Osado ; cambiar a Chandelure; ante Nidoking , cambiar a Gallade ; usar Otra Vez  +4 +2  (realizar pruebas",
       "variant": []
     },
     {
-      "detail": "RAYO → Excadrill 6+2 / para huir de Nidoking, mira abajo 👇🏻",
-      "variant": [
-        {
-          "detail": "Cambia a Excadrill contra Nidoking → cambia a Chandelure para usar Truco y mira el movimiento:",
-          "variant": [
-            {
-              "detail": "Si usa Tierra Viva, Cloyster 6 / mátalos a todos con Carambano",
-              "variant": []
-            },
-            {
-              "detail": "Si usa Onda Tóxica, Scrafty 3 / usa Puño Drenaje + A Bocajarro para matar a Skarmory.",
-              "variant": []
-            }
-          ]
-        }
-      ]
-    }    
+      "detail": "Nidoqueen ➜ cambiar a Chandelure; cambiar a Gallade usar Otra Vez  +4 +2  ",
+      "variant": []
+    },
+    {
+      "detail": "Frente a Tentacruel ➜ cambiar a Jirachi; usar Protección ; ante Nidoking  usar Otra Vez ; Chandelure +2 +2 ; si Tentacruel permanece , cambiar a Chansey ; usar Pantalla de Luz ; cambiar a Jirachi; usar Otra Vez  Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Crobat ➜ cambiar a Jirachi; usar Otra Vez ; Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Priorizar velocidad  ➜ abrir con Pantalla de Luz ; Chandelure +2 +2 ; usar Poción Máxima ",
+      "variant": []
+    },
+    {
+      "detail": "Si usa movimiento Fuego o Pulso Umbrío  ➜ Pantalla de Luz ; Jirachi; usar Otra Vez; Chandelure +2 +2 ; detectar disfraz de Zoroark",
+      "variant": []
+    }
   ]
 }
