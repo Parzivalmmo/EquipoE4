@@ -2,6 +2,11 @@
   "id": "tyranitar",
   "name": "Tyranitar",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Excadrill +6 +2",
-  "tricks": []
+  "initialMove": "💡contador💡",
+  "tricks": [
+    {
+      "detail": "Metagross ➜ cambiar a Jirachi; poner Trampa Rocas; Otra Vez ; Chandelure +2 +2 ; aguantar un golpe ",
+      "variant": []
+    }
+  ]
 }
