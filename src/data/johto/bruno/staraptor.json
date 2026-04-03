@@ -2,18 +2,26 @@
   "id": "staraptor",
   "name": "Staraptor",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "Jirachi 🪨TrampaRocas🪨 ",
   "tricks": [
     {
-      "detail": "A BOCAJARRO → Chandelure usa Lanzallamas para debilitar o matar, entra Krookodile, luego Cloyster +4 + Especial X // Usa Carámbano para matar a Lucario.",
+      "detail": "Staraptor con Pañuelo elegido  ➜ cambiar a Chandelure +2 +2 ",
       "variant": []
     },
     {
-      "detail": "STEELIX → Cloyster +4 con medicina de Ataque Especial.",
+      "detail": "Cambiar a Chandelure y sale Krookodile ➜ cambiar a Chansey  trampa rocas; si sale Machamp, cambiar a Gengar usar Otra Vez cambiar a Jirachi frente a Krookodile; cambiar a Dragonite con Danza Dragón  x3; Krookodile con Pañuelo Elegido ",
       "variant": []
     },
     {
-      "detail": "METAGROSS → Excadrill con Trampa Rocas y 4+2",
+      "detail": "Trampa rocas  frente a Krookodile  ➜ cambiar a Dragonite +4; No usar Otra Vez (kroko pañuelo ",
+      "variant": []
+    },
+    {
+      "detail": "Frente a Steelix ➜ cambiar a Gallade ; No usar Otra Vez  +2 +2  se queda encerrado ",
+      "variant": []
+    },
+    {
+      "detail": "Krookodile ➜ cambiar a Gallade  No usar Otra Vez  +4 +2  Krookodile se queda encerrado ",
       "variant": []
     }
   ]
