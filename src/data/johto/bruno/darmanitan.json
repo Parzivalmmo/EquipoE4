@@ -2,15 +2,6 @@
   "id": "darmanitan",
   "name": "Darmanitan",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A CHANDELURE",
-  "tricks": [
-    {
-      "detail": "DARMANITAN NO CAMBIA → Chandelure +4+0 , Usa Lanzallamas para limpiar equipo.",
-      "variant": []
-    },
-    {
-      "detail": "SEISMITOAD → Truco para bloquear Terremoto, luego Cloyster +4.",
-      "variant": []
-    }
-  ]
+  "initialMove": "💡chandelure +2 +2 💡 ",
+  "tricks": []
 }
