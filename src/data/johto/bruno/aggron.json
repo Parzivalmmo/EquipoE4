@@ -2,10 +2,14 @@
   "id": "aggron",
   "name": "Aggron",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A CLOISTER",
+  "initialMove": "💡Contador💡",
   "tricks": [
     {
-      "detail": "Aggron: Cloyster usa Rompecoraza + 4 + Especial X. // Usa Surf para matar a Hitmontop / Machamp.",
+      "detail": "Machamp ➜ cambiar a Gengar usar Otra Vez +4 no velo",
+      "variant": []
+    },
+    {
+      "detail": "Electrode Explosión ➜ cambiar a Jirachi usar Protección ; frente a Electivire usar Jirachi Otra Vez; cambiar a Chandelure +2 +2",
       "variant": []
     }
   ]
