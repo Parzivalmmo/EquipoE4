@@ -2,14 +2,22 @@
   "id": "steelix",
   "name": "Steelix",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "Casco Dentado → Cloyster 6.",
+      "detail": "Mantenerse en el campo frente a Terremoto  ➜ revisar el daño recibido ",
       "variant": []
     },
     {
-      "detail": "Cinta Elegida → Cloyster 4 + medicina de Ataque Especial. Si no usas la medicina de Sp. Atk, hay 12.5% de probabilidad de que Slowbro te reviente.",
+      "detail": "Daño menor a 35%  ➜ cambiar a Gallade  usar Otra Vez +4 +2 ; modo prueba (testing)",
+      "variant": []
+    },
+    {
+      "detail": "Daño mayor a 35%  ➜ cambiar a Gallade +2 +2  se queda encerrado )",
+      "variant": []
+    },
+    {
+      "detail": "Hitmonlee ➜ cambiar a Jirachi usar Otra Vez ; cambiar a Gallade+2 +2 ",
       "variant": []
     }
   ]
