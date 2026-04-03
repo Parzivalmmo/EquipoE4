@@ -2,88 +2,31 @@
   "id": "lapras",
   "name": "Lapras",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨TrampaRocas🪨 (Lapras Se queda Usa Amortiguador)",
   "tricks": [
     {
-      "detail": "HidroBomba → Coloca Trampa Rocas, luego entra Poliwrath 6+2. // Si no puedes colocar las rocas, Poliwrath usa Medicina de Defensa X",
-      "variant": [
-        {
-          "detail": "Trampa Rocas con Lucario en campo → Chandelure usa Truco para intercambiar objetos, luego entra Scrafty 2.",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "Surf → Verifica el objeto del rival.",
-      "variant": [
-        {
-          "detail": "Gafas Elegidas → Coloca Trampa Rocas.",
-          "variant": [
-            {
-              "detail": "No se retira → Poliwrath 6+2",
-              "variant": []
-            },
-            {
-              "detail": "Cambia a Lucario → Chandelure usa Truco para intercambiar objeto, luego entra Scrafty 3.",
-              "variant": []
-            }
-          ]
-        },
-        {
-          "detail": "Restos → Coloca Trampa Rocas, luego Poliwrath 6+2.",
-          "variant": []
-        }
-      ]
-    },    
-    {
-      "detail": "Taladradora → Cloyster +6. / Surf derrota a Regirock.",
+      "detail": "Lucario ➜ cambiar a Gengar  para observar movimiento ",
       "variant": []
     },
     {
-      "detail": "Rayo → Cambia a Chandelure, va a cambiar a Lucario, luego entra Scrafty +3.",
+      "detail": "Patada Salto Alta ➜ Gengar (ghost) +2 0 Velocidad ; NO usar Otra Vez (pañuelo elegido)",
       "variant": []
     },
     {
-      "detail": "Metagross → Revisa el objeto:",
-      "variant": [
-        {
-          "detail": "Pañuelo Elegido → Excadrill 4+2.",
-          "variant": []
-        },
-        {
-          "detail": "Cinta Experto → Excadrill 4+2 y luego coloca Trampa Rocas.",
-          "variant": []
-        },
-        {
-          "detail": "Vidasfera → Excadrill 2+2 y luego coloca Trampa Rocas.",
-          "variant": []
-        }
-      ]
-    },    
-    {
-      "detail": "Lucario → Chandelure usa Truco para intercambiar objetos, luego entra Scrafty +3.",
+      "detail": "A Bocajarro (close combat) ➜ Gengar (ghost) Otra Vez  +4 0 Velocidad  cambiar a  Altaria; continuar con Maquinación",
       "variant": []
     },
     {
-      "detail": "Nidoking → Cloyster +6. / Surf derrota a Regirock.",
+      "detail": "Eelektross / Pillar ➜ Gengar  Otra Vez  +4 +2 ",
       "variant": []
     },
     {
-      "detail": "Regirock → Cambia a Chandelure.",
-      "variant": [
-        {
-          "detail": "Puño Drenaje → Usa Truco, lo bloqueas con Lapras, luego Poliwrath 6+2.",
-          "variant": []
-        },
-        {
-          "detail": "Puño Hielo → Scrafty 3 puede recuperarse con +1 Puño Drenaje.",
-          "variant": []
-        },
-        {
-          "detail": "Si enfrentas a Nidoking → Usa Truco y bloquea con Terremoto; Cloyster +6. / Surf al Regirock.",
-          "variant": []
-        }
-      ]
-    } 
+      "detail": "Metagross ➜ cambiar a Chandelure para debilitar; frente a Flygon, cambiar a Dragonite  y luego a Jirachi Otra Vez ; Gallade +2 +2 ; (si Chandelure tiene PS bajos  puede cambiar directamente a Jirachi Otra Vez (",
+      "variant": []
+    },
+    {
+      "detail": "Haxorus ➜ Amortiguador ; Gengar  Otra Vez  +4 no velo ",
+      "variant": []
+    }
   ]
 }
