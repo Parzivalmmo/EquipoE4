@@ -2,58 +2,30 @@
   "id": "empoleon",
   "name": "Empoleon",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "💡Amortiguador💡",
   "tricks": [
     {
-      "detail": "Terremoto → Se cambia a Chandelure. //Si Metagross cae por un golpe crítico de Terremoto, se asume por defecto que Empoleon no se retira, así que se cambia directamente a Excadrill con +4+2.",
-      "variant": [
-        {
-          "detail": "Empoleon no se retira, se entra igual con Excadrill +4+2.",
-          "variant": []
-        },
-        {
-          "detail": "Whiscash, se usa Truco. Si responde con Terremoto, entra Excadrill con +4+2. Si responde con Milotic, entra Poliwrath con +6+2.",
-          "variant": []
-        }
-      ]
-    },   
-    {
-      "detail": "Escaldar → Se cambia a Chandelure. Chandelure utiliza Truco para bloquear Escaldar, se cambia directamente a Poliwrath con +6+2.",
-      "variant": [
-        {
-          "detail": "Lanturn, se usa Truco para bloquear Escaldar y entra Poliwrath con +6+2.",
-          "variant": []
-        },
-        {
-          "detail": "Lanturn no se retira, igualmente se entra con Poliwrath +6+2 sin necesidad",
-          "variant": []
-        }
-      ]
-    },   
-    {
-      "detail": "Whiscash → Se entra con Excadrill +4+2.",
+      "detail": "Se queda ) ➜ para observar información ",
       "variant": []
     },
     {
-      "detail": "Milotic → Se entra con Poliwrath +6+2. Se puede usar A Bocajarro para derrotar a Milotic.",
-      "variant": [
-        {
-          "detail": "Togekiss tras Tambor → Usar A Bocajarro para debilitarlo. Si luego entra un tipo veneno y no se puede continuar, se cambia a Scrafty para observar el movimiento:",
-          "variant": [
-            {
-              "detail": "Psicocarga, Scrafty +3",
-              "variant": []
-            },
-            {
-              "detail": "Bomba Lodo, se cambia a Excadrill con +4+2.",
-              "variant": []
-            }
-          ]
-        }
-      ]
-    },  
+      "detail": "Cascada ➜ Danza Dragón +1  + ataque x ; NO usar Otra Vez; (llegar a +3 para Gardevoir)",
+      "variant": []
+    },
     {
-      "detail": "Lanturn → Se entra con Poliwrath con +6+2. Si usa Rayo, se cambia a Excadrill entra con +4+2.",
+      "detail": "Terremoto ➜ Dragonite Otra Vez  Danza Dragón +4 ; ",
+      "variant": []
+    },
+    {
+      "detail": "Escaldar  ➜ Trampa rocas; cambiar a Dragonite Otra Vez Danza Dragón +1  + ataque x ",
+      "variant": []
+    },
+    {
+      "detail": "Milotic ➜ Abrir Pantalla de Luz   a Chandelure; Dragonite +3; NO usar Otra Vez ",
+      "variant": []
+    },
+    {
+      "detail": "Roserade  ➜ Gengar  +4 0 Velocidad; NO usar Otra Vez ",
       "variant": []
     }
   ]
