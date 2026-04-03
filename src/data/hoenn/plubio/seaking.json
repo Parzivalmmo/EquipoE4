@@ -2,18 +2,10 @@
   "id": "seaking",
   "name": "Seaking",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "💡Amortiguador💡",
   "tricks": [
     {
-      "detail": "Seaking no se retira o cambia a Milotic: entra Poliwrath +6+2 y usa A Bocajarro para derrotar a Dewgong o Milotic. // Si fuiste congelado, usa Cura Total.",
-      "variant": []
-    },
-    {
-      "detail": "Metagross: entra Chandelure y usa Lanzallamas para debilitarlo. Luego puede salir Seaking o Milotic; en ambos casos entra Poliwrath +6+2 y usa A Bocajarro para eliminar a Dewgong o Milotic. // Si fuiste congelado, usa Cura Total.",
-      "variant": []
-    },
-    {
-      "detail": "Eelektross: cambia a Chandelure contra Metagross, usa Lanzallamas para derrotarlo. Después si entra Seaking o Milotic, entra Poliwrath +6+2 y usa A Bocajarro para eliminar a Dewgong o Milotic. // Si fuiste congelado, usa Cura Total.",
+      "detail": "Metagross ➜ Gengar  Otra Vez  +4  0 Velocidad Si puedes usa velocidad x ",
       "variant": []
     }
   ]
