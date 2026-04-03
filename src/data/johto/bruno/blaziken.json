@@ -2,19 +2,6 @@
   "id": "blaziken",
   "name": "Blaziken",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A CHANDELURE Y TRUCO",
-  "tricks": [
-    {
-      "detail": "NO SE RETIRA → Excadrill 4+2.",
-      "variant": []
-    },
-    {
-      "detail": "BLASTOISE → Poliwrath 6+2",
-      "variant": []
-    },
-    {
-      "detail": "MACHAMP → Scrafty 3. / A Bocajarro para matar a Machamp y Metagross.",
-      "variant": []
-    }
-  ]
+  "initialMove": "💡Chandelure +2 +2(pañuelo elegido)",
+  "tricks": []
 }
