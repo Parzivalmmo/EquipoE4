@@ -2,10 +2,18 @@
   "id": "charizard",
   "name": "Charizard",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO PARA ENCERRAR EN LLAMARADA",
+  "initialMove": "🪨TrampaRocas🪨  ",
   "tricks": [
     {
-      "detail": "Cambia a Chandelure y luego a Scrafty, frente a Tyranitar, Excadrill 6 + 2",
+      "detail": "Tyranitar ➜ usar Contador ",
+      "variant": []
+    },
+    {
+      "detail": "Metagross ➜ cambiar a Jirachi; usar Protección + Otra Vez ; Chandelure +2 +2 ; resistir un golpe ",
+      "variant": []
+    },
+    {
+      "detail": "Se Queda  / Ampharos ➜ cambiar a Gengar  Otra Vez ; cambio manual a Gallade; ; frente a Charizard cambiar a Chansey y poner Pantalla de Luz ; cambiar a Jirachi y luego a Chandelure +2 +2 ",
       "variant": []
     }
   ]
