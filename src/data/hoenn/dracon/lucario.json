@@ -2,26 +2,42 @@
   "id": "lucario",
   "name": "Lucario",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A CHANDELURE",
+  "initialMove": "💡Cambiar a Gengar💡 ",
   "tricks": [
     {
-      "detail": "ESFERA AURAL / A BOCAJARRO → Usa Truco para bloquear en Pulso Umbrío o Triturar, luego entra Scrafty +3. // Paliza contra Ampharos // en caso de parálisis salamence/metagross no te matan usar antiparalisis",
+      "detail": "Patada Salto Alta  ➜ cambiar a Chansey ; asegurar trampa rocas ",
       "variant": []
     },
     {
-      "detail": "PATADA SALTO ALTA → Usa Truco y espera a que se debilite solo; luego entra Lapras, después Poliwrath 6+2. / Haxorus banda Focus, no es pregriloso",
+      "detail": "Haxorus ➜ Gengar  Otra Vez  +2 0 Velocidad ;( no es amenaza)",
       "variant": []
     },
     {
-      "detail": "SACRIFICIO → Usa Truco para intercambiar objetos, luego entra Scrafty +3. Previsto para enfrentarse a Haxorus con Banda Focus.",
+      "detail": "【Mantener estabilidad 】 ➜ Amortiguador; Gengar  Otra Vez  +4  +2  ",
       "variant": []
     },
     {
-      "detail": "METAGROSS → Usa Truco para bloquear en Terremoto, luego entra Excadrill 2+2 y coloca Trampa Rocas.",
+      "detail": "A Bocajarro  ➜ Otra Vez ; cambiar a Chansey",
       "variant": []
     },
     {
-      "detail": "FLYGON → Usa Truco para bloquear en Terremoto, luego entra Excadrill 2+2 y coloca Trampa Rocas. Si haces Danza Espada y entra Lapras, luego Poliwrath 6+2. Previsto para Lucario con Banda Focus.",
+      "detail": "Altaria ➜ Trampa rocas  frente a Lucario; Gengar Otra Vez +4   no velo ",
+      "variant": []
+    },
+    {
+      "detail": "Metagross ➜ cambiar a Dragonite",
+      "variant": []
+    },
+    {
+      "detail": "Movimiento Tierra ➜ Dragonite Otra Vez ; cambiar de Chansey  a Lapras Trampa rocas  frente a Metagross; cambiar a Jirachi; cambiar a Gallade Otra Vez +2 +2 ; atacar)",
+      "variant": []
+    },
+    {
+      "detail": "Sin movimiento Tierra  ➜ cambiar a Jirachi y Trampa rocas ; cambiar a Gallade +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Probando Metagross  ➜ cambiar a Chansey y Trampa rocas ; cambiar a Jirachi; cambiar a Gallade Otra Vez  +4 +2  ",
       "variant": []
     }
   ]
