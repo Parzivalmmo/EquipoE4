@@ -2,14 +2,14 @@
   "id": "nidoqueen",
   "name": "Nidoqueen",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨TrampaRocas🪨 Cambia a Jirachi",
   "tricks": [
     {
-      "detail": "Tierra Viva / después de Nidoking → Cloyster +6. / Debilita a todos con Carámbano. Si te queman por error, confirma que es Zoroark y sigue la segunda línea.",
+      "detail": "Fuego ➜ Jirachi usa Otra Vez ; Chandelure +2 +2 ; contra Tentacruel aleatorio , tener cuidado con Contraataque",
       "variant": []
     },
     {
-      "detail": "Lanzallamas [Zoroark disfrazado] → Chandelure usa Truco para cambiar objeto, Scrafty 3. / Usa Puño Drenaje + A Bocajarro para matar a Skarmory.",
+      "detail": "Tierra ➜ Dragonite usa Otra Vez + Danza Dragón +4 +2",
       "variant": []
     }
   ]
