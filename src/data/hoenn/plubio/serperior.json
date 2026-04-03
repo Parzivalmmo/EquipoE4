@@ -2,49 +2,30 @@
   "id": "serperior",
   "name": "Serperior",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨 Trampa rocas🪨",
   "tricks": [
     {
-      "detail": "REGISTEEL: observa el objeto.",
-      "variant": [
-        {
-          "detail": "Baya Zidra/Atania: coloca Trampa Rocas y entra Excadrill +4+2.",
-          "variant": []
-        },
-        {
-          "detail": "Cinta Experto: entra Excadrill +4+2.",
-          "variant": []
-        },
-        {
-          "detail": "GAFAS ELEGIDAS: entra Excadrill +2+2.",
-          "variant": []
-        }
-      ]
+      "detail": "Vidasfera  llueve hijas   ➜ Pantalla de Luz ; Jirachi Otra Vez   Chandelure +2 +2 ",
+      "variant": []
     },
     {
-      "detail": "Poder Oculto: cambia a Chandelure.",
-      "variant": [
-        {
-          "detail": "Si no se retira, usa Lanzallamas para derrotarlo. Luego, si entra Milotic o Wailord, entra Poliwrath +6+2.",
-          "variant": []
-        },
-        {
-          "detail": "Si aparece Registeel frente a Chandelure: usa Truco.",
-          "variant": [
-            {
-              "detail": "Terremoto, entra Excadrill +4+2.",
-              "variant": []
-            },
-            {
-              "detail": "Si entra Wailord, entra Poliwrath +6+4.",
-              "variant": []
-            }
-          ]
-        }
-      ]
+      "detail": "Frente a Eelektross ➜ Gengar  Otra Vez ; cambiar a Jirachi hacia columna de acero ; Jirachi Otra Vez",
+      "variant": []
     },
     {
-      "detail": "Lluevehojas: usa Truco para recuperar el objeto, luego coloca Trampa Rocas y sacrifica al Pokémon. Después entra Chandelure y usa Lanzallamas para debilitarlo (si entra Milotic), entonces entra Poliwrath +6+2 (Falta probar)",
+      "detail": "Terremoto  ➜ Dragonite +3",
+      "variant": []
+    },
+    {
+      "detail": "Eelektross ➜ Rayo  luego Otra Vez ; Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Sin Vidasfera  se queda  ➜ Pantalla de Luz ; cambiar a Jirachi Otra Vez ; Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Mienshao ➜ cambiar a Gengar  Bola Sombra ; frente a Registeel cambiar a Chansey; cambiar a Jirachi frente a Eelektross; Otra Vez  dos veces; Chandelure +2 +2",
       "variant": []
     }
   ]
