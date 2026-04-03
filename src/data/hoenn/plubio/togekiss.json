@@ -2,41 +2,38 @@
   "id": "togekiss",
   "name": "Togekiss",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": " 💡Pantalla luz y mira cuanto daño hace 💡",
   "tricks": [
     {
-      "detail": "Lanzallamas → Observa el objeto",
-      "variant": [
-        {
-          "detail": "Gafas Elegid. → Cambia a Chandelure y usa Truco. Luego envía a Poliwrath, potencia +6 Ataque y +2 Velocidad. ( Togekiss inesperadamente se queda en el combate, cambia a Metagross para sacrificarlo, y después envía nuevamente a Chandelure para usar Truco otra vez.) (No es necesario gastar Gema Hielo)",
-          "variant": []
-        },
-        {
-          "detail": "Restos → Puño Trueno y sacrifica",
-          "variant": [
-            {
-              "detail": "Scrafty, usa una Defensa Especial X + 3 Danza Dragón. / A Bocajarro para Milotic",
-              "variant": []
-            }
-          ]
-        }
-      ]
+      "detail": "Esfera Aural  24% ➜ Chandelure +2 +2; primero usar Ataque Especial X  (Gafas Togekiss",
+      "variant": []
     },
     {
-      "detail": "ESFERA AURAL, cambia a Chandelure y usa Truco:",
-      "variant": [
-        {
-          "detail": "Vidasfera, sigue con Excadrill +4+2",
-          "variant": []
-        },
-        {
-          "detail": "Restos, entra Poliwrath +6+2",
-          "variant": []
-        }
-      ]
+      "detail": "Sale Empoleon ➜ contador frente a Milotic ; usar Energibola; sacrificara Chansey ; usar Trampa Rocas ; Dragonite usa Defensa Especial X  +2",
+      "variant": []
     },
     {
-      "detail": "LANTURN O WHISCASH, entra Excadrill +4+2. Si cae por Escaldar inesperado, entra Poliwrath +6+2 // Usa A Bocajarro para eliminar a Milotic",
+      "detail": "Esfera Aural  < 20% o fallo de Tajo Aéreo  10% ➜ cambiar a Jirachi; Rayo ; permanecer con Protección",
+      "variant": []
+    },
+    {
+      "detail": "Roserade ➜ Chandelure +2 +2 ; (pañuelo elegido)",
+      "variant": []
+    },
+    {
+      "detail": "Cambiar a Jirachi frente a Ludicolo ➜ Jirachi Otra Vez ; Dragonite Danza Dragón +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Se queda  ➜ Jirachi Protección ; para observar habilidad ",
+      "variant": []
+    },
+    {
+      "detail": "Si usa un ataque de fuego  ➜ Otra Vez; Chandelure +2 +2",
+      "variant": []
+    },
+    {
+      "detail": "Fallo al cambiar ➜ curar hasta más de 2/3  Otra Vez  al fuego Chandelure +2 +2 ",
       "variant": []
     }
   ]
