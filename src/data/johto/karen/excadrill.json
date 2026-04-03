@@ -2,20 +2,15 @@
   "id": "excadrill",
   "name": "Excadrill",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "OBSERVA SI TIENE GLOBO HELIO",
+  "initialMove": "💡OBSERVA SI TIENE GLOBO HELIO💡",
   "tricks": [
     {
-      "detail": "NO TIENE GLOBO HELIO, Truco para encerrar en Terremoto, Cloyster +4 (Houndoom muere de carámbano)",
+      "detail": "Sin Globo Helio  ➜ usar contador  para rematar y trampa  rocas  cambiar a Gengar +2 +2 ); No usar Otra Vez ",
       "variant": []
     },
     {
-      "detail": "SI TIENE GLOBO HELIO, cambia a Cloyster e inmediatamente cambia a Chandelure, usa Truco para encerrar en Terremoto para así sacar a Cloyster y boostear +6",
-      "variant": [
-        {
-          "detail": "Chandelure podría morir de un crítico de Avalancha, si esto llega a pasar haz lo siguiente) - Saca a Metagross para revivir a Chandelure y sacrifica al Metagross, Chandelure usa Truco, saca a Cloyster +6",
-          "variant": []
-        }
-      ]
+      "detail": "Con Globo Helio ➜Trampa rocas ; cambiar a Dragonite y luego a Jirachi con Otra Vez  cambiar a Gallade +4 +2  (Houndoom con Banda Focus  perseguir velocidad +2 +2 ; movimiento aleatorio contra Slowbro",
+      "variant": []
     }
   ]
 }
