@@ -2,14 +2,26 @@
   "id": "lucario",
   "name": "Lucario",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "Si Cambia a Quagsire Cambia Excadrill 4+2 y al final Trampa Rocas (Si cambia a Salamence, cambia a Chandelure, Truco y luego cambia a Excadrill)",
+      "detail": "Salamence ➜ cambiar a Dragonite y luego a Jirachi usar Otra Vez frente a Colmillo Ígneo; cambiar a Chandelure +2 +2 )",
       "variant": []
     },
     {
-      "detail": "Si lucario se queda y usa Esfera Aural Cambia Chandelure usa Truco, y Cambia a Scrafty Danza Dragón a +4 o +2 + Ataque X.",
+      "detail": "Priorizar velocidad  ➜ cambiar a Jirachi usar Otra Vez; cambiar a Chandelure +2 +2 con Jirachi a vida completa",
+      "variant": []
+    },
+    {
+      "detail": "Esfera Aural  ➜ cambiar a Jirachi",
+      "variant": []
+    },
+    {
+      "detail": "Salamence ➜ Jirachi usa Otra Vez ; cambiar a Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Se Queda  ➜ usar Rayo  y Otra Vez; cambiar a Chandelure +2 +2 ",
       "variant": []
     }
   ]
