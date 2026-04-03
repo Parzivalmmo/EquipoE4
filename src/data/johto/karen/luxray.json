@@ -2,10 +2,14 @@
   "id": "luxray",
   "name": "Luxray",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨TrampaRocas🪨 Amortiguador ",
   "tricks": [
     {
-      "detail": "Bloqueado en Rayo. Excadrill entra, pone Trampa Rocas con 4+2.",
+      "detail": "Primeape ➜ cambiar a Gengar  y luego a Jirachi",
+      "variant": []
+    },
+    {
+      "detail": "Hydreigon ➜ cambiar a Chandelure +2 +2 ",
       "variant": []
     }
   ]
