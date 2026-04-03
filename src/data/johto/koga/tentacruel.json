@@ -2,18 +2,26 @@
   "id": "tentacruel",
   "name": "Tentacruel",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨TrampaRocas🪨Pantalla luz ",
   "tricks": [
     {
-      "detail": "Escaldar → Coloca Trampa Rocas, entra Poliwrath 6+2. // Usa A Bocajarro para derrotar a Skarmory",
+      "detail": "Crobat ➜ cambiar a Jirachi usar Otra Vez ; cambiar a Chandelure +2 +2 ",
       "variant": []
     },
     {
-      "detail": "Después de Nidoqueen → Entra Cloyster +6. // Usa Carámbano contra todo. // Sí fue derrotado inesperadamente por Lanzallamas, confirma que era un Zoroark disfrazado y observa estrategia de abajo.",
+      "detail": "Pantalla Luz frente a Electrode  ➜ cambiar a Gallade +4 +2 ; si hay parálisis, usar Cura Total",
       "variant": []
     },
     {
-      "detail": "Lanzallamas [Zoroark disfrazado] → Chandelure usa Truco para intercambiar objetos, luego entra Scrafty +3. // Puño Drenaje + A Bocajarro para derrotar a Skarmory",
+      "detail": "ruta estable ) ➜ Dragonite; cambiar a Jirachi frente a Rayo de Nidoqueen/king; usar Otra Vez ; cambiar a Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Pulso Umbrío (dark pulse) / Movimiento Fuego ➜ Jirachi usa Otra Vez; cambiar a Chandelure +2 +2 ; cuidado con Zoroark transformado",
+      "variant": []
+    },
+    {
+      "detail": "Si se queda / Giro Rápid) ➜ usar Contador para forzar el cambio",
       "variant": []
     }
   ]
