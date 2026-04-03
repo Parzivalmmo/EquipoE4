@@ -2,95 +2,166 @@
   "id": "crobat",
   "name": "Crobat",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨Trampa rocas🪨",
   "tricks": [
     {
-      "detail": "ONDA ÍGNEA + BANDA FOCUS → Cambia a Chandelure y usa Truco",
-      "variant": [
-        {
-          "detail": "Crobat no se retira, entra Excadrill con +6 de Ataque y +2 de Velocidad. / Usa Terremoto para derrotar a Skuntank",
-          "variant": []
-        },
-        {
-          "detail": "Ampharos, entra Poliwrath +6 en Ataque y +4 en Velocidad",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "Onda Ígnea + Vidasfera → Cambia a Chandelure // Si Crobat cambia directamente a Rhyperior o Stunfisk utiliza Truco, cambia a Cloyster+6 (Carámbano para Sharpedo)",
-      "variant": [
-        {
-          "detail": "Onda Ígnea acierta (Se activa el Abs. Fuego) // Usa Lanzallamas y observa qué Pokémon entra:",
-          "variant": [
-            {
-              "detail": "Rhyperior: cambia a Excadrill, luego a Chandelure y usa Truco para bloquear en Terremoto, luego entra Cloyster con +6. / Usa Carámbano para eliminar a Sharpedo",
-              "variant": []
-            },
-            {
-              "detail": "Tentacruel: cambia a Poliwrath, luego a Metagross para colocar Trampa Rocas, Poliwrath 6+2. / Usa primero la medicina de Velocidad. / Si queda congelado, descongela pues huevón! xd / Si crobat no a muerto utiliza otra velocidad X / A Bocajarro contra Skarmory",
-              "variant": []
-            },
-            {
-              "detail": "Electrode: cambia a Excadrill, luego a Chandelure, espera a que se autodestruya (entra Tentacruel), luego cambia a Metagross para colocar Trampa Rocas, Poliwrath 6+2. / Usa primero la medicina de Velocidad. Si Crobat no ha muerto, usar otra medicina de Velocidad",
-              "variant": []
-            },
-            {
-              "detail": "Floatzel: cambia a Poliwrath, luego a Chandelure y usa Truco",
-              "variant": [
-                {
-                  "detail": "Triturar, entra Scrafty con +3. / Usa Puño Drenaje + A Bocajarro para vencer a Scizor",
-                  "variant": []
-                },
-                {
-                  "detail": "Hidrobomba, entra Poliwrath 6+2",
-                  "variant": []
-                }
-              ]
-            },
-            {
-              "detail": "Stunfisk: Excadrill +4 y +2",
-              "variant": []
-            }
-          ]
-        },
-        {
-          "detail": "Onda Ígnea falla (no se activa Absorbe Fuego) → Usar Truco:",
-          "variant": [
-            {
-              "detail": "Rhyperior o Stunfisk → entra Cloyster +6. / Usar Carámbano para eliminar a Sharpedo",
-              "variant": []
-            },
-            {
-              "detail": "Tentacruel → cambiar a Metagross para colocar Trampa Rocas, luego Poliwrath 6+4. / Usar medicina de Velocidad",
-              "variant": []
-            },
-            {
-              "detail": "Si Crobat no se retira → atacar con Lanzallamas, luego seguir el plan del escenario con Absorbe Fuego activado",
-              "variant": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "detail": "Lanzallamas [Zoroark disfrazado] → Chandelure usa Truco para intercambiar objetos, luego entra Scrafty con +3. / Usa Puño Drenaje + A Bocajarro para derrotar a Skarmory",
+      "detail": "Látigo Cepa ➜ cambiar a Jirachi; usar Otra Vez ",
       "variant": []
     },
     {
-      "detail": "Superdiente → entra Excadrill con Trampa Rocas, 4+2. // Terremoto para derrotar a Weezing / Nidoking. // Si luego entra Ditto al final del combate, cambia a Cloyster para derrotarlo // El daño de Superdiente se reduce y no te mata, ¡NO TE ASUSTES!",
+      "detail": "Poder Oculto Fuego➜ Chandelure +2 +2 ; energibola debilita a Rhyperior ",
       "variant": []
     },
     {
-      "detail": "Pájaro Osado → usa nuevamente Truco, bloquea a Rhyperior, // Luego Excadrill +6 y +2, coloca Trampa Rocas. / Terremoto para eliminar a Gengar",
+      "detail": "Terremoto ➜ Gallade usar Otra Vez +4 +2 ",
       "variant": []
     },
     {
-      "detail": "Nidoqueen → entra Cloyster +6. / Elimina todo con Carámbano // Si recibe daño de Lanzallamas, confirma que es Zoroark disfrazado y ajusta la estrategia según el patrón de ataque",
+      "detail": "Superdiente  ➜ cambiar a Gengar ; cambiar a Chandelure",
       "variant": []
     },
     {
-      "detail": "RHYPERIOR → entra Excadrill +6 y+2, luego coloca Trampa Rocas. / Terremoto para derrotar a Gengar",
+      "detail": "Frente a Rhyperior ➜ Dragonite Otra Vez  + Danza Dragón  x4; ejecutar hacia Weezing para continuar fortaleciéndose",
+      "variant": []
+    },
+    {
+      "detail": "Ferrothorn ➜ Debilitar; cambiar a Dragonite; cambiar a Jirachi; Otra Vez  Dragonite Danza Dragón x1",
+      "variant": []
+    },
+    {
+      "detail": "Pájaro Osado  ➜ cambiar a Jirachi; Otra Vez  Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Scizor ➜ Priorizar velocidad ; usar Amortiguador ; (recibir Fuerza Bruta ; cambiar a Dragonite +2",
+      "variant": []
+    },
+    {
+      "detail": "Ruta segura  ➜ cambiar a Chandelure para debilitar",
+      "variant": []
+    },
+    {
+      "detail": "Frente a Crobat ➜ cambiar a Jirachi; cambiar a Chandelure frente a Stunfisk ; Dragonite Otra Vez + Danza Dragón  x2",
+      "variant": []
+    },
+    {
+      "detail": "Stunfisk ➜ Dragonite Otra Vez (+ Danza Dragón x2",
+      "variant": []
+    },
+    {
+      "detail": "Swalot ➜ Dragonite Otra Vez + Danza Dragón  x2",
+      "variant": []
+    },
+    {
+      "detail": "Lucario ➜ Gengar Otra Vez ; cambiar a Jirachi",
+      "variant": []
+    },
+    {
+      "detail": "Skuntank ➜ Chandelure +2 +2",
+      "variant": []
+    },
+    {
+      "detail": "Gliscor ➜ Dragonite otra vez x2 danza ultimo otra vez y ataca ",
+      "variant": []
+    },
+    {
+      "detail": "Samurott ➜ Gengar Otra Vez  +6 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Vidaesfera y se queda  ➜ cambiar a Jirachi; Otra Vez (; Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Jirachi Protección + Otra Vez ; Onda Ígnea  falla precisión; ejecutar hacia Nido",
+      "variant": []
+    },
+    {
+      "detail": "Lanzallamas  ➜ Jirachi Otra Vez ; Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Si usa movimiento Fuego o Pulso Umbrío ➜ Pantalla de Luz ; cambiar a Jirachi; Otra Vez al Fuego; Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Látigo Cepa  ➜ cambiar a Jirachi; usar Otra Vez (",
+      "variant": []
+    },
+    {
+      "detail": "Poder Oculto Fuego  ➜ Chandelure +2 +2 ; tipo Planta debilita a Rhyperior ",
+      "variant": []
+    },
+    {
+      "detail": "Terremoto  ➜ Gallade ; usar Otra Vez (Encore) +4 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Superdiente  ➜ cambiar a Gengar ; cambiar a Chandelure",
+      "variant": []
+    },
+    {
+      "detail": "Frente a Rhyperior ➜ Dragonite Otra Vez  + Danza Dragón  x4; ejecutar hacia Weezing para continuar fortaleciéndose",
+      "variant": []
+    },
+    {
+      "detail": "Ferrothorn ➜ Debilitar; cambiar a Dragonite; cambiar a Jirachi; Otra Vez  Dragonite Danza Dragón x1",
+      "variant": []
+    },
+    {
+      "detail": "Pájaro Osado ➜ cambiar a Jirachi; Otra Vez  Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Scizor ➜ Priorizar hacer rapido ; usar Amortiguador ; recibir Fuerza Bruta  cambiar a Dragonite +2",
+      "variant": []
+    },
+    {
+      "detail": "Ruta segura ➜ cambiar a Chandelure para debilitar",
+      "variant": []
+    },
+    {
+      "detail": "Frente a Crobat ➜ cambiar a Jirachi; cambiar a Chandelure frente a Stunfisk  Dragonite Otra Vez + Danza Dragón  x2",
+      "variant": []
+    },
+    {
+      "detail": "Stunfisk (➜ Dragonite Otra Vez ( + Danza Dragón  x2",
+      "variant": []
+    },
+    {
+      "detail": "Swalot ➜ Dragonite Otra Vez  + Danza Dragón x2",
+      "variant": []
+    },
+    {
+      "detail": "Lucario ➜ Gengar Otra Vez ; cambiar a Jirachi",
+      "variant": []
+    },
+    {
+      "detail": "Skuntank ➜ Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Gliscor  ➜Dragonite Otra Vez Danza dragon x2 usa otra vez y ataca ",
+      "variant": []
+    },
+    {
+      "detail": "Samurott ➜ Gengar Otra Vez +6 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Vidaesfera y se queda ➜ cambiar a Jirachi; Otra Vez Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Jirachi Protección  + Otra Vez  Onda Ígnea  falla precisión; ejecutar hacia Nido",
+      "variant": []
+    },
+    {
+      "detail": "Lanzallamas ➜ Jirachi Otra Vez ; Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Si usa movimiento Fuego o Pulso Umbrío  y se queda  ➜ Pantalla de Luz ; cambiar a Jirachi; Otra Vez al Fuego; Chandelure +2 +2 ",
       "variant": []
     }
   ]
