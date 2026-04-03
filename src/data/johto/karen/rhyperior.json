@@ -2,10 +2,22 @@
   "id": "rhyperior",
   "name": "Rhyperior",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "Bloquea Terremoto, Cloyster +4. Usa Carámbano para matar a Houndoom y Gallade",
+      "detail": "Honchkrow  ➜ cambiar a Gengar  usar Otra Vez +6",
+      "variant": []
+    },
+    {
+      "detail": "Maquinación correr hacia Rhyperior ➜ cambiar a Dragonite usar Otra Vez; +5 Terremoto  Vileplume",
+      "variant": []
+    },
+    {
+      "detail": "Gallade ➜ cambiar a Gengar  y luego a Jirachi usar Otra Vez; cambiar a Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Se Queda  ➜ cambiar a Gallade usar Otra Vez +4 +2 ",
       "variant": []
     }
   ]
