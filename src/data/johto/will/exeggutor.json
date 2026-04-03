@@ -2,10 +2,10 @@
   "id": "exeggutor",
   "name": "Exeggutor",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A CLOYSTER",
+  "initialMove": "💡Pantalla luz💡",
   "tricks": [
     {
-      "detail": "Bronzong, luego cambia a Poliwrath contra Empoleon, Poliwrath 6+2",
+      "detail": "Absol/flareon ➜ Chandelure +2 +2",
       "variant": []
     }
   ]
