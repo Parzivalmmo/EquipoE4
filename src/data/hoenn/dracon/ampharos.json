@@ -2,79 +2,31 @@
   "id": "ampharos",
   "name": "Ampharos",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A EXCADRILL",
+  "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "Voltiocambio(La traducción dice +sustituto): lanza un Terremoto para evaluar daño.",
-      "variant": [
-        {
-          "detail": "Si no lo derrotas: Excadrill entra +2+2. Luego usa Terremoto para eliminar a Lapras. Si tiene Reflejo activo, usa un Danza Espada adicional antes de atacar.",
-          "variant": []
-        },
-        {
-          "detail": "Si lo derrotas y entra Lucario: cambia a Chandelure y usa Truco hasta que se autoderrote. Luego si entra Lapras, entra Poliwrath +6+2. Si entra Haxorus con Banda Focus, también entra Poliwrath +6+2.",
-          "variant": []
-        },
-        {
-          "detail": "Si lo derrotas y entra Lapras: entra Poliwrath +6+2.",
-          "variant": []
-        },
-        {
-          "detail": "Si lo derrotas y entra Haxorus: cambia a Chandelure, usa Truco para bloquear Avalancha y luego entra Scrafty x3. Si por error queda bloqueado en Garra Dragón, deja morir a Chandelure y entra Excadrill +2+2. Prioriza siempre el ataque de mayor potencia.",
-          "variant": []
-        },
-        {
-          "detail": "Si lo derrotas y entra Feraligatr o Floatzel: entra Poliwrath +6 con Raíz Energía +2. Usa Puño Hielo para eliminar a Salamence si lo sacan después.",
-          "variant": []
-        },
-        {
-          "detail": "Si lo derrotas y entra Sceptile: Chandelure lo derrota con Lanzallamas. Si luego entra Feraligatr, sigue la misma secuencia de arriba. // Si entra Floatzel, deja morir a Chandelure con Lanzallamas y sigue el mismo plan anterior.",
-          "variant": []
-        }
-      ]
+      "detail": "Feraligatr ➜ contador ; verificar quién entra después",
+      "variant": []
     },
     {
-      "detail": "RAYO : cambia a Chandelure y usa Truco",
-      "variant": [
-        {
-          "detail": "VUELVE A USAR RAYO: Excadrill +4+2. + Trampa Rocas",
-          "variant": []
-        },
-        {
-          "detail": "PODER OCULTO: entra Scrafty x3. Luego A Bocajarro mata a Metagross.",
-          "variant": []
-        },
-        {
-          "detail": "LAPRAS: entra Poliwrath +6+2+6. Usa Puño Hielo para derrotar a Salamence. // Si Poliwrath recibe un golpe crítico de Garra Dragón y queda débil, y luego entra Lucario: usa Raíz Energía por si tiene Velocidad Extrema.",
-          "variant": []
-        }
-      ]
-    },   
-    {
-      "detail": "Metagross: usa Terremoto para eliminarlo.",
-      "variant": [
-        {
-          "detail": "Si luego entra Feraligatr o Floatzel: entra Poliwrath +6 con Raíz Energía +2.",
-          "variant": []
-        },
-        {
-          "detail": "Si entra Sceptile: Chandelure lo derrota con Lanzallamas, y sigue con la misma estrategia frente a Feraligatr o Floatzel.",
-          "variant": []
-        }
-      ]
+      "detail": "Salamence / Sceptile ➜ cambiar a Jirachi Otra Vez ; Chandelure +2 +2 ",
+      "variant": []
     },
     {
-      "detail": "Lucario: cambia a Chandelure y usa Truco.",
-      "variant": [
-        {
-          "detail": "Si usa Patada Salto Alta y se debilita solo, entra Lapras → Poliwrath con 6+2 / Haxorus con banda focus, no uses puño hielo.",
-          "variant": []
-        },
-        {
-          "detail": "Sacrificio, Vuelve a usar Truco luego entra Scrafty con +3 para enfrentar a Haxorus con Banda Focus",
-          "variant": []
-        }
-      ]
-    }   
+      "detail": "Haxorus ➜ Amortiguador ; cambiar a Gengar  Otra Vez ; +4  +2 ; si baja la defensa  permanecer; ( usar Banda Focus  contra Haxorus)",
+      "variant": []
+    },
+    {
+      "detail": "Lucario ➜ cambiar a Gengar ",
+      "variant": []
+    },
+    {
+      "detail": "Patada Salto Alta  ➜ Gengar x especial +2 Velocidad ; NO usar Otra Vez ; si no hay golpe crítico  no es amenaza; mantener estabilidad y usar X Velocidad",
+      "variant": []
+    },
+    {
+      "detail": "A Bocajarro  ➜ Gengar  Otra Vez  +4 0 Velocidad ; cambiar a  Ampharos / Altaria; luego usar Maquinación  una vez",
+      "variant": []
+    }
   ]
 }
