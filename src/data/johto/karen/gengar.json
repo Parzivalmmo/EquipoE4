@@ -2,10 +2,22 @@
   "id": "gengar",
   "name": "Gengar",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨TrampaRocas🪨 Cambiar a Gengar Y despues Jirachi Frente a Houndoom chandelure +2 +2",
   "tricks": [
     {
-      "detail": "Bloquear a Quagsire, luego Cloyster +4. // Se necesita 2 Poder Oculto para matar a Quagsire",
+      "detail": "Absol ➜ cambiar a Gengar  y luego a Jirachi",
+      "variant": []
+    },
+    {
+      "detail": "Houndoom ➜ cambiar a Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Si Gengar  receibe Persecución ➜ Jirachi usa Protección y Otra Vez; cambiar a Chandelure +2 +2; usar Protección frente a Houndoom y cambiar a Chandelure +2 +2",
+      "variant": []
+    },
+    {
+      "detail": "Si Chandelure se fortalece y corre hacia Houndoom ➜ cambiar a Chansey con Pantalla de Luz; cambiar a Gengar  usar Otra Vez +4 +2 ",
       "variant": []
     }
   ]
