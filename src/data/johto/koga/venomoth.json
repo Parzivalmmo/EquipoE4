@@ -5,7 +5,11 @@
   "initialMove": "TRUCO",
   "tricks": [
     {
-      "detail": "Cambia a Cloyster +4. Estando Stunfisk encerrado en tierra viva. (Swalot muere con Carámbano)",
+      "detail": "Crobat ➜ Jirachi usa Otra Vez ; cambiar a Chandelure +2 +2; probar Rayo frente a Stunfisk; Dragonite usa Danza Dragón x2",
+      "variant": []
+    },
+    {
+      "detail": "Floatzel ➜ recibir Rayo frente a Stunfisk; Dragonite usa Otra Vez manual + Danza Dragón x2",
       "variant": []
     }
   ]
