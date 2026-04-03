@@ -2,31 +2,22 @@
   "id": "floatzel",
   "name": "Floatzel",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "PUÑO TRUEÑO Y VER QUE PASA:",
+  "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "Deja tocado al Floatzel → cambia a Chandelure contra Nidoking, usa Truco para encerrarlo en Terremoto o Tierra viva, Cloyster +4, último Ditto, cambia a Poliwrath para rematar.",
+      "detail": "Crobat ➜ cambiar a Gengar ; cambiar a Chandelure frente a Ferrothorn; debilitar; si prioriza velocidad , cambiar directamente a Dragonite; usar Danza Dragón  x1; presionar; sacrificar  a Dragonite; Chansey  remata con contador  para debilitar a Ditto",
       "variant": []
     },
     {
-      "detail": "Mata al Floatzel, entra Magmar → cambia a Chandelure y usa Truco, lo encierras en Rayo → Excadrill 4+2, Terremoto para matar a Nidoking, si rompe el globo sigue barriendo, cuando salga Ditto cambia a Cloyster para rematar.",
+      "detail": "Nidoking ➜ cambiar a Dragonite; cambiar a Jirachi; usar Otra Vez ; Dragonite Danza Dragón  x1 Atacar ",
       "variant": []
     },
     {
-      "detail": "Sale Stunfisk → cambia a Chandelure y usa Truco",
-      "variant": [
-        {
-          "detail": "Si usa Tierra Viva, Cloyster 4",
-          "variant": []
-        },
-        {
-          "detail": "Si usa Chispazo, Excadrill 2+2.// Terremoto para matar a Swalot afortunado (cuidado con Bostezo): no hace falta usar Truco, entra directo Excadrill 2+2.",
-          "variant": []
-        }
-      ]
+      "detail": "Scizor ➜ cambiar a Jirachi; cambiar a Chandelure; frente a Stunfisk, cambiar a Dragonite; usar Otra Vez   + Danza Dragón x3",
+      "variant": []
     },
     {
-      "detail": "Sale Nidoking → cambia a Excadrill, luego a Metagross para usar Truco, lo encierras en Tierra Viva, Cloyster 4, último Ditto, cambia a Poliwrath para rematar.",
+      "detail": "Si no huye ) ➜ debilitar; frente a Crobat, Jirachi usa Otra Vez ; Chandelure +2 +2 ",
       "variant": []
     }
   ]
