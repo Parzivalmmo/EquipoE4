@@ -2,10 +2,10 @@
   "id": "liepard",
   "name": "Liepard",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "bloquear a Golurk, Excadrill 4+2 y lanza Trampa Rocas, Si entra Slowbro, cambia a Poliwrath, luego a Scrafty +2(SpD)+2.",
+      "detail": "Golurk ➜ Gengar Otra Vez +4 +2 ",
       "variant": []
     }
   ]
