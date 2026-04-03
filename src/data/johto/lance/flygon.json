@@ -5,11 +5,27 @@
   "initialMove": "TRUCO",
   "tricks": [
     {
-      "detail": "Terremoto → Excadrill +4+2 y luego coloca Trampa Rocas",
+      "detail": "Lucario ➜ cambiar a Gengar ; Otra Vez ; cambiar a Jirachi; (si entra Dragonite tiene cinta elegida)  , poner Trampa Rocas  y cambiar a Jirachi; Otra Vez  ; Chandelure +2 +2 ",
       "variant": []
     },
     {
-      "detail": "Llamarada → Chandelure usa Truco para intercambiar objeto, luego Excadrill +4+2 y coloca Trampa Rocas",
+      "detail": "Aerodactyl ➜ usar Protección; sale Flygon; Otra Vez ",
+      "variant": []
+    },
+    {
+      "detail": "Llamarada  ➜ Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Terremoto  ➜ Gallade  +4 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Dragonite Cinta elegida  ➜ Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Poner Trampa Rocas frente a Dragonite ➜ Chandelure +2 +2 ",
       "variant": []
     }
   ]
