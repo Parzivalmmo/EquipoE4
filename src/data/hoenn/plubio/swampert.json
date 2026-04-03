@@ -2,6 +2,15 @@
   "id": "swampert",
   "name": "Swampert",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Truco para bloquear con Terremoto, luego cambia a Excadrill y después a Chandelure para enfrentar a Gyarados. Utiliza Truco nuevamente para bloquear Cascada, entra Poliwrath +6+2. // Usa A Bocajarro para eliminar a Milotic // Si Chandelure muere y Poliwrath tiene un 75% de PS, entra Scrafty, luego vuelve a cambiar a Poliwrath +6+2.",
-  "tricks": []
+  "initialMove": "💡Cambia a Jirachi 💡",
+  "tricks": [
+    {
+      "detail": "Eelektross ➜ usar Trampa Rocas  + Otra Vez ; Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Si NO hay Trampa Rocas , existe una gran probabilidad de movimiento aleatorio; usar a Gyarados para arriesgar/apostar ; usar Otra Vez  dos veces",
+      "variant": []
+    }
+  ]
 }
