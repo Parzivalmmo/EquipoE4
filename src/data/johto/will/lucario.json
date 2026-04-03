@@ -2,10 +2,34 @@
   "id": "lucario",
   "name": "Lucario",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Cambia a Chandelure y Truco",
+  "initialMove": "💡Cambiar a Gengar💡",
   "tricks": [
     {
-      "detail": "Si Lucario no cambia y utiliza Triturar / Roca Afilada / Otro movimiento al que Scrafty sea resistente cambia a Scrafty +2",
+      "detail": "Golurk ➜dragonite cambiar a Jirachi para usar Trampa rocas; Altaria Otra Vez  + Danza Dragón 3+1; (ser más rápido que Jolteon)",
+      "variant": []
+    },
+    {
+      "detail": "A Bocajarro  ➜ cambiar a Gengar ; usar Otra Vez  Maquinación ",
+      "variant": []
+    },
+    {
+      "detail": "Altaria ➜ Gengar +4 ataca ( usar Bola Sombra  para debilitar a Gardevoir)",
+      "variant": []
+    },
+    {
+      "detail": "Umbreon ➜ cambiar a Chansey ; cambiar a Jirachi; usar Rayo  Otra Vez ",
+      "variant": []
+    },
+    {
+      "detail": "Electivire ➜ Chandelure +2 +2 ; (pañuelo )",
+      "variant": []
+    },
+    {
+      "detail": "Se Queda  ➜ Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Frente a Lucario Real ➜ cambiar a Jirachi; cambiar a Gengar  Otra Vez +4 no velo ; ejecutar con Altaria para continuar fortaleciéndose / Bola Sombra  a Gardevoir",
       "variant": []
     }
   ]
