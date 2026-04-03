@@ -2,142 +2,87 @@
   "id": "salamence",
   "name": "Salamence",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "OBSERVA SI TIENE INTIMIDACIÓN",
+  "initialMove": "Mira que habilidad tiene ,🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Tiene intimidación → Cambia a Chandelure.",
-      "variant": [
-        {
-          "detail": "Si no se retira, lanza un Poder Oculto.",
-          "variant": [
-            {
-              "detail": "Si lo derrota al 100%, observa quién entra después:",
-              "variant": [
-                {
-                  "detail": "Aggron → Excadrill coloca Trampa Rocas, luego usa Terremoto para acabarlo. Si entra Feraligatr, Poliwrath entra con +2 +2. / Prioriza el movimiento de mayor potencia. Si Excadrill es debilitado, Chandelure lo revive, se sacrifica, y luego vuelve a entrar Excadrill para rematar.",
-                  "variant": []
-                },
-                {
-                  "detail": "Regirock → Cambia a Scrafty y luego a Chandelure, usa Truco para bloquear en Roca Afilada, Scrafty entra con +2. / Usa a Bocajarro para matar a Eelektross. Se puede aprovechar el +1 con Puño Drenaje para recuperar salud.",
-                  "variant": []
-                },
-                {
-                  "detail": "Metagross → Excadrill entra con +4 +2.",
-                  "variant": []
-                },
-                {
-                  "detail": "Feraligatr → Cambia a Poliwrath y luego a Chandelure para usar Truco y bloquear en Cascada, entra Poliwrath +6 +2. Si intenta pasar Velocidad: Poliwrath entra con +6 + Raíz Grande +2.",
-                  "variant": []
-                },
-                {
-                  "detail": "Floatzel → Cambia a Poliwrath, luego a Chandelure y usa Truco.",
-                  "variant": [
-                    {
-                      "detail": "Si usa Hidrobomba, entra Poliwrath +6 +2.",
-                      "variant": []
-                    },
-                    {
-                      "detail": "Si usa Triturar, entra Scrafty +3. / Usa Puño Drenaje para matar a Metagross.",
-                      "variant": []
-                    }        
-                  ]
-                }
-              ]
-            },
-            {
-              "detail": "Si baja al 90% aprox. → Cambia a Metagross y usa Truco para bloquear en Llamarada, entra Poliwrath +6 +2. Si por error queda bloqueado en Metagross, Chandelure lo quema con Lanzallamas, y si entra Feraligatr o Floatzel, Poliwrath +6 + Raíz Energía +2.",
-              "variant": []
-            },
-            {
-              "detail": "Si baja al 60%–73% aprox., cambia a Metagross y observa a quién enfrenta:",
-              "variant": [
-                {
-                  "detail": "Contra Empoleon → Lanza un Puño Trueno.",
-                  "variant": [
-                    {
-                      "detail": "Si entra Krokodile, Excadrill entra con Trampa Rocas +4 +2.",
-                      "variant": []
-                    },
-                    {
-                      "detail": "Si no se retira, inflige gran daño (entra NO SE ENTIENDE), Excadrill entra con Trampa Rocas +4 +2.",
-                      "variant": []
-                    }
-                  ]
-                },
-                {
-                  "detail": "Contra Eelektross → Usa Puño Trueno, si entra Krookodile, Excadrill entra con Trampa Rocas +4 +2. Si Eelektross no se retira, sigue usando Puño Trueno.",
-                  "variant": []
-                }
-              ]
-            }   
-          ]
-        },
-        {
-          "detail": "Contra Aggron → Excadrill coloca Trampa Rocas, luego usa Terremoto para debilitar. Si luego entra Feraligatr, entra Poliwrath con +2 +2. / Prioriza el movimiento de mayor potencia. // Si Excadrill es derrotado, usa Chandelure para revivir a Excadrill, déjalo caer y vuelve a meter a Excadrill para rematar.",
-          "variant": []
-        },
-        {
-          "detail": "Contra Krookodile → Excadrill +4 +2, luego vuelve a colocar Trampa Rocas.",
-          "variant": []
-        },
-        {
-          "detail": "Contra Regirock → Chandelure usa Truco para bloquear en Roca Afilada, luego entra Scrafty.",
-          "variant": []
-        }
-      ]
-    },       
-    
+      "detail": "Intimidación / y se queda  ➜ cambiar a Jirachi Otra Vez Fuego; Chandelure +2 +2 frente a Gallade Gengar  Otra Vez  +2 no velo ",
+      "variant": []
+    },
     {
-      "detail": "NO Tiene intimidación → Truco",
-      "variant": [
-        {
-          "detail": "Si usa Llamarada → Verifica el objeto:",
-          "variant": [
-            {
-              "detail": "Si lleva Banda Focus o Vidasfera → Chandelure usa Truco para intercambiar objeto, luego entra Cloyster +6.",
-              "variant": []
-            },
-            {
-              "detail": "Si lleva Pañuelo Elegido → Cambia a Chandelure y observa el movimiento.",
-              "variant": [
-                {
-                  "detail": "Si usa Llamarada → Chandelure hace Truco para intercambiar objeto, luego Excadrill Trampa rocas con 2 +2. Si entra Lapras, entra Poliwrath +6 +2.",
-                  "variant": []
-                },
-                {
-                  "detail": "Si usa Terremoto → Excadrill entra con 2 +2. Si entra Lapras, entra Poliwrath +6 +2.",
-                  "variant": []
-                },
-                {
-                  "detail": "Si usa Garra Dragón → Excadrill toma una Medicina de Defensa, luego entra con 2 +2.",
-                  "variant": []
-                }
-              ]
-            }
-          ]
-        },     
-        {
-          "detail": "Si usa Terremoto → Revisa el objeto:",
-          "variant": [
-            {
-              "detail": "Si lleva Pañuelo Elegido → Excadrill entra con 2 +2. / Si entra Lapras, luego entra Poliwrath +6 +2. Si Excadrill es golpeado con Garra Dragón, usa Medicina de Defensa, y entra con 2 +2.",
-              "variant": []
-            },
-            {
-              "detail": "Si lleva Banda Focus o Vidasfera → Cloyster entra con +6 (Metagross no muere de carámbano Cuidado).",
-              "variant": []
-            }
-          ]
-        },        
-        {
-          "detail": "Contra Lucario → Chandelure usa Truco para cambiar objeto, Scrafty entra con +3. / Usa Pulso Umbrío para matar a Haxorus.",
-          "variant": []
-        },
-        {
-          "detail": "Contra Metagross → Excadrill entra con +4 +2 y luego coloca Trampa Rocas.",
-          "variant": []
-        }
-      ]
+      "detail": "Gallade ➜ Gengar  Otra Vez  +6 +2 ; Otra Vez  (Gallade Banda Focus )",
+      "variant": []
+    },
+    {
+      "detail": "Feraligatr ➜ Contador ",
+      "variant": []
+    },
+    {
+      "detail": "Ampharos ➜ Gengar  Otra Vez; cambiar a Jirachi",
+      "variant": []
+    },
+    {
+      "detail": "Salamence ➜ Jirachi Otra Vez; Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Sceptile ➜ Jirachi Otra Vez; Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Eelektross ➜ Gengar  Otra Vez  +4 no velo",
+      "variant": []
+    },
+    {
+      "detail": "Lapras / Salamence ➜ atacar hacia Metagross; Gallade +2 +2 ; NO usar Otra Vez ",
+      "variant": []
+    },
+    {
+      "detail": "Regirock ➜ Gengar Otra Vez ; Maquinación; atacar hacia Metagross; Gallade +2 +2 ; (Metagross pañuelo elegido )",
+      "variant": []
+    },
+    {
+      "detail": "Metagross ➜ cambiar a Jirachi",
+      "variant": []
+    },
+    {
+      "detail": "Velocidad para perseguir ➜ Gallade Otra Vez  +2 +2 ; cambiar a  Salamence; resistir Garra Dragón ; fortalecer ",
+      "variant": []
+    },
+    {
+      "detail": "Ahorrar $? medicina  ➜ Dragonite Otra Vez Danza Dragón +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Lapras ➜ cambiar a Chansey Pantalla de Luz; cambiar a Jirachi",
+      "variant": []
+    },
+    {
+      "detail": "Metagross ➜ Dragonite Otra Vez  Danza Dragón +1 ",
+      "variant": []
+    },
+    {
+      "detail": "Flygon ➜ Jirachi Otra Vez ; Dragonite Danza Dragón +1 ",
+      "variant": []
+    },
+    {
+      "detail": "Seviper ➜ Jirachi Otra Vez ; Chandelure no x especial +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Lucario ➜ cambiar a Gengar ",
+      "variant": []
+    },
+    {
+      "detail": "Patada Salto Alta  ➜ Gengar (ghost) +2 no velo ( NO usar Otra Vez ; si no hay golpe crítico no es amenaza; mantener estabilidad; tomar velocidad x ",
+      "variant": []
+    },
+    {
+      "detail": "A Bocajarro  ➜ Gengar Otra Vez  +4 no velocidad si cambia a  Flygon violento; hacia Ampharos con Maquinación ",
+      "variant": []
+    },
+    {
+      "detail": "Haxorus ➜ Gengar  Otra Vez  +2 no velo se queda   +4 no velo Otra Vez ( cargar de nuevo)",
+      "variant": []
     }
   ]
 }
