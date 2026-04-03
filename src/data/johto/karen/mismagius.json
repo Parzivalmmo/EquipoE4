@@ -2,26 +2,46 @@
   "id": "mismagius",
   "name": "Mismagius",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "Garchomp → Cloyster +6 + Crítico. / Todo muere con Carámbano.",
+      "detail": "Feraligatr ➜ usar Contador y Contraataque",
       "variant": []
     },
     {
-      "detail": "Excadrill → Cloyster +4. / Carámbano para Houndoom.",
+      "detail": "Garchomp ➜ cambiar a Jirachi usar Otra Vez; Gallade +4 +2 ",
       "variant": []
     },
     {
-      "detail": "Hydreigon → Cambia a Chandelure y usa Truco, si Hydreigon se queda o bloqueas a Houndoom, Scrafty +3. / Paliza mata a Primeape.",
+      "detail": "Hippowdon ➜ Chandelure +2 +2",
       "variant": []
     },
     {
-      "detail": "Bola Sombra → Scrafty +3 / Paliza mata a Primeape.",
+      "detail": "Primeape / Luxray ➜ Gengar usar Otra Vez; cambiar a Jirachi; Hydreigon y Houndoom pañuelo ",
       "variant": []
     },
     {
-      "detail": "Rayo → Excadrill Trampa Rocas, +4 +2.",
+      "detail": "Hydreigon ➜ cambiar a Chandelure +2 +2",
+      "variant": []
+    },
+    {
+      "detail": "Houndoom ➜ usar Otra Vez; Chandelure +2 +2; no usar Otra Vez",
+      "variant": []
+    },
+    {
+      "detail": "Sin Otra Vez para correr directo a Hydreigon ➜ cambiar a Chansey usar Pantalla de Luz; frente a Flareon; Chandelure +2 +2 corre a Houndoom y sigue fortaleciendo, no hay amenaza",
+      "variant": []
+    },
+    {
+      "detail": "Excadrill ➜ usar Contador ; (Cinta Elegida Hippowdon) ",
+      "variant": []
+    },
+    {
+      "detail": "Hippowdon lento ➜ Gengar +4 +2 cinta elegida ",
+      "variant": []
+    },
+    {
+      "detail": "Quedarse con Rayo ➜ abrir Pantalla de Luz; cambiar a Jirachi usar Rayo; frente a Tierra usar Otra Vez; Gallade  +4 +2",
       "variant": []
     }
   ]
