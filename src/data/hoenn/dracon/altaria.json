@@ -2,14 +2,14 @@
   "id": "altaria",
   "name": "Altaria",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "Lanzallamas → Trampa Rocas, cambia a Chandelure y usa Especial X (sale Lapras), luego Lanzallamas para barrer. Altaria muere de dos golpes, pero no te preocupes.",
+      "detail": "Uso de movimiento Fuego  ➜ cambiar a Chandelure; cambiar a Jirachi Otra Vez ; Chandelure +2 +2 ",
       "variant": []
     },
     {
-      "detail": "Metagross → Excadrill 4+2 y luego lanza Trampa Rocas.",
+      "detail": "Lucario ➜ cambiar a Gengar Otra Vez  +4 0 Velocidad ; cambiar a (run to) Altaria o Lapras para continuar fortaleciendo ",
       "variant": []
     }
   ]
