@@ -2,31 +2,14 @@
   "id": "magmortar",
   "name": "Magmortar",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A CHANDELURE",
+  "initialMove": " 🪨TrampaRocas🪨 (Si Dragonite es debilitado  Chansey  remata contador para debilitar a Ditto)",
   "tricks": [
     {
-      "detail": "Gran Llamarada → Truco para encerrar Rayo, Excadrill 4+2, Terremoto para matar a Nidoking, si rompe el globo sigue barriendo, cuando salga Ditto cambia a Cloyster para rematar. (NO PONGAS ROCAS)",
+      "detail": "Crobat  ➜ cambiar a Gengar ; cambiar a Chandelure para debilitar a Ferrothorn (Si Dragonite es debilitado  Chansey  remata contador para debilitar a Ditto)",
       "variant": []
     },
     {
-      "detail": "Contra Ferrothorn → usa Lanzallamas para rematar y ve quién entra 👇🏻",
-      "variant": [
-        {
-          "detail": "Sale Floatzel → cambia a Poliwrath, luego a Chandelure para usar Truco, encierra HidroBomba, Poliwrath 6+2 + revive Chandelure + cura todo. / Último Ditto, cambia a Chandelure para rematar.",
-          "variant": []
-        },
-        {
-          "detail": "Si Nidoking hace CT y te mata, cambia a Metagross para usar Truco, encierra Terremoto, Cloyster 4 + revive Poliwrath.",
-          "variant": []
-        },
-        {
-          "detail": "Sale Swalot → cambia a Excadrill, luego a Chandelure para usar Truco, encierra Rayo, Excadrill 4+2, Terremoto para matar a Nidoking, espera a que Roca Afilada rompa el globo y sigue barriendo, cuando salga Ditto cambia a Cloyster para rematar. Si Roca Afilada falla, usa Danza Espada y espera a que acierte.",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "Sale Magmortar → Cambia a Excadrill, luego a Chandelure para usar Truco, encierra Rayo, Excadrill 4+2. Terremoto para matar a Nidoking, espera a que Roca Afilada rompa el globo y sigue barriendo, cuando salga Ditto cambia a Cloyster para rematar. Si Roca Afilada falla, usa Danza Espada y espera a que acierte.",
+      "detail": "Nidoking ➜ cambiar a Dragonite; cambiar a Jirachi; usar Otra Vez ; Dragonite usa Danza Dragón  x1",
       "variant": []
     }
   ]
