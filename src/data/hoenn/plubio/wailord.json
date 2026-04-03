@@ -2,14 +2,14 @@
   "id": "wailord",
   "name": "Wailord",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "💡Dragonite danza dragon x3 no otra vez 💡",
   "tricks": [
     {
-      "detail": "Registeel, entra Excadrill +4+2.",
+      "detail": "-",
       "variant": []
     },
     {
-      "detail": "Terremoto, cambia a Chandelure para enfrentarlo, utiliza Truco para bloquearlo con Terremoto y luego entra Excadrill +4+2.",
+      "detail": "-",
       "variant": []
     }
   ]
