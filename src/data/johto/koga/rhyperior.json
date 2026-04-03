@@ -2,14 +2,26 @@
   "id": "rhyperior",
   "name": "Rhyperior",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "Restos → Excadrill 6+2 y luego pone Trampa Rocas. / Terremoto para matar a Gengar",
+      "detail": "Samurott ➜ cambiar a Gengar usar Otra Vez +6 +2",
       "variant": []
     },
     {
-      "detail": "Chaleco Asalto → Cloyster +4. // Usa carámbano para matar // Sharpedo Banda Focus",
+      "detail": "Serperior ➜ cambiar a Jirachi usar Otra Vez",
+      "variant": []
+    },
+    {
+      "detail": "Terremoto ➜ Gallade usar Otra Vez +4 +2",
+      "variant": []
+    },
+    {
+      "detail": "Poder Oculto Fuego ➜ Chandelure +2 +2; usar Energibola para debilitar a Rhyperior",
+      "variant": []
+    },
+    {
+      "detail": "Se Queda ➜ cambiar a Gallade usar Otra Vez; cambiar de Jirachi a Crobat ante ataques Eléctricos; frente a Rhyperior, Gallade usa Otra Vez +6 +2",
       "variant": []
     }
   ]
