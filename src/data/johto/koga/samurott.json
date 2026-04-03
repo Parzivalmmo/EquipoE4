@@ -2,20 +2,11 @@
   "id": "samurott",
   "name": "Samurott",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "Bloquear a Rhyhorn, elige tú.",
-      "variant": [
-        {
-          "detail": "Rápido --> Excadrill 4+2",
-          "variant": []
-        },
-        {
-          "detail": "Ahorrar --> Excadrill pone Trampa Rocas, Cloyster 4",
-          "variant": []
-        }
-      ]
+      "detail": "Se Queda usando Espada Santa ➜ cambiar a Gengar usar Otra Vez +6 +2",
+      "variant": []
     }
   ]
 }
