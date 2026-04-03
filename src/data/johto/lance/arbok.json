@@ -2,10 +2,18 @@
   "id": "arbok",
   "name": "Arbok",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO PARA ENCERRAR A GARCHOMP/ FLYGON TERREMOTO",
+  "initialMove": "💡Cambia a Jirachi 💡",
   "tricks": [
     {
-      "detail": "Cloyster +4",
+      "detail": "Se queda ➜ Dragonite Otra Vez  + Danza Dragón x2; usar Garra Dragón contra Garchomp",
+      "variant": []
+    },
+    {
+      "detail": "Sale Eelektross ➜ cambiar a Jirachi; usar Protección + Rayo + Otra Vez; Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Metagross ➜ Dragonite Otra Vez  + Danza Dragón x3 ; usar Garra Dragón contra Garchomp",
       "variant": []
     }
   ]
