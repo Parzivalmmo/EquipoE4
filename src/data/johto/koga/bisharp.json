@@ -2,14 +2,14 @@
   "id": "bisharp",
   "name": "Bisharp",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨TrampaRocas🪨(bola sombra muere gengar )",
   "tricks": [
     {
-      "detail": "Patada baja → Chandelure usa lanzallamas para debilitar o matar, entra Lapras, Poliwrath 6+2.",
+      "detail": "Crobat → Rayo Otra vez Chandelure +2 +2 ",
       "variant": []
     },
     {
-      "detail": "RHYPERIOR → Excadrill 6+2 y luego pon Trampa Rocas. Usa Terremoto para matar a Gengar.",
+      "detail": "-",
       "variant": []
     }
   ]
