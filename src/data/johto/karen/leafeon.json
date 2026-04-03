@@ -2,32 +2,18 @@
   "id": "leafeon",
   "name": "Leafeon",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "💡Cambia a Dragonite Danza Espada x ataque)💡",
   "tricks": [
     {
-      "detail": "Tijera X → Cambia a Chandelure.",
-      "variant": [
-        {
-          "detail": "Contra Rhyperior → Usa Truco para bloquear con Terremoto, luego entra Cloyster +4.",
-          "variant": []
-        },
-        {
-          "detail": "Si no se va → usa Lanzallamas para debilitar, mira quién entra abajo:",
-          "variant": [
-            {
-              "detail": "Si entra Rhydon → cambia a Excadrill, luego Chandelure usa Truco para bloquear Terremoto, luego Cloyster +4.",
-              "variant": []
-            },
-            {
-              "detail": "Si entra Houndoom → cambia a Poliwrath para revivir a Chandelure, usa Truco para bloquear Juego Sucio, luego Scrafty +3.",
-              "variant": []
-            }
-          ]
-        }        
-      ]
+      "detail": "Gyarados ➜ cambiar a Chansey usar Contador  ",
+      "variant": []
     },
     {
-      "detail": "Rhyperior → Cloyster +4",
+      "detail": "Rhyperior ➜ cambiar a Dragonite y luego a Jirachi usar Otra Vez ; cambiar a Gallade  +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Rhyperior ➜ cambiar a Jirachi y luego a Gallade usar Otra Vez +4 +2 ",
       "variant": []
     }
   ]
