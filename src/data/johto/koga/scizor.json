@@ -2,14 +2,14 @@
   "id": "scizor",
   "name": "Scizor",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A CHANDELURE",
+  "initialMove": "💡Cambia a Chandelure y lanzallamas💡",
   "tricks": [
     {
-      "detail": "Contra Stunfisk → Truco para bloquear Terremoto o Tierra Viva, Cloyster +4.",
+      "detail": "Crobat ➜ cambiar a Jirachi; usar Otra Vez; cambiar a Chandelure +2 +2",
       "variant": []
     },
     {
-      "detail": "No cambia → Truco para bloquear Puño Bala, luego cambia a Metagross, Truco para bloquear a Stunfisk, Cloyster 4.",
+      "detail": "Stunfisk ➜ Dragonite usa Otra Vez + Danza Dragón x3",
       "variant": []
     }
   ]
