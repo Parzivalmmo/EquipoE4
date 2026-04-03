@@ -2,58 +2,26 @@
   "id": "gyarados",
   "name": "Gyarados",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "PUÑO TRUENO",
+  "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "Si solo hiere a Gyarados → Ver si Gyarados recupera PS con Restos.",
-      "variant": [
-        {
-          "detail": "NO tiene Restos → Cloyster +6. / Carámbano mata a Houndoom y Tyranitar.",
-          "variant": [
-            {
-              "detail": "Si entra Tyranitar mientras te boosteas, cambiar a Metagross y usar Truco, bloquear con Terremoto, Cloyster +6. / Carámbano mata a Houndoom.",
-              "variant": []
-            }       
-          ]
-        },
-        {
-          "detail": "SI tiene Restos → Seguir usando Puño Trueno. Si entra Rhyperior, cambiar a Cloyster, luego a Metagross y usar Truco, bloquear con Terremoto, Cloyster +4. / Todo se mata con Carámbano.",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "Si Gyarados es derrotado de un golpe → Ver quién entra:",
-      "variant": [
-        {
-          "detail": "Excadrill → Cambiar a Excadrill y luego a Chandelure.",
-          "variant": [
-            {
-              "detail": "Excadrill no se retira → Truco para bloquear con Terremoto, Cloyster +6. / Carámbano mata a Houndoom y Tyranitar.",
-              "variant": []
-            },
-            {
-              "detail": "Slowbro → Truco para bloquear Escaldar, Poliwrath +6 +4. / A Bocajarro mata a Excadrill. Si se quema, no curar, priorizar ataques super efectivos.",
-              "variant": []
-            }
-          ]
-        },
-        {
-          "detail": "Rhyperior → Cambiar a Excadrill, luego a Metagross y usar Truco, bloquear con Terremoto, Cloyster +4. / Todo se mata con Carámbano.",
-          "variant": []
-        },
-        {
-          "detail": "Houndoom → Cambiar a Chandelure, usar Truco y bloquear Pulso Umbrío o Persecución, luego Scrafty +2. / A Bocajarro mata a Rhyperior. // Si Chandelure entra por error frente a Rhyperior, usar Truco para bloquear con Terremoto, Cloyster +4. / Todo se mata con Carámbano.",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "Rhyperior → Cambiar a Excadrill, luego a Metagross y usar Truco, bloquear con Terremoto, Cloyster +4. / Todo se mata con Carámbano.",
+      "detail": "Rhyperior ➜ cambiar a Dragonite usar Otra Vez y Danza Dragón x4; o cambiar a Gallade usar Otra Vez +4 +2 ",
       "variant": []
     },
     {
-      "detail": "Quagsire → Cambiar a Cloyster, luego a Metagross y usar Truco, bloquear con Terremoto, Cloyster +4. / Todo se mata con Carámbano.",
+      "detail": "Excadrill ➜ cambiar a Dragonite y luego a Jirachi usar Otra Vez; cambiar a Gallade +2 +2 y +2 aleatorios; Slowbro con miedo a quemadura  +4 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Tyranitar ➜ usar contador  cambiar a Dragonite y luego a Jirachi usar Otra Vez; Gallade +2 +2 y +2 aleatorios; Slowbro con miedo a quemadura (burn) +4 +2 (42)",
+      "variant": []
+    },
+    {
+      "detail": "Se Queda  ➜ usar Contador  ",
+      "variant": []
+    },
+    {
+      "detail": "Tyranitar ➜ usar Contador y cambiar a Dragonite y luego a Jirachi usar Otra Vez; Gallade +2 +2",
       "variant": []
     }
   ]
