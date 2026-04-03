@@ -2,46 +2,15 @@
   "id": "sceptile",
   "name": "Sceptile",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "💡Pantalla luz💡",
   "tricks": [
     {
-      "detail": "Ampharos → Excadrill +4 Ataque +2 Velocidad. Si sale Metagross, no hace falta cambiar; continúa boosteando.",
+      "detail": "Cambiar a Feraligatr ➜ contador para debilitar ; frente a Salamence cambiar a Jirachi Otra Vez ; Chandelure +2 +2 ",
       "variant": []
     },
     {
-      "detail": "Metagross → Chandelure usa Lanzallamas para debilitar y observa quién entra:",
-      "variant": [
-        {
-          "detail": "Feraligatr → Poliwrath +6 Ataque con Raíz Energía +2 Velocidad.",
-          "variant": []
-        },
-        {
-          "detail": "Floatzel → Cambia a Poliwrath y luego a Chandelure para usar Truco:",
-          "variant": [
-            {
-              "detail": "Hidrobomba, Poliwrath +6 Ataque +2 Velocidad.",
-              "variant": []
-            },
-            {
-              "detail": "Triturar, Scrafty +3.",
-              "variant": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "detail": "Poder Oculto → Depende:",
-      "variant": [
-        {
-          "detail": "Económico → Scrafty +4. / Dos Puño Drenaje para matar a Metagross.",
-          "variant": []
-        },
-        {
-          "detail": "Velocidad → Poliwrath 6 +2. / Ten en cuenta que Sceptile es más rápido que Poliwrath +2, si tiene poca vida, recuerda curarlo.",
-          "variant": []
-        }
-      ]
-    }    
+      "detail": "Debilitar  frente a Metagross ➜ cambiar a Jirachi; Protección  frente a Salamence; Otra Vez ; Chandelure +2 +2 ",
+      "variant": []
+    }
   ]
 }
