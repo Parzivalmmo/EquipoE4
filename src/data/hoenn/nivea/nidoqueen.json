@@ -2,10 +2,22 @@
   "id": "nidoqueen",
   "name": "Nidoqueen",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨Trampa rocas🪨",
   "tricks": [
     {
-      "detail": "bloquear Terremoto o tierra viva, Excadrill pone Trampa Rocas 6+2. Si sale Skarmory, Usa defensa X y sigue barriendo / Si tienes la vida amarilla y sale Beartic cambia a Poliwrath y A Bocajarro (Experimental)",
+      "detail": "Beartic ➜ cambiar a Gengar  Otra Vez ; +2 no Velocidad ",
+      "variant": []
+    },
+    {
+      "detail": "Mienshao ➜ cambiar a Gengar Otra Vez ; +2 0 Velocidad ",
+      "variant": []
+    },
+    {
+      "detail": "Metagross ➜ abrir con Pantalla Luz ; Gengar  Otra Vez ; Maquinación ; permanecer con Gengar +4 0 Velocidad Serperior  a salud completa; Gengar sin amenaza  / cambiar para seguir fortaleciendo ; Curar  tras Golpe Crítico ",
+      "variant": []
+    },
+    {
+      "detail": "Gallade ➜ cambiar a Gengar +4 0 Velocidad  NO usar Otra Vez ; si se elimina la quemadura puede entrar Chandelure +2 +2 ",
       "variant": []
     }
   ]
