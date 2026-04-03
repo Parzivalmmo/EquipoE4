@@ -2,27 +2,14 @@
   "id": "altaria",
   "name": "Altaria",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Swampert → Cambiar a Excadrill y luego a Chandelure, al enfrentarse a Gyarados usar Truco para bloquear Cascada, luego entra Poliwrath con +6+2. También puedes usar A Bocajarro para eliminar a Milotic // Eelektross Levitación. Si Chandelure ha caído y Poliwrath tiene al menos 75% de PS, entra Scrafty, luego cambia a Poliwrath para boostear.",
+      "detail": "Eelektross ➜ Gengar Otra Vez ; Maquinación",
       "variant": []
     },
     {
-      "detail": "Registeel → Cambiar a Scrafty y observar el movimiento.",
-      "variant": [
-        {
-          "detail": "Si usa Terremoto, entra Scrafty con +2, puedes usar Puño Drenaje más Paliza para derrotar a Milotic.",
-          "variant": []
-        },
-        {
-          "detail": "TERREMOTO CON RESTOS, Scrafty +1 + Raíz Energía + Píldora de Ataque / A Bocajarro para Milotic",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "Registeel → Sacrificar a Metagross, luego entra Poliwrath con +6 y curación con Raíz Energía, luego subir +2 Velocidad. Puedes usar A Bocajarro para matar a Milotic.",
+      "detail": "Registeel ➜ Gallade Otra Vez  +2  +2 ",
       "variant": []
     }
   ]
