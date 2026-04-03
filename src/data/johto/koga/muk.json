@@ -2,14 +2,10 @@
   "id": "muk",
   "name": "Muk",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A CHANDELURE",
+  "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "Puño Fuego → Truco para encerrar Puya Nociva / Sombra Vil, Excadrill 4+2.",
-      "variant": []
-    },
-    {
-      "detail": "Contra Rhydon o Rhyperior → Truco para encerrar Terremoto, Excadrill 4+2.",
+      "detail": "Samurott ➜ cambiar a Gengar ; usar Otra Vez +6 +2 para presionar; ante Rhyperior, cambiar a Gallade +2 +2",
       "variant": []
     }
   ]
