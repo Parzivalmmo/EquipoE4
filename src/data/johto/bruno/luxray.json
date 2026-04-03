@@ -2,10 +2,10 @@
   "id": "luxray",
   "name": "Luxray",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "Cambiar a Gengar Otra vez Y bola Sombra ",
   "tricks": [
     {
-      "detail": "Bloquear a Steelix, luego Cloyster +6.",
+      "detail": "Steelix➜ Gallade otra vez +4 +2 (tiene robustez) ",
       "variant": []
     }
   ]
