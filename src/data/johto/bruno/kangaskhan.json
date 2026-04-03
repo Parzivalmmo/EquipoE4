@@ -2,10 +2,18 @@
   "id": "kangaskhan",
   "name": "Kangaskhan",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "PUÑO TRUENO",
+  "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "STEELIX → Cloyster +4 + Especial X / Carámbano para Heracross",
+      "detail": "Frente a Heracross ➜ cambiar a Gengar usar Otra Vez ; cambiar a Jirachi",
+      "variant": []
+    },
+    {
+      "detail": "Steelix ➜ cambiar a Gallade+2 +2 ; se queda encerrado por Cinta elegida ",
+      "variant": []
+    },
+    {
+      "detail": "Frente a Kangaskhan ➜ usar Rayo ; frente a Steelix cambiar a Gallade +2 +2  por Cinta Elegida  ",
       "variant": []
     }
   ]
