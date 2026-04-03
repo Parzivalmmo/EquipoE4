@@ -2,10 +2,14 @@
   "id": "gliscor",
   "name": "Gliscor",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "💡Pantalla Luz💡(crobat banda focus)",
   "tricks": [
     {
-      "detail": "Encerrar en Terremoto, Cloyster +6. Mátalos a todos con Carámbano",
+      "detail": "Lucario ➜ Gengar (ghost) usar Otra Vez (Encore); cambiar a Jirachi",
+      "variant": []
+    },
+    {
+      "detail": "Skuntank ➜ Chandelure +2 +2 (22); Dragonite resiste daño; Danza Dragón  x2; de nuevo listo para presionar",
       "variant": []
     }
   ]
