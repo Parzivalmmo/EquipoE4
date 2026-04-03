@@ -2,14 +2,18 @@
   "id": "blastoise",
   "name": "Blastoise",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨 Gengar Otra Vez Jirachi",
+  "initialMove": "🪨TrampaRocas🪨 ",
   "tricks": [
     {
-      "detail": "Bloquear a SEISMITOAD, luego Cloyster +4. Dos Poder Oculto para matar a Seismitoad. / Metagross Surf",
+      "detail": "Absol ➜ cambiar a Gengar  y luego a Jirachi; (lanzallamas para gengar)",
       "variant": []
     },
     {
-      "detail": "Bloquear a QUAGSIRE, luego Cloyster +6. / Carámbano para Houndoom y Absol / Surf para Gengar",
+      "detail": "Houndoom ➜ cambiar a Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Se queda  ➜ usar Protección  frente a Houndoom cambiar a Chandelure +2 +2 ; mantenerse con Otra Vez y cambiar a Chandelure +2 +2 ",
       "variant": []
     }
   ]
