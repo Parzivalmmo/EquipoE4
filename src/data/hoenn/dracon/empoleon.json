@@ -2,14 +2,14 @@
   "id": "empoleon",
   "name": "Empoleon",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A POLIWRATH",
+  "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "Empoleon no se retira ➝ cambia a Excadrill y matalo (si entra Gallade), cambia a Chandelure y usa Truco para bloquear, luego entra Scrafty con +4 o tambien +2 y Poción X de Ataque. // Si Chandelure es derrotado, usar una Danza Dragón adicional.",
+      "detail": "Gallade ➜ Gengar Otra Vez +6 +2 (banda focus gallade)",
       "variant": []
     },
     {
-      "detail": "Contra Krookodile: Excadrill 4+2 y luego poner Trampa Rocas.",
+      "detail": "",
       "variant": []
     }
   ]
