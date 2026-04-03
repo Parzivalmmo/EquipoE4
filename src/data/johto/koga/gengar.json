@@ -2,14 +2,10 @@
   "id": "gengar",
   "name": "Gengar",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "GASTA RECURSOS PERO RÁPIDO → Excadrill 6+2, luego pone Trampa Rocas. / Terremoto para matar a Gengar.",
-      "variant": []
-    },
-    {
-      "detail": "AHORRAR RECURSOS PERO LENTO → Excadrill hace Danza Espada una vez, luego pone Trampa Rocas, Cloyster +6.",
+      "detail": "Crobat ➜ usar contador frente a Rhyperior; Gallade usar Otra Vez +6 +2 ",
       "variant": []
     }
   ]
