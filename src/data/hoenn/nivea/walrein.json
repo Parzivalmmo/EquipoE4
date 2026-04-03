@@ -2,14 +2,14 @@
   "id": "walrein",
   "name": "Walrein",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRAMPA ROCAS (SI SE QUEDA USA AMORTIGUADOR)",
+  "initialMove": "🪨TRAMPA ROCAS🪨 (SI SE QUEDA USA AMORTIGUADOR)",
   "tricks": [
     {
       "detail": "Mienshao → Gengar Otra Vez y Maquinacion luego pushea hasta Chansey y Bostea +6",
       "variant": []
     },
     {
-      "detail": "Beartic → Gengar Otra Vez +2",
+      "detail": "Beartic → Gengar Otra Vez +2 no velo ",
       "variant": []
     },
     {
@@ -20,7 +20,7 @@
           "variant": []
         },
         {
-          "detail": "Estrageia segura → Cambia Jirachi despues usa Rayo luego usa Otra Vez y entra Gallade o Chandelure 2+2",
+          "detail": "Estrategia segura → Cambia Jirachi despues usa Rayo luego usa Otra Vez y entra Gallade o Chandelure 2+2",
           "variant": []
         }
       ]
@@ -30,7 +30,7 @@
       "variant": []
     },
     {
-      "detail": "Hariyama → Gengar Otra Vez 4+2",
+      "detail": "Hariyama → Gengar Otra Vez 4+2 ( rayo a froslass)",
       "variant": []
     }
   ]
