@@ -1,25 +1,7 @@
-{
+   {
   "id": "serperior",
   "name": "Serperior",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
-  "tricks": [
-    {
-      "detail": "NIDOQUEEN → Excadrill +6 Ataque +2 Velocidad.",
-      "variant": []
-    },
-    {
-      "detail": "PODER OCULTO → Cambiar a Chandelure.",
-      "variant": [
-        {
-          "detail": "Si no cambia → Scrafty +3. / Usar a Bocajarro para debilitar a Togekiss, Paliza para vencer a Metagross.",
-          "variant": []
-        },
-        {
-          "detail": "Nidoqueen → Usar Truco para bloquear con Tierra Viva , luego Excadrill +6 Atq +2 Vel. // Si por error queda bloqueado con Surf → Poliwrath +6 Atq +4 Vel. / A confirmar.",
-          "variant": []
-        }
-      ]
-    }
-  ]
+  "initialMove": "💡Pantalla luz 💡 Frente a Metagross Cambia a Gengar Otra Vez +4 no velo ",
+  "tricks": []
 }
