@@ -2,59 +2,35 @@
   "id": "gardevoir",
   "name": "Gardevoir",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "Whiscash o Lanturn, usa Excadrill +4+2. Si por sorpresa recibe Escaldar, entra Poliwrath +6+2. Puede usar A Bocajarro para eliminar a Milotic.",
+      "detail": "Eelektross ➜ Gengar  Otra Vez ; Maquinación ",
       "variant": []
     },
     {
-      "detail": "Milotic, usa Poliwrath +6+2. (Primero Tambor) Puede usar A Bocajarro para eliminar a Milotic.",
-      "variant": [
-        {
-          "detail": "Si el rival cambia a Togekiss después del Tambor, usa A Bocajarro para eliminarlo. Luego si aparece Roserade, cambia a Scrafty y observa el movimiento:",
-          "variant": [
-            {
-              "detail": "Si usa Psíquico, Scrafty +3",
-              "variant": []
-            },
-            {
-              "detail": "Si lanza Bomba Lodo, entra Excadrill +4+2.",
-              "variant": []
-            }
-          ]
-        }        
-      ]
-    },
-    {
-      "detail": "Registeel, coloca Trampa Rocas y luego entra Excadrill +2+2.",
+      "detail": "Registeel ➜ Dragonite Otra Vez  Danza Dragón +2 ",
       "variant": []
     },
     {
-      "detail": "Bola Sombra, entra Scrafty +3.",
+      "detail": "Se queda ➜ cambiar a Jirachi Otra Vez ",
       "variant": []
     },
     {
-      "detail": "Esfera Aural, cambia a Chandelure y utiliza Truco",
-      "variant": [
-        {
-          "detail": "Si Gardevoir no se retira, entra Scrafty +3.",
-          "variant": []
-        },
-        {
-          "detail": "Si aparece Milotic, entra Poliwrath +6+2 // Si el rival cambia a Togekiss después del Tambor, usa A Bocajarro para eliminarlo. Luego si aparece Vileplume, cambia a Scrafty y observa el movimiento:",
-          "variant": [
-            {
-              "detail": "Si usa Psíquico, Scrafty +3",
-              "variant": []
-            },
-            {
-              "detail": "Si lanza Bomba Lodo, entra Excadrill +4+2.",
-              "variant": []
-            }
-          ]
-        }        
-      ]
+      "detail": "Onda Certera / Esfera Aural  ➜ Gengar +4  +2 ; Chandelure +2 +2 si no tiene Vidasfera  en Gardevoir, Gengar +4 para Bisharp",
+      "variant": []
+    },
+    {
+      "detail": "Bola Sombra  ➜ cambiar a Dragonite; observar objeto de Gardevoir )",
+      "variant": []
+    },
+    {
+      "detail": "Vidasfera  ➜ Danza Dragón +1  curar  + ataque x ; Garra Dragón  a Milotic",
+      "variant": []
+    },
+    {
+      "detail": "Restos  ➜ Dragonite Danza Dragón +2 ",
+      "variant": []
     }
   ]
 }
