@@ -2,15 +2,6 @@
   "id": "electrode",
   "name": "Electrode",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨TrampaRocas🪨 Pantalla luz cambia a gallade +4 +2 ",
   "tricks": [
     {
-      "detail": "Garchomp → entra Cloister +6 +Pildora Directo. / Si no, todo con ataques de Carámbano. Puede salir Feraligatr pero no hay peligro.",
-      "variant": []
-    },
-    {
-      "detail": "Rayo → entra Excadrill, pone Trampa Rocas 4+2. Si viene Garchomp, cambio a Chandelure y uso Truco, lo dejo bloqueado en Terremoto. Luego entra Cloister +6 +Pildora Directo. / Si no, barre con Carámbano.",
-      "variant": []
-    }
-  ]
-}
