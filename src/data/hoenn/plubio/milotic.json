@@ -2,81 +2,135 @@
   "id": "milotic",
   "name": "Milotic",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "GAFAS ELEGIDAS, entra Poliwrath +6+2.",
-      "variant": [
-        {
-          "detail": "Gardevoir hace un golpe crítico que derrota a Poliwrath, cambia a Chandelure y usa Truco para bloquear, luego entra Scrafty +3. // Si después entra Registeel, usa A Bocajarro para eliminarlo.",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "CASCO DENTADO, entra Poliwrath +6+2. Usa A Bocajarro para eliminar a Walrein o Milotic",
-      "variant": [
-        {
-          "detail": "Si el rival cambia a Togekiss después del Tambor, usa a Bocajarro para eliminarlo. Luego si aparece Roserade, cambia a Scrafty y observa el movimiento:",
-          "variant": [
-            {
-              "detail": "Si usa Psíquico, Scrafty +3",
-              "variant": []
-            },
-            {
-              "detail": "Si lanza Bomba Lodo, entra Excadrill +4+2",
-              "variant": []
-            }
-          ]
-        },        
-        {
-          "detail": "Si entra Gyarados tras el Tambor, cambia a Chandelure y usa Truco para bloquear Cascada.",
-          "variant": [
-            {
-              "detail": "Si Chandelure cae, cambia a Metagross, usa objeto curativo fuerte en Poliwrath, y luego entra Poliwrath +6+2",
-              "variant": []
-            },
-            {
-              "detail": "Si Chandelure sobrevive, cura a Poliwrath, cambia a Scrafty y luego a Poliwrath +6+2",
-              "variant": []
-            }
-          ]
-        }       
-      ]
-    },
-    {
-      "detail": "REGISTEEL, revisa su objeto:",
-      "variant": [
-        {
-          "detail": "Cinta Experto: entra Excadrill +4+2",
-          "variant": []
-        },
-        {
-          "detail": "Baya Atania: entra Excadrill con Trampa Rocas puesta +2+2",
-          "variant": []
-        },
-        {
-          "detail": "Gafas Elegidas: entra Excadrill +2+2",
-          "variant": []
-        }
-      ]
-    },    
-    {
-      "detail": "METAGROSS, usa Chandelure con Lanzallamas para debilitarlo. Luego si entra Whiscash o Milotic, entra Poliwrath +6+2. Usa A Bocajarro para derrotar a Milotic o Walrein. // Si se congela utiliza Cura Total",
+      "detail": "Se queda ➜ abrir Pantalla de Luz ; para observar habilidad ",
       "variant": []
     },
     {
-      "detail": "Whiscash o Lanturn, entra Excadrill +4+2. // Si recibe escaldado por sorpresa, entra Poliwrath +6+2. Usa A Bocajarro para eliminar a Milotic.",
+      "detail": "Surf ➜ Dragonite +3; NO usar Otra Vez ",
       "variant": []
     },
     {
-      "detail": "Swampert, cambia a Excadrill y luego a Chandelure. Entra Gyarados, usa Truco para bloquear Cascada. Entra Poliwrath +6+2. Usa A Bocajarro para eliminar a Milotic.",
-      "variant": [
-        {
-          "detail": "Si Chandelure fue debilitado y Poliwrath tiene 75% de salud, cambia a Scrafty y luego entra Poliwrath para potenciarse.",
-          "variant": []
-        }
-      ]
+      "detail": "Escaldar  ➜ abrir Pantalla de Luz; usar Amortiguador ",
+      "variant": []
+    },
+    {
+      "detail": "Frente a Dragonite / Amortiguador frente a Dragonite ➜ contador  para debilitar ",
+      "variant": []
+    },
+    {
+      "detail": "Frente a Ballena/Whalefish ➜ cambiar a Jirachi; cambiar a Gallade Otra Vez  +4 +2 Velocidad ; probando ?",
+      "variant": []
+    },
+    {
+      "detail": "Abrir Pantalla de Luz  y sale Gardevoir ➜ cambiar a Gengar  frente a Empoleon; cambiar a Dragonite Otra Vez Danza Dragón +3 ",
+      "variant": []
+    },
+    {
+      "detail": "Chansey  quemado ➜ cambiar a Jirachi Otra Vez   Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Cambiar a Dragonite Otra Vez ; sale Walrein o Dewgong ➜ cambiar a Chandelure +2 +2 ; Chandelure resiste Rayo Hielo ",
+      "variant": []
+    },
+    {
+      "detail": "Frente a Dragonite con velocidad para perseguir ➜ cambiar a Jirachi Otra Vez ; Chandelure +2 +2 ; Chandelure Energibola  ; pisar Trampa Rocas Milotic",
+      "variant": []
+    },
+    {
+      "detail": "Sale Carpa/Empoleon ➜ cambiar a Dragonite Otra Vez Danza Dragón +3 ",
+      "variant": []
+    },
+    {
+      "detail": "Hidrobomba (hydro pump) ➜ sacrificar a Chandelure; Dragonite +3; NO usar Otra Vez ",
+      "variant": []
+    },
+    {
+      "detail": "Dragonite ➜ cambiar a Jirachi Otra Vez ; cambiar a Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Eelektross ➜ cambiar a Gengar  Otra Vez (  cambiar a Jirachi",
+      "variant": []
+    },
+    {
+      "detail": "Registeel ➜ observar objeto ",
+      "variant": []
+    },
+    {
+      "detail": "Restos (Leftover) ➜ cambiar a Gengar; Maquinación  presionar  presionar hasta Swampert; cambiar a Dragonite Otra Vez  Danza Dragón +3",
+      "variant": []
+    },
+    {
+      "detail": "Sin Restos  ➜ cambiar a Gallade",
+      "variant": []
+    },
+    {
+      "detail": "Onda Certera  ➜ cambiar a Gengar +4 +2 ; NO usar Otra Vez ; Gafas elegidas ",
+      "variant": []
+    },
+    {
+      "detail": "Sale Eelektross ➜ Tajo  debilitar frente a Milotic  sacrificar a Gengar; cambiar a Danza Dragón +2 ; NO usar Otra Vez; Pañuelo elegido  bloqueo automático )",
+      "variant": []
+    },
+    {
+      "detail": "Bloqueo Hielo  ➜ Gallade +2 +2  NO usar Otra Vez ",
+      "variant": []
+    },
+    {
+      "detail": "Mienshao ➜ cambiar a Gengar  ataca ",
+      "variant": []
+    },
+    {
+      "detail": "Registeel / Milotic ➜ cambiar a Chansey ; cambiar a Jirachi",
+      "variant": []
+    },
+    {
+      "detail": "Eelektross ➜ Rayo ; Otra Vez  ; Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Metagross ➜ cambiar a Gengar  Otra Vez  +4 ",
+      "variant": []
+    },
+    {
+      "detail": "Eelektross ➜ cambiar a Jirachi; Protección  + Otra Vez ; Chandelure +2 +2 ; Chandelure resiste",
+      "variant": []
+    },
+    {
+      "detail": "Registeel ➜ Dragonite Otra Vez  Danza Dragón +3 ",
+      "variant": []
+    },
+    {
+      "detail": "Gardevoir ➜ abrir Pantalla de Luz ; cambiar a Jirachi Otra Vez ",
+      "variant": []
+    },
+    {
+      "detail": "Bola Sombra  ➜ cambiar a Chansey  usar Amortiguador",
+      "variant": []
+    },
+    {
+      "detail": "Empoleon ➜ Dragonite Otra Vez  Danza Dragón +4 ; si hay velocidad para perseguir  no usar Otra Vez , usar Danza Dragón +2  + ataque x",
+      "variant": []
+    },
+    {
+      "detail": "Esfera Aural  ➜ Chandelure +2 +2  / Gengar  +4 +2  )",
+      "variant": []
+    },
+    {
+      "detail": "Frente a Togekiss ➜ Otra Vez ; Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Empoleon ➜ cambiar a Jirachi; cambiar a Dragonite Otra Vez  Danza Dragón +4; si hay velocidad para perseguir  no usar Otra Vez  usar Dragonite Danza Dragón +2 + ataque x ",
+      "variant": []
+    },
+    {
+      "detail": "Roserade (蔷薇) [probando / testing] ➜ cambiar a Jirachi Otra Vez (Encore); Chandelure +2 +2 ",
+      "variant": []
     }
   ]
 }
