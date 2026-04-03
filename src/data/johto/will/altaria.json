@@ -1,34 +1,32 @@
 {
-    "id": "altaria",
-    "name": "Altaria",
-    "image": "/placeholder.svg?height=80&width=80",
-    "initialMove": "TRUCO",
-    "tricks": [
-      {
-        "detail": "LLAMARADA: Cambia Scrafty +Def. Esp X + 2 +Raiz Energia Si estas en rojo. + 1 Danza Dragón. (Crítico de Llamarada baja 46.2%)",
-        "variant": [
-          {
-            "detail": "Si Altaria mata a Scrafty Por Criticó Cambia Chandelure usa una vez Lanzallamas, luego entra Poliwrath frente a Empoleon, cambia a Chandelure y usa Truco para Encerrar en Cascada,cambia Poliwrath 2 Veces tambor + Velocidad X. / Puño Hielo para matar a Alakazam.",
-            "variant": []
-          }
-        ]
-      },
-      {
-        "detail": "LANZALLAMAS Es [Zorua Disfrazado] : Cambia a Chandelure usa Truco para cambiar el ítem, luego cambia Scrafty +4.(Si Metagross murió o está quemado, haz otra Danza Dragón Extra.)",
-        "variant": []
-      },
-      {
-        "detail": "CLEFABLE: cambia a Chandelure.",
-        "variant": [
-          {
-            "detail": "Lucario o Gardevoir, usa Truco para Encerrar en Triturar, Pulso Umbrío o Bola Sombra, Scrafty +2.",
-            "variant": []
-          },
-          {
-            "detail": "Si Clefable no se va, Scrafty 1 + usa Raíz Energía para curar y boostear otra vez.",
-            "variant": []
-          }
-        ]
-      }
-    ]
-  }
+  "id": "altaria",
+  "name": "Altaria",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "💡 Pantalla luz 💡",
+  "tricks": [
+    {
+      "detail": "Stantler ➜ Poner Trampa Rocas ; cambiar a Gengar ; Otra Vez",
+      "variant": []
+    },
+    {
+      "detail": "Alakazam ➜ cambiar a Jirachi; Otra Vez ",
+      "variant": []
+    },
+    {
+      "detail": "Altaria ➜ cambiar a Chansey ; Cuerpo Pesado ; sacar a Alakazam ",
+      "variant": []
+    },
+    {
+      "detail": "Bola Sombra  ➜ Dragonite Danza Dragón x1; curar crítico ",
+      "variant": []
+    },
+    {
+      "detail": "Onda Certera  ➜ Dragonite Danza Dragón x1 o Gengar  +2 +2 ; Otra Vez; Atacar ",
+      "variant": []
+    },
+    {
+      "detail": "Lucario ➜ Gengar  Otra Vez ; cambiar a Jirachi Otra Vez ; Chandelure +2 +2",
+      "variant": []
+    }
+  ]
+}
