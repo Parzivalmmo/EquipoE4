@@ -2,18 +2,22 @@
   "id": "haxorus",
   "name": "Haxorus",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "METAGROSS / KANGASKHAN → Cloyster +4",
+      "detail": "hacer la ruta mas rapido ➜ sacrificar a Chansey ; Gengar  Otra Vez  +4 no velo ; Otra Vez ; y atacar  a (Haxorus con Banda Focus)",
       "variant": []
     },
     {
-      "detail": "Dragonite → Chandelure usa Bola Sombra, entra Kangaskhan, Cloyster +4",
+      "detail": "Asegurar victoria  ➜ cambiar a Gengar ; usar Bola Sombra ",
       "variant": []
     },
     {
-      "detail": "TERREMOTO → Cloyster +4",
+      "detail": "Dragonite ➜ Jirachi Otra Vez ; Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Permanecer para romper Banda Focus ➜ Jirachi Otra Vez; Gallade +2 +2  o Chandelure +2 +2",
       "variant": []
     }
   ]
