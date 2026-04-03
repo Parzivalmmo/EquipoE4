@@ -2,67 +2,63 @@
   "id": "lanturn",
   "name": "Lanturn",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "💡Pantalla luz 💡",
   "tricks": [
     {
-      "detail": "Registeel, entra Excadrill +4+2",
+      "detail": "Registeel ➜ Dragonite Otra Vez  Danza Dragón +3 ; Otra Vez frente a Cuerpo Pesado ; si hay velocidad para perseguir  usar Danza Dragón +1  + ataque x ",
       "variant": []
     },
     {
-      "detail": "Milotic, entra Poliwrath +6+2. Puede usar A Bocajarro para eliminar a Milotic.",
-      "variant": [
-        {
-          "detail": "Si el rival cambia a Togekiss después del Tambor, usa A Bocajarro para eliminarlo. Luego si aparece Vileplume, cambia a Scrafty y observa el movimiento:",
-          "variant": [
-            {
-              "detail": "Si usa Psíquico, Scrafty +3",
-              "variant": []
-            },
-            {
-              "detail": "Si lanza Bomba Lodo, entra Excadrill +4+2",
-              "variant": []
-            }
-          ]
-        }        
-      ]
-    },
-    {
-      "detail": "Ludicolo, entra Poliwrath +6+2.",
+      "detail": "Dragonite ➜ Jirachi Otra Vez ; Chandelure +2 +2 ",
       "variant": []
     },
     {
-      "detail": "Rayo, entra Excadrill +4+2. Luego usa Terremoto para eliminar a Ludicolo / Roserade.",
+      "detail": "Registeel ➜ cambiar a Jirachi; cambiar a Dragonite Otra Vez  +3; si en el equipo de reserva está Milotic, (se sugiere subir a +4)",
       "variant": []
     },
     {
-      "detail": "Casco Dentado + Escaldar, entra Poliwrath +6+2.",
+      "detail": "Gardevoir ➜ cambiar a Jirachi; cambiar a Gengar Otra Vez  +4 +2 ",
       "variant": []
     },
     {
-      "detail": "Baya Ziuela + Escaldar, entra Poliwrath +6+2. Puede usar A Bocajarro para eliminar a Milotic.",
+      "detail": "Se queda  ➜ usar Amortiguador  para confirmar el equipo; mantener el uso de Amortiguador",
       "variant": []
     },
     {
-      "detail": "Restos + Escaldar, observa si Escaldar causa quemadura o golpe crítico:",
-      "variant": [
-        {
-          "detail": "Si causa quemadura o crítico, entra Poliwrath +6+2.",
-          "variant": []
-        },
-        {
-          "detail": "Si no hay quemadura ni crítico, cambia a Chandelure y observa:",
-          "variant": [
-            {
-              "detail": "Si Lanturn no se retira, entra Poliwrath +6+2",
-              "variant": []
-            },
-            {
-              "detail": "Si aparece Registeel, entra Excadrill +4+2",
-              "variant": []
-            }
-          ]
-        }
-      ]
+      "detail": "Empoleon ➜ cambiar a Dragonite Otra Vez; Danza Dragón +4 (si Milotic tiene Casco Dentado , se puede intentar Terremoto  contra Milotic)",
+      "variant": []
+    },
+    {
+      "detail": "Roserade ➜ cambiar a Jirachi; Rayo ",
+      "variant": []
+    },
+    {
+      "detail": "Milotic ➜ Dragonite Danza Dragón +2 ; NO usar Otra Vez ",
+      "variant": []
+    },
+    {
+      "detail": "Registeel ➜ Dragonite Otra Vez   Danza Dragón +4 ",
+      "variant": []
+    },
+    {
+      "detail": "Milotic ➜ cambiar a Gallade usar defensa especial x  +2 +2  si no hay suficiente HP, curar ; este equipo tiene parálisis molesta; usar a Chansey  para bloquear Rayo Hielo; si bloquea movimiento de agua, entonces Danza Dragón",
+      "variant": []
+    },
+    {
+      "detail": "Dragonite ➜ Jirachi Otra Vez; Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Milotic ➜ cambiar a Jirachi; Rayo ",
+      "variant": []
+    },
+    {
+      "detail": "Ludicolo ➜ Otra Vez  manual; cambiar a Dragonite Danza Dragón +2 ; atacar; si hay golpe crítico usar medicina para curar ",
+      "variant": []
+    },
+    {
+      "detail": "Roserade ➜ Protección  para ver habilidad; si usa Poder Oculto  cambiar a Chandelure +2 +2 ",
+      "variant": []
     }
   ]
 }
