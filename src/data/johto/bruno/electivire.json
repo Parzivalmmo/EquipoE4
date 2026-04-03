@@ -2,32 +2,35 @@
   "id": "electivire",
   "name": "Electivire",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "Aggron o Golem → Cloister 4+ +Especial X, usa Surf para acabar con Metagross y Hitmonp",
+      "detail": "Metagross ➜ cambiar a Gengar  usar Otra Vez ; cambiar a Jirachi",
       "variant": []
     },
     {
-      "detail": "Lanzallamas → Chandelure usa Truco, luego Excadrill 4+2.",
+      "detail": "Muk ➜ cambiar a Chandelure +2 +2 ; (tiene pañuelo)",
       "variant": []
     },
     {
-      "detail": "Gigalith → Cloister 4.",
+      "detail": "Salamence ➜ usar Otra Vez  cambiar a Chandelure +2 +2 )",
       "variant": []
     },
     {
-      "detail": "Slowbro → elegir según situación.",
-      "variant": [
-        {
-          "detail": "Para quitar velocidad → pon Roca Afilada, entra Aggron, luego Cloister 4+ , usa Surf para matar a Conkeldurr.",
-          "variant": []
-        },
-        {
-          "detail": "Para ahorrar → pon Trampa Rocas, entra Aggron, luego Cloister 4, usa Surf para matar a Conkeldurr.",
-          "variant": []
-        }
-      ]
-    }    
+      "detail": "Machamp ➜ cambiar a Gengar  usar Otra Vez  cambiar a Jirachi",
+      "variant": []
+    },
+    {
+      "detail": "Salamence (variante) ➜ cambiar a Jirachi usar Otra Vez  cambiar a Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Muk (rápido) ➜ cambiar a Chandelure +2 +2 (",
+      "variant": []
+    },
+    {
+      "detail": "Golem ➜ cambiar a Dragonite usar Otra Vez) + Danza Dragón x2; usar Otra Vez atacar )",
+      "variant": []
+    }
   ]
 }
