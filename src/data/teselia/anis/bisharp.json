@@ -5,80 +5,52 @@
   "initialMove": "Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Eelektross ➜ Gengar Otra Vez +4 +2 (Si cambia mira abajo)",
-      "variant": [
-        {
-          "detail": "Dragonite ➜ Jirachi Usa Otra Vez ➜ Chandelure +2 +2",
-          "variant": []
-        },
-        {
-          "detail": "Si usa Patada Baja + Vidasfera ➜ Gengar Otra vez +4 +2 o cambiar a Chandelure +2 +2 (Rayo/Energibola para Froslass)",
-          "variant": [
-            {
-              "detail": "Jellicent ➜ Chansey Amortiguador si no cambia usa Pantalla Luz cambia a Dragonite +4 usa X Especial para aguantar (no ir con baja vida?)",
-              "variant": [
-                {
-                  "detail": "Persian ➜ Jirachi Protección Otra vez a Chandelure cambia a tu Chandelure +2 +2",
-                  "variant": []
-                },
-                {
-                  "detail": "Gliscor ➜ Jirachi ➜ Gallade Otra Vez +4 +2",
-                  "variant": []
-                }
-              ]
-            },
-            {
-              "detail": "Toxicroak ➜ Gengar ➜ Chansey entra tu Gengar y entra Toxicroak ➜ Gallade +2 +2 (Dragonite x4 Danza Dragón)(Garra Dragón Umbreon/Toxi Scarf)",
-              "variant": []
-            }
-          ]
-        },
-        {
-          "detail": "Dragonite ➜ Gengar Cambia a Jirachi otra vez ➜ Chandelure +2 +2",
-          "variant": []
-        },
-        {
-          "detail": "Vidasfera + Cabeza de Hierro ➜ Chansey Amortiguador entra Eelektross Cambia a Gengar +4 +2",
-          "variant": []
-        },
-        {
-          "detail": "Dragonite ➜ Jirachi Otra vez ➜ Chandelure +2 +2 (Energibola Froslass)",
-          "variant": []
-        },
-        {
-          "detail": "Eelektross ➜ Gengar Otra Vez +4 +2 (Rayo Froslass tiene Cuerpo Maldito)",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "Dragonite ➜ Jirachi Otra vez ➜ Chandelure +2 +2 (Energibola Frosslass)",
+      "detail": "Mantenerse --> para ver la habilidad.",
       "variant": []
     },
     {
-      "detail": "Bisharp no cambió ➜ Jirachi Protección ↓",
+      "detail": "Patada Baja ➡ Amortiguador cuatro veces.",
       "variant": []
     },
     {
-      "detail": "Chandelure ➜ Cambia a Chansey Amortiguador ↓",
+      "detail": "Patada Baja ➡ Volcarona con 3 Danza Aleteo.",
       "variant": []
     },
     {
-      "detail": "Eelektross ➜ Cambia a Gengar Otra Vez ➜ Jirachi ↓",
+      "detail": "Si muere por patada --> Gengar +2 +2 +1 precisión.",
       "variant": []
     },
     {
-      "detail": "Dragonite ➜ Otra vez Cambia a Chandelure +2 +2",
+      "detail": "Cabeza de Hierro ➡ Cambiar a Slowbro y usar Bostezo frente a Chandelure o Eelektross; sacrificar a Politoed , Poliwrath +6 (Puño H Frosslas Dragonite Cascada)",
       "variant": []
     },
     {
-      "detail": "Bisharp ➜ Contador ➜ si sale Eelektross (entra Gengar Otra vez ➜ Jirachi ↓)",
-      "variant": [
-        {
-          "detail": "Dragonite ➜ Otra vez Chandelure +2 +2",
-          "variant": []
-        }
-      ]
+      "detail": "Eelektross ➡ Gengar usa Otra Vez , cambiar a Slowbro",
+      "variant": []
+    },
+    {
+      "detail": "Mantenerse ➡ Bostezo ",
+      "variant": []
+    },
+    {
+      "detail": "Gengar ➡ Protección , cambiar de Poliwrath a Chandelure; Volcarona  con 2 Danza Aleteo.",
+      "variant": []
+    },
+    {
+      "detail": "Chandelure ➡Protección , Bostezo  frente a Gengar, Teletransporte ; Volcarona  con 2 Danza Aleteo.",
+      "variant": []
+    },
+    {
+      "detail": "Dragonite ➡ Bostezo , sacrificar a Politoed, Poliwrath +6  (Puño H Frosslas Dragonite Cascada)",
+      "variant": []
+    },
+    {
+      "detail": "Toxicroak ➡ Cambiar a Slowbro , Bostezo  frente a Chandelure; sacrificar a Politoed , Poliwrath  +6.",
+      "variant": []
+    },
+    {
+      "detail": "Dragonite ➡ Cambiar a Slowbro y usar Bostezo ; sacrificar a Politoed , Poliwrath +6) (Puño H Frosslas Dragonite Cascada)",
+      "variant": []
     }
   ]
 }
