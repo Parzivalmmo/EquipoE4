@@ -2,114 +2,66 @@
   "id": "bisharp",
   "name": "Bisharp",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Trampa rocas 🪨",
+  "initialMove": "🔔Revisar objeto🔔",
   "tricks": [
     {
-      "detail": "Honchkrow ➜ Gengar Otra vez +6 +2 (Pañuelo Elegido Krookodile)",
+      "detail": "Globo Helio --> Amortiguador frente a Samurott, Gengar +2 +2 +1 precisión",
       "variant": []
     },
     {
-      "detail": "Garchomp ➜ Dragonite Cambia a Jirachi Otra vez ↓",
+      "detail": "test --> --> Encanto  contra samurot , usar Amortiguador ante Tyranitar , sacrificar a Politoed , entrar con Poliwrath +6.",
       "variant": []
     },
     {
-      "detail": "Terremoto ➜ Dragonite 2 Danza Dragón",
+      "detail": "Sin Globo Helio --> 🪨TrampaRocas🪨",
       "variant": []
     },
     {
-      "detail": "Llamarada ➜ Chandelure +2 +2",
+      "detail": "Se Queda --> Teletransporte entra Slowbro  Bostezo, sacrificar a Politoed, entra Poliwrath +6 🔔Usar Protec y bostezo a serperior🔔 ",
       "variant": []
     },
     {
-      "detail": "Colmillo Fuego ➜ Chandelure +2 +2",
-      "variant": [
-        {
-          "detail": "Haxorus ➜ Amortiguador Cambia a Gengar Otra Vez +4 +2",
-          "variant": []
-        },
-        {
-          "detail": "Samurott ➜ Gengar (Bisharp Pañuelo)",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "🎈 Globo Helio Bisharp ➜ Gengar ➜ Otra Vez ➜ Gallade (mata a Tyranitar) ➜ Chansey (Amortiguador)",
-      "variant": [
-        {
-          "detail": " Si sale Samurott ➜ Gengar Otra Vez +4 +2",
-          "variant": []
-        },
-        {
-          "detail": "Bisharp ➜ Matar con Contador",
-          "variant": [
-            {
-              "detail": "Si sale Samurott ➜ Gengar Otra Vez +4 +2",
-              "variant": []
-            },
-            {
-              "detail": "Si sale Serperior ➜ Jirachi Otra Vez ➜ Chandelure +2 +2",
-              "variant": []
-            }
-          ]
-        },
-        {
-          "detail": "Si sale Serperior (Ruta alternativa) ➜ Jirachi Otra Vez ➜ Chandelure +2 +2",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "Bisharp sin Globo Helio ➜ Gengar Otra Vez +4 +2",
+      "detail": "Scrafty --> cambiar a Slowbro y usar Bostezo frente a Chandelure; sacrificar a Politoed, entrar con Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Staraptor ➜ Gengar +4 +2 (Staraptor Pañuelo Elegido)",
+      "detail": "Honchkrow --> cambiar a Slowbro y usar Bostezo frente a Chandelure; sacrificar a Politoed, entrar con Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "absol ➜ Gengar Otra Vez +4 sin velo (ataca a absol Banda focus)",
+      "detail": "Absol --> Gengar +2 + precisión + Otra Vez",
       "variant": []
     },
     {
-      "detail": "Bisharp ➜ Chansey Amortiguador (se queda saca Gengar otra vez +2 ataca y mira quien sale) Gengar +4 (luxray Pañuelo)",
+      "detail": "Garchomp --> Teletransporte para ver movimiento",
       "variant": []
     },
     {
-      "detail": "Salamance ➜ Mata a Salamance (si sale bisharp mira la ruta de bisharp arriba)",
+      "detail": "Terremoto --> sacar a Slowbro y usar Bostezo para ver si es Golpe Crítico ",
       "variant": []
     },
     {
-      "detail": "Mantener ➜ para ver habilidad",
+      "detail": "Sin Critico --> (mantener) Bostezo frente a Chandelure, sacrificar a Politoed, entrar con Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Cabeza de Hierro ➜ Amortiguador forzar cambio del rival",
-      "variant": [
-        {
-          "detail": "Haxorus ➜ Amortiguador, Fantasma Otra Vez +4 +2",
-          "variant": []
-        },
-        {
-          "detail": "Staraptor ➜ Gengar +4 x Defensa . (No usar Otra Vez)",
-          "variant": []
-        },
-        {
-          "detail": "Garchomp ➜ Cambiar a Jirachi Otra Vez, Chandelure +2 +2",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "Patada Salto Alta ➜Gengar Otra Vez +2 0",
+      "detail": "Con Critico --> sacrificar a Politoed, entrar con Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Demolición ➜ Amortiguador frente a Samurott Fantasma Otra Vez +4 +2",
+      "detail": "Colmillo Ígneo --> sacar a Slowbro y (mantener) Bostezo frente a Chandelure, sacrificar a Politoed, entrar con Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Scrafty ➜ Chandelure +2 +2",
+      "detail": "Staraptor --> Slowbro y usar Bostezo frente a Chandelure; sacrificar a Politoed, entrar con Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Samurott --> cambiar a Slowbro y usar Bostezo; sacrificar a Politoed, entrar con Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Haxorus --> cambiar a Slowbro y usar Bostezo frente a Chandelure; sacrificar a Politoed, entrar con Poliwrath +6 🔔si Haxorus se queda, continuar usando Bostezo🔔",
       "variant": []
     }
   ]
