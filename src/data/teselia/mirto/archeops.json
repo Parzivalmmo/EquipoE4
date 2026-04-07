@@ -2,14 +2,10 @@
   "id": "archeops",
   "name": "Archeops",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡 Cambia a Jirachi 💡 (nota💡Excadrill item elegido) a volcarona ➜ terremoto a conkeldur lanzallamas) ",
+  "initialMove": "👻SACRIFICA A GENGAR👻",
   "tricks": [
     {
-      "detail": "Excadrill ➜ Dragonite x4 danza dragon ",
-      "variant": []
-    },
-    {
-      "detail": "Se queda ➜ Otra Vez ➜ Chandelure +2 +2 o Dragonite x4 danza dragon (energibola mata a vaporeon)",
+      "detail": "Volcarona ➜ Saca a Slowbro y usa Bostezo luego sacrifica al sapito y entra poliwrath +6",
       "variant": []
     }
   ]
