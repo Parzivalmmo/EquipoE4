@@ -2,15 +2,6 @@
   "id": "gothitelle",
   "name": "Gothitelle",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡 Pantalla luz 💡 ",
-  "tricks": [
-    {
-      "detail": "𝙈𝙚𝙩𝙖𝙜𝙧𝙤𝙨𝙨 ➜ Gengar Otra Vez, cambia a Gallade para debilitar a Umbreon (va a salir Staraptor con Pañuelo Elegido)",
-      "variant": []
-    },
-    {
-      "detail": "𝙎𝙩𝙖𝙧𝙖𝙥𝙩𝙤𝙧 ➜ Gengar +4 no velo (Staraptor con Pañuelo Elegido)",
-      "variant": []
-    }
-  ]
+  "initialMove": "💡Teletransporte, sacar a Volcarona frente a Metagross; al enfrentar a Staraptor va usar sacrificio y cambia a Gengar +6 y +1 precisión (No usar Otra Vez)💡",
+  "tricks": []
 }
