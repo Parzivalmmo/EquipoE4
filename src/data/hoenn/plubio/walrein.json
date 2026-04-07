@@ -2,11 +2,6 @@
   "id": "walrein",
   "name": "Walrein",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Pantalla luz 💡",
-  "tricks": [
-    {
-      "detail": "Metagross ➜ Gengar  Otra Vez +4  +2 ; si tiene velocidad para perseguir no es necesario usar Velocidad X; riesgo de golpe crítico ; protegerse/salvarse ",
-      "variant": []
-    }
-  ]
+  "initialMove": "🐸 CAMBIA AL SAPITO LUEGO ENTRA METAGROSS Y DEJA QUE LO MATE DESPUES ENTRA POLIWRATH +6 🐸 🚨(SI MUERE POR CRITICO ENTRA GENGAR 4+2)🚨",
+  "tricks": []
 }
