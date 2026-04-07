@@ -27,16 +27,16 @@
         {
           "detail": "Gengar derrota con critico a Aggron → Termina de pujar",
           "variant": []
+        },
+        {
+          "detail": "Aggron derrota a Gengar (no activa cuerpo maldito) → Saca a Volcarona y derrotalo, sale Slowbro, +1",
+          "variant": []
+        },
+        {
+          "detail": "Aggron derrota a Gengar (Activa cuerpo maldito) → Volcarona +1",
+          "variant": []
         }
       ]
-    },
-    {
-      "detail": "Aggron derrota a Gengar (no activa cuerpo maldito) → Saca a Volcarona y derrotalo, sale Slowbro, +1",
-      "variant": []
-    },
-    {
-      "detail": "Aggron derrota a Gengar (Activa cuerpo maldito) → Volcarona +1",
-      "variant": []
     }
   ]
 }
