@@ -2,27 +2,33 @@
   "id": "staraptor",
   "name": "Staraptor",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Jirachi 🪨TrampaRocas🪨 ",
+  "initialMove": "Cambia a Slowbro",
   "tricks": [
     {
-      "detail": "Staraptor con Pañuelo elegido  ➜ cambiar a Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Cambiar a Chandelure y sale Krookodile ➜ cambiar a Chansey  trampa rocas; si sale Machamp, cambiar a Gengar usar Otra Vez cambiar a Jirachi frente a Krookodile; cambiar a Dragonite con Danza Dragón  x3; Krookodile con Pañuelo Elegido ",
-      "variant": []
-    },
-    {
-      "detail": "Trampa rocas  frente a Krookodile  ➜ cambiar a Dragonite +4; No usar Otra Vez (kroko pañuelo ",
-      "variant": []
-    },
-    {
-      "detail": "Frente a Steelix ➜ cambiar a Gallade ; No usar Otra Vez  +2 +2  se queda encerrado ",
-      "variant": []
-    },
-    {
-      "detail": "Krookodile ➜ cambiar a Gallade  No usar Otra Vez  +4 +2  Krookodile se queda encerrado ",
-      "variant": []
+      "detail": "Tiene Vidaesfera → Bostezo.",
+      "variant": [
+        {
+          "detail": "Se queda → Teletransporte → Chansey, trampa rocas, Teletransporte → Gengar, Otra Vez, +2 +2 precisión X.",
+          "variant": []
+        },
+        {
+          "detail": "Heracross → Protección, cambia a Chansey, sale Steelix. Pon trampa rocas y manten Amortiguador hasta el cambio.",
+          "variant": [
+            {
+              "detail": "Machamp → Gengar, Otra Vez → Chansey, sale Staraptor → Gengar, Otra Vez, +2 +2 precisión X.",
+              "variant": []
+            },
+            {
+              "detail": "Staraptor → Gengar, Otra Vez, +2 +2 precisión X.",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "No tiene Vidaesfera → Bostezo, sale Lucario → Teletransporte → Volcarona +2. (HP por encima 17%).",
+          "variant": []
+        }
+      ]
     }
   ]
 }
