@@ -2,77 +2,83 @@
   "id": "chandelure",
   "name": "Chandelure",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Trampa rocas",
+  "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "Absol ➜ Gengar Otra vez Cambia a Jirachi ➜ Chandelure +2 +2",
-      "variant": [
-        {
-          "detail": "También Puedes usar Amortiguador ➜ Gengar Otra vez +4 +2",
-          "variant": [
-            {
-              "detail": "Onda Certera ➜ Amortiguador / si no cambia es Zoroark usa Amortiguador ↓",
-              "variant": [
-                {
-                  "detail": "Dragonite ➜ Gengar Otra Vez +4 +2 (Rayo mata a Bisharp)",
-                  "variant": []
-                },
-                {
-                  "detail": "Bronzong ➜ Chansey Amortiguador Va a Entrar Dragonite Mete a Gengar Otra vez +4 +2",
-                  "variant": []
-                }
-              ]
-            },
-            {
-              "detail": "Dragonite ➜ Jirachi Otra vez ➜ Chandelure +2 +2 (poder oculto Dragonite)",
-              "variant": [
-                {
-                  "detail": "Toxicroak ➜ Gengar Cambia a Chansey ➜ Gengar ↓",
-                  "variant": []
-                }
-              ]
-            },
-            {
-              "detail": "Toxicroak ➜ Gallade +2 +2 o Dragonite +4 danza dragon",
-              "variant": []
-            },
-            {
-              "detail": "Hydreigon Amortiguador, Pantalla luz/Amortiguador entra Golurk, Gengar Otra vez +4 +2 (bola sombra Hydreigon)",
-              "variant": []
-            }
-          ]
-        },
-        {
-          "detail": "Lucario ➜ Gengar Otra Vez ➜ (Cambia a Gallade Para matar a Umbreon y si sale rotom sigue los pasos de abajo)",
-          "variant": [
-            {
-              "detail": "Mata a Rotom Lavado ➜ Jolteon/chandelure ➜ chansey cambia a jirachi Otra vez ➜ Chandelure +2 +2",
-              "variant": []
-            },
-            {
-              "detail": "Gallade y si te sale en frente a jolteon ➜ Chansey Pantalla luz ➜ entra lucario cambia Gengar ↓",
-              "variant": []
-            }
-          ]
-        },
-        {
-          "detail": "Lucario: Gengar ➜ Jirachi Encore ➜ Chandelure +2 +2",
-          "variant": []
-        },
-        {
-          "detail": "Eelektross ➜ Gengar Otra Vez +4 +2 (bola sombra gengar)",
-          "variant": []
-        },
-        {
-          "detail": "Dragonite ➜ Gengar +2 Mata hasta que froslass/lucario salgan ↓",
-          "variant": [
-            {
-              "detail": "Froslass/Lucario ➜ Chansey Amortiguador Va Entrar Eelektross ➜ Gengar Otra vez +4 +2 (si sale bisharp al final cambia por chansey y matalo con contador)",
-              "variant": []
-            }
-          ]
-        }
-      ]
+      "detail": "Onda Certera, mantenerse 【Zoroark】 --> cambiar a Gengar .",
+      "variant": []
+    },
+    {
+      "detail": "Mantenerse --> Gengar  4, 2 + 1 precisión .",
+      "variant": []
+    },
+    {
+      "detail": "Dragonite --> cambiar a Chansey , cambiar a Gengar; Gengar hace doble clic para debilitar frente a Bisharp; sacrificar a Politoed , entrar con Poliwrath +6 (cascada Cofa , Bronzong )",
+      "variant": []
+    },
+    {
+      "detail": "Eelektross --> Gengar  usa Otra Vez , cambiar a Slowbro .",
+      "variant": []
+    },
+    {
+      "detail": "Mantenerse --> usar Bostezo .",
+      "variant": []
+    },
+    {
+      "detail": "Gengar --> usar Protección, cambiar de Poliwrath a Chandelure; Volcarona  con 2 Danza Aleteo.",
+      "variant": []
+    },
+    {
+      "detail": "Chandelure --> usar Protección, Bostezo frente a Gengar, Teletransporte ; Volcarona  con 2 Danza Aleteo.",
+      "variant": []
+    },
+    {
+      "detail": "Dragonite --> usar Bostezo, sacrificar a Politoed , entrar con Poliwrath +6(puño H Froslass ,Cascada dragonite)",
+      "variant": []
+    },
+    {
+      "detail": "Hydreigon --> Gengar +6 +2 con Onda Certera contra (Purugly/Snorlax).",
+      "variant": []
+    },
+    {
+      "detail": "Ida y Vuelta  activa Cuerpo Maldito  --> Gengar usa Otra Vez , cambiar a Poliwrath  para absorber el daño y debilitar.",
+      "variant": []
+    },
+    {
+      "detail": "Cambiar a Milotic --> cambiar a Chansey , usar Amortiguador para atraer a Golurk; entrar con Gengar  secuencia +6 +2.",
+      "variant": []
+    },
+    {
+      "detail": "Toxicroak --> cambiar a Slowbro , Bostezo  frente a Chandelure; sacrificar a Politoed , entrar con Poliwrath +6).",
+      "variant": []
+    },
+    {
+      "detail": "Lucario --> Gengar  +4 +2 +1 precision x .",
+      "variant": []
+    },
+    {
+      "detail": "Absol --> Gengar +4 +2 .",
+      "variant": []
+    },
+    {
+      "detail": "Dragonite --> Slowbro  usa Bostezo.",
+      "variant": []
+    },
+    {
+      "detail": "Chandelure --> usar Protección y Bostezo.",
+      "variant": []
+    },
+    {
+      "detail": "Segundo Chandelure --> usar Protección y Bostezo frente a Bisharp; sacrificar a Politoed , entrar con Poliwrath +6 (cascada Cofa , Bronzong)",
+      "variant": []
+    },
+    {
+      "detail": "Bisharp --> sacrificar a Politoed , entrar con Poliwrath +6 (cascada Cofa , Bronzong )",
+      "variant": []
+    },
+    {
+      "detail": "Eelektross / Lucario --> sacrificar a Politoed  entrar con Poliwrath 6 (puño H Froslass)",
+      "variant": []
     }
   ]
-}             
+}
