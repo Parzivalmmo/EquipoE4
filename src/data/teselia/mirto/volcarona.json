@@ -13,8 +13,28 @@
       "variant": []
     },
     {
-      "detail": "Patada Salto  vida verde ➜ Otra Vez inmediato , Rayo  frente a Excadrill, cambia a Dragonite, cambia a Jirachi Otra Vez inmediato  bloquea Terremoto ), cambia a Dragonite Otra Vez x2 Danza Dragón  + Ataque X; no fijar Lucario a Gengar directamente, Tierra debilita a Volcarona ",
-      "variant": []
+      "detail": "Excadrill ➜ Sacrifica a Gengar luego entra Slowbro y usa Bostezo",
+      "variant": [
+        },
+        { 
+          "detail": "Si se queda ➜ Sacrifica al sapito y entra Poliwag +6 (Identifica quien sale primero)",
+          "variant": [
+            },
+            { 
+              "detail": "Sale primero Vanilluxe ➜ Toma una velocidad X y sigue Pusheando",
+              "variant": []
+            },
+            {     
+              "detail": "Sale primero Volcarona ➜ Push completo (Sigue barriendo)🥊",
+              "variant": []
+            } 
+          ]
+        },
+        { 
+          "detail": "Entra Volcarona ➜ Sacrifica al sapito y entra Poliwrath 6+2 (Puño drenaje contra Volcarona)",
+          "variant": []
+        }
+      ]
     },
     {
       "detail": "Escavalier/ Magcargo ➜ Cambia a Slowbro y usa Bostezo frente a Volcarona, despues sacrifica al sapito luego entra poliwrath +6 (Puño drenaje contra Volcarona)",
@@ -31,6 +51,10 @@
     {
       "detail": "Braviary ➜ Cambia a Slowbro y usa Bostezo frente a Volcarona luego sacrifica al sapito y entra Poliwrath +6",
       "variant": []
-    }
-  ]
+        }
+      ]
+    }  
+  ] 
 }
+  
+
