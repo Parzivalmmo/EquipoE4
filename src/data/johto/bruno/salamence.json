@@ -2,71 +2,51 @@
   "id": "salamence",
   "name": "Salamence",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨",
+  "initialMove": "💡Revisa la Habilidad💡",
   "tricks": [
     {
-      "detail": "Vidasfera + Garra Dragón  ➜ cambiar a Jirachi",
-      "variant": []
+      "detail": "Intimidación → Amortiguador",
+      "variant": [
+        {
+          "detail": "Machamp → Gengar, Otra Vez, +4 +2. Utiliza Otra Vez cada que puedas.",
+          "variant": [
+            {
+              "detail": "Sale Metagross → Chansey, amortiguador. sale Blaziken → Gengar +4 +2. (Otra Vez no es necesario).",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "Blaziken → Gengar +4 +2 (Otra Vez no es necesario).",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "Hitmonlee ➜ Jirachi usa Otra Vez ; Dragonite con Danza Dragón (dance) x5 / Gallade +4 +2  Dragonite +4; movimiento aleatorio contra Steelix",
-      "variant": []
-    },
-    {
-      "detail": "Se queda ➜ usar Otra Vez  cambiar a Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Metagross ➜ cambiar a Gengar  usa Otra Vez  + Maquinación; presionar hasta Muk; usar Maquinación  para ver el movimiento ",
-      "variant": []
-    },
-    {
-      "detail": "Otros  ➜ presionar ",
-      "variant": []
-    },
-    {
-      "detail": "Sombra Vil  ➜ cambiar a Dragonite usa Otra Vez + Danza Dragón  x2",
-      "variant": []
-    },
-    {
-      "detail": "Blaziken ➜ cambiar a Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Frente a Machamp  ➜ Gengar  usa Otra Vez  +4 +2",
-      "variant": []
-    },
-    {
-      "detail": "Metagross ➜ rematar; frente a Blaziken cambiar a Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Salamence ➜ rematar ",
-      "variant": []
-    },
-    {
-      "detail": "Machamp ➜ cambiar a Chansey , luego a Gengar  usar Otra Vez  +4 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Eelektross ➜ cambiar a trampa roca  usar Amortiguador ",
-      "variant": []
-    },
-    {
-      "detail": "Blaziken ➜ Gengar  +4 +2  Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Hitmonlee ➜ cambiar a Jirachi usa Otra Vez ; Gallade  +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Metagross ➜ cambiar a Gengar usar Otra Vez + Maquinación  presionar hasta Muk y luego Maquinación  + presionar; si Metagross no huye de la Otra Vez  presionar directamente +4 no velo ",
-      "variant": []
-    },
-    {
-      "detail": "Golem ➜ cambiar a Dragonite usa Otra Vez  + Danza Dragón  x2 + Otra Vez  atacar  (Golem con Baya de baya chiri )",
-      "variant": []
+      "detail": "Sin Intimidación → Trampa Rocas.",
+      "variant": [
+        {
+          "detail": "Metagross → Slowbro, Bostezo → Politoed (sacrificar), Poliwrath +6.",
+          "variant": []
+        },
+        {
+          "detail": "Hitmonlee → Gengar, Bola Sombra.",
+          "variant": [
+            {
+              "detail": "Lo derrotas, sale Machamp → Continua bola sombra → Slowbro, Bostezo. sale Salamence → Teletransporte → Volcarona +1.",
+              "variant": []
+            },
+            {
+              "detail": "Cambia a Machamp → Slowbro, Bostezo. sale Salamence → Teletransporte → Volcarona +1.",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "Golem → Encanto, Amortiguador hasta que salga Metagross → Slowbro, Bostezo → Politoed (sacrificar), Poliwrath +6.",
+          "variant": []
+        }
+      ]
     }
   ]
 }
