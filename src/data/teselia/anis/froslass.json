@@ -2,20 +2,15 @@
   "id": "froslass",
   "name": "Froslass",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Trampa rocas 🪨",
+  "initialMove": "🪨Trampa rocas🪨",
   "tricks": [
     {
-      "detail": "Eelektross ➜ Gengar Otra Vez +4 +2",
+      "detail": "Eelektross --> Gengar usa Otra Vez , cambiar de Slowbro a Dragonite; usar Bostezo , sacrificar a Politoed , entra con Poliwrath +6 (Puño H Froslass Cascada Dragonite.",
       "variant": []
     },
     {
-      "detail": "Dragonite ➜ Gengar +2 Ataca y cuando sale Froslass/Lucario ↓",
-      "variant": [
-        {
-          "detail": "Froslass/Lucario ➜ Chansey Amortiguador Va salir Eelektross ➜ Gengar Otra vez +4 +2 (si sale Bisharp al final Mete a Chansey y después Chandelure y mátalo)",
-          "variant": []
-        }
-      ]
+      "detail": "Dragonite --> cambiar a Slowbro y usar Bostezo ; sacrificar a Politoed , entrar con Poliwrath +6 (puño h Froslass, Cascada Dragonite).",
+      "variant": []
     }
   ]
 }
