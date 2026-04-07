@@ -2,10 +2,14 @@
   "id": "torterra",
   "name": "Torterra",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Pantalla luz💡",
+  "initialMove": "💡Varias Opciones💡",
   "tricks": [
     {
-      "detail": "Frente a Darmanitan saca a Chandelure +2 +2 (tiene pañuelo)",
+      "detail": "Ahorro → Amortiguador, sale Darmanitan → Volcarona +3.",
+      "variant": []
+    },
+    {
+      "detail": "Estable → Slowbro, Bostezo → Politoed (sacrificar), Poliwrath +6.",
       "variant": []
     }
   ]
