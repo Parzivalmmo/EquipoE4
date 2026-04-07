@@ -8,7 +8,7 @@
       "detail": "Terremoto --> usar Teletransporte para sacar a Slowbro 🔔 usar Bostezo para ver si el Terremoto es golpe crítico🔔",
       "variant": [
         {
-          "detail": "i no hay crítico --> usar Bostezo continuamente hasta que salga Chandelure ; sacrificar a Politoed y entrar con Poliwrath +6",
+          "detail": "Si no hay crítico --> usar Bostezo continuamente hasta que salga Chandelure ; sacrificar a Politoed y entrar con Poliwrath +6",
           "variant": []
         },
         {
@@ -18,11 +18,11 @@
       ]
     },
     {
-      "detail": "Colmillo Ígneo --> cambiar a Slowbro, usar Bostezo continuamente hasta que salga Chandelure; sacrificar a Politoed y entrar con Poliwrath +6).",
+      "detail": "Colmillo Ígneo --> cambiar a Slowbro, usar Bostezo continuamente hasta que salga Chandelure; sacrificar a Politoed y entrar con Poliwrath +6.",
       "variant": []
     },
     {
-      "detail": "Samurott  --> cambiar a Slowbro  y usar Bostezo; sacrificar a Politoed  y entrar con Poliwrath +6",
+      "detail": "Samurott --> cambiar a Slowbro y usar Bostezo; sacrificar a Politoed y entrar con Poliwrath +6",
       "variant": []
     }
   ]
