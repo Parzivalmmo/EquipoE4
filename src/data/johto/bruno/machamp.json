@@ -5,96 +5,78 @@
   "initialMove": "💡Gengar💡",
   "tricks": [
     {
-      "detail": "Puño Dinámico  ➜ cambiar a Gengar  usar Otra Vez  + Bola Sombra ",
-      "variant": []
+      "detail": "Puño Dinámico ➜ Cambia a Slowbro, bostezo",
+      "variant": [
+        {
+          "detail": "Vendetta → bostezo, sale metagross/eelektross → Politoed (sacrificar), Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Roca Afilada → Bostezo",
+          "variant": [
+            {
+              "detail": "Salamence (sin intimidación) → Chansey, trampa rocas → Gengar frente a Machamp → Chansey → Gengar +6",
+              "variant": []
+            },
+            {
+              "detail": "Eelektross → Chansey → Aggron → Amortiguador → Machamp → Gengar +4",
+              "variant": []
+            },
+            {
+              "detail": "Metagross → Politoed (sacrificar), Poliwrath +6",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "Puño Hielo → Bostezo frente a Metagross → Politoed (sacrificar), Poliwrath +6",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "Con Restos  ➜ Gengar (ghost) +4 +2 ",
-      "variant": []
+      "detail": "Puño Drenaje + Llamaesfera → Gengar, otra vez, +2",
+      "variant": [
+        {
+          "detail": "Se queda → Derrótalo → Steelix → Slowbro, bostezo",
+          "variant": [
+            {
+              "detail": "Se queda → Protección → Bostezo → Heracross → Chansey → Gengar +4 +2 precisión X",
+              "variant": []
+            },
+            {
+              "detail": "Heracross → Chansey → Steelix → Trampa rocas",
+              "variant": [
+                {
+                  "detail": "Machamp → Gengar → Chansey → Staraptor → Gengar +2 +2 precisión X",
+                  "variant": []
+                },
+                {
+                  "detail": "Staraptor → Slowbro → Lucario → Volcarona +2",
+                  "variant": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "detail": "Metagross → Slowbro → Lucario → Volcarona +2",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "Sin Restos➜ Gengar  +2 no velo y ataca ",
-      "variant": []
-    },
-    {
-      "detail": "Metagross ➜ cambiar a Jirachi usar Otra Vez; cambiar a Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Eelektross ➜ usar Rayo  + Otra Vez cambiar a Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Steelix ➜ cambiar a Gallade usar Otra Vez  +4 +2 (",
-      "variant": []
-    },
-    {
-      "detail": "Llama Esfera + Puño Drenaje  ➜ cambiar a Gengar usar Otra Vez ; cambiar a Jirachi",
-      "variant": []
-    },
-    {
-      "detail": "Kangaskhan ➜ jirachi Trampa rocas  ; usar Rayo  frente a Steelix; cambiar a Gallade +2 +2 ; (Steelix Cinta elegida) ",
-      "variant": []
-    },
-    {
-      "detail": "Se Queda  ➜ cambiar a Chansey  usar Amortiguador frente a Heracross; cambiar a Gengar  usar Otra Vez ; cambiar a Gallade para matar a Kangaskhan; cambiar a Jirachi; cambiar a Gengar  usar Otra Vez +4 no velo y ataca",
-      "variant": []
-    },
-    {
-      "detail": "Krookodile ➜ Gallade +2 +2  o Dragonite con Danza Dragón  x2 + Ataque X; No usar Otra Vez ",
-      "variant": []
-    },
-    {
-      "detail": "Steelix ➜ ; Trampa rocas  cambiar a Gallade +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Sin quemadura + Puño Drenaje  ➜ cambiar a Gengar  usar Otra Vez; cambiar a Jirachi",
-      "variant": []
-    },
-    {
-      "detail": "Golem ➜ cambiar a Dragonite usar Otra Vez + Danza Dragón x3",
-      "variant": []
-    },
-    {
-      "detail": "Salamence ➜ usar Otra Vez ; cambiar a Chandelure +2 +2)",
-      "variant": []
-    },
-    {
-      "detail": "Torterra ➜ Dragonite con Danza Dragón  x3; puede resistir el daño; no usar Otra Vez ",
-      "variant": []
-    },
-    {
-      "detail": "Metagross ➜ Trampa tocas ; cambiar a Gengar usar Otra Vez  +2 no velo ; hasta Muk; presionar +4 0 velo ; Muk con Cinta Elección (Choice Band) no es amenaza",
-      "variant": []
-    },
-    {
-      "detail": "Kangaskhan ➜ Jirachi frente a Trampa rocas ",
-      "variant": []
-    },
-    {
-      "detail": "Steelix ➜ Gallade +4 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Heracross ➜ usar Otra Vez  cambiar a Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Metagross ➜ Jirachi Trampa rocas ; cambiar a Gengar  usar Otra Vez  +4 +2 de velocidad ; presionar hasta Muk y luego presionar +4  no velo ",
-      "variant": []
-    },
-    {
-      "detail": "Torterra ➜ Dragonite usar Otra Vez  + Danza Dragón  x3 / Gallade usar Otra Vez  +2 +2 ; Dragonite puede resistir daño; no usar Otra Vez",
-      "variant": []
-    },
-    {
-      "detail": "Krookodile ➜ chansey usa contador ",
-      "variant": []
-    },
-    {
-      "detail": "Staraptor ➜ Gengar +6 +2 ); Staraptor con Pañuelo elegido  ; Krookodile  derrotado +4 no velo ",
-      "variant": []
+      "detail": "Puño Drenaje (Sin llamaesfera) → Slowbro, Bostezo",
+      "variant": [
+        {
+          "detail": "Golem → Teletransporte → Chansey, trampa rocas. Sale Metagross → Gengar, Otra Vez, +2 sigue hasta que salga Golem, otro maquinación y derrotalos.",
+          "variant": []
+        },
+        {
+          "detail": "Eelektross/Torrterra → Politoed (sacrificar), Poliwrath +6",
+          "variant": []
+        }
+      ]
     }
   ]
 }
