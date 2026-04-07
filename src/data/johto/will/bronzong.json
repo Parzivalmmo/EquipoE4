@@ -2,18 +2,23 @@
     "id": "bronzong",
     "name": "Bronzong",
     "image": "/placeholder.svg?height=80&width=80",
-    "initialMove": "💡Cambia a Jirachi💡",
+    "initialMove": "🥚 Amortiguador 🥚",
    "tricks": [
     {
-      "detail": "Flareon ➜ Chandelure +2 +2 ; primero recibir aumento de Ataque Especial ",
-      "variant": []
+      "detail": "Flareon ➜ Gengar, Otra Vez, +2",
+      "variant": [
+          {
+              "detail": "Se queda → Derrótalo, sale Absol → Politoed (sacrificar), Poliwrath +6.",
+              "variant": []
+          },
+          {
+              "detail": "Sale Bronzong → Politoed (sacrificar), Poliwrath +6. (cascada a Bronzong). ",
+              "variant": []
+          }
+      ]
     },
     {
-      "detail": "Absol ➜ cambiar a Chansey ; cambiar a Gengar ; ejecutar con Empoleon para continuar fortaleciéndose ",
-      "variant": []
-    },
-    {
-      "detail": "Flareon ➜ Chandelure +2 +2 ",
+      "detail": "Absol ➜ Gengar, +4 +2 precisión X. (No es necesario Otra Vez)",
       "variant": []
     }
   ]
