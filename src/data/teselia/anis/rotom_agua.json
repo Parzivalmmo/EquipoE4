@@ -2,50 +2,23 @@
   "id": "rotom_agua",
   "name": "Rotom Agua",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Trampa Rocas 🪨",
+  "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "Eelektross ➜ Gengar Otra Vez, Maquinación si no cambia +4 +2 (usa Rayo en Gengar por el cuerpo maldito)",
-      "variant": [
-        {
-          "detail": "Bisharp ➜ Jirachi va entrar Chandelure Tiene Pañuelo elegido ➜ Chandelure +2 +2",
-          "variant": [
-            {
-              "detail": "Se Queda Gengar +4 +2 (Rayo Gengar tiene Cuerpo maldito) Esta Ruta Aplica en Eelektross"
-            }
-          ]
-        },
-        {
-          "detail": "Se Queda Rotom ➜ Dragonite 2 Danza Dragón + Ataque X"
-        }
-      ]
+      "detail": "Lucario --> Gengar +4 +2 +1 precisión",
+      "variant": []
     },
     {
-      "detail": "Lucario ➜ Gengar Otra Vez Cambia a Gallade Mira Abajo",
-      "variant": [
-        {
-          "detail": "A Umbreon Lo matas con Gallade ➜ Chansey Amortiguador"
-        },
-        {
-          "detail": "Lucario ➜ Gengar Otra Vez +4 +2",
-          "variant": [
-            {
-              "detail": "Jolteon ➜ Chansey Pantalla Luz, si Jolteon se queda usa amortiguador",
-              "variant": [
-                {
-                  "detail": "Lucario ➜ Gengar Otra Vez Cambias a Gallade y Matas a Umbreon ➜ Chansey ➜ Jirachi Otra Vez ➜ Chandelure +2 +2"
-                },
-                {
-                  "detail": "Rotom Lavado ➜ Gallade Espada Santa"
-                }
-              ]
-            },
-            {
-              "detail": "Jolteon/Chandelure/Drifblim ➜ Chansey ➜ Jirachi Otra Vez ➜ Chandelure +2 +2"
-            }
-          ]
-        }
-      ]
+      "detail": "Eelektross --> Gengar usa Otra Vez, cambiar a Slowbro y usar Bostezo",
+      "variant": []
+    },
+    {
+      "detail": "Gengar --> usar Protección, cambiar de Poliwrath a Chandelure; Volcarona con 2 Danza Aleteo (🔔Psíquico a Gengar🔔)",
+      "variant": []
+    },
+    {
+      "detail": "Chandelure --> usar Protección y Bostezo frente a Gengar, Teletransporte; Volcarona con 2 Danza Aleteo (🔔Psíquico a Gengar,lanzallamas Chandelure🔔)",
+      "variant": []
     }
   ]
 }
