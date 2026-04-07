@@ -2,30 +2,34 @@
   "id": "dusknoir",
   "name": "Dusknoir",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨 Coloca Trampa Rocas 🪨",
+  "initialMove": "🪨Coloca Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Frente a Aggron ➜ Cambia a Jirachi Protección ",
+      "detail": "Demolición --> Sacrificar a Politoed y entrar con Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Recibir Patada  ➜ Chandelure +2  No velocidad",
+      "detail": "Aggron --> Cambiar a Poliwrath, y rematalo  ",
       "variant": []
     },
     {
-      "detail": "Frente a Seismitoad ➜ Cambia a Chansey Amortiguador; cambia a Gengar  Otra Vez, Bola Sombra frente a Seismitoad; cambia a Gallade Otra Vez +4  +2 (usar Defensa X)",
+      "detail": "Seismitoad / Skarmory --> Cambiar a Chansey y usar Amortiguador ante Conkeldurr; Gengar usa Otra Vez, cambiar a Volcarona ante Seismitoad; Volcarona +1 x especial 🔔si es crítico, ver nota de Seismitoad🔔",
       "variant": []
     },
     {
-      "detail": "se quedan  ➜ Cambia a Jirachi Otra Vez, Chandelure +2 +0 atacar ",
+      "detail": "Conkeldurr --> Gengar usa Otra Vez, cambiar a Volcarona ante Seismitoad; Volcarona +1 x ataque 🔔si es crítico, ver nota de Seismitoad🔔",
       "variant": []
     },
     {
-      "detail": "Breloom ➜ Cambia a Jirachi, cambia a Gengar Otra Vez, cambia a Gallade para debilitar a Tyranitar ",
+      "detail": "Dusknoir --> Sacrificar a Politoed y entrar con Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Gyarados ➜ Cambia a Chansey Amortiguador; cambia a Gengar  Otra Vez +6 +0; si entra  Conkeldurr, cambia a Chansey, cambia a Gengar Otra Vez +6 +0",
+      "detail": "Breloom --> Gengar +4 y precisión",
+      "variant": []
+    },
+    {
+      "detail": "si cambia a Conkeldurr --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed y entrar con Poliwrath +6",
       "variant": []
     }
   ]
