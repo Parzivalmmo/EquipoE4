@@ -5,16 +5,11 @@
   "initialMove": "💡Varias opciones💡 ",
   "tricks": [
     {
-      "details": "Ahorrar $? → Volcarona +3",
-      "Variant":[]
-    },
-    {
-      "details": "Estable → Slowbro, Bostezo → Politoed (sacrificar), Poliwrath +6",
-      "variant": []
-    },
-    {
-      "details": "RNG → Politoed (sacrificar), Poliwrath +6",
-      "variant": []
+      "details": "↓↓",
+      "Variant":[
+  { "detail": "Ahorro $? → Volcarona +3" },
+  { "detail": "Estable → Slowbro, Bostezo → Politoed (sacrificar), Poliwrath +6" },
+  { "detail": "RNG → Politoed (sacrificar), Poliwrath +6" }
     }
   ]
 }
