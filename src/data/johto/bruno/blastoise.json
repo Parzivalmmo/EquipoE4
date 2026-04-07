@@ -2,23 +2,20 @@
   "id": "blastoise",
   "name": "Blastoise",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Pantalla luz💡",
+  "initialMove": " 🥚 Amortiguador 🥚",
   "tricks": [
     {
-      "detail": "Blaziken ➜ cambiar a Chandelure +2 +2 ; se queda encerrado ",
+      "detail": "Blaziken ➜ cambiar a Gengar, se queda encerrado, +4 +2",
       "variant": []
     },
     {
-      "detail": "Puño Incremento  ➜ cambiar a Dragonite y luego a chansey; cambiar a Gengar  usar Otra Vez  +4",
+      "detail": "Hitmonchan  ➜ cambiar a Slowbro, Bostezo a Metagros; cambiar a Politoed (sacrificar), Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Machamp ➜ cambiar a Gengar  usar Otra Vez (Encore) +4 +2 ",
+      "detail": "Machamp ➜ cambiar a Gengar, Otra Vez, +4 +2",
       "variant": []
-    },
-    {
-      "detail": "Maquinación y cambio a Metagross ➜ debilitar  frente a Blaziken; cambiar a Chandelure +2 +2 ",
-      "variant": []
+  
     }
   ]
 }
