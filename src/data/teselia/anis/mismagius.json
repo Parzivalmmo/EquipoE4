@@ -2,10 +2,10 @@
   "id": "mismagius",
   "name": "Mismagius",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Trampa Rocas 🪨",
+  "initialMove": "🪨 Trampa Rocas 🪨 (REVISA NO TENER ACTIVADO EL REPARTIR EXP)",
   "tricks": [
     {
-      "detail": "Toxicroak ➜ Gengar Cambia a Chansey ➜ Gengar va entrar Toxicroak (está encerrado en Terremoto), Dragonite x4 Danza / Gallade +2 +2 no usar Otra Vez",
+      "detail": "Frente a Toxicroak ➜ Cambia a Slowbro y usa bostezo, frente a chandelure sacrifica al sapito despues entra Poliwrath +6",
       "variant": []
     }
   ]
