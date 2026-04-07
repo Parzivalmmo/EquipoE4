@@ -2,22 +2,26 @@
   "id": "eelektross",
   "name": "Eelektross",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Cambia a Chandelure.",
+  "initialMove": "🥚Amortiguador🥚",
   "tricks": [
     {
-      "detail": "Blaziken ➜ cambiar a Chandelure +2 +2 /tiene pañuelo",
+      "detail": "Blaziken ➜ cambiar a Gengar, se queda encerrado +4 +2",
       "variant": []
     },
     {
-      "detail": "Frente a Darmanitan ➜ cambiar a Chandelure +2 +2 tiene pañuelo ",
+      "detail": "Frente a Darmanitan ➜ Varias opciones",
+      "variant": [
+        "detail": "Ahorro $? → Volcarona +3",
+        "detail": "Estable → Slowbro, Bostezo → Politoed (sacrificar), Poliwrath +6",
+        "detail": "RNG → Politoed (sacrificar), Poliwrath +6",    
+      ]
+      },
+    {
+      "detail": "¨Hitmonchan ➜ Cambiar a Slowbro Bostezo, sale Metagross → Politoed (sacrificar), Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Machamp ➜ cambiar a Gengar usar Otra Vez +4 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Puño Incremento ➜ cambiar a Dragonite y luego a chansey ; cambiar a Gengar usar Otra Vez +4",
+      "detail": "Machamp ➜ cambiar a Gengar, Otra Vez, +4 +2",
       "variant": []
     }
   ]
