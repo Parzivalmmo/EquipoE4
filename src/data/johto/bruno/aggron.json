@@ -2,15 +2,12 @@
   "id": "aggron",
   "name": "Aggron",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Contador💡",
-  "tricks": [
+  "initialMove": "💡Encanto💡",
+    "tricks": [
     {
-      "detail": "Machamp ➜ cambiar a Gengar usar Otra Vez +4 no velo",
+      "detail": "Toma Max Poción ➜ Amortiguador contra Machamp ➜ Cambia a Gengar, Otra vez, +4",
       "variant": []
-    },
-    {
-      "detail": "Electrode Explosión ➜ cambiar a Jirachi usar Protección ; frente a Electivire usar Jirachi Otra Vez; cambiar a Chandelure +2 +2",
-      "variant": []
+    
     }
   ]
 }
