@@ -5,31 +5,37 @@
   "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "Metagross ➜ cambiar a Gengar  usar Otra Vez ; cambiar a Jirachi",
+      "detail": "Metagross ➜ cambiar a Slowbro (Mantener contra Golem) → Politoed (sacrificar), Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Muk ➜ cambiar a Chandelure +2 +2 ; (tiene pañuelo)",
+      "detail": "Golem ➜ Encanto, amortiguador → sale Metagross, cambiar a Slowbro, bostezo → Politoed (sacrificar), Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Salamence ➜ usar Otra Vez  cambiar a Chandelure +2 +2 )",
+      "detail": "Machamp → Gengar, Otra Vez, +2",
+      "variant": [
+        {
+          "detail": "Se queda → Gengar +4, Bola Sombra para todos",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Sale Salamence → Puja hasta que salga Aggron",
+      "variant": [
+        {
+          "detail": "Gengar derrota con critico a Aggron → Termina de pujar",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Aggron derrota a Gengar (no activa cuerpo maldito) → Saca a Volcarona y derrotalo, sale Slowbro, +1",
       "variant": []
     },
     {
-      "detail": "Machamp ➜ cambiar a Gengar  usar Otra Vez  cambiar a Jirachi",
-      "variant": []
-    },
-    {
-      "detail": "Salamence (variante) ➜ cambiar a Jirachi usar Otra Vez  cambiar a Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Muk (rápido) ➜ cambiar a Chandelure +2 +2 (",
-      "variant": []
-    },
-    {
-      "detail": "Golem ➜ cambiar a Dragonite usar Otra Vez) + Danza Dragón x2; usar Otra Vez atacar )",
+      "detail": "Aggron derrota a Gengar (Activa cuerpo maldito) → Volcarona +1",
       "variant": []
     }
   ]
