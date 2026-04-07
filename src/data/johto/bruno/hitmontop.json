@@ -2,6 +2,11 @@
   "id": "hitmontop",
   "name": "Hitmontop",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Pantalla luz 💡 Sale Machamp ➜ Gengar +4 no velo ",
-  "tricks": []
+  "initialMove": "🥚Amortiguador🥚",
+  "tricks": [
+    {
+      "detail": "Machamp → Gengar, Otra Vez, +4",
+      "variant": []
+    }
+  ]
 }
