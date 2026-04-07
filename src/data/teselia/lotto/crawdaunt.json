@@ -2,30 +2,40 @@
   "id": "crawdaunt",
   "name": "Crawdaunt",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡 Entra Gengar 💡 (si cambia  Medicham, Chandelure +2 +2)",
+  "initialMove": "💡Entra Gengar💡",
   "tricks": [
     {
-      "detail": "Trueno  ➜ Cambia a Jirachi Protección  frente a Seismitoad; Jirachi Otra Vez, Dragonite x2 Danza dragon",
+      "detail": "A bocajarro --> Gengar +4 y Otra Vez; usar Bola Sombra ",
+      "variant": [
+        {
+          "detail": "Golpe a Banda focus --> Atacar rápido y presionar",
+          "variant": []
+        },
+        {
+          "detail": "Mienshao --> Continuar presionando; 💡si Mienshao no hace crítico y Gengar no cae💡",
+          "variant": [
+            {
+              "detail": "Crítico --> Sacrificar a Politoed; Slowbro usa Bostezo ante Salamence; usar Teletransporte para entrar con Poliwrath +6",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "Gliscor / Gyarados --> Continuar presionando hasta Magnezone; Chansey usa Amortiguador para atraer al tipo lucha; Gengar +6",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Medicham --> Slowbro usa Bostezo",
       "variant": []
     },
     {
-      "detail": "Bloqueo con Otra Vez en Hidrobomba ➜ Cambia a Chansey abrir Pantalla de Luz; frente a Medicham, Chandelure +2 +2; Jugada de riesgo  (Gengar +4 (No usar Otra Vez) / Gengar o Magnezone aleatorio",
+      "detail": "Magnezone --> Protección y Bostezo; sacrificar a Politoed y entrar con Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "A Bocajarro ➜ Gengar  Otra Vez +4, luego Otra Vez, Rayo ",
-      "variant": []
-    },
-    {
-      "detail": "Banda Focus  ➜ Aguantar el golpe y presionar rápido",
-      "variant": []
-    },
-    {
-      "detail": "Mienshao ➜ Presionar Mienshao Banda Focus / Auto-rescate con objeto de curación (Mienshao tiene regenerador y restos banda focus)",
-      "variant": []
-    },
-    {
-      "detail": "Magnezone ➜ Cambia a Chansey Amortiguador, Llave Giro ; Gengar Otra Vez +4",
+      "detail": "Crawdaunt --> Sacrificar a Politoed y entrar con Poliwrath +6",
       "variant": []
     }
   ]
