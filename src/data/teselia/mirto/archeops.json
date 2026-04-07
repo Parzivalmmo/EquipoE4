@@ -2,11 +2,6 @@
   "id": "archeops",
   "name": "Archeops",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "👻SACRIFICA A GENGAR👻",
-  "tricks": [
-    {
-      "detail": "Volcarona ➜ Saca a Slowbro y usa Bostezo luego sacrifica al sapito y entra poliwrath +6",
-      "variant": []
-    }
-  ]
-}
+  "initialMove": "💡Sacrificar a Gengar; Slowbro usa Bostezo al enfrentar a Volcarona; sacrificar a Politoed y entrar con Poliwrath +6 🔔Poliwrath absorbe el ataque de Volcarona🔔",
+  "tricks": []
+}  
