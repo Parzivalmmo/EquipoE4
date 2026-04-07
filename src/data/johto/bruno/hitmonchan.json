@@ -2,10 +2,10 @@
   "id": "hitmonchan",
   "name": "Hitmonchan",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Cambiar a Dragonite despues a Chansey y Gengar otra vez +4 no velo",
+  "initialMove": "Cambia a Slowbro, Bostezo",
   "tricks": [
     {
-      "detail": "Persecución / Velocidad ➜ Gengar  usa Otra Vez  +4 no velo ; aguanta un Puño Trueno ",
+      "detail": "Metagross → Politoed (sacrificar), Poliwrath +6",
       "variant": []
     }
   ]
