@@ -2,14 +2,10 @@
   "id": "tentacruel",
   "name": "Tentacruel",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas 🪨,",
+  "initialMove": "🪨 TRAMPA ROCAS 🪨,",
   "tricks": [
     {
-      "detail": "Eelektross ➜ Gengar  Otra Vez +4 0 Velocidad ; permanecer con Gengar +4 ; y ataca ; Dragonite recibe Cuerpo Pesado; fortalecerse de nuevo",
-      "variant": []
-    },
-    {
-      "detail": "Registeel ➜ Dragonite Otra Vez Danza Dragón x2 ; recibe Cuerpo Pesado; usar Danza Dragón directamente",
+      "detail": "Eelektross ➜ Gengar Otra Vez despues cambia a Slowbro y usa Bostezo contra Milotic luego sacrifica al sapito y entra Poliwrath +6 🥊",
       "variant": []
     }
   ]
