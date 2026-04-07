@@ -6,23 +6,25 @@
   "tricks": [
     {
       "detail": "Absol --> Sacar a Slowbro bostezo al enfrentar a Nidoking; Teletransporte y sacar a Volcarona +1 según la situación 🔔",
-      "variant": []
-    },
-    {
-      "detail": "Quedarse --> psiquico para el nido  y frente Blissey; luego Danza Aleteo dos veces y presionar hasta completar",
-      "variant": []
-    },
-    {
-      "detail": "Blissey --> Danza Aleteo dos veces y presionar hasta completar",
-      "variant": []
-    },
-    {
-      "detail": "Metagross --> Volcarona frente a Staraptor; Gengar +6 y precisión (No usar Otra Vez)",
-      "variant": []
-    },
-    {
-      "detail": "Huir de Milotic --> Cambiar a Chansey para atraer al pájaro; Volcarona +3 🔔gigadrenado y lanzallamas a Umbreon🔔",
-      "variant": []
+      "variant": [
+        {
+          "detail": "Quedarse --> psiquico para el nido  y frente Blissey; luego Danza Aleteo dos veces y presionar hasta completar",
+          "variant": []
+        },
+        {
+          "detail": "Blissey --> Danza Aleteo dos veces y presionar hasta completar",
+          "variant": [
+            {
+              "detail": "Metagross --> Volcarona frente a Staraptor; Gengar +6 y precisión (No usar Otra Vez)",
+              "variant": []
+            },
+            {
+              "detail": "Huir de Milotic --> Cambiar a Chansey para atraer al pájaro; Volcarona +3 🔔gigadrenado y lanzallamas a Umbreon🔔",
+              "variant": []
+            }
+          ]
+        }
+      ]
     }
   ]
 }
