@@ -2,15 +2,6 @@
   "id": "krookodile",
   "name": "Krookodile",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡 Gengar Otra vez chansey 💡",
-  "tricks": [
-    {
-      "detail": "Luxray ➜ Amortiguador / Trampa rocas Luxray Fuerza Bruta  mantener Amortiguador  frente a Conkeldurr",
-      "variant": []
-    },
-    {
-      "detail": "Conkeldurr ➜ Gengar  Otra Vez +4 +2",
-      "variant": []
-    }
-  ]
+  "initialMove": "💡Gengar +2 usar Bola Sombra hasta debilitarlo; si sale Sawk o Luxray, cambiar a Chansey, poner Trampa Rocas hasta que salga Conkeldurr, y entrar con Gengar +4💡si cambia a Gyarados, cambiar a Chansey y volver a atraer💡",
+  "tricks": []
 }
