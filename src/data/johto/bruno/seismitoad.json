@@ -2,10 +2,18 @@
   "id": "seismitoad",
   "name": "Seismitoad",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Pantalla luz💡",
+  "initialMove": "💡Varias Opciones💡",
   "tricks": [
     {
-      "detail": "Frenta a Dramanitan cambia a Gengar +5 no velo no otra vez / chandelure +2 +2 si cambia a torterra cambia a gallade  otra vez +4 +2 ",
+      "detail": "Ahorro → Amortiguador, sale Darmanitan → Volcarona +3.",
+      "variant": []
+    },
+    {
+      "detail": "Estable → Slowbro, Bostezo → Politoed (sacrificar), Poliwrath +6.",
+      "variant": []
+    },
+    {
+      "detail": "RNG → Politoed (sacrificar), Poliwrath +6.",
       "variant": []
     }
   ]
