@@ -2,10 +2,14 @@
   "id": "luxray",
   "name": "Luxray",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Cambiar a Gengar Otra vez Y bola Sombra ",
+  "initialMove": "🪨 Trampa Rocas → Gengar, otra vez, +2",
   "tricks": [
     {
-      "detail": "Steelix➜ Gallade otra vez +4 +2 (tiene robustez) ",
+      "detail": "Se queda ➜ Gengar +6, utiliza Otra Vez cada que puedas. Derrota a todos con bola sombra",
+      "variant": []
+    },
+    {
+      "detail": "Salamence → Derrótalo, sale Machamp → Poliwrath → Gengar, otra vez, +6. Utiliza Otra Vez cada que puedas. Derrota a todos con bola sombra",
       "variant": []
     }
   ]
