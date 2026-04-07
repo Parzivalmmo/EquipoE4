@@ -2,15 +2,6 @@
   "id": "absol",
   "name": "Absol",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Gengar +4 (absol pañuelo elegido)",
-  "tricks": [
-    {
-      "detail": "Bronzong ➜ cambiar a Chansey  Amortiguador ",
-      "variant": []
-    },
-    {
-      "detail": "Flareon ➜ cambiar a Gengar ; cambiar a Chandelure +2 +2 ",
-      "variant": []
-    }
-  ]
+  "initialMove": "Gengar +4 +2 precisión. (No es necesario Otra Vez)",
+  "tricks": []
 }
