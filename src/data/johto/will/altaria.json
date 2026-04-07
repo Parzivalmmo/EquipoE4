@@ -2,30 +2,27 @@
   "id": "altaria",
   "name": "Altaria",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡 Pantalla luz 💡",
+  "initialMove": "🥚 Amortiguador 🥚",
   "tricks": [
     {
-      "detail": "Stantler ➜ Poner Trampa Rocas ; cambiar a Gengar ; Otra Vez",
+      "detail": "Stantler ➜ Gengar, Otra Vez, sale Alakazam",
+      "variant": [
+        {
+          "detail": "Estable → Chansey, Teletransporte → Slowbro, Bostezo, Protección. Sale Roserade → Politoed (sacrificar), Poliwrath +6.",
+          "variant": []
+        },
+        {
+          "detail": "RNG → Slowbro, Bostezo, Protección. Sale Roserade → Politoed (sacrificar), Poliwrath +6.",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Lucario → Gengar, Otra Vez, +6 +2 precisión X.",
       "variant": []
     },
     {
-      "detail": "Alakazam ➜ cambiar a Jirachi; Otra Vez ",
-      "variant": []
-    },
-    {
-      "detail": "Altaria ➜ cambiar a Chansey ; Cuerpo Pesado ; sacar a Alakazam ",
-      "variant": []
-    },
-    {
-      "detail": "Bola Sombra  ➜ Dragonite Danza Dragón x1; curar crítico ",
-      "variant": []
-    },
-    {
-      "detail": "Onda Certera  ➜ Dragonite Danza Dragón x1 o Gengar  +2 +2 ; Otra Vez; Atacar ",
-      "variant": []
-    },
-    {
-      "detail": "Lucario ➜ Gengar  Otra Vez ; cambiar a Jirachi Otra Vez ; Chandelure +2 +2",
+      "detail": "Cambia a Gengar, Lucario → que use ataque de fuego (Zoroark) → Gengar, Otra Vez → Poliwrath +6 +2. ",
       "variant": []
     }
   ]
