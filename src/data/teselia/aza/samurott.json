@@ -5,7 +5,7 @@
   "initialMove": "Cambiar a Slowbro  usar Bostezo 🥱",
   "tricks": [
     {
-      "detail": "Megacuerno --> Cambiar a Exeggutor y usar Amortiguador  frente a Absol; entrar con Gengar +2 x1 precision junto con Otra Vez 🔔Absol Banda focus🔔",
+      "detail": "Megacuerno --> Cambiar a Exeggutor y usar Amortiguador  frente a Daily; entrar con Gengar +2 x1 precision junto con Otra Vez 🔔Absol Banda focus🔔",
       "variant": []
     },
     {
@@ -21,7 +21,10 @@
         },
         {
           "detail": "Tyranitar --> Sacrificar a Politoed y entrar con Poliwrath +6",
-          "variant": [
+          "variant": []
+        }
+      ]
+    },
     {
       "detail": "Mismagius --> Cambiar a Exeggutor  y usar Amortiguador  frente a Absol; entrar con Gengar +2 x1 precision junto con Otra Vez",
       "variant": []
