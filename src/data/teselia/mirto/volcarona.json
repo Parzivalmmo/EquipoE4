@@ -2,14 +2,14 @@
   "id": "volcarona",
   "name": "Volcarona",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨",
+  "initialMove": "🪨TRAMPA ROCAS🪨",
   "tricks": [
     {
-      "detail": "Escavalier ➜ Chandelure +2 +2; se bloquea (cinta elegida )",
+      "detail": "Si se queda ➜ Sacrifica a Gengar despues cambia a Slowbro y usa Bostezo, sacrifica al sapito luego entra poliwrath +6 (Puño drenaje contra Volcarona)",
       "variant": []
     },
     {
-      "detail": "Lucario ➜ Cambia a Gengar mira abajo )",
+      "detail": "Conkeldurr ➜ Cambia a Slowbro y usa Bostezo frente a Volcarona, despues sacrifica al sapito luego entra poliwrath +6 (Puño drenaje contra Volcarona)",
       "variant": []
     },
     {
@@ -17,35 +17,19 @@
       "variant": []
     },
     {
-      "detail": "Otra Vez inmediato Lucario corre hacia Latias ➜ Cambia a Jirachi Otra Vez inmediato  bloquea Esfera Aural , cambia a Chandelure +2 +2",
+      "detail": "Escavalier/ Magcargo ➜ Cambia a Slowbro y usa Bostezo frente a Volcarona, despues sacrifica al sapito luego entra poliwrath +6 (Puño drenaje contra Volcarona)",
       "variant": []
     },
     {
-      "detail": "Otra Vez inmediato corre hacia Volcarona  ➜ Chandelure +2 +2",
+      "detail": "Lucario ➜ Cambia a Slowbro y usa Bostezo despues sacrifica al sapito y entra Poliwrath +6 (Puño drenaje contra Volcarona y Cascada contra Reuniclus) (Si Volcarona despierta no es una amenaza)",
       "variant": []
     },
     {
-      "detail": "Patada Salto  vida en amarillo  ➜ Gengar +2; NO usar Otra Vez ; Lucario Pañuelo Elegido , resiste Puño , crítico auto-rescate; reza por estabilidad, resiste a volcarona  , toma Velocidad X (x speed)",
+      "detail": "Archeops ➜ Sacrifica a Gengar, despues cambia a Slowbro y usa Bostezo frente a Volcarona luego sacrifica al sapito y entra Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "A bocajarro  ➜ Cambia a Jirachi frente a Scrafty Siniestro con Pañuelo Elegido , cambia a Dragonite x3 Danza Dragón ; Tiene pañuelo Usa X defensa  corre hacia Volcarona  no importa",
-      "variant": []
-    },
-    {
-      "detail": "Conkeldurr ➜ Gengar  Otra Vez inmediato si cambia hacia Excadrill (Pañuelo Elegido), Dragonite Danza Dragón x4; Tierra debilita a Volcarona), Galla dragon para  Druddigon",
-      "variant": []
-    },
-    {
-      "detail": "Excadrill ➜ Sacrifica (sack) a Chandelure, cambia a Jirachi Otra Vez (Encore), Dragonite Danza Dragón x3; presiona Tierra debilita a Volcarona (moth)",
-      "variant": []
-    },
-    {
-      "detail": "Danza Llama  ➜ Chandelure +2 +2",
-      "variant": []
-    },
-    {
-      "detail": "Staraptor  ➜ Gengar (ghost) Otra Vez  +4 +2",
+      "detail": "Braviary ➜ Cambia a Slowbro y usa Bostezo frente a Volcarona luego sacrifica al sapito y entra Poliwrath +6",
       "variant": []
     }
   ]
