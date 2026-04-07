@@ -2,42 +2,52 @@
   "id": "metagross_2",
   "name": "Metagross",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Cambia a Jirachi 💡",
+  "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Blaziken ➜ cambiar a Chandelure +2 +2 ; se queda encerrado ",
+      "detail": "Se queda → Slowbro, Bostezo → Politoed (sacrificar), Poliwrath +6.",
       "variant": []
     },
     {
-      "detail": "Darmanitan ➜ cambiar a Chandelure +2 +2 ; se queda encerrado ; frente a Torterra cambiar a Dragonite usar Otra Vez  + Danza Dragón  x3",
+      "detail": "Darmanitan → Varias Opciones ↓",
+      "variant": [
+        {
+          "detail": "Ahorro → Volcarona +3",
+          "variant": []
+        },
+        {
+          "detail": "Estable → Slowbro, Bostezo → Politoed (sacrificar), Poliwrath +6.",
+          "variant": []
+        },
+        {
+          "detail": "RNG → Politoed (sacrificar), Poliwrath +6.",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Hitmonchan → Slowbro, Bostezo. Sale Metagross → Politoed (sacrificar), Poliwrath +6.",
       "variant": []
     },
     {
-      "detail": "Staraptor ➜Trampa rocas  cambiar a Chandelure +2 +2 ; se queda encerrado",
-      "variant": []
+      "detail": "Machamp → Gengar, ver ataque.",
+      "variant": [
+        {
+          "detail": "Puño Dinamico → Slowbro, Bostezo → Politoed (sacrificar), Poliwrath +6.",
+          "variant": []
+        },
+        {
+          "detail": "Puño Drenaje → Gengar, Otra Vez → Chansey, sale Staraptor → Volcarona +2.",
+          "variant":[]
+        }
+      ]
     },
     {
-      "detail": "Hitmonchan ➜ cambiar a Dragonite, luego Chansey , luego a Gengar  usar Otra Vez  +4; ante velocidad  cambiar a Jirachi usar Otra Vez  cambiar a Chandelure +2 +2 ",
-      "variant": []
+      "detail": "Blaziken → Gengar +4 +2 (No uses Otra Vez).",
+      "variant":[]
     },
     {
-      "detail": "Machada  ➜ cambiar a Gengar  usar Otra Vez  +2 no velo  y atacar ; ante Golem cambiar a Dragonite usar Otra Vez  + Danza Dragón  x2 + Otra Vez ",
-      "variant": []
-    },
-    {
-      "detail": "Machamp ➜ revisar objeto ",
-      "variant": []
-    },
-    {
-      "detail": "Llama Esfera  ➜ cambiar a Gengar  usar Otra Vez ; cambiar a Jirachi; ante Krookodile usar Danza Dragón ) x4; No usar Otra Vez ",
-      "variant": []
-    },
-    {
-      "detail": "Sin Llama Esfera  ➜ Gengar  usar Otra Vez  +4 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Correr hacia  ➜ cambiar a Chansey  usar Amortiguador  aguante pesado  Gengar  usar Otra Vez  +4 +2  ante Blaziken No usar Otra Vez ; cambiar a Chandelure +2 +2  o Gengar +4 +2 ",
+      "detail": "Krokodile/Staraptor → Volcarona +2.",
       "variant": []
     }
   ]
