@@ -2,6 +2,18 @@
   "id": "darmanitan",
   "name": "Darmanitan",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡chandelure +2 +2 💡 ",
-  "tricks": []
-}
+  "initialMove": "💡Varias opciones💡 ",
+  "tricks": [
+    {
+      "details": "Ahorrar $? → Volcarona +3",
+      "Variant":[]
+    },
+    {
+      "details": "Estable → Slowbro, Bostezo → Politoed (sacrificar), Poliwrath +6",
+      "variant": []
+    },
+    {
+      "details": "RNG → Politoed (sacrificar), Poliwrath +6",
+      "variant": []
+    }
+  ]
