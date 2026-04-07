@@ -2,103 +2,71 @@
   "id": "conkeldurr",
   "name": "Conkeldurr",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡 Cambia a Gengar 💡",
+  "initialMove": "💡Cambia a Gengar otra vez💡",
   "tricks": [
     {
-      "detail": "Conkeldurr Llamasfera Puño Drenaje ➜ Cambia a Gengar Otra Vez, Bola Sombra frente a Seismitoad; cambia a Chansey Trampa rocas ➜ Gengar Otra Vez +2 +2 (usar Defensa X)",
+      "detail": "A bocajarro + Llamasfera --> Gengar +4 y usar Mismo Destino 🔔ver a quién🔔:",
+      "variant": [
+        {
+          "detail": "Skarmory --> Cambiar a Chansey y usar 🪨Trampa Rocas🪨 al enfrentar a Haxorus; Gengar +4 🔔Bola Sombra a todo🔔",
+          "variant": []
+        },
+        {
+          "detail": "Sawk --> Cambiar a Chansey y usar 🪨Trampa Rocas🪨 al enfrentar a Krookodile; Gengar +4 +2 🔔Bola Sombra a todo🔔",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "A bocajarro + Vidasfera --> Gengar +4 🔔Bola Sombra a todo🔔",
       "variant": []
     },
     {
-      "detail": "Conkeldurr Llamasfera A Bocajarro ➜ Gengar Otra Vez, Maquinación",
+      "detail": "Puño Drenaje + Llamasfera --> Cambiar a Chansey y luego a Seismitoad; usar Encanto",
       "variant": []
     },
     {
-      "detail": "Krookodile ➜ Cambia a Dragonite, cambia a Jirachi Otra Vez, Dragonite x3 danza dragon",
-      "variant": []
-    },
-    {
-      "detail": "Lucario ➜ Cambia a Chansey Trampa roca, cambia a Gengar Otra Vez +4 no velo",
-      "variant": []
-    },
-    {
-      "detail": "Se queda ) ➜ Matalo r",
-      "variant": []
-    },
-    {
-      "detail": "Lucario ➜ Cambia a Chansey Trampa rocas, cambia a Gengar Otra Vez +4 No velo",
-      "variant": []
-    },
-    {
-      "detail": "Krookodile ➜ Cambia a Dragonite, cambia a Jirachi Otra Vez, si vez que es lento matalo",
-      "variant": []
-    },
-    {
-      "detail": "Gyarados ➜ Cambia a Chansey Trampa rocas, quedate y usa Contador; frente a luxray o algun mov tipo lucha cambia a Gengar Otra Vez +2 +0; si el gato se bloquea solo, no usar Otra Vez",
-      "variant": []
-    },
-    {
-      "detail": "Sawk ➜ Cambia a Chansey Trampa rocas; Frente a Luxray Gengar Otra Vez +2 +0; si el gato se bloquea solo, no usar Otra Vez",
-      "variant": []
-    },
-    {
-      "detail": "Skarmory ➜ Cambia a Chansey Trampa rocas, cambia a Gengar Otra Vez +4 +0",
-      "variant": []
-    },
-    {
-      "detail": "Lucario Vida Esfera A Bocajarro ➜ Gengar Otra Vez, Maquinación",
-      "variant": []
-    },
-    {
-      "detail": "Metagross ➜ Dragonite Otra Vez, x4 danza dragon",
-      "variant": []
-    },
-    {
-      "detail": "Golurk ➜ Cambia a Chansey Trampa rocas Gengar Otra Vez +4 +0",
-      "variant": []
-    },
-    {
-      "detail": "Mienshao ➜ Cambia a Chansey, cambia a Gengar Otra Vez +2 +0; presionar a Metagross, Dragonite Otra Vez, x4 Danza Dragon",
-      "variant": []
-    },
-    {
-      "detail": "Se Queda ➜ +4 +0 presionar; (Banda Focus Mienshao)",
-      "variant": []
-    },
-    {
-      "detail": "Puño Drenaje (sin quemadura) ➜ Otra Vez, Bola Sombra",
-      "variant": []
-    },
-    {
-      "detail": "Skarmory con Restos ➜ Gengar +6 +0 presionar",
-      "variant": []
-    },
-    {
-      "detail": "Magnezone ➜ Cambia a Chansey Pantalla de Luz; Gengar Otra Vez +6 +0; frente a Crawdaunt No usar Otra Vez (tiene pañuelo)",
-      "variant": []
-    },
-    {
-      "detail": "Magnezone ➜ Cambia a Chansey Amortiguador",
-      "variant": []
-    },
-    {
-      "detail": "Medicham ➜ Gengar +4 +0, (pañuelo elegido)",
-      "variant": []
-    },
-    {
-      "detail": "Toxicroak / Conkeldurr ➜ Gengar Otra Vez +4 +2; (frente a Toxicroak Gengar Otra Vez +4; frente a Bisharp",
-      "variant": []
-    },
-    {
-      "detail": "Tyranitar ➜ Cambia a Chansey Contador para debilitar; frente a Breloom cambia a Gengar Otra Vez +4 +0; presionar hacia Dusknoir; cambia a Chansey Amortiguador para curar vida al máximo frente a Skarmory; Otra Vez y curar hasta 65%+ HP; +4 +0 presionar con Rayo + Bola Sombra para debilitar a Magnezone. Dusknoir roba a Gengar +6 +0 hacia abajo; cuidado con la curación completa",
-      "variant": []
-    },
-    {
-      "detail": "Se queda y no tiene Restos ➜ +6 +2 debilitar; con este equipo debilitar a Skarmory; si Crawdaunt está en la posición 3 lleva Banda Focus, presionar directamente frente a otros",
-      "variant": []
-    },
-    {
-      "detail": "Crawdaunt Banda Focus (SASH) ➜ Cambia a Chansey, cambia a Gengar Otra Vez +4 +2",
-      "variant": []
+      "detail": "Puño Drenaje + Sin Llamasfera --> Bola Sombra y revisar Restos",
+      "variant": [
+        {
+          "detail": "Tiene Restos --> Gengar +6",
+          "variant": []
+        },
+        {
+          "detail": "Sin Restos --> Maquinación, Otra Vez, cambiar a Slowbro y revisar Vidasfera",
+          "variant": [
+            {
+              "detail": "Tiene Vidasfera --> Usar Bostezo",
+              "variant": []
+            },
+            {
+              "detail": "Sin Vidasfera --> Usar Bostezo",
+              "variant": [
+                {
+                  "detail": "Magnezone --> Cambiar a Chansey y usar Encanto ante Breloom; Gengar +4 y precisión",
+                  "variant": []
+                },
+                {
+                  "detail": "Huir a Conkeldurr --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed y entrar con Poliwrath +6",
+                  "variant": []
+                },
+                {
+                  "detail": "Breloom --> Protección y Bostezo al enfrentar a Magnezone; cambiar a Chansey y usar Amortiguador esperando a Conkeldurr; Gengar +4 y precisión",
+                  "variant": []
+                },
+                {
+                  "detail": "Huir a Gyarados --> Ver Intimidación",
+                  "variant": []
+                },
+                {
+                  "detail": "Huir a Machamp --> Cambiar a Slowbro y usar Bostezo al enfrentar a Emolga; sacrificar a Politoed y entrar con Poliwrath +6",
+                  "variant": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
