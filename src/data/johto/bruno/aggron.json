@@ -3,11 +3,10 @@
   "name": "Aggron",
   "image": "/placeholder.svg?height=80&width=80",
   "initialMove": "❤️ Encanto ❤️",
-    "tricks": [
+  "tricks": [
     {
       "detail": "Toma Max Poción ➜ Amortiguador contra Machamp ➜ Cambia a Gengar, Otra vez, +4",
       "variant": []
-    
     }
   ]
 }
