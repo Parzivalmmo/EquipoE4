@@ -2,30 +2,26 @@
   "id": "nidoqueen",
   "name": "Nidoqueen",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡 Pantalla luz 💡",
+  "initialMove": "💡Usa Teletransporte 💡",
   "tricks": [
     {
-      "detail": "Metagross ➜ Cambia a Gengar Otra Vez, cambia a Gallade para debilitar a Umbreon",
+      "detail": "Absol --> Sacar a Slowbro bostezo al enfrentar a Nidoking; Teletransporte y sacar a Volcarona +1 según la situación 🔔",
       "variant": []
     },
     {
-      "detail": "Staraptor ➜ Gengar +4 no velo (tiene pañuelo)",
+      "detail": "Quedarse --> psiquico para el nido  y frente Blissey; luego Danza Aleteo dos veces y presionar hasta completar",
       "variant": []
     },
     {
-      "detail": "Absol ➜ Gengar Otra Vez, cambia a Jirachi",
+      "detail": "Blissey --> Danza Aleteo dos veces y presionar hasta completar",
       "variant": []
     },
     {
-      "detail": "Metagross ➜ Cambia a Dragonite x3 danza dragon (No usar Otra Vez, tiene pañuelo)",
+      "detail": "Metagross --> Volcarona frente a Staraptor; Gengar +6 y precisión (No usar Otra Vez)",
       "variant": []
     },
     {
-      "detail": "Nidoqueen ➜ Otra Vez, Chandelure +2 +2",
-      "variant": []
-    },
-    {
-      "detail": "Blissey ➜ Chandelure +2 +2; usar movimiento de Fuego para debilitar a Togekiss; (si recibe Tóxico, presionar hasta que Togekiss entre y se cure el veneno)",
+      "detail": "Huir de Milotic --> Cambiar a Chansey para atraer al pájaro; Volcarona +3 🔔gigadrenado y lanzallamas a Umbreon🔔",
       "variant": []
     }
   ]
