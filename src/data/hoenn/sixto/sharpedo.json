@@ -2,22 +2,14 @@
   "id": "sharpedo",
   "name": "Sharpedo",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas",
+  "initialMove": "🪨 Trampa Rocas ,frente a Absol 🪨",
   "tricks": [
     {
-      "detail": "Frente a Absol ➜ Gengar  Otra Vez ; cambiar a Jirachi",
+      "detail": "Rápido --> Gengar +2 +2 + Precisión",
       "variant": []
     },
     {
-      "detail": "Garchomp ➜ Jirachi Otra Vez; bloquear en Colmillo Ígneo ; Chandelure +2 +2 (22); estrategia arriesgada : Dragonite Danza Dragón x3 ; Jirachi y Dragonite NO usar Otra Vez ",
-      "variant": []
-    },
-    {
-      "detail": "Chandelure huye hacia Gyarados ➜ Dragonite Danza Dragón x3 ; NO usar Otra Vez ",
-      "variant": []
-    },
-    {
-      "detail": "Magnezone ➜ cambiar a Chandelure Pantalla de Luz; contador",
+      "detail": "Ahorrar dinero --> Gengar +6 +2; Bola Sombra a todo",
       "variant": []
     }
   ]
