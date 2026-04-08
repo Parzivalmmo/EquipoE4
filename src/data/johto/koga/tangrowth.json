@@ -2,15 +2,20 @@
   "id": "tangrowth",
   "name": "Tangrowth",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨",
+  "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Se queda ➜ cambiar a Jirachi usar Otra Vez ; cambiar a Chandelure +2 +2; usar Otra Vez contra movimientos de Tierra ; cambiar a Gallade +2 +2",
-      "variant": []
-    },
-    {
-      "detail": "Ahorrar dinero en medicinas ➜ cambiar a Chandelure; cambiar a Gallade usar Otra Vez +2 +2",
-      "variant": []
+      "detail": "Teletransporte → Slowbro, Bostezo. (Mira la precisión de Tangrowth) ",
+      "variant": [
+        {
+          "detail": "Golpea → Teletransporte → Volcarona +2.",
+          "variant": []
+        },
+        {
+          "detail": "Falla → Volcarona +2",
+          "variant": []
+        }
+      ]
     }
   ]
 }
