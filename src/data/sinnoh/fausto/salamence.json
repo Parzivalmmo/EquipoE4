@@ -2,46 +2,31 @@
   "id": "salamence",
   "name": "Salamence",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "VER SI TIENE INTIMIDACIÓN",
+  "initialMove": "🔔Usar Trampa Rocas🔔",
   "tricks": [
     {
-      "detail": "Medicham ➜ Gengar frente a Steelix; Gallade Otra Vez  +6 +2 / Dragonite Otra Vez Danza Dragón x2 ; Otra Vez  (Magmortar Cuerpo Llama )",
+      "detail": "Conkeldurr --> Entrar con Gengar +2",
+      "variant": [
+        {
+          "detail": "Si se queda --> Gengar +4 + Precisión",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Salamence --> Atacar hasta debilitar al enfrentar a Steelix; sacrificar a Politoed  entrar con Poliwrath  usar Ataque X y presionar con Cascada (waterfall) a Steelix / Conkeldurr restante con Puño Drenaje ",
       "variant": []
     },
     {
-      "detail": "Conkeldurr ➜ Cambiar a Gengar Otra Vez Maquinación",
+      "detail": "Ludicolo --> Cambiar a Slowbro  y usar Bostezo  sacrificar a Politoed entrar con Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Salamence ➜ Presionar hasta Steelix ; Dragonite Otra Vez  Danza Dragón x3 ; Tierra debilita a Magmortar ",
+      "detail": "Medicham --> Cambiar a Slowbro y usar Bostezo  al enfrentar a Cacturne  entrar con Volcarona  +3, 🔔puede usar Especial X y Gigadrenado a Steelix🔔",
       "variant": []
     },
     {
-      "detail": "Ludicolo ➜ Luego +4 total 6 no velo  y atacar  ",
-      "variant": []
-    },
-    {
-      "detail": "Steelix ➜ Cambiar a Dragonite Otra Vez Danza Dragón x2 ; Otra Vez atacar ",
-      "variant": []
-    },
-    {
-      "detail": "Flareon ➜ Cambiar a Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Haxorus ➜ Amortiguador ; Gengar  Otra Vez (Encore) +6 no velo ",
-      "variant": []
-    },
-    {
-      "detail": "Quedarse con Vidasfera  Colmillo Ígneo  ➜ Amortiguador; cambiar a Gengar  Otra Vez  Maquinación ",
-      "variant": []
-    },
-    {
-      "detail": "Steelix ➜ Cambiar a Dragonite Otra Vez inmediato Danza Dragón x2 ; Otra Vez y atacar ",
-      "variant": []
-    },
-    {
-      "detail": "Salamence ➜ Presionar hasta Steelix ; Dragonite  Otra Vez  Danza Dragón x3 ",
+      "detail": "Haxorus --> Usar Amortiguador o Teletransporte  entrar con Gengar +6",
       "variant": []
     }
   ]
