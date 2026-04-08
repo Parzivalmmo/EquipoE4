@@ -2,11 +2,6 @@
   "id": "abomasnow",
   "name": "Abomasnow",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Cambiar a Chandelure 💡 Gallade otra Vez +4 +2 ",
-  "tricks": [
-    {
-      "detail": "-.",
-      "variant": []
-    }
-  ]
+  "initialMove": "💡 Encanto tres veces; Teletransporte; Volcarona +2 💡 PS por encima del 70%",
+  "tricks": []
 }
