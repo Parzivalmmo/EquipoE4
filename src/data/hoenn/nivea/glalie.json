@@ -2,11 +2,6 @@
   "id": "glalie",
   "name": "Glalie",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TRAMPA ROCAS🪨",
-  "tricks": [
-    {
-      "detail": "Mienshao → Gengar Otra Vez +2 no velo ",
-      "variant": []
-    }
-  ]
+  "initialMove": "🪨 TRAMPA ROCAS 🪨 frente a Mienshao; Gengar +2; Bola Sombra a todo",
+  "tricks": []
 }
