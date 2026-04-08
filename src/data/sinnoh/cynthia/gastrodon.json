@@ -14,12 +14,12 @@
         {
           "detail": "Garchomp --> Usar Bostezo continuamente al enfrentar a Chandelure; sacrificar a Politoed; entrar con Poliwrath +6",
           "variant": []
-        },
-        {
-          "detail": "Garchomp --> Cambiar a Slowbro al enfrentar a Chandelure; sacrificar a Politoed; entrar con Poliwrath +6",
-          "variant": []
         }
       ]
+    },
+    {
+      "detail": "Garchomp --> Cambiar a Slowbro al enfrentar a Chandelure; sacrificar a Politoed; entrar con Poliwrath +6",
+      "variant": []
     }
   ]
 }
