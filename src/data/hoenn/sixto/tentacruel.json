@@ -2,18 +2,14 @@
   "id": "tentacruel",
   "name": "Tentacruel",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Pantalla luz 💡",
+  "initialMove": "🥚 Amortiguador 🥚",
   "tricks": [
     {
-      "detail": "Pantalla de Luz frente a Absol ➜ cambiar a Dragonite; usar x defensa ; Danza Dragón x3 ; x ataque; curar hasta 20% ",
+      "detail": "Absol --> Gengar +4 + Precisión (No usar Otra Vez)",
       "variant": []
     },
     {
-      "detail": "Scizor ➜ lanzallamas scizor",
-      "variant": []
-    },
-    {
-      "detail": "Scrafty ➜ Dragonite +4 +2 ; si no hay suficiente  curar ; ante bajada de defensa , asegurar con x defensa ",
+      "detail": "Scizor --> Volcarona +2 + Ataque Especial X; 🔔 Gigadrenado a Luxray 🔔",
       "variant": []
     }
   ]
