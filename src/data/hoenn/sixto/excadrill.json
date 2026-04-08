@@ -1,23 +1,19 @@
-  {
+{
   "id": "excadrill",
   "name": "Excadrill",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa rocas🪨.",
+  "initialMove": "🪨 Trampa rocas 🪨.",
   "tricks": [
     {
-      "detail": "Sin Globo Helio Absol/Luxray ➜ cambiar a Gengar Otra Vez ; cambiar a Jirachi",
+      "detail": "Mienshao --> Gengar debilita con bola sombra frente a Mandibuzz / Spiritomb; Volcarona +2  🔔gigadrenado para  Absol🔔",
       "variant": []
     },
     {
-      "detail": "Sin Globo Helio : Excadrill ➜ Jirachi Otra Vez; Dragonite Danza Dragón x2 ",
+      "detail": "Absol --> Gengar +2 + Precisión; 🔔para ahorrar dinero: Gengar +6🔔",
       "variant": []
     },
     {
-      "detail": "Con Globo Helio ➜ cambiar a Gengar  debilitar  a Mienshao",
-      "variant": []
-    },
-    {
-      "detail": "Excadrill ➜ cambiar a Dragonite Cambia a Jirachi Otra Vez Gallade +4 +2 ",
+      "detail": "Luxray --> Amortiguador; esperar a Absol / Crawdaunt; Gengar +2 + Precisión; 🔔para ahorrar dinero: Gengar +6🔔",
       "variant": []
     }
   ]
