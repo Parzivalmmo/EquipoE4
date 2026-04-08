@@ -2,15 +2,33 @@
   "id": "ditto",
   "name": "Ditto",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨",
+  "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Golbat/Crobat  ➜ cambiar a Gengar ; cambiar a Chandelure; derrotar a ferrothorn (frente a ditto usa contador)",
-      "variant": []
+      "detail": "Se queda → Teletransporte",
+      "variant": [
+        {
+          "detail": "Se queda → Poliwrath, +6 +2. (Puño Drenaje a Magmortar).",
+          "variant": []
+        },
+        {
+          "detail": "Sale Crobat → Mira abajo ↓.",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "Nidoking ➜ cambiar a Dragonite; cambiar a Jirachi; Otra Vez  Dragonite Danza Dragón  x1",
-      "variant": []
+      "detail": "Crobat → Saca a Slowbro, Bostezo. Sale Magmortar → Politoed (sacrificar).",
+      "variant": [
+        {
+          "detail": "Opción rápida → Poliwrath, +2 Ataque X. Puño Drenaje a Magmortar. (Si sale Ditto cambia a Gengar, Derrotalo).",
+          "variant": []
+        },
+        {
+          "detail": "Opción ahorro → Poliwrath +6, Puño Drenaje a Magmortar → Presiona hasta que salga Mienshao, usa Tambor → Derrótalo. (Si sale Ditto cambia a Gengar, Derrótalo).",
+          "variant": []
+        }
+      ]
     }
   ]
 }
