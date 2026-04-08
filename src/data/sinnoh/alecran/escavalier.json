@@ -2,11 +2,6 @@
   "id": "escavalier",
   "name": "Escavalier",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨 trampa Rocas🪨",
-  "tricks": [
-    {
-      "detail": "se queda  ➜ Cambiar a Chandelure ➜ Cambiar a Dragonite con Otra Vez  y  x3 Danza Dragón FRENTE A GASTRODON ➜ Aguantar daño ➜ Danza Dragón x2 (Eliminar quemadura)",
-      "variant": []
-    }
-  ]
-}
+  "initialMove": "💡Usar 🪨Trampa Rocas (NAIL)🪨; sacrificar a Politoed (皇) y entrar con Poliwrath (frog) +6💡",
+  "tricks": []
+}    
