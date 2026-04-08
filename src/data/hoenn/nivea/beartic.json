@@ -2,15 +2,6 @@
   "id": "beartic",
   "name": "Beartic",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡GENGAR otra vez Chansey Trampa rocas 💡(Frente a Walrein o Dewgong ➜ resistir daño)",
-  "tricks": [
-    {
-      "detail": "Gallade → Gengar +4 (no otra vez )",
-      "variant": []
-    },
-    {
-      "detail": "Beartic → Gengar otra vez  +2",
-      "variant": []
-    }
-  ]
+  "initialMove": "👻 Gengar +6 👻 Bola Sombra a todo",
+  "tricks": []
 }
