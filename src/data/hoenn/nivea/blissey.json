@@ -2,16 +2,15 @@
   "id": "blissey",
   "name": "Blissey",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TRAMPA ROCAS 🪨",
+  "initialMove": "🪨 TRAMPA ROCAS 🪨 frente a Mienshao; cambiar a Gengar bola sombra a mienshao",
   "tricks": [
     {
-      "detail": "Mienshao → Gengar Otra Vez y usa Maquinacion",
-      "variant": [
-         {
-          "detail": "Migmagius → Matalo luego usa Maquinacion frente a Walrein o Dewgong y luego pushea",
-          "variant": []
-         }
-      ]
+      "detail": "Skarmory --> Cambiar a Slowbro; Slowbro frente a Mismagius; sacrificar a Politoed; Poliwrath +6; 🔔Cascada a Skarmory🔔",
+      "variant": []
+    },
+    {
+      "detail": "Walrein o Dewgong --> Sacrificar a Politoed; Poliwrath +6;🔔 Cascada a Skarmory🔔",
+      "variant": []
     }
   ]
 }
