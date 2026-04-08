@@ -2,15 +2,6 @@
   "id": "entei",
   "name": "Entei",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Contador💡",
-  "tricks": [
-    {
-      "detail": "Lopunny/Magmotar ➜ Gengar Otra Vez Maquinacion",
-      "variant": []
-    },
-    {
-      "detail": "Steelix ➜ Dragonite Otra vez x2 danza dragon ( terremoto cactus)",
-      "variant": []
-    }
-  ]
+  "initialMove": "💡 Usar Trampa Rocas; cambiar a Slowbro y usar Bostezo al enfrentar a Cacturne; entrar con Volcarona +3 💡 Puede usar Especial X y Gigadrenado a Steelix",
+  "tricks": []
 }
