@@ -2,58 +2,31 @@
   "id": "flygon",
   "name": "Flygon",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨",
+  "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Se queda  ➜ Cambia a Dragonite, cambia a Jirachi Otra Vez ",
+      "detail": "Si se queda --> Usar Teletransporte; enviar a Slowbro y revisar daño",
+      "variant": [
+        {
+          "detail": "29.4 - 34.5% (Crítico 43.7 - 51.7%) --> Usar Relajo para aguantar Cometa Draco; usar Bostezo para que entre Yanmega; sacrificar a Politoed y entrar con Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "36.5 - 44% (Crítico 54 - 65%) --> Usar Bostezo al enfrentar a Drapion; sacrificar a Politoed y entrar con Poliwrath +6",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Skuntank --> Sacrificar a Politoed; cambiar de Volcarona a Gengar para que Skuntank use Autodestrucción al enfrentar a Durant; Slowbro usa Bostezo y Teletransporte; entrar con Poliwrath +6 🔔absorbiendo golpe de Crustle y usar Velocidad X para presionar🔔",
       "variant": []
     },
     {
-      "detail": "Cambia a Dragonite frente a Skuntank ➜ Cambia a Jirachi Otra Vez , Chandelure +2 +2",
+      "detail": "Scizor --> Slowbro usa Bostezo; sacrificar a Politoed y entrar con Poliwrath +6; usar Bostezo 🔔al enfrentar a Flygon, seguido de Protección y Bostezo🔔",
       "variant": []
     },
     {
-      "detail": "Terremoto  ➜ Gallade +4 +2",
-      "variant": []
-    },
-    {
-      "detail": "Llamarada / Puño Fuego ➜ Chandelure +2 +2",
-      "variant": []
-    },
-    {
-      "detail": "Escavalier / Magcargo ➜ Cambia a Chandelure, cambia a Gallade Otra Vez (Encore) +4 +2",
-      "variant": []
-    },
-    {
-      "detail": "Scyther ➜ Cambia a Chansey , cambia a Gengar Otra Vez  +4 +2",
-      "variant": []
-    },
-    {
-      "detail": "Scizor ➜ Amortiguador ",
-      "variant": []
-    },
-    {
-      "detail": "Scizor Fuerza Bruta  ➜ Luego Amortiguador, Dragonite  x2 Danza Dragón; antes de avanzar pone tu vida ala mitad ); igual que con Kingler , Danza Dragón x2 antes de presionar toma Poción Máxima ",
-      "variant": []
-    },
-    {
-      "detail": "Scizor Acróbata ➜ Amortiguador, espera a Flygon",
-      "variant": []
-    },
-    {
-      "detail": "Flygon ➜ Cambia a Dragonite, cambia a Jirachi Otra Vez, Chandelure +2 +2",
-      "variant": []
-    },
-    {
-      "detail": "Crustle ➜ Cambia a Gengar, cambia a Gallade, Otra Vez  +4 +2",
-      "variant": []
-    },
-    {
-      "detail": "Kabutops ➜ Cambia a Gengar Otra Vez inmediato x4 no velo ",
-      "variant": []
-    },
-    {
-      "detail": "Skuntank ➜ Cambia a Jirachi Otra Vez, Chandelure +2 +2",
+      "detail": "Escavalier --> Sacrificar a Politoed; entrar con Poliwrath +6",
       "variant": []
     }
   ]
