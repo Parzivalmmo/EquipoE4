@@ -2,14 +2,10 @@
   "id": "skuntank",
   "name": "Skuntank",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨",
+  "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Lucario ➜ cambiar a Gengar usar Otra Vez ; cambiar a Jirachi frente a Skuntank, luego cambiar a Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Cambiar a Chandelure frente a Gliscor ➜ Dragonite usa Danza Dragón x2; Gliscor golpea dos veces, no se puede usar Otra Vez , pero puede aguantar el Tóxico ",
+      "detail": "Sale Lucario → Gengar, Otra Vez, +4 +2. (Bola Sombra a todos).",
       "variant": []
     }
   ]
