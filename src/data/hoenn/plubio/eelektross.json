@@ -2,58 +2,18 @@
   "id": "eelektross",
   "name": "Eelektross",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa rocas 🪨",
+  "initialMove": "🪨 TRAMPA ROCAS🪨",
   "tricks": [
     {
-      "detail": "Se queda ➜ para observar información ",
+      "detail": " Fuerza Bruta ➜ Gengar Otra Vez luego cambia a Slowbro",
       "variant": []
     },
     {
-      "detail": "Fuerza Bruta  con Vidasfera  ➜ sacrificar a Chansey  cambiar a Gengar  para debilitar  (si tiene velocidad para perseguir  ir directamente a Gallade Otra Vez  +4  +2)",
+      "detail": "Mienshao ➜ Cambia a Slowbro y usa Bostezo contra Serperior despues Teletransporte y saca a Volcarona +2 🔥",
       "variant": []
     },
     {
-      "detail": "Registeel con Restos ➜ Gallade Otra Vez  +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Registeel con Baya Atania  ➜ cambiar a Dragonite Otra Vez   Danza Dragón +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Gengar  usa movimiento y no debilita  ➜ entonces rematar",
-      "variant": []
-    },
-    {
-      "detail": "Serperior ➜ Jirachi Otra Vez ; Dragonite Danza Dragón +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Swampert ➜ Gallade Otra Vez  +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Fuerza Bruta con Cinta Experto  ➜ cambiar a Jirachi Otra Vez   Chandelure +2 +2",
-      "variant": []
-    },
-    {
-      "detail": "Puño Drenaje ➜ cambiar a Gengar  Otra Vez  +4 +2 ; (si tiene velocidad para perseguir  no usar velocidad x )",
-      "variant": []
-    },
-    {
-      "detail": "Mienshao ➜ cambiar a Jirachi; usar Otra Vez  tres veces seguidas; Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Mienshao ➜ cambiar a Gengar  para debilitar; frente a Starmie, cambiar a Jirachi Otra Vez Ataque fuego Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Metagross ➜ Gengar  Otra Vez  +4 no velo ; Bola Sombra  a Basculin/Goldfish",
-      "variant": []
-    },
-    {
-      "detail": "Eelektross ➜ usar defensa x ; Maquinación ; atacar ",
+      "detail": "Metagross ➜ Sacrifica al sapito y entra Poliwrath +6 🥊  🔔(Jugada Estable: Saca a Slowbro y usa Bostezo)🔔",
       "variant": []
     }
   ]
