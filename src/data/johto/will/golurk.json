@@ -2,14 +2,14 @@
   "id": "golurk",
   "name": "Golurk",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨Ver cuanto daño hace púño drenage",
+  "initialMove": "🪨Trampa Rocas🪨 → Ver % Daño",
   "tricks": [
     {
-      "detail": "mas   40% ➜ Gengar  Otra Vez (Encore) +4 +2 (42); priorizar velocidad ; cambiar a Jirachi; Gallade Otra Vez  +2 +2 ",
+      "detail": "50% (75% Crítico, toma Max Poción) → Gengar, Otra Vez, +4 +2.",
       "variant": []
     },
     {
-      "detail": "menos 40% ➜ cambiar a Jirachi; Gallade Otra Vez  +2 +2",
+      "detail": "35% → Gengar, Otra Vez, +4 +2 precisión X.",
       "variant": []
     }
   ]
