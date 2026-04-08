@@ -2,22 +2,22 @@
   "id": "rayquaza",
   "name": "Rayquaza",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨 Trampa Rocas🪨",
+  "initialMove": "🪨 Trampa Rocas 🪨 Usar Teletransporte (Para ver la habilidad)",
   "tricks": [
     {
-      "detail": "V de Fuego  ➜ Cambiar a Chandelure Poder Oculto Hielo ",
+      "detail": "Sin Velocidad Extrema --> Entrar con  Politoed y con   Poliwrath mira que moviento usan ",
       "variant": []
     },
     {
-      "detail": "Garchomp ➜ Cambiar a Dragonite, cambiar a Jirachi Otra Vez ; Chandelure +2 +2 o Gallade +4 +2",
+      "detail": "Velocidad Extrema --> Entrar con Gengar +4",
       "variant": []
     },
     {
-      "detail": "Jirachi hacia Lapras ➜ Rayo ; frente a Arcanine Chandelure +2 +2 ; Rayo frente a Garchomp, Otra Vez , Gallade  +2 +2",
+      "detail": "Garra Dragón --> Entrar con Poliwrath x ataque hasta que garchmop entre  Garchomp ;",
       "variant": []
     },
     {
-      "detail": "Lucario ➜ Cambiar a Jirachi, cambiar a Gengar  +4 no velo ; (NO usar Otra Vez ; huye hacia Houndoom, no importa)",
+      "detail": "Velocidad Extrema --> Entrar con Gengar +4 y 🔔usar Bola Sombra a todo🔔",
       "variant": []
     }
   ]
