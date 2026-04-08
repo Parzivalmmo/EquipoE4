@@ -2,10 +2,10 @@
   "id": "liepard",
   "name": "Liepard",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨",
+  "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Golurk ➜ Gengar Otra Vez +4 +2 ",
+      "detail": "Sale Golurk ➜ Gengar Otra Vez +4 +2. (Bola sombra a todos)",
       "variant": []
     }
   ]
