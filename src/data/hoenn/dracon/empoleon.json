@@ -2,15 +2,6 @@
   "id": "empoleon",
   "name": "Empoleon",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨",
-  "tricks": [
-    {
-      "detail": "Gallade ➜ Gengar Otra Vez +6 +2 (banda focus gallade)",
-      "variant": []
-    },
-    {
-      "detail": "",
-      "variant": []
-    }
-  ]
+  "initialMove": "🪨 Trampa Rocas 🪨 frente a Gallade; cambiar a Slowbro y usar Bostezo frente a Empoleon; sacrificar a Politoed; Poliwrath +6",
+  "tricks": []
 }
