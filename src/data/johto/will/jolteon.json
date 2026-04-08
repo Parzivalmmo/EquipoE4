@@ -2,10 +2,10 @@
   "id": "jolteon",
   "name": "Jolteon",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨 (chaleco asalto slowbro)",
+  "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Golurk ➜ Gengar Otra Vez +4 +2",
+      "detail": "Sale Golurk ➜ Gengar Otra Vez +4 +2. (Bola Sombra a todos)",
       "variant": []
     }
   ]
