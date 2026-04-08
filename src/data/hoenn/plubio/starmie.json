@@ -2,23 +2,6 @@
   "id": "starmie",
   "name": "Starmie",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Cambiar a Jirachi frente a Mienshao; usar Otra Vez  cuatro veces seguidas; Jirachi se debilita; Chandelure +2 +2 ",
-  "tricks": [
-    {
-      "detail": "Turno 1: Usar Otra Vez ; Mienshao usa Acróbata ",
-      "variant": []
-    },
-    {
-      "detail": "Turno 2: Bajo el efecto de Otra Vez  frente a Eelektross",
-      "variant": []
-    },
-    {
-      "detail": "Turno 3: Falla el uso de Otra Vez; Jirachi queda con la mitad de PS",
-      "variant": []
-    },
-    {
-      "detail": "Turno 4: Bajo el efecto de Otra Vez ; el rival usa un movimiento de fuego; Jirachi ",
-      "variant": []
-    }
-  ]
+  "initialMove": "Cambiar a Slowbro y usa Bostezo contra Serperior, despues usa Teletransporte y saca a Volcarona +2 🔥",
+  "tricks": []
 }
