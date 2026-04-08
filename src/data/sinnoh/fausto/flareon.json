@@ -2,11 +2,6 @@
   "id": "flareon",
   "name": "Flareon",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Chandelure +2 +2💡",
-  "tricks": [
-    {
-      "detail": "-",
-      "variant": []
-    }
-  ]
+  "initialMove": "💡 Gengar +6 y usar Bola Sombra  a todos 💡 si cambia  a Bronzong  sacrificar a Politoed entrar con Poliwrath  +6 ",
+  "tricks": []
 }
