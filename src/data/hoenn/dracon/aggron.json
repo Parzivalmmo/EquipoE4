@@ -2,11 +2,6 @@
   "id": "aggron",
   "name": "Aggron",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Contador💡",
-  "tricks": [
-    {
-      "detail": "Gallade ➜ cambiar a Jirachi; cambiar a Gengar  Otra Vez +4  0 Velocidad ; luego Otra Vez  sacrificio Banda Focus  para Gallade / Chansey ; si los HP son bajos  se puede entrar a golpear; jugada arriesgada  puede cambiar directamente a Gengar",
-      "variant": []
-    }
-  ]
+  "initialMove": "💡 Encanto; Amortiguador y esperar a Gallade Gengar +4 + Otra Vez (Bola Sombra a todo) 💡",
+  "tricks": []
 }
