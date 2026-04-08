@@ -2,26 +2,10 @@
   "id": "hypno",
   "name": "Hypno",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨",
+  "initialMove": "Politoed (sacrificar)",
   "tricks": [
     {
-      "detail": "Ataque Tierra  ➜ cambiar a Gengar ; cambiar a Gallade para debilitar a Umbreon",
-      "variant": []
-    },
-    {
-      "detail": "Xatu ➜ cambiar a Chansey Pantalla de Luz Amortiguador ; presionar frente a Golurk; cambiar a Gengar ; Otra Vez +4 no velo ",
-      "variant": []
-    },
-    {
-      "detail": "Clefable ➜ cambiar a Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Golurk ➜ Gallade Otra Vez  +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Golurk ➜ cambiar a Jirachi; Gallade Otra Vez  +2 +2 ",
+      "detail": "Poliwrath +6. (Cascada a Hypno)",
       "variant": []
     }
   ]
