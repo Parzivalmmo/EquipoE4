@@ -2,11 +2,6 @@
   "id": "dragonite",
   "name": "Dragonite",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": " 🪨TRAMPA ROCAS🪨 ",
-  "tricks": [
-    {
-      "detail": "Lucario ➜ Cambia a Slowbro y usas Bostezo, luego sacrificas al sapito y entra poliwrath +6",
-      "variant": []
-    }
-  ]
+  "initialMove": "🪨Trampa Rocas🪨 al enfrentar a Lucario; cambiar a Slowbro y usar Bostezo, sacrificar a Politoed y entrar con Poliwrath +6💡",
+  "tricks": []
 }
