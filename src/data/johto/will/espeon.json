@@ -2,14 +2,14 @@
   "id": "espeon",
   "name": "Espeon",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Cambia a Jirachi 🪨TrampaRocas🪨 ",
+  "initialMove": "Slowbro, Bostezo (Presiona al cambio)",
   "tricks": [
     {
-      "detail": "Electivire ➜ Chandelure +2 +2 ",
+      "detail": "Cambia a Chansey, trampa rocas, sale Lucario → Gengar, otra vez, +2 +2 +2 precisión X",
       "variant": []
     },
     {
-      "detail": "Lucario ➜ usar Rayo ; usar Otra Vez ; Chandelure +2 +2 ",
+      "detail": "Si en trampa rocas no cambia, usa amortiguador hasta que cambie → sigue la guía ↑",
       "variant": []
     }
   ]
