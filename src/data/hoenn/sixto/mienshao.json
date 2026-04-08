@@ -2,23 +2,6 @@
   "id": "mienshao",
   "name": "Mienshao",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Cambia a Gengar otra vez para que se muera ",
-  "tricks": [
-    {
-      "detail": "Excadrill ➜ Chansey  ASEGURAR Trampa rocas  quedarse y usar Amortiguador ",
-      "variant": []
-    },
-    {
-      "detail": "Absol ➜ cambiar a Gengar ; cambiar a Jirachi",
-      "variant": []
-    },
-    {
-      "detail": "Excadrill ➜ Otra Vez ; Gallade +4 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Si Persecución  debilita a Gengar  ➜ Jirachi Otra Vez ; Chandelure +2 +2 ",
-      "variant": []
-    }
-  ]
+  "initialMove": "Cambiar a Gengar y debilitar con bola sombra frente a Mandibuzz; cambiar a Chansey y usar Trampa Rocas frente a Absol; Volcarona +2 (Gigadrenado a Absol)",
+  "tricks": []
 }
