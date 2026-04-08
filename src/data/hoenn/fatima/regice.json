@@ -2,11 +2,6 @@
   "id": "regice",
   "name": "Regice",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa rocas🪨(chandelure banda focus y lucario pañuelo)",
-  "tricks": [
-    {
-      "detail": "Lucario ➜ cambiar a Chandelure; +2 +2",
-      "variant": []
-    }
-  ]
+  "initialMove": "🪨 Trampa Rocas 🪨 frente a Lucario; Gengar +2 + Precisión (No usar Otra Vez); 🔔 para ahorrar dinero: Gengar +6 🔔",
+  "tricks": []
 }
