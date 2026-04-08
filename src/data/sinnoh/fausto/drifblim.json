@@ -2,11 +2,6 @@
   "id": "drifblim",
   "name": "Drifblim",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Amortiguador y Pantalla luz ",
-  "tricks": [
-    {
-      "detail": "Infernape ➜ Amortiguador Gengar Otra Vez +4 +2",
-      "variant": []
-    }
-  ]
+  "initialMove": "🔔 Slowbro usa Bostezo; sacrificar a Politoed; entrar con Poliwrath +6 🔔",
+  "tricks": []
 }
