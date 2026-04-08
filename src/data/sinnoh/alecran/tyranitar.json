@@ -2,50 +2,26 @@
   "id": "tyranitar",
   "name": "Tyranitar",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas 🪨",
+  "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Scizor ➜ Chandelure debilitalo ; (No cambiar a Chansey  directo a Dragonite  x1 Danza Dragón ; atacar  ？",
+      "detail": "Si se queda --> Cambiar a Poliwrath para absorber el golpe hasta debilitar; arriesgar directamente sacrificando a Politoed para entrar con Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Drapion ➜ Cambia a Chansey , cambia a Dragonite",
+      "detail": "Ferrothorn --> Volcarona +1",
       "variant": []
     },
     {
-      "detail": "Kingler ➜ x1 Danza Dragón atacar ",
+      "detail": "Gastrodon --> Sacrificar a Politoed; entrar con Poliwrath y usar Ataque X para atacar",
       "variant": []
     },
     {
-      "detail": "Tyranitar ➜ Cambia a Chansey, cambia a Dragonite",
+      "detail": "Drapion --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed y entrar con Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Kingler ➜  x1 Danza Dragón atacar  ",
-      "variant": []
-    },
-    {
-      "detail": "Prueba de velocidad ) ➜ Amortiguador , Dragonite Danza Dragón x2",
-      "variant": []
-    },
-    {
-      "detail": "Se queda Triturar / Roca Afilada ➜ Amortiguador (, devuelve el golpe contador  debilita",
-      "variant": []
-    },
-    {
-      "detail": "Ferrothorn ➜ Cambia a Chandelure debilita",
-      "variant": []
-    },
-    {
-      "detail": "Drapion ➜ Cambia a Chansey toma Poción Máxima  contador  debilita",
-      "variant": []
-    },
-    {
-      "detail": "Gliscor/ astrodon ➜ Dragonite Otra Vez  Danza Dragón x3",
-      "variant": []
-    },
-    {
-      "detail": "Gliscor ➜ Gallade Otra Vez +2 +2; Otra Vez  atacarr ",
+      "detail": "Scizor --> Slowbro usa Bostezo; sacrificar a Politoed y entrar con Poliwrath +6 💡Usar Bostezo al enfrentar a Flygon seguido de Protección y Bostezo💡",
       "variant": []
     }
   ]
