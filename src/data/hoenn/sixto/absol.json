@@ -2,51 +2,105 @@
   "id": "absol",
   "name": "Absol",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa rocas🪨",
+  "initialMove": "🔔 Cambiar a Slowbro 🔔",
   "tricks": [
     {
-      "detail": "Sin Vidasfera  ➜ cambiar a Gengar  Otra Vez  +4 +2 ; (contra Gengar veloz, ver abajo)",
-      "variant": []
+      "detail": "Vidasfera --> Cambiar a Chansey",
+      "variant": [
+        {
+          "detail": "Tajo Umbrío --> Usar Otra Vez con Gengar; cambiar a Slowbro frente a Magnezone; cambiar a Chansey (Movimiento de daño) frente a Absol; Gengar +2 +2 y Bola Sombra a todo",
+          "variant": []
+        },
+        {
+          "detail": "Movimiento Eléctrico --> Chansey frente a Absol; Gengar +4 y Bola Sombra a todo",
+          "variant": []
+        },
+        {
+          "detail": "Gyarados --> Usar movimiento de daño con Chansey",
+          "variant": []
+        },
+        {
+          "detail": "Absol --> Gengar +2 y Bola Sombra a todo",
+          "variant": []
+        },
+        {
+          "detail": "Luxray --> Gengar +4 y Bola Sombra a todo",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "Excadrill sin Globo Helio  al azar ➜ rezar por estabilidad , ver abajo",
-      "variant": []
-    },
-    {
-      "detail": "Fortalecerse y huir hacia Excadrill ➜ cambiar a Dragonite, cambiar a Jirachi Otra Vez ",
-      "variant": []
-    },
-    {
-      "detail": "Globo Helio  ➜ Galladee +4 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Sin Globo Helio  ➜ Dragonite +2 )",
-      "variant": []
-    },
-    {
-      "detail": "Absol Pañuelo elegido  ➜ Dragonite aguanta x Defensa Danza Dragón x3 / Gengar  +6 +0 +2  (querer hacer daño);( Gengar +6 al azar, para matar a  (crafty)",
-      "variant": []
-    },
-    {
-      "detail": "Cambiar Gengar  ante Hariyama ➜ cambiar a huevo, cambiar a Gengar Otra Vez; frente a Aggron puede aguantar mucho, cambiar a Dragonite Otra Vez , Danza Dragón x2 ",
-      "variant": []
-    },
-    {
-      "detail": "Shiftry ➜ Dragonite Danza Dragón x2 ",
-      "variant": []
-    },
-    {
-      "detail": "Vidasfera (Life Orb) ➜ cambiar a Jirachi Otra Vez (Encore), cambiar a Chandelure +2 +2 (22)",
-      "variant": []
-    },
-    {
-      "detail": "Garchomp ➜ Otra Vez (Encore) para bloquear en Colmillo Ígneo (fire fang); Chandelure +2 +2 (22)",
-      "variant": []
-    },
-    {
-      "detail": "Electivire ➜ Otra Vez (Encore) para bloquear en Fuego; cambiar a Chandelure +2 +2 (22)",
-      "variant": []
+      "detail": "Sin Vidasfera --> Usar Teletransporte",
+      "variant": [
+        {
+          "detail": "Tajo Umbrío --> Chansey recibe el crítico; usar Máxima Poción y cambiar a Gengar",
+          "variant": []
+        },
+        {
+          "detail": "Recibir A Bocajarro --> Gengar +2 + Precisión (Ahorrar dinero: Gengar +6)",
+          "variant": []
+        },
+        {
+          "detail": "Persecución --> Entrar con Chansey y cambiar a Gengar; usar Otra Vez + Bola Sombra; cambiar a Slowbro y usar Bostezo",
+          "variant": []
+        },
+        {
+          "detail": "Quedarse --> Usar Protección y Bostezo frente a Huntail / Excadrill; sacrificar a Politoed; entrar con Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Huntail --> Sacrificar a Politoed; entrar con Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Luxray --> Entrar con Chansey y usar Amortiguador",
+          "variant": []
+        },
+        {
+          "detail": "Absol --> Gengar +4 + Precisión (No usar Otra Vez)",
+          "variant": []
+        },
+        {
+          "detail": "Scizor --> Venomoth +2 + Ataque Especial X; absorber a Luxray",
+          "variant": []
+        },
+        {
+          "detail": "Magnezone --> Entrar con Chansey y usar movimiento de daño",
+          "variant": []
+        },
+        {
+          "detail": "Darmanitan --> Gengar +2 + Precisión (No usar Otra Vez; ahorrar dinero: Gengar +6)",
+          "variant": []
+        },
+        {
+          "detail": "Absol --> Gengar +2 +2 + Precisión (Ahorrar dinero: Gengar +6 +2)",
+          "variant": []
+        },
+        {
+          "detail": "Salamence (Intimidación) --> Entrar con Chansey y usar Amortiguador",
+          "variant": []
+        },
+        {
+          "detail": "Absol --> Gengar +4 + Precisión (No usar Otra Vez)",
+          "variant": []
+        },
+        {
+          "detail": "Scizor --> Venomoth +2 + Ataque Especial X; absorber a Luxray",
+          "variant": []
+        },
+        {
+          "detail": "Salamence (Sin Intimidación) --> Entrar con Chansey; sacrificar a Politoed; Poliwrath usa Rayo Hielo para debilitar",
+          "variant": []
+        },
+        {
+          "detail": "Shiftry --> Venomoth +2 solo para Shiftry; usar Fuego para el resto de plantas y Psíquico",
+          "variant": []
+        },
+        {
+          "detail": "Hariyama --> Gengar +4 +2 y Bola Sombra a todo",
+          "variant": []
+        }
+      ]
     }
   ]
 }
