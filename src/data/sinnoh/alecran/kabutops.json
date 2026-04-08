@@ -2,22 +2,44 @@
   "id": "kabutops",
   "name": "Kabutops",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨",
+  "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Flygon ➜ Cambia a Dragonite, cambia a Jirachi Otra Vez , Chandelure +2 +2",
+      "detail": "Si se queda --> Cambiar a Slowbro y usar Bostezo",
+      "variant": [
+        {
+          "detail": "Yanmega  --> Sacrificar a Politoed  y entrar con Poliwrath  +6",
+          "variant": []
+        },
+        {
+          "detail": "Drapion --> Sacrificar a Politoed  y entrar con Poliwrath  +6",
+          "variant": []
+        },
+        {
+          "detail": "Ferrothorn --> Volcarona +2",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Flygon --> Usar Teletransporte; enviar a Slowbro y revisar daño de Terremoto",
+      "variant": [
+        {
+          "detail": "29.4 - 34.5% (Crítico 43.7 - 51.7%) --> Usar Relajo para recibir Ida y Vuelta o Cometa Draco; usar Bostezo al enfrentar a Yanmega; sacrificar a Politoed y entrar con Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "36.5 - 44% (Crítico 54 - 65%) --> Usar Bostezo continuamente al enfrentar a Drapion o Scizor; sacrificar a Politoed y entrar con Poliwrath +6",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Durant --> Entrar con Gengar +4 (No usar Otra Vez); usar Bola Sombra a todo el equipo",
       "variant": []
     },
     {
-      "detail": "Durant ➜ Gengar +2; (No usar Otra Vez)",
-      "variant": []
-    },
-    {
-      "detail": "Cascada / Roca Afilada  ➜ contador Amortiguador; contador  (kabuto tiene banda focus)",
-      "variant": []
-    },
-    {
-      "detail": "Flygon ➜ Cambia a Dragonite, cambia a Jirachi Otra Vez , Chandelure +2 +2 / Dragonite x2  ( Terremoto  1 Ferrothorn +2 puede presionar ",
+      "detail": "Scizor --> Chansey usa Amortiguador esperando a Flygon; cambiar a Slowbro y usar Bostezo al enfrentar a Drapion; sacrificar a Politoed y entrar con Poliwrath +6",
       "variant": []
     }
   ]
