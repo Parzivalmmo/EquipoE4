@@ -2,11 +2,7 @@
   "id": "sableye",
   "name": "Sableye",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Tramparocas🪨",
-  "tricks": [
-    {
-      "detail": "Lucario ➜ cambiar a Chandelure;  +2  +2 ; Tiene Pañuelo ; Poder Oculto Hielo  para Hydreigon",
-      "variant": []
-    }
-  ]
+  "initialMove": "🪨 Trampa Rocas 🪨 frente a Lucario; Gengar +2 + Precisión (No usar Otra Vez); 🔔 para ahorrar dinero: Gengar +6 🔔",
+  "tricks": []
 }
+    
