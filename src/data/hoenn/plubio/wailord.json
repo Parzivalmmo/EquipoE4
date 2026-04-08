@@ -2,15 +2,6 @@
   "id": "wailord",
   "name": "Wailord",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Dragonite danza dragon x3 no otra vez 💡",
-  "tricks": [
-    {
-      "detail": "-",
-      "variant": []
-    },
-    {
-      "detail": "-",
-      "variant": []
-    }
-  ]
+  "initialMove": "🐸 SACRIFICA AL SAPITO Y ENTRA POLIWRATH +6 🐸",
+  "tricks": []
 }
