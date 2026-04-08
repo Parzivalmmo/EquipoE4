@@ -2,15 +2,16 @@
   "id": "swalot",
   "name": "Swalot",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Contador💡",
+  "initialMove": "🦋 Cambia a Volcarona 🦋",
   "tricks": [
     {
-      "detail": "Scizor ➜ cambiar a Chandelure lanzallamas",
-      "variant": []
-    },
-    {
-      "detail": "Crobat ➜ Jirachi usa Otra Vez ; cambiar a Chandelure +2 +2",
-      "variant": []
+      "detail": "Sale Scizor → Danza Aleteo + 2 Ataque Especial X.",
+      "variant": [
+        {
+          "detail": "Crítico derrota a Volcarona → Poliwrath → Politoed (sacrificar), Poliwrath +6.",
+          "variant": []
+        }
+      ]
     }
   ]
 }
