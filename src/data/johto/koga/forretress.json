@@ -2,10 +2,10 @@
   "id": "forretress",
   "name": "Forretress",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨",
+  "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Samurott ➜ Gengar usar Otra Vez  +6 +2 ",
+      "detail": "Sale Samurott → Slowbro, Bostezo → Politoed (sacrificar), Poliwrath +6.",
       "variant": []
     }
   ]
