@@ -2,11 +2,6 @@
   "id": "mismagius",
   "name": "Mismagius",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa rocas 🪨",
-  "tricks": [
-    {
-      "detail": "Lucario ➜ cambiar a Gengar  Otra Vez  debilitar ; cambiar a Chansey  Amortiguador ; frente a Luxray Gengar  Otra Vez  +4 no velo  usar x defensa ",
-      "variant": []
-    }
-  ]
+  "initialMove": "🪨 Trampa rocas 🪨 frente a Lucario; cambiar a Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6",
+  "tricks": []
 }
