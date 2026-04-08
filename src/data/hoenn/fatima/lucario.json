@@ -2,42 +2,30 @@
   "id": "lucario",
   "name": "Lucario",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Cambia a Gengar y Mira la situacion 💡",
+  "initialMove": "💡 Cambiar a Slowbro 💡",
   "tricks": [
     {
-      "detail": "Se queda  ➜ para ver la habilidad ",
+      "detail": "A Bocajarro --> Cambiar a Chansey y usar Trampa Rocas frente a Lucario; Gengar +2 + Precisión (No usar Otra Vez); 🔔 para ahorrar dinero: Gengar +6 🔔",
       "variant": []
     },
     {
-      "detail": "Patada Salto Alta  ➜ Gengar  Otra Vez ; debilitar ",
+      "detail": "Patada Salto Alta --> Bostezo; sacrificar a Politoed; Poliwrath +6; 🔔 eliminar quemadura primero 🔔",
       "variant": []
     },
     {
-      "detail": "Dusknoir ➜ Dragonite Otra Vez; Danza Dragón x2 ; huye hacia Meganium para continuar fortalecimiento ",
+      "detail": "Honchkrow --> Bostezo",
       "variant": []
     },
     {
-      "detail": "Houndoom ➜ cambiar a Chansey  ASEGURAR Trampa rocas",
+      "detail": "Si permanece / Hydreigon / Lucario --> Sacrificar a Politoed; Poliwrath +6; 🔔 Puño Drenaje  para mantener la línea de salud 🔔",
       "variant": []
     },
     {
-      "detail": "Luxray ➜ Gengar  Otra Vez  +4 no velo; usar x2 defensa ",
+      "detail": "Banette --> Cambiar a Chansey y usar Trampa Rocas frente a Honchkrow; sacrificar a Politoed; Poliwrath hasta llegar a Hydreigon; recibir Ataque X y completar; 🔔 Puño Hielo para Honchkrow 🔔",
       "variant": []
     },
     {
-      "detail": "A bocajarro  ➜ cambiar a Chansey ; ver quién entra:",
-      "variant": []
-    },
-    {
-      "detail": "Hydreigon ➜ ASEGURAR trampa roca; frente a Lucario usar Chandelure +2 +2; Pañuelo elegido se bloquea solo; huye hacia columna de hielo  para resistir daño y fortalecerse",
-      "variant": []
-    },
-    {
-      "detail": "Honchkrow ➜ cambiar a Jirachi; ASEGURAR Trampa rocas; Otra Vez ; Dragonite +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Arcanine ➜ cambiar a Chandelure; cambiar a Chansey; Gengar  Otra Vez  +4 +2 ",
+      "detail": "Arcanine --> Slowbro frente a Raichu; sacrificar a Politoed; Poliwrath +6",
       "variant": []
     }
   ]
