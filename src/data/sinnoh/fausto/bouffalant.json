@@ -2,11 +2,6 @@
   "id": "bouffalant",
   "name": "Bouffalant",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TRAMPA ROCAS🪨",
-  "tricks": [
-    {
-      "detail": "Se Queda ➜ Chandelure +2 No velo  ",
-      "variant": []
-    }
-  ]
+  "initialMove": "🔔Gengar  usa Onda Certera  entrar con Chansey  y usar Trampa Rocas  entrar con Slowbro  y usar Bostezo sacrificar a Politoed ; entrar con Poliwrath  +6🔔",
+  "tricks": []
 }
