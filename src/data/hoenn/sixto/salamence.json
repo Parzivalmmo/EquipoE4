@@ -2,31 +2,33 @@
   "id": "salamence",
   "name": "Salamence",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Mira Que Habilidad Tiene💡",
+  "initialMove": "💡 Mira Qué Habilidad Tiene 💡",
   "tricks": [
     {
-      "detail": "Intimidación ➜ Pantalla de Luz ",
-      "variant": []
+      "detail": "Intimidación --> 🥚Amortiguador🥚",
+      "variant": [
+        {
+          "detail": "Absol --> Gengar +4 + Precisión (No usar Otra Vez)",
+          "variant": []
+        },
+        {
+          "detail": "Scizor --> Volcarona +2 + Ataque Especial X; gigadrenado  a Luxray",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "Huye hacia Absol ➜ Dragonite; asegurar x defensa ; Danza Dragón x2 ; x ataque  ",
-      "variant": []
-    },
-    {
-      "detail": "Sin Intimidación  ➜ ASEGURAR Trampa rocas  ; cambiar a Jirachi Otra Vez; Chandelure +2 +2 ; Chandelure +2; Bola Sombra  objetivo aleatorio",
-      "variant": []
-    },
-    {
-      "detail": "Probando sin Intimidación  ➜ ASEGURAR trampa rocas ; cambiar a Gengar  Otra Vez ",
-      "variant": []
-    },
-    {
-      "detail": "Se queda  ➜ Click hasta debilitar; ver instrucciones abajo",
-      "variant": []
-    },
-    {
-      "detail": "Aggron ➜ cambiar a Jirachi; cambiar a Dragonite Otra Vez ; Danza Dragón x2 ",
-      "variant": []
+      "detail": "Sin Intimidación --> Trampa Rocas; sacrificar a Politoed; Poliwrath puño hielo  para debilitar",
+      "variant": [
+        {
+          "detail": "Shiftry --> Volcarona +2; usa lanzallamas  contra Shiftry y el resto de plantas usar Psíquico (Mantener HP por encima del 23%)",
+          "variant": []
+        },
+        {
+          "detail": "Hariyama --> Recibir Ataque X; completar con Cascada contra Hariyama",
+          "variant": []
+        }
+      ]
     }
   ]
 }
