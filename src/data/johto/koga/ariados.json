@@ -2,11 +2,20 @@
   "id": "ariados",
   "name": "Ariados",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨 Jirachi (si falla mega cuerno o cornada usar amortiguador)",
+  "initialMove": "🪨Trampa Rocas🪨 → Amortiguador",
   "tricks": [
     {
-      "detail": "Tangrowth ➜ Jirachi Otra Vez Chandelure +2 +2 ",
-      "variant": []
+      "detail": "Sale Tangrowth ➜ Teletransporte → Slowbro, Bostezo. (Mira la precisión de Tangrowth) ",
+      "variant": [
+        {
+          "detail": "Golpea → Teletransporte → Poliwrath +6, Puño Drenaje → +2 Velocidad X. (haz lo que puedas primero, Puño drenaje o Velocidad X). ",
+          "variant": []
+        },
+        {
+          "detail": "Falla → Volcarona +2.",
+          "variant": []
+        }
+      ]
     }
   ]
 }
