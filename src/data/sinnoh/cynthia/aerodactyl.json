@@ -2,11 +2,6 @@
   "id": "aerodactyl",
   "name": "Aerodactyl",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Cambiar a Jirachi Otra Vez ; Chandelure +2 +2💡 (si retrocede curar full vida )",
-  "tricks": [
-    {
-      "detail": "Garchomp ➜ Jirachi Otra Vez ; Gallade +4 +2 / Chandelure +2 +2 ",
-      "variant": []
-    }
-  ]
+  "initialMove": "💡 Encanto; cambiar a Slowbro y usar Bostezo; sacrificar a Politoed; entrar con Poliwrath +6 💡 Usar Cascada contra Metagross",
+  "tricks": []
 }
