@@ -2,22 +2,22 @@
   "id": "rotom_agua",
   "name": "Rotom Agua",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Pantalla luz💡",
+  "initialMove": "🪨 Trampa Rocas 🪨; si no cambia, usa Amortiguador",
   "tricks": [
     {
-      "detail": "Politoed ➜ Dragonite usar x defensa ; Danza Dragón x1  usar x ataque si hay poca vida usar Máxima Poción",
+      "detail": "Mawile --> Bostezo; sacrificar a Politoed; Poliwrath +6; 🔔 Puño Hielo a Froslass; si el Puño Trueno paraliza, usar Cura Total 🔔",
       "variant": []
     },
     {
-      "detail": "Permanecer  ➜ cambiar a Dragonite",
+      "detail": "Hydreigon --> Teletransporte",
       "variant": []
     },
     {
-      "detail": "Mawile ➜ Terremoto ",
+      "detail": "Si permanece --> Enviar a Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6; 🔔 Puño Hielo a Froslass 🔔",
       "variant": []
     },
     {
-      "detail": "Dusknoir ➜ cambiar a Jirachi; Dragonite Otra Vez ; Danza Dragón x3",
+      "detail": "Mawile --> Enviar a Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6; 🔔 Puño Hielo a Froslass; si el Puño Trueno paraliza, usar Cura Total 🔔",
       "variant": []
     }
   ]
