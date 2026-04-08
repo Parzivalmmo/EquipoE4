@@ -2,34 +2,45 @@
   "id": "lucario",
   "name": "Lucario",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Cambiar a Gengar💡",
+  "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Golurk ➜dragonite cambiar a Jirachi para usar Trampa rocas; Altaria Otra Vez  + Danza Dragón 3+1; (ser más rápido que Jolteon)",
+      "detail": "A Bocajarro → Mira el item",
+      "variant": [
+        {
+          "detail": "Vidaesfera + colocaste trampa rocas → Teletransporte",
+          "variant": [
+            {
+              "detail": "Triturar/Puño Bala → Poliwrath → Gengar, Otra Vez, +4 +2 precisión X.",
+              "variant": []
+            },
+            {
+              "detail": "A Bocajarro/Velocidad Extrema → Gengar, Otra Vez, +4 +2 precisión X.",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "Vidaesfera + NO colocaste trampa rocas → Gengar, Otra Vez, +4 +2 precisión X.",
+          "variant": []
+        },
+        {
+          "detail": "No tiene vidaesfera → Teletransporte → Gengar, Otra Vez, +2 +2 +2 precisión X.",
+          "variant": [
+            {
+              "detail": "Si cae Chansey → Poliwrath → Gengar, Otra Vez, +2 +2 +2 precisión X.",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "Golurk → Gengar, Otra Vez, +4 +2. (Bola sombra a todos).",
       "variant": []
     },
     {
-      "detail": "A Bocajarro  ➜ cambiar a Gengar ; usar Otra Vez  Maquinación ",
-      "variant": []
-    },
-    {
-      "detail": "Altaria ➜ Gengar +4 ataca ( usar Bola Sombra  para debilitar a Gardevoir)",
-      "variant": []
-    },
-    {
-      "detail": "Umbreon ➜ cambiar a Chansey ; cambiar a Jirachi; usar Rayo  Otra Vez ",
-      "variant": []
-    },
-    {
-      "detail": "Electivire ➜ Chandelure +2 +2 ; (pañuelo )",
-      "variant": []
-    },
-    {
-      "detail": "Se Queda  ➜ Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Frente a Lucario Real ➜ cambiar a Jirachi; cambiar a Gengar  Otra Vez +4 no velo ; ejecutar con Altaria para continuar fortaleciéndose / Bola Sombra  a Gardevoir",
+      "detail": "segundo Lucario → Gengar, Otra Vez, +4 +2 precisión X.",
       "variant": []
     }
   ]
