@@ -2,30 +2,10 @@
   "id": "girafarig",
   "name": "Girafarig",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa rocas🪨 ➜ cambiar a Gengar usar Otra Vez ; Maquinación ",
+  "initialMove": "🪨Trampa rocas🪨",
   "tricks": [
     {
-      "detail": "Typhlosion ➜ cambiar a Chandelure; usar Bola Sombra ",
-      "variant": []
-    },
-    {
-      "detail": "Mantine ➜ cambiar a Jirachi para proteger ; frente a Typhlosion, Chandelure +2 +2; el rival queda encerrado ",
-      "variant": []
-    },
-    {
-      "detail": "Claydol ➜ Otra Vez ; Gallade  +4 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Magnezone ➜ Gallade para debilitar ; Jirachi Protección ",
-      "variant": []
-    },
-    {
-      "detail": "Typhlosion ➜ Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Se queda  ➜ Chandelure +2 +2 ; el rival queda encerrado ",
+      "detail": "Cambia a Gengar, Otra Vez → Cambia a Slowbro, Bostezo, sale Mantine → Bostezo, sale Magnezone → Politoed (sacrificar), Politoed +6.",
       "variant": []
     }
   ]
