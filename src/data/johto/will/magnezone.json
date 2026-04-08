@@ -2,46 +2,37 @@
   "id": "magnezone",
   "name": "Magnezone",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨",
+  "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Se Queda ➜ Pantalla de Luz ; cambiar a Dragonite; debilitar primero con Garra Dragón ante Terremoto ",
-      "variant": []
+      "detail": "Se Queda ➜ Mira el Item",
+      "variant": [
+        {
+          "detail": "Vidaesfera → Mira si es Crítico.",
+          "variant": [
+            {
+              "detail": "NO crítico → Gengar, Otra Vez, +2 +2 precisión X.",
+              "variant": []
+            },
+            {
+              "detail": "Crítico → Toma una Max Poción, Saca a Gengar, Otra Vez, +2 +2 precisión X.",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "No tiene Vidaesfera → Gengar, +2 +2 +2 precisión X. (No es necesario Otra Vez).",
+          "variant": [
+            {
+              "detail": "Si sale Lucario → Poliwrath → Gengar → Poliwrath → Gengar, +2 +2 +2 precisión X.",
+              "variant": []
+            }
+          ]
+        }
+      ]
     },
     {
-      "detail": "Typhlosion ➜ Gallade  +4 +2 ; No usar Otra Vez ",
-      "variant": []
-    },
-    {
-      "detail": "Girafarig ➜ Gengar Otra Vez  +4 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Typhlosion ➜ cambiar a Chandelure; usar Bola Sombra ; si no cambia  Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Frente a Mantine ➜ cambiar a Jirachi para usar Protección ; frente a Typhlosion, Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Frente a Claydol ➜ Gallade  Otra Vez  +4 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Girafarig ➜ cambiar a Gengar  usar Otra Vez  Maquinación ",
-      "variant": []
-    },
-    {
-      "detail": "Typhlosion ➜ cambiar a Chandelure; usar Bola Sombra ",
-      "variant": []
-    },
-    {
-      "detail": "Click hacia Mantine ➜ cambiar a Jirachi para usar Protección ; frente a Typhlosion, Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Si permanece  ➜ Chandelure +2 +2 ; el rival queda encerrado ",
+      "detail": "Lucario → Gengar, Otra Vez, +2 +2 +2 precisión X.",
       "variant": []
     }
   ]
