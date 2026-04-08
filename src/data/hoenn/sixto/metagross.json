@@ -2,21 +2,6 @@
   "id": "metagross",
   "name": "Metagross",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨 Trampa rocas 🪨(huntail Banda Focus)",
-  "tricks": [
-    {
-      "detail": "Absol/Luxray ➜ Gengar Otra Vez +2 no velo ",
-      "variant": [
-        {
-          "detail": "-",
-          "variant": []
-        },
-        {
-          "detail": "-",
-          "variant": []
-        }
-      ]
-    }
-  
-  ]
+  "initialMove": "🪨 Trampa rocas 🪨 Frente a Absol; Gengar +2 (Bola Sombra a todo)",
+  "tricks": []
 }
