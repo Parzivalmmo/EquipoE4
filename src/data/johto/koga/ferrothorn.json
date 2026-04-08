@@ -2,15 +2,20 @@
   "id": "ferrothorn",
   "name": "Ferrothorn",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨",
+  "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Ferrothorn usa Drenadoras  y se queda ➜ cambiar a Chandelure para debilitar; ante Nidoking, cambiar a Dragonite; cambiar a Jirachi; usar Otra Vez si se encierra en Tierra, cambiar a Dragonite; Danza Dragón x1; presionar; si Dragonite cae , Chansey  remata con contador )",
-      "variant": []
-    },
-    {
-      "detail": "Crobat ➜ cambiar a Gengar  cambiar a Chandelure ante Ferrothorn; debilitar; ante Nidoking, cambiar a Dragonite; cambiar a Jirachi; usar Otra Vez ; Dragonite presiona x1; si Dragonite cae , Chansey  remata el combate",
-      "variant": []
+      "detail": "Sale Crobat → Slowbro, Bostezo. Sale Magmortar → Politoed (sacrificar)",
+      "variant": [
+        {
+          "detail": "Opción rápida → Poliwrath, +2 Ataque X → Puño Drenaje a Magmortar. (Si sale Ditto, cambia a Gengar. Derrótalo).",
+          "variant": []
+        },
+        {
+          "detail": "Opción ahorro → Poliwrath, +6 → Puño Drenaje a Magmortar, presiona hasta que salga Mienshao, usa Tambor → Derrótalo. (Si sale Ditto, cambia a Gengar. Derrótalo).",
+          "variant": []
+        }
+      ]
     }
   ]
 }
