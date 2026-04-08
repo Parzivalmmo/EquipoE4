@@ -2,11 +2,6 @@
   "id": "arcanine",
   "name": "Arcanine",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Amortiguador💡",
-  "tricks": [
-    {
-      "detail": "A bocajarro ➜ Gengar Otra vez +4 +2",
-      "variant": []
-    }
-  ]
+  "initialMove": "💡 Cambiar a Slowbro frente a Raichu; sacrificar a Politoed; Poliwrath +6 💡",
+  "tricks": []
 }
