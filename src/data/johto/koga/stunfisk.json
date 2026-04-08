@@ -2,15 +2,16 @@
   "id": "stunfisk",
   "name": "Stunfisk",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨",
+  "initialMove": "🦋 Cambia a Volcarona 🦋",
   "tricks": [
     {
-      "detail": "Lucario ➜ cambiar a Gengar usar Otra Vez ; cambiar a Jirachi frente a Skuntank, luego cambiar a Chandelure +2 +2 (22)",
-      "variant": []
-    },
-    {
-      "detail": "Cambiar a Chandelure frente a Gliscor ➜ Dragonite usa Danza Dragón x2; Gliscor golpea dos veces, no se puede usar Otra Vez, pero puede aguantar el Tóxico",
-      "variant": []
+      "detail": "Sale Scizor → Danza Aleteo + 2 Ataque Especial X.",
+      "variant": [
+        {
+          "detail": "Crítico derrota a Volcarona → Poliwrath → Politoed (sacrificar), Poliwrath +6.",
+          "variant": []
+        }
+      ]
     }
   ]
 }
