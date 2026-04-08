@@ -2,63 +2,57 @@
   "id": "gyarados",
   "name": "Gyarados",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Intimidacion mira abajo 💡",
+  "initialMove": "💡 Ver habilidad 💡",
   "tricks": [
     {
-      "detail": "Intimidación  ➜ ASEGURAR Trampa rocas y  frente a Absol ; Gengar Otra Vez  +2 no velo",
-      "variant": []
+      "detail": "Intimidación --> Trampa Rocas",
+      "variant": [
+        {
+          "detail": "Absol --> Gengar +2 y Bola Sombra a todo",
+          "variant": []
+        },
+        {
+          "detail": "Luxray --> Gengar +4 y Bola Sombra a todo",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "Autoestima  ➜ ASEGURAR Trampa rocas",
-      "variant": []
-    },
-    {
-      "detail": "Darmanitan ➜ cambiar a Gengar  +6 no velo  (drama pañuelo)",
-      "variant": []
-    },
-    {
-      "detail": "Golurk ➜ cambiar a Dragonite; cambiar a Jirachi Otra Vez ; Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Toxicroak ➜ cambiar a Gengar  Otra Vez  +4 no velo; y ataca  tras Otra Vez",
-      "variant": []
-    },
-    {
-      "detail": "Se queda con Acua Cola ➜ cambiar a Jirachi Rayo ; si es enfrentamiento directo no hace falta Rayo",
-      "variant": []
-    },
-    {
-      "detail": "Electivire / Absol ➜ Otra Vez ; cambiar a Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Absol ➜ cambiar a Gengar  Otra Vez (Encore) +4 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Garchomp ➜ cambiar a Dragonite; cambiar a Jirachi Otra Vez ; Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Excadrill ➜ cambiar a Dragonite; cambiar a Jirachi Otra Vez ; Gallade +4 +2 , primero asegurar x velocidad ",
-      "variant": []
-    },
-    {
-      "detail": "Maquinación  y huye hacia Mightyena ➜ ataca ",
-      "variant": []
-    },
-    {
-      "detail": "Magnezone ➜ cambiar a huevo  Pantalla de Luz ; cambio pesado ",
-      "variant": []
-    },
-    {
-      "detail": "Luxray ➜ cambiar a huevo; cambiar a Gengar Otra Vez ; frente a Excadrill, ver las variantes de Excadrill",
-      "variant": []
-    },
-    {
-      "detail": "Luxray ➜ Gengar  Otra Vez ; cambiar a Jirachi ante Excadrill; Jirachi Otra Vez ; Gallade +4 +2 , primero asegurar x velocidad",
-      "variant": []
+      "detail": "Sin Intimidación --> Trampa Rocas",
+      "variant": [
+        {
+          "detail": "Acua Cola --> Amortiguador frente a Absol; Gengar +4 y Bola Sombra a todo",
+          "variant": []
+        },
+        {
+          "detail": "Darmanitan --> Gengar +2 + Precisión (No usar Otra Vez); usar movimientos súper eficaces; para ahorrar dinero: Gengar +6",
+          "variant": []
+        },
+        {
+          "detail": "Absol --> Cambiar a Slowbro y usar Bostezo",
+          "variant": []
+        },
+        {
+          "detail": "Bostezo frente a la fila trasera + Ataque Especial X --> Sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Tajo Umbrío --> Ver estado de Slowbro",
+          "variant": []
+        },
+        {
+          "detail": "Slowbro vive --> Sacrificar a Politoed; Poliwrath +6; Golpe Bajo no es amenaza",
+          "variant": []
+        },
+        {
+          "detail": "Slowbro se debilita --> Cambiar a Chansey y luego a Gengar +2 +2 + Precisión; para ahorrar dinero: +6 +2",
+          "variant": []
+        },
+        {
+          "detail": "Luxray --> Amortiguador; esperar a Absol; Gengar +2 + Precisión; para ahorrar dinero: Gengar +6",
+          "variant": []
+        }
+      ]
     }
   ]
 }
