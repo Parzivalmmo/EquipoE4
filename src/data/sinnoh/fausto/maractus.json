@@ -2,102 +2,64 @@
   "id": "maractus",
   "name": "Maractus",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa rocas🪨",
+  "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Vidasfera  Puño Drenaje  ➜ contador ",
+      "detail": "Si se queda --> Observar habilidad/movimiento",
+      "variant": [
+        {
+          "detail": "Puño Drenaje --> Usar Teletransporte; entrar con Slowbro y usar Bostezo; sacrificar a Politoed; entrar con Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Esfuerzo --> Usar Amortiguador",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Lopunny / Medicham --> Cambiar a Slowbro y usar Bostezo al enfrentar a Cacturne; entrar con Volcarona +3, 🔔puede usar Especial X y Gigadrenado a Steelix🔔",
       "variant": []
     },
     {
-      "detail": "si cambia a Bouffalant / presionar debilitar  frente a Bouffalant ➜ Cambiar a Gengar , atacar con  Bola Sombra ",
+      "detail": "Magmortar --> Entrar con Gengar +2 y presionar hasta Steelix; entrar con Slowbro y usar Bostezo al enfrentar a Cacturne; entrar con Volcarona +3 🔔puede usar Especial X y Gigadrenado a Steelix🔔",
       "variant": []
     },
     {
-      "detail": "Steelix ➜ Cambiar a Dragonite Otra Vez, Danza Dragón x3 , (terremoto para magmotar)",
+      "detail": "Bouffalant --> Cambiar a Gengar y usar Maquinación al enfrentar a Dragonite; atacar hasta debilitar",
       "variant": []
     },
     {
-      "detail": "Dragonite ➜ Cambiar a Chansey  Miltank  / Camerupt ver si al enviar  a Dragonite puede morir ",
+      "detail": "Magmortar --> Sacrificar a Politoed; entrar con Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Magmortar ➜ Chandelure +2 no velo ",
+      "detail": "Steelix --> Entrar con Slowbro y usar Bostezo; sacrificar a Politoed; entrar con Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Camerupt ➜ Amortiguador para ver movimiento; Terremoto cambia a Gallade , Otra Vez +6 +2 ( presión de Dragonite no sobrevive, a +6 hay miedo al quemado",
+      "detail": "Arriesgado --> Sacrificar directamente a Politoed; entrar con Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Esfuerzo  ➜ Amortiguador para forzar cambio del rival ",
+      "detail": "Lopunny / Medicham --> Cambiar a Slowbro y usar Bostezo al enfrentar a Cacturne; entrar con Volcarona +3, 🔔puede usar Especial X y Gigadrenado a Steelix🔔",
       "variant": []
     },
     {
-      "detail": "Lopunny ➜ Cambiar a Gengar  Rayo ",
-      "variant": []
+      "detail": "Blaziken / Arcanine --> Cambiar a Slowbro y usar Bostezo al enfrentar a Cacturne",
+      "variant": [
+        {
+          "detail": "Rápido --> Sacrificar a Politoed; entrar con Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Ahorrar dinero --> Entrar con Volcarona +3",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "Steelix ➜ Dragonite Otra Vez inmediato (Encorehand) Danza Dragón x2 (dance2); Otra Vez inmediato y presionar (push)",
-      "variant": []
-    },
-    {
-      "detail": "Entei ➜ Entei cambia a Gengar recibe Terratemblor",
-      "variant": []
-    },
-    {
-      "detail": "Magmortar ➜ Cambiar a Gengar  Otra Vez  +6 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Entei ➜ Debilitar frente a Steelix  igual que abajo",
-      "variant": []
-    },
-    {
-      "detail": "Steelix ➜ Dragonite Otra Vez  Danza Dragón x2  Otra Vez y atacar ",
-      "variant": []
-    },
-    {
-      "detail": "Medicham ➜ Gengar (bola sombra y matalo)",
-      "variant": []
-    },
-    {
-      "detail": "Steelix ➜ Dragonite Otra Vez  Danza Dragón x3 ",
-      "variant": []
-    },
-    {
-      "detail": "Typhlosion ➜ Chandelure +2 +2  primero tomar Velocidad X; no hay miedo a parálisis por Rayo, no x especial +2 tambien puede atacar",
-      "variant": []
-    },
-    {
-      "detail": "Blaziken ➜ Chandelure +2 +2   (tiene pañuelo)",
-      "variant": []
-    },
-    {
-      "detail": "Lopunny ➜ Cambiar a Gengar  Rayo ",
-      "variant": []
-    },
-    {
-      "detail": "Steelix ➜ Dragonite Otra Vez Danza Dragón x2  Otra Vez ",
-      "variant": []
-    },
-    {
-      "detail": "Bouffalant ➜ Chandelure +2 no velo  ",
-      "variant": []
-    },
-    {
-      "detail": "Arcanine ➜ Gengar Otra Vez  cambiar a Jirachi",
-      "variant": []
-    },
-    {
-      "detail": "Dragonite ➜ Jirachi Otra Vez, Chandelure +2 +2",
-      "variant": []
-    },
-    {
-      "detail": "Bronzong ➜ Gallade +2 +2  (cinta elegida)",
-      "variant": []
-    },
-    {
-      "detail": "Blaziken ➜ Chandelure +2 +2 (cinta elegida)",
+      "detail": "Camerupt --> Entrar con Slowbro y usar Bostezo; sacrificar a Politoed; entrar con Poliwrath +6",
       "variant": []
     }
   ]
