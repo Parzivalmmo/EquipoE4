@@ -2,11 +2,7 @@
   "id": "kingdra",
   "name": "Kingdra",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Pantalla luz💡",
-  "tricks": [
-    {
-      "detail": "Gallade ➜ cambiar a Gengar  Otra Vez  +4 0 Velocidad ; luego Otra Vez y ataca (gallade Banda focus) ",
-      "variant": []
-    }
-  ]
+  "initialMove": "💡 Amortiguador frente a Gallade; Gengar +4 + Otra Vez (Bola Sombra a todo) 💡",
+  "tricks": []
 }
+ 
