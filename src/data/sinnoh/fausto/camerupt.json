@@ -2,10 +2,18 @@
   "id": "camerupt",
   "name": "Camerupt",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas ( 💡 puesdes usar AMORTIGUADOR  ➜ Curarse hasta forzar el cambio del rival💡)",
+  "initialMove": "🪨Usar Trampa Rocas🪨 al enfrentar a Bouffalant; cambiar a Gengar  y usar Maquinación  al enfrentar a Dragonite; atacar hasta debilitar",
   "tricks": [
     {
-      "detail": "Bouffalant ➜ Chandelure +2 no velo  ",
+      "detail": "Magmortar --> Sacrificar a Politoed ; entrar con Poliwrath  +6 ",
+      "variant": []
+    },
+    {
+      "detail": "Steelix --> Entrar con Slowbro  y usar Bostezo  sacrificar a Politoed  entrar con Poliwrath  +6 ",
+      "variant": []
+    },
+    {
+      "detail": "Arriesgado  --> Sacrificar directamente a Politoed entrar con Poliwrath  +6",
       "variant": []
     }
   ]
