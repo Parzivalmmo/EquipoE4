@@ -2,11 +2,6 @@
   "id": "mandibuzz",
   "name": "Mandibuzz",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨",
-  "tricks": [
-    {
-      "detail": "Mienshao➜ Gengar Bola sombra sale ➜ Excadril ➜ Dragonite ➜ Jirachi otra vez , Gallade +4 +2  ",
-      "variant": []
-    }
-  ]
+  "initialMove": "🪨 Trampa Rocas 🪨 Frente a Mienshao; Gengar debilita con bola sombra frente a Mandibuzz / Spiritomb; Volcarona +2 (Gigadrenado a Absol)",
+  "tricks": []
 }
