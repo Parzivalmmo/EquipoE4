@@ -2,14 +2,22 @@
   "id": "shiftry",
   "name": "Shiftry",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampasRocas🪨",
+  "initialMove": "🪨 Trampas Rocas 🪨",
   "tricks": [
     {
-      "detail": "Aggron ➜ cambiar a Jirachi; cambiar a Dragonite Otra Vez ; Danza Dragón x2 ",
+      "detail": "Absol --> Gengar +4 (No usar Otra Vez); Bola Sombra a todo",
       "variant": []
     },
     {
-      "detail": "Absol (pañuelo elegido) ➜ Chandelure +2 +2 ",
+      "detail": "Aggron --> Sacrificar a Politoed; Poliwrath mata a aggron",
+      "variant": []
+    },
+    {
+      "detail": "Shiftry --> Volcarona +2; 🔔usar lanzallamas contra Shiftry y el resto de plantas usar Psíquico (Mantener HP por encima del 23%)🔔",
+      "variant": []
+    },
+    {
+      "detail": "Hariyama --> Recibir Ataque X; completar 🔔 Cascada contra Hariyama🔔",
       "variant": []
     }
   ]
