@@ -8,7 +8,7 @@
       "detail": "Vidasfera --> Cambiar a Chansey",
       "variant": [
         {
-          "detail": "Tajo Umbrío --> Usar Otra Vez con Gengar; cambiar a Slowbro frente a Magnezone; cambiar a Chansey (Movimiento de daño) frente a Absol; Gengar +2 +2 y Bola Sombra a todo",
+          "detail": "Tajo Umbrío --> Usar Otra Vez con Gengar; cambiar a Slowbro frente a Magnezone; cambiar a Chansey Trampa rocas  frente a Absol; Gengar +2 +2 y Bola Sombra a todo",
           "variant": []
         },
         {
@@ -16,7 +16,7 @@
           "variant": []
         },
         {
-          "detail": "Gyarados --> Usar movimiento de daño con Chansey",
+          "detail": "Gyarados --> Chansey Trampa rocas  ",
           "variant": []
         },
         {
@@ -33,19 +33,19 @@
       "detail": "Sin Vidasfera --> Usar Teletransporte",
       "variant": [
         {
-          "detail": "Tajo Umbrío --> Chansey recibe el crítico; usar Máxima Poción y cambiar a Gengar",
+          "detail": "Tajo Umbrío --> Chansey recibe el golpe Critico  tomar max pocion  y luego cambiar a Gengar",
           "variant": []
         },
         {
-          "detail": "Recibir A Bocajarro --> Gengar +2 + Precisión (Ahorrar dinero: Gengar +6)",
+          "detail": "Recibir A Bocajarro --> Gengar +2 + Precisión (ahora dinero +6)",
           "variant": []
         },
         {
-          "detail": "Persecución --> Entrar con Chansey y cambiar a Gengar; usar Otra Vez + Bola Sombra; cambiar a Slowbro y usar Bostezo",
+          "detail": "Persecución --> Enviar a Chansey, cambiar a Gengar, usar Otra Vez + Bola Sombra; cambiar a Slowbro y usar Bostezo",
           "variant": []
         },
         {
-          "detail": "Quedarse --> Usar Protección y Bostezo frente a Huntail / Excadrill; sacrificar a Politoed; entrar con Poliwrath +6",
+          "detail": "Quedarse --> Protección y Bostezo frente a Huntail / Excadrill; sacrificar a Politoed; entrar con Poliwrath +6",
           "variant": []
         },
         {
@@ -53,7 +53,7 @@
           "variant": []
         },
         {
-          "detail": "Luxray --> Entrar con Chansey y usar Amortiguador",
+          "detail": "Luxray --> Enviar a Chansey y usar Amortiguador",
           "variant": []
         },
         {
@@ -61,23 +61,23 @@
           "variant": []
         },
         {
-          "detail": "Scizor --> Venomoth +2 + Ataque Especial X; absorber a Luxray",
+          "detail": "Scizor --> Volcarona +2 + Ataque Especial X",
           "variant": []
         },
         {
-          "detail": "Magnezone --> Entrar con Chansey y usar movimiento de daño",
+          "detail": "Magnezone --> Enviar a Chansey y Trampa rocas ",
           "variant": []
         },
         {
-          "detail": "Darmanitan --> Gengar +2 + Precisión (No usar Otra Vez; ahorrar dinero: Gengar +6)",
+          "detail": "Darmanitan --> Gengar +2 + Precisión (No usar Otra Vez); para ahorrar dinero: Gengar +6",
           "variant": []
         },
         {
-          "detail": "Absol --> Gengar +2 +2 + Precisión (Ahorrar dinero: Gengar +6 +2)",
+          "detail": "Absol --> Gengar +2 +2 + Precisión ",
           "variant": []
         },
         {
-          "detail": "Salamence (Intimidación) --> Entrar con Chansey y usar Amortiguador",
+          "detail": "Salamence (Intimidación) --> Enviar a Chansey y usar Amortiguador",
           "variant": []
         },
         {
@@ -85,15 +85,15 @@
           "variant": []
         },
         {
-          "detail": "Scizor --> Venomoth +2 + Ataque Especial X; absorber a Luxray",
+          "detail": "Scizor --> Volcarona +2 + Ataque Especial X",
           "variant": []
         },
         {
-          "detail": "Salamence (Sin Intimidación) --> Entrar con Chansey; sacrificar a Politoed; Poliwrath usa Rayo Hielo para debilitar",
+          "detail": "Salamence (Sin Intimidación) --> Enviar a Chansey; sacrificar a Politoed; Poliwrath usa puño hielo ",
           "variant": []
         },
         {
-          "detail": "Shiftry --> Venomoth +2 solo para Shiftry; usar Fuego para el resto de plantas y Psíquico",
+          "detail": "Shiftry --> Volcarona +2",
           "variant": []
         },
         {
