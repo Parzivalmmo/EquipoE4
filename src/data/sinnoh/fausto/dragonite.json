@@ -2,22 +2,35 @@
   "id": "dragonite",
   "name": "Dragonite",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨",
+  "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Blaziken ➜ Cambia a Chandelure +2 +2 (Tiene pañuelo)",
+      "detail": "Blaziken --> Cambiar a Slowbro y usar Bostezo al enfrentar a Cacturne ",
+      "variant": [
+        {
+          "detail": "Rápido --> Sacrificar a Politoed entrar con Poliwrath +6 ",
+          "variant": []
+        },
+        {
+          "detail": "Ahorrar dinero --> Entrar con Volcarona +3",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Bouffalant --> Gengar usa Maquinación  al enfrentar a Dragonite; atacar hasta debilitar",
       "variant": []
     },
     {
-      "detail": "Bouffalant ➜ Cambia a Chandelure +2 no velo si  Rayo paraliza a Chandelure, usar Def. Esp. X + Cura Total ",
+      "detail": "Magmortar --> Sacrificar a Politoed  entrar con Poliwrath +6 ",
       "variant": []
     },
     {
-      "detail": "Cambia Chandelure a Camerupt ➜ Dragonite Otra Vez  Danza Dragón x1  + Ataque X ( ¿Ahorrar dinero/medicina Danza Dragón x4 , Terremoto debilita a Magmortar",
+      "detail": "Steelix --> Entrar con Slowbro  y usar Bostezo  sacrificar a Politoed entrar con Poliwrath  +6 ",
       "variant": []
     },
     {
-      "detail": "Camerupt ➜ Amortiguador  espera frente a Bouffalant; Chandelure +2 no velo ",
+      "detail": "Arriesgado --> Sacrificar directamente a Politoed  entrar con Poliwrath +6",
       "variant": []
     }
   ]
