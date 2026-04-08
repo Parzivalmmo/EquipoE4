@@ -2,10 +2,10 @@
   "id": "starmie",
   "name": "Starmie",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨",
+  "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Toxicroak ➜ cambiar a Gengar usar Otra Vez +2 +2; luego usar Otra Vez; contra Toxicroak con Banda Focus usar Otra Vez repetidamente hasta asegurar",
+      "detail": "Sale Toxicroak → Gengar, Otra Vez, +2 +2 +2 precision X.",
       "variant": []
     }
   ]
