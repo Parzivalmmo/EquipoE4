@@ -2,22 +2,27 @@
   "id": "ludicolo",
   "name": "Ludicolo",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "Medicham ➜ Cambia a Gengar  +4 o velocidad NO usar Otra Vez ",
+      "detail": "Medicham --> Entrar con Gengar +4 (No usar Otra Vez)",
       "variant": []
     },
     {
-      "detail": "Voluntad antigua  ➜ Cambia a Gengar Otra Vez Maquinación ",
+      "detail": "Conkeldurr --> Entrar con Gengar +2",
+      "variant": [
+        {
+          "detail": "Si se queda --> Gengar +4 + Precisión ",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Salamence --> Atacar hasta debilitar al enfrentar a Steelix sacrificar a Politoed  entrar con Poliwrath  usar Ataque X 🔔presionar con Cascada a Steelix / Conkeldurr restante con Puño Drenaje🔔",
       "variant": []
     },
     {
-      "detail": "Steelix ➜ Cambia a Dragonite Otra Vez  Danza Dragón x3 ",
-      "variant": []
-    },
-    {
-      "detail": "Salamence ➜ Cambia a Jirachi Otra Vez ( Chandelure +2 +2 ",
+      "detail": "Ludicolo --> Cambiar a Slowbro y usar Bostezo  sacrificar a Politoed entrar con Poliwrath +6",
       "variant": []
     }
   ]
