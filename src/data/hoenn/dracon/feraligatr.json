@@ -2,38 +2,22 @@
   "id": "feraligatr",
   "name": "Feraligatr",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Amortiguador💡",
+  "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Gallade➜ Gengar  Otra Vez  +4 0 Velocidad; luego Otra Vez (banda focus Gallade)",
+      "detail": "Cascada --> Teletransporte para sacar a Slowbro y usar Bostezo",
       "variant": []
     },
     {
-      "detail": "Se queda  ➜ para observar movimiento ",
+      "detail": "Triturar --> Sacrificar a Politoed; Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Fuerza Bruta ➜ Amortiguador  esperar a Gallade ; Gengar  Otra Vez  +4 0 Velocidad ; luego Otra Vez  (sacrificio Banda Focus  Gallade) ",
+      "detail": "Sceptile --> Volcarona +3 🔔(mantener PS por encima del 75%)🔔",
       "variant": []
     },
     {
-      "detail": "Cascada  ➜ Contador ",
-      "variant": []
-    },
-    {
-      "detail": "Gallade➜ cambiar a Jirachi; cambiar a Gengar Otra Vez  +4 0 Velocidad ; (luego Otra Vez  y mata a gallade tiene banda focus )",
-      "variant": []
-    },
-    {
-      "detail": "vs floatzel Mienshao ➜ Gengar  Otra Vez  +4 0 Velocidad ",
-      "variant": []
-    },
-    {
-      "detail": "Ampharos ➜ Gengar  Otra Vez ; cambiar a Jirachi frente a Sceptile; Jirachi Otra Vez ; Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Vuelo violento  ➜ Jirachi Otra Vez (Encore); Chandelure +2 +2 ",
+      "detail": "Gallade/Roserade --> Sacrificar a Politoed; Slowbro mantiene Bostezo frente a Salamence; Teletransporte para sacar a Poliwrath +6",
       "variant": []
     }
   ]
