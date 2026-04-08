@@ -2,10 +2,10 @@
   "id": "slowbro",
   "name": "Slowbro",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨",
+  "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Golurk ➜ cambiar a Gengar ; usar Otra Vez  +4 +2 ",
+      "detail": "Golurk ➜ cambiar a Gengar ; usar Otra Vez  +4 +2. (Bola sombra a todos)",
       "variant": []
     }
   ]
