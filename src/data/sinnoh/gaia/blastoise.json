@@ -2,27 +2,40 @@
   "id": "blastoise",
   "name": "Blastoise",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨",
+  "initialMove": "🪨 Trampa Rocas 🪨; si se queda usar Teletransporte",
   "tricks": [
     {
-      "detail": "Rhyperior ➜ Cambia a Jirachi Protección ; si cambia a Amoonguss  cambia  Chandelure +2 +2",
+      "detail": "Rhyperior --> Usar Teletransporte; cambiar a Slowbro y usar Bostezo ; 🔔seguir usando Bostezo al enfrentar a Quagsire🔔",
       "variant": []
     },
     {
-      "detail": "Amoonguss  ➜ Chandelure +2 +2",
+      "detail": "Megacuerno--> Opción para resolver la situación",
       "variant": []
     },
     {
-      "detail": "Puño Fuego ➜ Cambia a Chandelure, cambia a Gallade Otra Vez  +4 +2",
+      "detail": "Rápido--> Usar Teletransporte ; entrar con Volcarona  +1",
       "variant": []
     },
     {
-      "detail": "Terremoto  ➜ Jirachi Otra Vez , Gallade+4 +2",
+      "detail": "¿Guardar dinero/recursos?--> Usar Protección y Relajo al enfrentar a Leavanny ; entrar con Volcarona +1",
       "variant": []
     },
     {
-      "detail": "Parasect ➜ Cambia a Gengar  Otra Vez , Maquinación frente a Rhyperior; Gallade Otra Vez (Encore) +4 +2",
-      "variant": []
+      "detail": "Terremoto --> Usar Teletransporte ; entrar con Volcarona  +1 y usar 🔔Psíquico al enfrentar a Gengar🔔",
+      "variant": [
+        {
+          "detail": "Gengar --> Entrar con Volcarona +1 y usar Psíquico al enfrentar a Gengar",
+          "variant": []
+        },
+        {
+          "detail": "Teletransporte  hacia Parasect --> Entrar con Volcarona +1",
+          "variant": []
+        },
+        {
+          "detail": "Leavanny --> Entrar con Volcarona +1",
+          "variant": []
+        }
+      ]
     }
   ]
 }
