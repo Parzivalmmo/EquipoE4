@@ -2,11 +2,6 @@
   "id": "vanilluxe",
   "name": "Vanilluxe",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Pantalla luz💡",
-  "tricks": [
-    {
-      "detail": "Gallade ➜ Gengar Otra Vez +2 +2 (Rayo para matar a walrein o dewgong)",
-      "variant": []
-    }
-  ]
+  "initialMove": "💡 Amortiguador frente a Gallade; Gengar +2 +2 + Precisión 🔔 Onda Certera a Empoleon, Walrein o Dewgong 🔔",
+  "tricks": []
 }
