@@ -2,10 +2,10 @@
   "id": "grumpig",
   "name": "Grumpig",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa rocas🪨  Bola sombra para el cerdo",
+  "initialMove": "🪨Trampa rocas🪨",
   "tricks": [
     {
-      "detail": "Electivire➜ Cambiar a Gengar otra vez +4 no velo entra chansey enemigo gengar +6",
+      "detail": "Sale Electivire ➜ Gengar, Otra Vez, +2 +2 precisión X.",
       "variant": []
     }
   ]
