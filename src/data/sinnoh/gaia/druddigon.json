@@ -2,7 +2,7 @@
   "id": "druddigon",
   "name": "Druddigon",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨",
+  "initialMove": "🪨Trampa Rocas🪨si no cambia usa amortiguador",
   "tricks": [
     {
       "detail": "Emboar ➜ Cambia a Gengar Otra Vez, Maquinación ",
