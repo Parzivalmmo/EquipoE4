@@ -2,6 +2,15 @@
   "id": "hariyama",
   "name": "Hariyama",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TRAMPA ROCAS🪨 Gengar Otra Vez +4 +2 (rayo para Frosslas)",
-  "tricks": []
+  "initialMove": "🐸 Opciones para resolver 🐸",
+  "tricks": [
+    {
+      "detail": "Rápido --> Trampa Rocas; Gengar +4 +2 + Precisión; mantener Bola Sombra; si se bloquea, usar Onda Certera",
+      "variant": []
+    },
+    {
+      "detail": "Ahorrar dinero --> Cambiar a Slowbro, luego a Chansey y usar Trampa Rocas; Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6; Cascada a Froslass",
+      "variant": []
+    }
+  ]
 }
