@@ -2,18 +2,10 @@
   "id": "lanturn",
   "name": "Lanturn",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Pantalla luz💡",
+  "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Lucario ➜ Gengar usar Otra Vez ; cambiar a Jirachi ante Skuntank con Pañuelo Elección ",
-      "variant": []
-    },
-    {
-      "detail": "Gliscor ➜ Gallade  usar Otra Vez +4 +2 ; o Dragonite usar Otra Vez  + Danza Dragón  x2; con +4, Garra Dragón  debilita a Gliscor ",
-      "variant": []
-    },
-    {
-      "detail": "Skuntank ➜ Chandelure +2 +2 ",
+      "detail": "Sale Lucario ➜ Gengar, Otra Vez, +4 +2. (Bola Sombra a todos)",
       "variant": []
     }
   ]
