@@ -2,11 +2,16 @@
   "id": "gardevoir",
   "name": "Gardevoir",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Pantalla Luz💡",
+  "initialMove": "🥚 Amortiguador 🥚",
   "tricks": [
     {
-      "detail": "Lucario ➜ cambiar a Gengar ; usar Otra Vez  x6 no velo ; ejecutar con Altaria para continuar fortaleciéndose; Zoroark disfrazado presiona al máximo (+6)",
-      "variant": []
+      "detail": "Sale Lucario ➜ cambiar a Gengar, otra vez, +6 +2 precisión X. (Usa Otra Vez cada que puedas)",
+      "variant": [
+        {
+          "detail": "Si te bloquean Bola sombra, Onda certera derrota a Xatu.",
+          "variant": []
+        }
+      ]
     }
   ]
 }
