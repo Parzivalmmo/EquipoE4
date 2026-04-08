@@ -5,19 +5,37 @@
   "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Lucario ➜ Cambia a Gengar; NO usar Otra Vez  x2 no velo ; presiona  Lucario daño crítico ; Gengar cambia a Dragonite x2 Danza Dragón ; y ataca ",
+      "detail": "Conkeldurr --> Cambiar a Slowbro y usar Bostezo al enfrentar a Volcarona; sacrificar a Politoed y entrar con Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Si el rival se queda   ➜ Cambia a Gengar Otra Vez y si cambia a  hacia Excadrill, cambia a Dragonite  x3 Danza Dragón ; (Excadrill pañuelo) ( terremoto volcarona , Drudigon casco dentado",
+      "detail": "Braviary --> Sacrificar a Gengar; Slowbro usa Bostezo al enfrentar a Volcarona; sacrificar a Politoed y entrar con Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Braviary ➜ Gengar Otra Vez  +2 +2 ",
+      "detail": "Lucario --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed y entrar con Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Excadrill ➜ Pantalla de Luz , sacrifica  a Chandelure, Jirachi Otra Vez , Gallade +6 +2 ; si te quemas sigue atacando )",
+      "detail": "Excadrill --> Sacrificar a Gengar; Slowbro usa Bostezo",
+      "variant": [
+        {
+          "detail": "Si se queda --> Sacrificar a Politoed y entrar con Poliwrath +6; revisar orden de Volcarona/Vanillish",
+          "variant": [
+            {
+              "detail": "Si sale Vanillish primero --> Recibir golpe, usar Velocidad X y presionar de nuevo",
+              "variant": []
+            },
+            {
+              "detail": "Si sale Volcarona primero --> Presión completa",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "Volcarona --> Sacrificar a Politoed y entrar con Poliwrath +6+2",
       "variant": []
     }
   ]
