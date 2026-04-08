@@ -2,30 +2,14 @@
   "id": "mantine",
   "name": "Mantine",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨",
+  "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Girafarig  ➜ cambiar a Gengar ; usar Otra Vez ; Bola Sombra ",
+      "detail": "Girafarig → Gengar, Otra Vez → Slowbro, sale Mantine → Bostezo, sale Magnezone → Politoed (sacrificar), Poliwrath +6.",
       "variant": []
     },
     {
-      "detail": "Typhlosion ➜ cambiar a Chandelure; usar Energibola ",
-      "variant": []
-    },
-    {
-      "detail": "Frente a Mantine ➜ cambiar a Jirachi para usar Protección ; frente a Typhlosion, Chandelure +2 +2 ; el rival queda encerrado ",
-      "variant": []
-    },
-    {
-      "detail": "Se queda ➜ Chandelure +2 +2 ; el rival queda encerrado ",
-      "variant": []
-    },
-    {
-      "detail": "Magnezone ➜ cambiar a Dragonite; frente a Typhlosion, Gallade  +4 +2 ; frente a Girafarig (Qilin), Gengar Otra Vez  +2 +2 + Otra Vez ",
-      "variant": []
-    },
-    {
-      "detail": "Si permanece con Escaldar ➜ Pantalla de Luz ; cambiar a Dragonite; x3 Danza Dragón ",
+      "detail": "Se queda → Amortiguador hasta que siga la guía ↑.",
       "variant": []
     }
   ]
