@@ -2,15 +2,20 @@
   "id": "sharpedo",
   "name": "Sharpedo",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨",
+  "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Serperior ➜ cambiar a Jirachi usar Otra Vez ; cambiar a Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Terremoto ➜ Dragonite usa Otra Vez + Danza Dragón x4",
-      "variant": []
+      "detail": "Sale Tangrowth ➜ Teletransporte → Slowbro, Bostezo. (Mira la precisión de Tangrowth) ",
+      "variant": [
+        {
+          "detail": "Golpea → Teletransporte → Volcarona +2.",
+          "variant": []
+        },
+        {
+          "detail": "Falla → Volcarona +2.",
+          "variant": []
+        }
+      ]
     }
   ]
 }
