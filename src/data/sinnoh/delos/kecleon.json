@@ -2,11 +2,6 @@
   "id": "kecleon",
   "name": "Kecleon",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Cambiar A jirachi 💡",
-  "tricks": [
-    {
-      "detail": "Lucario ➜ Jirachi Otra Vez ➜ Chandelure +2 +2  ",
-      "variant": []
-    }
-  ]
-}
+  "initialMove": "💡 Usar Amortiguador al enfrentar a Lucario; entrar con Gengar +2/+2 + Precisión 💡",
+  "tricks": []
+} 
