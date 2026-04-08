@@ -2,14 +2,14 @@
   "id": "houndoom",
   "name": "Houndoom",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas 🪨",
+  "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Honchkrow ➜ cambiar a Jirachi; Dragonite Otra Vez (Encore); Danza Dragón x2",
+      "detail": "Honchkrow --> Sacrificar a Politoed; Poliwrath hasta llegar a Hydreigon; recibir Ataque X y completar; 🔔puño Hielo para eliminar a Honchkrow🔔",
       "variant": []
     },
     {
-      "detail": "Lucario ➜ cambiar a Gengar  Otra Vez ; Rayo  debilitar ; cambiar a Chansey Amortiguador ; atraer a Luxray ; Gengar  Otra Vez +4 no velo  usar x defensa",
+      "detail": "Lucario --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6",
       "variant": []
     }
   ]
