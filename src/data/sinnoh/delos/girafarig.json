@@ -2,15 +2,38 @@
   "id": "girafarig",
   "name": "Girafarig",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨➜ Método de perro arriesgado  buscando hacer rapido : Gengar  Otra Vez  +2 no velo  atacar al equipo; (Metagross probabilidad extremadamente baja de uno aleatorio)",
+  "initialMove": "🪨 Trampa Rocas 🪨 ➜ Método arriesgado buscando rapidez: Gengar usa Otra Vez +2 (sin Velo Sagrado) y ataca al equipo; (Metagross probabilidad extremadamente baja de aparecer aleatoriamente)",
   "tricks": [
     {
-      "detail": "Gallade ➜ Cambiar a Gengar  Otra Vez  +4 no velocidad ; luego Otra Vez  (el Gallade con Banda Focus ",
-      "variant": []
+      "detail": "Arriesgado --> Usar Trampa Rocas al enfrentar a Gallade o Roserade; entrar con Gengar +2 al enfrentar a Dragonite; presionar directamente con Onda Certera a Girafarig restante con Bola Sombra 【5% de probabilidad de Absol aleatorio】",
+      "variant": [
+        {
+          "detail": "Si Absol aleatorio debilita a Gengar --> Entrar con Volcarona +1 y presionar; revisar qué Pokémon quedan",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "Corre a Dragonite ➜ Cambiar a Jirachi Otra Vez ; Chandelure +2 +2 ",
-      "variant": []
+      "detail": "Estable --> Entrar con Slowbro y usar Bostezo",
+      "variant": [
+        {
+          "detail": "Absol --> Sacrificar a Politoed; entrar con Poliwrath +6; observar la situación",
+          "variant": [
+            {
+              "detail": "Situación ① Girafarig vs Ninetales (primer enfrentamiento) --> Usar Velocidad X y presionar de nuevo",
+              "variant": []
+            },
+            {
+              "detail": "Situación ② Ninetales vs Girafarig (primer enfrentamiento) --> Presionar directamente; si no hay golpe crítico no debilita; si hay golpe crítico y cae, entrar con Gengar +2 para completar",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "Ninetales --> Usar Protección y Bostezo al enfrentar a Absol; sacrificar a Politoed; entrar con Poliwrath +6",
+          "variant": []
+        }
+      ]
     }
   ]
 }
