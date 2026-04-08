@@ -2,14 +2,14 @@
   "id": "scolipede",
   "name": "Scolipede",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨 AMORTIGUADOR  directo ➜ Aguantar presión (Cuidado con Scolipede/Excadrill banda focus)",
+  "initialMove": "🪨 Trampa Rocas 🪨 si no cambia usa 🥚 Amortiguador 🥚",
   "tricks": [
     {
-      "detail": "Rezar por estabilidad  ➜ Gengar  Otra Vez ; Maquinación ; presionar hasta Excadrill ; cambiar a Dragonite; cambiar a Jirachi Otra Vez ; Dragonite Danza Dragón x2 ",
+      "detail": "Absol --> Gengar +2 + Precisión 🔔para ahorrar dinero: Gengar +6🔔",
       "variant": []
     },
     {
-      "detail": "Buscando velocidad  ➜ Dragonite Danza Dragón x2 ; NO usar Otra Vez ; Scolipede Banda Focus ; cuidado con tu vida  ",
+      "detail": "Luxray --> Amortiguador; esperar a Absol / Crawdaunt; Gengar +2 + Precisión; 🔔para ahorrar dinero: Gengar +6🔔",
       "variant": []
     }
   ]
