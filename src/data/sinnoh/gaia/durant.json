@@ -2,34 +2,57 @@
   "id": "durant",
   "name": "Durant",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡 Gengar Cambia a Jirachi 💡",
+  "initialMove": "💡Gengar usa Otra Vez + Bola Sombra 💡 Si Otra Vez no funciona, y entra Rhyperior mira abajo donde dice que fallo otra vez",
   "tricks": [
     {
-      "detail": "Hippowdon ➜ Gallade Otra Vez +2 +2; si cambia a Amoonguss , Chandelure +2 +2",
+      "detail": "Si se queda --> Usar Maquinación + Bola Sombra hasta debilitar",
+      "variant": [
+        {
+          "detail": "Hippowdon --> Cambiar a Slowbro y usar Bostezo al enfrentar a Durant; usar Teletransporte ; entrar con Volcarona +1 para debilitar al enfrentar a Hippowdon; usar Especial X y presionar para completar",
+          "variant": []
+        },
+        {
+          "detail": "Golem --> Cambiar a Chansey y usar Trampa Rocas si se queda; cambiar a Slowbro y usar Bostezo al enfrentar a Gengar; entrar con Volcarona +1 y usar Psíquico al enfrentar a Gengar",
+          "variant": []
+        },
+        {
+          "detail": "Si usa Maquinación y va hacia Hippowdon --> Cambiar a Slowbro y usar Bostezo al enfrentar a Durant; usar Teletransporte ; entrar con Volcarona +1 para debilitar al enfrentar a Hippowdon; usar Especial X y presionar para completar",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Hippowdon --> Cambiar a Slowbro y usar Bostezo al enfrentar a Durant; usar Teletransporte ; entrar con Volcarona (moth) +1 para debilitar al enfrentar a Hippowdon; usar Especial X y presionar para completar",
       "variant": []
     },
     {
-      "detail": "Rhyperior ➜Trampa tocas ; si cambia a  Amoonguss Chandelure +2 +2",
-      "variant": []
+      "detail": "Rhyperior --> Revisar objeto",
+      "variant": [
+        {
+          "detail": "Restos --> Sacrificar a Politoed ; entrar con Poliwrath y usar Ataque X para presionar; absorber movimientos de Cloyster (hielo/dragón) y usar Cascada ",
+          "variant": []
+        },
+        {
+          "detail": "Sin Restos --> Cambiar a Slowbro y usar Bostezo al enfrentar a Durant; usar Teletransporte ; entrar con Volcarona +1 para debilitar al enfrentar a Hippowdon; usar Especial X y presionar para completar",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "Terremoto ➜ Gallade Otra Vez  +2 +2; (si puedes ir +6 es mejor asi matar a amoongus de un golpe)",
-      "variant": []
+      "detail": "Si Otra Vez no funciona, ir al enfrentar a Rhyperior --> Cambiar a Chansey y usar Trampa Rocas ; cambiar a Slowbro y usar Bostezo ",
+      "variant": [
+        {
+          "detail": "Si se queda --> Usar Teletransporte ; entrar con Volcarona +1 y usar Psíquico al enfrentar a Gengar ",
+          "variant": []
+        },
+        {
+          "detail": "Gengar / Leavanny --> Entrar con Volcarona +1 y usar Psíquico al enfrentar a Gengar ",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "si cambia Amoonguss  ➜ Chandelure +2 +2",
-      "variant": []
-    },
-    {
-      "detail": "Golpe Calor  ➜ Otra Vez inmediato  Chandelure +2 +2",
-      "variant": []
-    },
-    {
-      "detail": "Druddigon ➜ Trampa rocas Gallade Otra Vez  +2 +2",
-      "variant": []
-    },
-    {
-      "detail": "Fuerza Bruta  ➜ Trammpa rocas Chandelure no x especial  +2; (Jirachi debilitado, Chansey  curar/tramprocas )",
+      "detail": "Druddigon --> Sacrificar a Politoed ; entrar con Poliwrath +6 y usar Puño Drenaje para absorber y mantener la línea de HP",
       "variant": []
     }
   ]
