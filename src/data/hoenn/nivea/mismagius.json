@@ -2,16 +2,15 @@
   "id": "mismagius",
   "name": "Mismagius",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TRAMPA ROCAS🪨",
+  "initialMove": "🪨 TRAMPA ROCAS 🪨 frente a Mienshao; cambiar a Gengar bola sombra",
   "tricks": [
-     {
-      "detail": "Mienshao → Gengar Otra Vez y Maquinacion, frente a Walrein o Derwgong usa Maquinacion y Pushea",
-      "variant": [
-         {
-          "detail": "Blissey → Gengar +6 (Blissey no te hara daño no te preocupes)",
-          "variant": []
-         }
-      ]
+    {
+      "detail": "Skarmory --> Cambiar a Slowbro; Slowbro frente a Mismagius; sacrificar a Politoed; Poliwrath +6; 🔔Cascada a Skarmory🔔",
+      "variant": []
+    },
+    {
+      "detail": "Walrein o Dewgong --> Sacrificar a Politoed; Poliwrath +6; Cascada a 🔔Skarmory🔔",
+      "variant": []
     }
   ]
 }
