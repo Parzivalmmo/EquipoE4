@@ -2,11 +2,6 @@
   "id": "floatzel",
   "name": "Floatzel",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa rocas🪨",
-  "tricks": [
-    {
-      "detail": "Escavalier ➜ Chandelure +2 +2 (tiene cinta elegida) ",
-      "variant": []
-    }
-  ]
+  "initialMove": "🪨Trampa Rocas🪨 al enfrentar a Escavalier; Slowbro usa Bostezo al enfrentar a Volcarona, sacrificar a Politoed y entrar con Poliwrath +6",
+  "tricks": []
 }
