@@ -2,15 +2,16 @@
   "id": "scizor",
   "name": "Scizor",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Cambia a Chandelure y lanzallamas💡",
+  "initialMove": "🦋Cambia a Volcarona🦋",
   "tricks": [
     {
-      "detail": "Crobat ➜ cambiar a Jirachi; usar Otra Vez; cambiar a Chandelure +2 +2",
-      "variant": []
-    },
-    {
-      "detail": "Stunfisk ➜ Dragonite usa Otra Vez + Danza Dragón x3",
-      "variant": []
+      "detail": "Danza Aleteo, +2 Ataque Especial X.",
+      "variant": [
+        {
+          "detail": "Crítico derrota a Volcarona → Poliwrath → Politoed (sacrificar), Poliwrath +6",
+          "variant": []
+        }
+      ]
     }
   ]
 }
