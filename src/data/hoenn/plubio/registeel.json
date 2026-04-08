@@ -2,34 +2,39 @@
   "id": "registeel",
   "name": "Registeel",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Cambiar a Chandelure Cambiar a Chansey💡",
+  "initialMove": "🪨 TRAMPA ROCAS 🪨",
   "tricks": [
     {
-      "detail": "se queda ➜ cambiar a Jirachi; cambiar a Dragonite Otra Vez  Danza Dragón +4",
+      "detail": "Si se queda ➜ Sacrifica al sapito y luego entra Poliwrath +6 🥊",
       "variant": []
     },
     {
-      "detail": "Mienshao ➜ cambiar a Gengar (para debilitar )",
-      "variant": []
+      "detail": "Eelektross ➜ Gengar Otra Vez despues cambia a Slowbro, frente a Milotic/Swampert usa Bostezo 😴 (Si se queda haciendo Escaldar sigue usando Bostezo)",
+      "variant": [
+         {
+           "detail": "Poder Oculto Electrico ➜ Sacrifica al sapito y luego entra Poliwrath +6 🥊",
+           "variant": []
+         },
+         {    
+            "detail": "Altaria ➜ Cambia a Chansey para atraer a Eelektross, usa Teletransporte y entra Slowbro usa Bostezo luego sacrifica al sapito y entra Poliwrath +6 🥊",
+            "variant": []
+         },
+         {  
+            "detail": "Serperior ➜ Usa Proteccion y Bostezo, despues sacrifica al sapito y entra Poliwrath +6 🥊",
+            "variant": []
+         },
+         {  
+            "detail": "Eelektross ➜ Sacrifica al sapito y entra Poliwrath +6 🥊",
+            "variant": []
+         },
+         {       
+            "detail": "Gardevoir ➜ Sacrifica al sapito y entra Poliwrath +6 🥊",
+            "variant": []
+         } 
+      ]  
     },
     {
-      "detail": "Registeel ➜ cambiar a Chansey ; cambiar a Jirachi",
-      "variant": []
-    },
-    {
-      "detail": "Eelektross ➜ Rayo ; Otra Vez manual; Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Eelektross ➜ Gengar  Otra Vez ; frente a la columna , observar objeto ",
-      "variant": []
-    },
-    {
-      "detail": "Restos  ➜ Dragonite Otra Vez  Danza Dragón +4 ",
-      "variant": []
-    },
-    {
-      "detail": "Baya Atania  ➜ Dragonite Otra Vez Danza Dragón +2  + x ataque ; puede cargar hasta +4 (; Garra Dragón asegura a Gardevoir",
+      "detail": "Mienshao ➜ Cambia a Slowbro y usa Bostezo contra Serperior, despues usa Teletransporte y entra volcarona +1",
       "variant": []
     }
   ]
