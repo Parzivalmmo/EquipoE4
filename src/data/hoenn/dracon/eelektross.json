@@ -2,22 +2,14 @@
   "id": "eelektross",
   "name": "Eelektross",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨 (gallade Banda focus)",
+  "initialMove": "🥚 Amortiguador 🥚",
   "tricks": [
     {
-      "detail": "Fuerza Bruta  ➜ Amortiguador  frente a Gallade ; cambiar a Gengar  Otra Vez  +4  0 Velocidad ; (tiene banda focus  Gallade) ",
+      "detail": "Puño Drenaje --> Gengar +4 +2; 🔔Bola Sombra a todo🔔",
       "variant": []
     },
     {
-      "detail": "Puño Drenaje  ➜ Gengar  Otra Vez ; cambiar a Jirachi",
-      "variant": []
-    },
-    {
-      "detail": "Lapras ➜ Rayo  frente a Nidoking; Otra Vez   Chandelure +2 +2",
-      "variant": []
-    },
-    {
-      "detail": "Salamence ➜ Jirachi Otra Vez ; Chandelure +2 +2 ",
+      "detail": "Fuerza Bruta --> Amortiguador y esperar a Gallade ; Gengar +4 + Otra Vez",
       "variant": []
     }
   ]
