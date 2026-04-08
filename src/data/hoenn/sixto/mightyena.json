@@ -2,11 +2,6 @@
   "id": "mightyena",
   "name": "Mightyena",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨USA TRAMPA ROCAS🪨",
-  "tricks": [
-    {
-      "detail": "Absol ➜ Gengar Otra Vez +2 no velo ",
-      "variant": []
-    }
-  ]
+  "initialMove": "🪨 USA TRAMPA ROCAS 🪨 Frente a Absol; Gengar +4 (Bola Sombra a todo)",
+  "tricks": []
 }
