@@ -2,11 +2,6 @@
   "id": "crawdaunt",
   "name": "Crawdaunt",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TRAMPA ROCAS🪨(scolipede y excadrill banda focus )",
-  "tricks": [
-    {
-      "detail": "Se queda → Chandelure +2 +2",
-      "variant": []
-    }
-  ]
+  "initialMove": "🪨TrampaRocas🪨; Gengar +2 + Precisión (No usar Otra Vez); para ahorrar dinero: Gengar +6",
+  "tricks": []
 }
