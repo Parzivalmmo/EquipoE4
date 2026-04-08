@@ -2,19 +2,6 @@
   "id": "ninetales",
   "name": "Ninetales",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Pantalla luz💡",
-  "tricks": [
-    {
-      "detail": "Lucario ➜ Gengar  Otra Vez ; Maquinación ",
-      "variant": []
-    },
-    {
-      "detail": "Permanecer  ➜ +2 Velocidad ; presionar hasta completar ; ( cuidado con Banda Focus  de Lucario )",
-      "variant": []
-    },
-    {
-      "detail": "Tropius ➜ Dragonite Otra Vez ; Danza Dragón x1 ; usar x ataque; / Danza Dragón x3 ; Garra Dragón  para Dusknoir; resistir a Lucario",
-      "variant": []
-    }
-  ]
+  "initialMove": "💡 Amortiguador frente a Lucario; Gengar +4 +2 💡 Bola Sombra a todo",
+  "tricks": []
 }
