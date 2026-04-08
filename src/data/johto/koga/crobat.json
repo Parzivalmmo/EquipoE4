@@ -5,164 +5,87 @@
   "initialMove": "🪨Trampa rocas🪨",
   "tricks": [
     {
-      "detail": "Látigo Cepa ➜ cambiar a Jirachi; usar Otra Vez ",
+      "detail": "Se queda → Mira el ataque",
+      "variant": [
+        {
+          "detail": "Superdiente → Cambia a Slowbro",
+          "variant": [
+            {
+              "detail": "Se queda → Bostezo, sale Magmortar → Politoed (sacrificar)",
+              "variant": [
+                {
+                  "detail": "Opcion Rápida → Poliwrath, +2 Ataque X → Puño Drenaje a Magmortar. (Si sale Ditto, cambia a Gengar y lo derrotas).",
+                  "variant": []
+                },
+                {
+                  "detail": "Opcion Ahorro → Poliwrath +6, Puño Drenaje a Magmortar, Presiona hasta Mienshao, usa Tambor y luego derrótalo. (Si sale Ditto, cambias a Gengar y lo derrotas).",
+                  "variant": []
+                }
+              ]
+            },
+            {
+              "detail": "Rhyperior → Bostezo, toma una max poción, Protección → Bostezo, sale Gengar/Lapras → Politoed (sacrificar), Poliwrath +6. (Puño Hielo Gengar).",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "Veneno X/Pajaro Osado → Slowbro, Bostezo",
+          "variant": [
+            {
+              "detail": "Se queda → Volcarona +1. Psiquico contra Lanturn, usa Danza Aleteo una vez más.",
+              "variant": []
+            },
+            {
+              "detail": "A quien le haya tocado bostezo → Volcarona +1. Gigadrenado a Lanturn/Tentacruel, usa Danza Aleteo una vez más.",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "Bisharp → Slowbro, Bostezo → Politoed (sacrificar), Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Poder Oculto Fuego➜ Chandelure +2 +2 ; energibola debilita a Rhyperior ",
+      "detail": "Lucario → Gengar, Otra Vez, +4 +2. (Bola sombra a todos).",
       "variant": []
     },
     {
-      "detail": "Terremoto ➜ Gallade usar Otra Vez +4 +2 ",
-      "variant": []
+      "detail": "Ariados → Encanto, Amortiguador hasta que cambie",
+      "variant": [
+        {
+          "detail": "Rhyperior → Slowbro, Bostezo → Teletransporte → Poliwrath +6, Puño Drenaje contra Sharpedo, +2 Velocidad X",
+          "variant": []
+        },
+        {
+          "detail": "Tangrowth → mira abajo ↓",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "Superdiente  ➜ cambiar a Gengar ; cambiar a Chandelure",
-      "variant": []
+      "detail": "Tangrowth → Teletransporte → Slowbro, Bostezo. (Mira la precisión de Tangrowth)",
+      "variant": [
+        {
+          "detail": "Golpea → Teletransporte → Volcarona +2",
+          "variant": []
+        },
+        {
+          "detail": "Falla → Volcarona +2.",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "Frente a Rhyperior ➜ Dragonite Otra Vez  + Danza Dragón  x4; ejecutar hacia Weezing para continuar fortaleciéndose",
-      "variant": []
-    },
-    {
-      "detail": "Ferrothorn ➜ Debilitar; cambiar a Dragonite; cambiar a Jirachi; Otra Vez  Dragonite Danza Dragón x1",
-      "variant": []
-    },
-    {
-      "detail": "Pájaro Osado  ➜ cambiar a Jirachi; Otra Vez  Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Scizor ➜ Priorizar velocidad ; usar Amortiguador ; (recibir Fuerza Bruta ; cambiar a Dragonite +2",
-      "variant": []
-    },
-    {
-      "detail": "Ruta segura  ➜ cambiar a Chandelure para debilitar",
-      "variant": []
-    },
-    {
-      "detail": "Frente a Crobat ➜ cambiar a Jirachi; cambiar a Chandelure frente a Stunfisk ; Dragonite Otra Vez + Danza Dragón  x2",
-      "variant": []
-    },
-    {
-      "detail": "Stunfisk ➜ Dragonite Otra Vez (+ Danza Dragón x2",
-      "variant": []
-    },
-    {
-      "detail": "Swalot ➜ Dragonite Otra Vez + Danza Dragón  x2",
-      "variant": []
-    },
-    {
-      "detail": "Lucario ➜ Gengar Otra Vez ; cambiar a Jirachi",
-      "variant": []
-    },
-    {
-      "detail": "Skuntank ➜ Chandelure +2 +2",
-      "variant": []
-    },
-    {
-      "detail": "Gliscor ➜ Dragonite otra vez x2 danza ultimo otra vez y ataca ",
-      "variant": []
-    },
-    {
-      "detail": "Samurott ➜ Gengar Otra Vez  +6 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Vidaesfera y se queda  ➜ cambiar a Jirachi; Otra Vez (; Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Jirachi Protección + Otra Vez ; Onda Ígnea  falla precisión; ejecutar hacia Nido",
-      "variant": []
-    },
-    {
-      "detail": "Lanzallamas  ➜ Jirachi Otra Vez ; Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Si usa movimiento Fuego o Pulso Umbrío ➜ Pantalla de Luz ; cambiar a Jirachi; Otra Vez al Fuego; Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Látigo Cepa  ➜ cambiar a Jirachi; usar Otra Vez (",
-      "variant": []
-    },
-    {
-      "detail": "Poder Oculto Fuego  ➜ Chandelure +2 +2 ; tipo Planta debilita a Rhyperior ",
-      "variant": []
-    },
-    {
-      "detail": "Terremoto  ➜ Gallade ; usar Otra Vez (Encore) +4 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Superdiente  ➜ cambiar a Gengar ; cambiar a Chandelure",
-      "variant": []
-    },
-    {
-      "detail": "Frente a Rhyperior ➜ Dragonite Otra Vez  + Danza Dragón  x4; ejecutar hacia Weezing para continuar fortaleciéndose",
-      "variant": []
-    },
-    {
-      "detail": "Ferrothorn ➜ Debilitar; cambiar a Dragonite; cambiar a Jirachi; Otra Vez  Dragonite Danza Dragón x1",
-      "variant": []
-    },
-    {
-      "detail": "Pájaro Osado ➜ cambiar a Jirachi; Otra Vez  Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Scizor ➜ Priorizar hacer rapido ; usar Amortiguador ; recibir Fuerza Bruta  cambiar a Dragonite +2",
-      "variant": []
-    },
-    {
-      "detail": "Ruta segura ➜ cambiar a Chandelure para debilitar",
-      "variant": []
-    },
-    {
-      "detail": "Frente a Crobat ➜ cambiar a Jirachi; cambiar a Chandelure frente a Stunfisk  Dragonite Otra Vez + Danza Dragón  x2",
-      "variant": []
-    },
-    {
-      "detail": "Stunfisk (➜ Dragonite Otra Vez ( + Danza Dragón  x2",
-      "variant": []
-    },
-    {
-      "detail": "Swalot ➜ Dragonite Otra Vez  + Danza Dragón x2",
-      "variant": []
-    },
-    {
-      "detail": "Lucario ➜ Gengar Otra Vez ; cambiar a Jirachi",
-      "variant": []
-    },
-    {
-      "detail": "Skuntank ➜ Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Gliscor  ➜Dragonite Otra Vez Danza dragon x2 usa otra vez y ataca ",
-      "variant": []
-    },
-    {
-      "detail": "Samurott ➜ Gengar Otra Vez +6 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Vidaesfera y se queda ➜ cambiar a Jirachi; Otra Vez Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Jirachi Protección  + Otra Vez  Onda Ígnea  falla precisión; ejecutar hacia Nido",
-      "variant": []
-    },
-    {
-      "detail": "Lanzallamas ➜ Jirachi Otra Vez ; Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Si usa movimiento Fuego o Pulso Umbrío  y se queda  ➜ Pantalla de Luz ; cambiar a Jirachi; Otra Vez al Fuego; Chandelure +2 +2 ",
-      "variant": []
+      "detail": "Scizor → Volcarona +1 +2 Ataque Especial X",
+      "variant": [
+        {
+          "detail": "Cae Volcarona por Crítico → Poliwrath → Politoed (sacrificar), Poliwrath +6",
+          "variant": []
+        }
+      ]
     }
   ]
 }
