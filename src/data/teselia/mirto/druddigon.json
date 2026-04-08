@@ -2,11 +2,6 @@
   "id": "druddigon",
   "name": "Druddigon",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡 Pantalla luz💡 Cambiar a Gengar Otra Vez ",
-  "tricks": [
-    {
-      "detail": "Excadrill ➜ Dragonite +4 danza dragon (tiene pañuelo )",
-      "variant": []
-    }
-  ]
-}
+  "initialMove": "💡Cambiar a Slowbro ante Conkeldurr / Braviary; usar Bostezo al enfrentar a Volcarona, sacrificar a Politoed y entrar con Poliwrath +6💡",
+  "tricks": []
+} 
