@@ -2,30 +2,30 @@
   "id": "skarmory",
   "name": "Skarmory",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨",
+  "initialMove": "🪨 Trampa Rocas 🪨 si no cambia usa Amortiguador",
   "tricks": [
     {
-      "detail": "Mienshao ➜ cambiar a Gengar mata a mienshao ; cambiar a Chansey  ",
+      "detail": "Mienshao --> Cambiar a Gengar y atacar hasta debilitar",
       "variant": []
     },
     {
-      "detail": "Blissey ➜ cambiar a Gengar  Maquinación ; cambiar a Chansey  +6 0 Velocidad atacar ",
+      "detail": "Skarmory --> Cambiar a Slowbro; Slowbro frente a Mismagius; sacrificar a Politoed; Poliwrath +6🔔Cascada a Skarmory🔔",
       "variant": []
     },
     {
-      "detail": "Hariyama ➜ Gengar Otra Vez  +4  +2  (usar movimiento Eléctrico para  Froslass)",
+      "detail": "Walrein o Dewgong --> Sacrificar a Politoed; Poliwrath +6; 🔔Cascada a Skarmory🔔",
       "variant": []
     },
     {
-      "detail": "Cambiar a  ➜ Chansey  Amortiguador ; aguantar golpe fuerte ",
+      "detail": "Hariyama --> Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6; 🔔Puño Hielo a Froslass🔔",
       "variant": []
     },
     {
-      "detail": "Beartic ➜ Gengar  Otra Vez  +4 0 Velocidad ; si se elimina la quemadura ; cambiar a Walrein o Dewgong o priorizar Velocidad  directamente +2; necesita resistir daño",
+      "detail": "Gallade/Roserade --> Gengar +2 + Precisión (No usar Otra Vez); 🔔Onda Certera a Walrein, Dewgong o Skarmory🔔",
       "variant": []
     },
     {
-      "detail": "Gallade ➜ Gengar  +4 +0 Velocidad ; NO usar Otra Vez ; frente a Walrein o Dewgong resistir daño fortalecer ",
+      "detail": "Froslass --> Gengar +2 + Precisión; 🔔Onda Certera a Froslass, Walrein, Dewgong o Skarmory🔔",
       "variant": []
     }
   ]
