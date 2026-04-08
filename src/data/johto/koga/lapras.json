@@ -2,10 +2,10 @@
   "id": "lapras",
   "name": "Lapras",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨",
+  "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Crobat ➜ contador , Cambia a Gallade otra vez +6 +2 ",
+      "detail": "Sale Crobat ➜ Slowbro, mantener con Bostezo hasta que salga Gengar/Lapras → Politoed (sacrificar), Poliwrath +6.",
       "variant": []
     }
   ]
