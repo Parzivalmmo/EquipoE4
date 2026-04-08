@@ -2,14 +2,22 @@
   "id": "yanmega",
   "name": "Yanmega",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": " 🪨 ROCAS + PANTALLA LUZ ➜ Jirachi  (Ida y Vuelta) a Flygon ➜ Otra Vez  a Gallade +2 +2",
+  "initialMove": "💡Usar Defensa Especial X y 🪨TrampaRocas🪨💡",
   "tricks": [
     {
-      "detail": "SIN PANTALLA LUZ ➜ Flygon (Ida y Vuelta) a Gallade ➜ Quedarse con Jirachi (Rayo)",
+      "detail": "Kabutops --> Cambiar a Slowbro y usar Bostezo ",
       "variant": []
     },
     {
-      "detail": ".",
+      "detail": "Yanmega --> Sacrificar a Politoed  y entrar con Poliwrath  +6",
+      "variant": []
+    },
+    {
+      "detail": "Ferrothorn --> Volcarona  +2",
+      "variant": []
+    },
+    {
+      "detail": "Flygon --> Usar Teletransporte  para enviar a Slowbro ; usar Relajo  para recibir Ida y Vuelta o cometa draco ; usar Bostezo al enfrentar a Yanmega; sacrificar a Politoed y entrar con Poliwrath  +6",
       "variant": []
     }
   ]
