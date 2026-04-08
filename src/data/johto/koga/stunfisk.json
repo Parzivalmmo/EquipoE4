@@ -2,7 +2,7 @@
   "id": "stunfisk",
   "name": "Stunfisk",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🦋 Cambia a Volcarona 🦋",
+  "initialMove": "🦋Cambia a Volcarona🦋",
   "tricks": [
     {
       "detail": "Sale Scizor → Danza Aleteo + 2 Ataque Especial X.",
