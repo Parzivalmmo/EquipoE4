@@ -1,92 +1,63 @@
- {
+{
   "id": "xatu",
   "name": "Xatu",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Pantalla Luz💡",
+  "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Golurk ➜ Usar Trampa Rocas para ver daño",
-      "variant": []
+      "detail": "Se queda → Mira el Item",
+      "variant": [
+        {
+          "detail": "Llamaesfera → Amortiguador hasta que salga Golurk → Gengar, Otra Vez, +4 +2 precisión X.",
+          "variant": []
+        },
+        {
+          "detail": "Sin Llamaesfera → Cambia a Slowbro, Bostezo. sale Magnezone → Protección, cambia a Chansey. sale Girafarig → Trampa rocas → Gengar, Otra Vez → Slowbro, sale Mantine → Bostezo, sale Girafarig → Politoed (sacrificar), Poliwrath +6.",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "Si el daño es 35% ➜ cambiar a Jirachi; cambiar a Gallade; usar Otra Vez +2 +2 ",
-      "variant": []
+      "detail": "Flareon → Gengar, Otra Vez, +2.",
+      "variant": [
+        {
+          "detail": "Se queda → Derrótalo, sale Absol → Politoed (sacrificar), Poliwrath +6.",
+          "variant": []
+        },
+        {
+          "detail": "Sale Bronzong → Politoed (sacrificar), Poliwrath +6.",
+          "variant": []
+        }
+      ]
     },
-    {
-      "detail": "Si el daño es 50% ➜ cambiar a Gengar; usar Otra Vez+4 +2 ; priorizar velocidad; cambiar a Jirachi; cambiar a Gallade; usar Otra Vez  +2 +2 ",
+   {
+    "detail": "Absol → Gengar, +4 +2 precisión X. (No es necesario Otra Vez).",
+    "variant": []
+   },
+   {
+    "detail": "Golurk → Gengar, Otra Vez, +4 +2 +2 precisión X. (Otra Vez cada que puedas)",
+    "variant": []
+   },
+   {
+    "detail": "Lucario → Teletransporte → Mira el item",
+    "variant": [
+     {
+      "detail": "Vidaesfera → Gengar, Otra Vez, +4 +2 precisión X.",
       "variant": []
-    },
-    {
-      "detail": "Flareon ➜ cambiar a Gengar ; cambiar a Chandelure +2 +2 ; aprovechar Absorbe Fuego ; frente a Empoleon continuar fortaleciéndose",
+     },
+     {
+      "detail": "Sin Vidaesfera → Gengar, Otra Vez, +2 +2 +2 precisión X.",
       "variant": []
-    },
-    {
-      "detail": "Electivire con Trueno ➜ usar Trampa Rocas ; Gengar Otra Vez +4 no velo; presionar hacia Chansey (; Gengar  +6",
+     },
+     {
+      "detail": "Inesperadamente usa Ataque tipo Fuego → Gengar, Otra Vez → Poliwrath +6 +2.",
       "variant": []
-    },
-    {
-      "detail": "Absol ➜ Gengar  +4; No usar Otra Vez ; ejecutar hacia Flareon con Chandelure +2 +2 ; frente a Bronzong cambiar a Chansey para un nuevo cambio ",
-      "variant": []
-    },
-    {
-      "detail": "Lucario ➜ Gengar  Otra Vez ; usar Maquinación ",
-      "variant": []
-    },
-    {
-      "detail": "Altaria ➜ Gengar resistir daño; presionar +4 no velo ; No usar Otra Vez  Bola Sombra  hacia Gardevoir; puede enfrentar al ave falsa ; si aparece, analizar",
-      "variant": []
-    },
-    {
-      "detail": "Resistir ave falsa sin bajar precisión ➜ presionar hacia el Altaria real; curar HP al máximo; continuar presionado hasta completar",
-      "variant": []
-    },
-    {
-      "detail": "Resistir ave falsa con baja de precisión o baja por crítico (ctkilled) ➜ cambiar a Jirachi; usar Otra Vez ; Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Ejecutar hacia Umbreon ➜ cambiar a Chansey ; usar Trampa Rocas )",
-      "variant": []
-    },
-    {
-      "detail": "Electivire ➜ Chandelure +2 +2 ; (testing)",
-      "variant": []
-    },
-    {
-      "detail": "Lucario ➜ cambiar a Gengar  usar Otra Vez ; cambiar a Gallade debilitar a Umbreon; cambiar a Chansey ; cambiar a Jirachi; ante Lucario o Electivire usar Otra Vez  Chandelure +2 +2 ; ante Electivire No usar Otra Vez ",
-      "variant": []
-    },
-    {
-      "detail": "Se queda  ➜ analizar habilidad/movimiento",
-      "variant": []
-    },
-    {
-      "detail": "Psicocarga  ➜ usar Amortiguador ; cambiar a Jirachi",
-      "variant": []
-    },
-    {
-      "detail": "Girafarig ➜ usar Trampa Rocas  Otra Vez (Gallade +4 +2 )",
-      "variant": []
-    },
-    {
-      "detail": "Se Queda ➜ usar Eléctrico frente a Magnezone; cambiar a Chansey ; esperar a Girafarig Jirachi Otra Vez ; Gallade  +6 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Typhlosion ➜ usar Trampa Rocas + Pantalla de Luz  Dragonite con Garra Dragón  y Danza Dragón  1+x ataque",
-      "variant": []
-    },
-    {
-      "detail": "Onda Ígnea  ➜ cambiar a Jirachi",
-      "variant": []
-    },
-    {
-      "detail": "Golurk ➜ Gallade usar Otra Vez  +2 +2",
-      "variant": []
-    },
-    {
-      "detail": "Xatu ➜ cambiar a Chansey  usar Amortiguador  Gengar  Otra Vez +4 no velo ",
-      "variant": []
-    }
+     }
+    ]
+   },
+   {
+    "detail": "Electivire → Gengar, Otra Vez, +2 +2 Precisión X.",
+    "variant": []
+   }
   ]
 }
