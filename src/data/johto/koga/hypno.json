@@ -2,10 +2,10 @@
   "id": "hypno",
   "name": "Hypno",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨",
+  "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Samurott ➜ cambiar a Gengar; usar Otra Vez  +6 +2 ",
+      "detail": "Sale Samurott ➜ Slowbro, Bostezo → Politoed (Sacrificar), Poliwrath +6.",
       "variant": []
     }
   ]
