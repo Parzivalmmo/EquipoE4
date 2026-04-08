@@ -2,14 +2,10 @@
   "id": "typhlosion",
   "name": "Typhlosion",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨",
+  "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Se queda y hacerlo rapido ➜ abrir con Pantalla de Luz; Dragonite x3; No usar Otra Vez  probar con 1+2; se puede usar Garra Dragón  primero para presionar; si cae por golpe crítico , presionar al salir",
-      "variant": []
-    },
-    {
-      "detail": "Se queda / esta ruta es mas segura  ➜ cambiar a Chandelure; Bola Sombra; cambiar a Jirachi; usar Protección  para forzar al rival a cambiar a Mantine; frente a Typhlosion, Chandelure +2 +2 ",
+      "detail": "Saca a Politoed (Sacrificar), Poliwrath +6.",
       "variant": []
     }
   ]
