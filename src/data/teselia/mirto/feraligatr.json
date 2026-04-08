@@ -2,18 +2,18 @@
   "id": "feraligatr",
   "name": "Feraligatr",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡 contador 💡",
+  "initialMove": " Usar 🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Escavalier ➜ Trampa rocas cambia a Chandelure +2 +2; ( 💡frente a Gengar Excadrill puede usar Garra Umbría 💡)",
+      "detail": "Si se queda --> Sacrificar a Gengar; Slowbro usa Bostezo, sacrificar a Politoed y entrar con Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Lucario ➜ Cambia a Gengar cambia a Jirachi;  Trampa rocas  frente a Krookodile, Dragonite  x2 Danza Dragón ;   (💡el cocodrilo se bloquea solo (tiene pañuelo); puede cambiar a  Volcarona  y continuar fortaleciendo ",
+      "detail": "Lucario --> Slowbro usa Bostezo; sacrificar a Politoed y entrar con Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "si cambia a Volcarona ➜ Continuar usando Danza Dragón ",
+      "detail": "Escavalier --> Slowbro usa Bostezo; sacrificar a Politoed y entrar con Poliwrath +6",
       "variant": []
     }
   ]
