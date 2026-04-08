@@ -2,82 +2,92 @@
   "id": "gallade_2",
   "name": "Gallade",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Cambiar a Gengar 💡",
+  "initialMove": "💡Cambiar a Gengar💡",
   "tricks": [
     {
-      "detail": "Frente a Gallade (real) ➜ Cambiar a Jirachi, cambiar a Gengar Otra Vez (Encore) +6 no velo ; solo uno doble Gallade, liderar con Zoroark ; buscando hacerlo mas rapido Jirachi Otra Vez Chandelure +2 +2 ",
+      "detail": "Espada Santa --> Gengar usa Otra Vez",
       "variant": []
     },
     {
-      "detail": "Cambiar a Jirachi ➜ Para ver el movimiento ",
+      "detail": "Espada Santa vs Gengar lento --> Cambiar a Slowbro",
       "variant": []
     },
     {
-      "detail": "Puño Hielo ➜ Cambiar a Gengar Otra Vez +6 +2 (",
+      "detail": "Si se queda --> Usar Bostezo",
       "variant": []
     },
     {
-      "detail": "Frente a Dragonite ➜ Otra Vez , Chandelure +0 +2 ",
+      "detail": "Gardevoir --> Entrar con Chansey y usar Trampa Rocas al enfrentar a Gallade o Roserade; entrar con Gengar +6 +2 + Precisión",
       "variant": []
     },
     {
-      "detail": "Corre a Empoleon ➜ Cambiar a Chansey , doble cambio  a Medicham; Chandelure +2 +2 ",
+      "detail": "Golduck / Absol --> Cambiar a Chansey y usar Trampa Rocas",
       "variant": []
     },
     {
-      "detail": "Psicocorte ➜ Trampa rocas cambiar a Gengar Otra Vez  Rayo una vez y no corre +6 +2 ; Bola Sombra  Gardevoir ver abajo ",
+      "detail": "Absol --> Entrar con Gengar +4 +2",
       "variant": []
     },
     {
-      "detail": "Presionar hasta Gardevoir ➜ Cambiar a Chansey , cambiar a Jirachi; frente a Hydreigon cambiar a Chandelure +2 +2 ",
+      "detail": "Gallade / Roserade --> Entrar con Gengar +4 +2 (No usar Otra Vez)",
       "variant": []
     },
     {
-      "detail": "Corre a Dragonite ➜ Cambiar a Chansey  Amortiguador ",
+      "detail": "Hydreigon --> Sacrificar a Politoed para ver habilidad",
+      "variant": [
+        {
+          "detail": "Pulso Dragón --> Cambiar a Chansey y usar Trampa Rocas al enfrentar a Gallade o Roserade; entrar con Gengar +6 +2 + Precisión",
+          "variant": []
+        },
+        {
+          "detail": "Pulso Umbrío --> Entrar con Poliwrath +6",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Raichu --> Sacrificar a Politoed; entrar con Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Medicham ➜ Cambiar a Gengar+2 no velo ",
+      "detail": "Dragonite --> Usar Bostezo",
       "variant": []
     },
     {
-      "detail": "Gallade ➜ Cambiar a Gengar Otra Vez inmediato +4 no velo ",
+      "detail": "Absol --> Sacrificar a Politoed; entrar con Poliwrath +6; observar la situación",
+      "variant": [
+        {
+          "detail": "Situación ① Girafarig vs Ninetales (primer enfrentamiento) --> Usar Velocidad X y presionar de nuevo",
+          "variant": []
+        },
+        {
+          "detail": "Situación ② Ninetales vs Girafarig (primer enfrentamiento) --> Presionar directamente; si no hay golpe crítico no debilita; si hay golpe crítico y cae, entrar con Gengar +2 para completar",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Ninetales --> Usar Protección y Bostezo al enfrentar a Absol; sacrificar a Politoed; entrar con Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Jirachi Tramparocas quedarse Tajo Umbrío  no Espada Santa ➜ Cambiar a Chansey , cambiar a Gengar Otra Vez  +4 +2 (",
+      "detail": "Espada Santa vs Gengar rápido --> Entrar con Gengar +2 +2 + Precisión (No usar Otra Vez)",
       "variant": []
     },
     {
-      "detail": "Quedarse ante Espada Santa ➜ Ver el daño ",
+      "detail": "Otra Vez contra Golpe Bajo --> Sacrificar a Politoed; entrar con Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Por encima de 41% ➜ Chandelure +2 +2 (pañuelo)",
+      "detail": "Protección --> Gengar usa Maquinación y atacar hasta debilitar al enfrentar a Raichu; entrar con Chansey y usar Trampa Rocas al enfrentar a Absol; entrar con Gengar +4 +2",
       "variant": []
     },
     {
-      "detail": "Menos de 41% ➜ Tramparocas Chandelure +2 +2 ",
+      "detail": "Cambio a Dragonite --> Cambiar a Slowbro y usar Bostezo al enfrentar a Raichu; sacrificar a Politoed; entrar con Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Critico  al 61% por límite  ➜ Ver arriba ",
-      "variant": []
-    },
-    {
-      "detail": "Deseo  / Protección  ➜ trampa rocas Chandelure +2 +2  / Gengar +4 +2  NO usar Otra Vez ",
-      "variant": []
-    },
-    {
-      "detail": "Tajo Umbrío  ➜ Trampa tocas cambiar a Chansey  cambiar a Gengar Otra Vez +2 no velo ; ver situación",
-      "variant": []
-    },
-    {
-      "detail": "Dragonite ➜ Gengar  +2 no velo y atacar ",
-      "variant": []
-    },
-    {
-      "detail": "Quedarse  ➜ Gengar  +6 +2 Bola Sombra  debilita a Gardevoir; Rayo  (efectivamente 2; Hydreigon)",
+      "detail": "Segundo Gallade o Roserade --> Sacrificar a Politoed; enviar a Chansey; entrar con Gengar +6 y usar Bola Sombra a todos",
       "variant": []
     }
   ]
