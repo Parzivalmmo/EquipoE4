@@ -2,14 +2,10 @@
   "id": "haxorus",
   "name": "Haxorus",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Amortiguador 💡 cambia a Gengar +6 no velo ",
+  "initialMove": "💡 Gengar +6 💡 Bola Sombra a todos",
   "tricks": [
     {
-      "detail": "-",
-      "variant": []
-    },
-    {
-      "detail": "-",
+      "detail": "Cambiar a Bronzong --> Sacrificar a Politoed  entrar con Poliwrath  +6 ",
       "variant": []
     }
   ]
