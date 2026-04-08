@@ -2,38 +2,47 @@
   "id": "walrein",
   "name": "Walrein",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TRAMPA ROCAS🪨 (SI SE QUEDA USA AMORTIGUADOR)",
+  "initialMove": "🪨 TRAMPA ROCAS 🪨",
   "tricks": [
     {
-      "detail": "Mienshao → Gengar Otra Vez y Maquinacion luego pushea hasta Chansey y Bostea +6",
+      "detail": "Superdiente --> Amortiguador frente a Hariyama; Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6; 🔔Puño Hielo a Froslass🔔",
       "variant": []
     },
     {
-      "detail": "Beartic → Gengar Otra Vez +2 no velo ",
+      "detail": "Mantiene Triturar --> Cambiar a Gengar +4 +2 + Precisión; si se bloquea, 🔔usar Onda Certera para barrer🔔",
       "variant": []
     },
     {
-      "detail": "Metagross → Gengar Otra Vez",
-      "variant": [
-        {
-          "detail": "Estrategia rapida → Gengar +4 y pushear",
-          "variant": []
-        },
-        {
-          "detail": "Estrategia segura → Cambia Jirachi despues usa Rayo luego usa Otra Vez y entra Gallade o Chandelure 2+2",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "Gallade → Gengar +4 (No usar Otra Vez)",
+      "detail": "Mienshao --> Cambiar a Gengar y atacar hasta debilitar (Prueba: Gengar +2 y atacar hasta debilitar)",
       "variant": []
     },
     {
-      "detail": "Hariyama → Gengar Otra Vez 4+2 ( rayo a froslass)",
+      "detail": "Metagross --> Cambiar a Slowbro y usar Bostezo frente a Nidoking; sacrificar a Politoed; Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Walrein o Dewgong --> Sacrificar a Politoed; Poliwrath +6; 🔔Cascada a Skarmory🔔",
+      "variant": []
+    },
+    {
+      "detail": "Skarmory --> Cambiar a Slowbro; Slowbro frente a Mismagius; sacrificar a Politoed; Poliwrath +6; 🔔vCascada a Skarmory🔔",
+      "variant": []
+    },
+    {
+      "detail": "Altaria --> Cambiar a Slowbro y usar Bostezo frente a Nidoking; sacrificar a Politoed; Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Gallade/Roserade --> Gengar +2 + Precisión (No usar Otra Vez); 🔔Onda Certera a Walrein, Dewgong o Skarmory🔔",
+      "variant": []
+    },
+    {
+      "detail": "Froslass --> Gengar +2 + Precisión; 🔔Onda Certera a Froslass, Walrein, Dewgong o Skarmory🔔",
+      "variant": []
+    },
+    {
+      "detail": "Metagross (Variante) --> Cambiar a Slowbro, luego de Volcarona a Serperior; Volcarona +2",
       "variant": []
     }
   ]
 }
-        
-
