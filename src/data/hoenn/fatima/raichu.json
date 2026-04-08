@@ -2,11 +2,6 @@
   "id": "raichu",
   "name": "Raichu",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Pantalla Luz💡",
-  "tricks": [
-    {
-      "detail": "Arcanine ➜ Gengar  Otra Vez ; bostezo manual +4 +2 +2 ; usar x defensa ",
-      "variant": []
-    }
-  ]
+  "initialMove": "💡 Cambiar a Slowbro ante Arcanine; Slowbro frente a Raichu; sacrificar a Politoed; Poliwrath +6 💡",
+  "tricks": []
 }
