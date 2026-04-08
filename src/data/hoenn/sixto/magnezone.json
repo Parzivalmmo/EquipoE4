@@ -2,22 +2,14 @@
   "id": "magnezone",
   "name": "Magnezone",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Tramparocas🪨 y mira que item tiene ",
+  "initialMove": "🪨 Trampa rocas 🪨",
   "tricks": [
     {
-      "detail": "Globo Helio  ➜ ASEGURAR trampa rocas  frente a Darmanitan; Gengar  +6 0 velo ; NO usar Otra Vez ",
+      "detail": "Darmanitan --> Gengar +2 + Precisión (No usar Otra Vez); usar movimientos súper eficaces; 🔔para ahorrar dinero: Gengar +6🔔",
       "variant": []
     },
     {
-      "detail": "Sin Globo Helio  ➜ ASEGURAR Trampa rocas frente a Absol; cambiar a Gengar Otra Vez ; cambiar a Jirachi; no recibir Absorbe Fuego frente a Gyarados ; cambiar a Chansey ",
-      "variant": []
-    },
-    {
-      "detail": "Huye hacia Magnezone ➜ cambio a chansey ",
-      "variant": []
-    },
-    {
-      "detail": "Garchomp ➜ Otra Vez ; Chandelure +2 +2 ",
+      "detail": "Absol --> Gengar +2 +2 + Precisión; usar movimientos súper eficaces 🔔para ahorrar dinero: Gengar +6 +2🔔",
       "variant": []
     }
   ]
