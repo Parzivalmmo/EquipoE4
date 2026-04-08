@@ -2,11 +2,6 @@
   "id": "mismagius",
   "name": "Mismagius",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨",
-  "tricks": [
-    {
-      "detail": "Lucario ➜ Gengar (ghost) +4 no velo ; NO usar Otra Vez  frente a Arcanine no importa ",
-      "variant": []
-    }
-  ]
+  "initialMove": "🥚 Amortiguador 🥚 al enfrentar a Lucario; entrar con Gengar +4 y usar Otra Vez",
+  "tricks": []
 }
