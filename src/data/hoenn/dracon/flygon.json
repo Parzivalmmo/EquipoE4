@@ -2,19 +2,6 @@
   "id": "flygon",
   "name": "Flygon",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨",
-  "tricks": [
-    {
-      "detail": "Metagross ➜ cambiar a Jirachi Otra Vez  Gallade +2  +2 )",
-      "variant": []
-    },
-    {
-      "detail": "Fijar Cabezazo Zen ➜ Protección ",
-      "variant": []
-    },
-    {
-      "detail": "Flygon ➜ Otra Vez (; Gallade +2 / Chandelure +2 +2 ",
-      "variant": []
-    }
-  ]
+  "initialMove": "🪨 Trampa Rocas 🪨 frente a Metagross; cambiar a Slowbro y usar Bostezo frente a Lapras; sacrificar a Politoed; Poliwrath +6",
+  "tricks": []
 }
