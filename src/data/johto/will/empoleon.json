@@ -1,36 +1,42 @@
 {
-    "id": "empoleon",
-    "name": "Empoleon",
-    "image": "/placeholder.svg?height=80&width=80",
-    "initialMove": "🪨TrampaRocas🪨",
-   "tricks": [
+  "id": "empoleon",
+  "name": "Empoleon",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨Trampa Rocas🪨",
+  "tricks": [
     {
-      "detail": "Absol ➜ Chandelure +2 +2  (con Pañuelo Elegido) ; si usa Recuperación, usar Amortiguador  y cambiar a Gengar  Otra Vez x4 no velo ",
+      "detail": "Se queda → mira el ataque",
+      "variant": [
+        {
+          "detail": "Surf → Slowbro, Bostezo → Politoed (sacrificar), Poliwrath +6.",
+          "variant": []
+        },
+        {
+          "detail": "Hidrobomba → Teletransporte → Slowbro, Bostezo → Protección, sale Clefable, Bostezo → Politoed (sacrificar), Poliwrath +6. (Cascada Hypno)",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Absol → Gengar, +4 +2 precisión X. (No es necesario Otra Vez).",
       "variant": []
     },
     {
-      "detail": "Electivire ➜ Gengar Otra Vez +2 no velo ; presionar con Chansey ; Gengar  +6",
+      "detail": "Electivire → Gengar, Otra Vez, +4 +2 precisión X.",
       "variant": []
     },
     {
-      "detail": "Hidrobomba/Surf ➜ Abrir con Pantalla de Luz; Dragonite Danza Dragón x1 + aumento de ataque; (Empoleon con objeto elegido )",
-      "variant": []
-    },
-    {
-      "detail": "Flareon ➜ cambiar a Gengar ; cambiar a Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Rayo Hielo  ➜ cambiar a Chandelure; cambiar a Chansey ",
-      "variant": []
-    },
-    {
-      "detail": "Umbreon  ➜ cambiar a Jirachi",
-      "variant": []
-    },
-    {
-      "detail": "Golurk ➜ Gallade Otra Vez (Encore) +2 +2 ",
-      "variant": []
+      "detail": "Flareon → Gengar, Otra Vez, +2.",
+      "variant": [
+        {
+          "detail": "Se queda → Derrótalo, sale Absol → Politoed (sacrificar), Poliwrath +6.",
+          "variant": []
+        },
+        {
+          "detail": "Sale Bronzong → Politoed (sacrificar), Poliwrath +6.",
+          "variant": []
+        }
+      ]
     }
   ]
 }
