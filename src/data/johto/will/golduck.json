@@ -2,22 +2,23 @@
   "id": "golduck",
   "name": "Golduck",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨",
+  "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Lucario ➜ cambiar a Gengar ; cambiar a Jirachi; usar Rayo; Otra Vez (lucario Banda focus) ",
-      "variant": []
+      "detail": "Tajo Cruzado → Teletransporte",
+      "variant": [
+        {
+          "detail": "Se queda → Gengar, Otra Vez, +2 +2 +2 precisión X.",
+          "variant": []
+        },
+        {
+          "detail": "Lucario → Poliwrath → Gengar, Otra Vez, +2 +2 +2 precisión X.",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "Se queda  ➜ Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Electivire ➜ Chandelure +2 +2 ; el rival queda encerrado ",
-      "variant": []
-    },
-    {
-      "detail": "Se queda ➜ cambiar a Gengar ; usar Rayo  de forma constante hacia Umbreon; debilitar; frente a Xatu, cambiar a Jirachi; Otra Vez ; Chandelure +2 +2 ",
+      "detail": "Lucario → Gengar, Otra Vez, +2 +2 +2 precisión X.",
       "variant": []
     }
   ]
