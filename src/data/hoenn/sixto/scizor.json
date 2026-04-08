@@ -2,23 +2,6 @@
   "id": "scizor",
   "name": "Scizor",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": " 💡cambia a chande y matalo 💡",
-  "tricks": [
-    {
-      "detail": "Tentacruel ➜ cambiar a chansey Pantalla de Luz ; frente a Absol cambiar a Gengar  Rayo  cambia a Jirachi Otra Vez; Chandelure no puede  si falta uno entre Tentacruel y Scrafty",
-      "variant": []
-    },
-    {
-      "detail": "Scrafty huye hacia Salamence ➜ continuar con Otra Vez ; Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Se bloquea en Puño Drenaje Pañuelo ➜ Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Absol ➜ Chansey Contador ; frente a Scrafty Gengar  Otra Vez  +2 +2  + Otra Vez (Encore)",
-      "variant": []
-    }
-  ]
+  "initialMove": "💡 Volcarona +2 Ataque Especial X (gigadrenado  a Luxray)💡",
+  "tricks": []
 }
