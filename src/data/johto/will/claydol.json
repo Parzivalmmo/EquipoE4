@@ -2,30 +2,14 @@
   "id": "claydol",
   "name": "Claydol",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨",
+  "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Girafarig ➜ cambiar a Gengar ; Otra Vez  cambiar a Gallade",
+      "detail": "Girafarig ➜ cambiar a Gengar, Otra Vez → Slowbro, sale Mantine → Bostezo, sale Magnezone → Politoed (sacrificar), Poliwrath +6.",
       "variant": []
     },
     {
-      "detail": "Typhlosion ➜ cambiar a Chandelure; usar Bola Sombra ; cambiar a Jirachi para proteger ; frente a Typhlosion, Chandelure +2 +2 ; el rival queda encerrado en ( Pañuelo elegido); si Typhlosion se queda, usar Bola Sombra directamente con Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Magnezone ➜ Debilitar ",
-      "variant": []
-    },
-    {
-      "detail": "Mantine / Xatu ➜ cambiar a Chansey  Pantalla de Luz ; permanecer y usar Amortiguador",
-      "variant": []
-    },
-    {
-      "detail": "Girafarig ➜ Jirachi Protección ",
-      "variant": []
-    },
-    {
-      "detail": "Typhlosion ➜ Chandelure +2 +2 ",
+      "detail": "Claydol se queda → Defensa Especial X, Amortiguador → Continua arriba.",
       "variant": []
     }
   ]
