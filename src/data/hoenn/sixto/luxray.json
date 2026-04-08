@@ -2,43 +2,37 @@
   "id": "luxray",
   "name": "Luxray",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TRAMPA ROCAS🪨",
+  "initialMove": "🔔 Ver habilidad 🔔",
   "tricks": [
     {
-      "detail": "Intimidación : Frente a Absol ➜ cambiar a Gengar  Otra Vez ; revisar objeto",
-      "variant": []
+      "detail": "Intimidación --> Amortiguador",
+      "variant": [
+        {
+          "detail": "Fuerza Bruta --> Trampa Rocas frente a Absol; Gengar +2 + Precisión; para ahorrar dinero: Gengar +6",
+          "variant": []
+        },
+        {
+          "detail": "Scizor --> Volcarona +2 + Ataque Especial X; gigadrenado a Luxray",
+          "variant": []
+        },
+        {
+          "detail": "Absol --> Gengar +4 + Precisión (No usar Otra Vez)",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "Absol Pañuelo elegido  ➜ cambiar a Gengar; cambiar a Dragonite frente a Scrafty Danza Dragón x2  + x ataque ",
-      "variant": []
-    },
-    {
-      "detail": "Absol con Mal de Ojo  ➜ Gengar +4 no velo y atacar ",
-      "variant": []
-    },
-    {
-      "detail": "Excadrill ➜ Gengar ; cambiar a Dragonite; cambiar a Jirachi Otra Vez ; Dragonite Danza Dragón x2 ; probar grado de fuerza ; rezar por estabilidad +4 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Scrafty ➜ Chansey ; cambiar a Chandelure frente a Scizor para eliminarlo ; cambiar a chansey Amortiguador  frente a Absol; cambiar a Gengar; cambiar a Dragonite ante Scrafty Danza Dragón x2 + Atk X",
-      "variant": []
-    },
-    {
-      "detail": "Vidasfera  con Fuerza Bruta  ➜ cambiar a Gengar Otra Vez ; cambiar a Jirachi",
-      "variant": []
-    },
-    {
-      "detail": "Excadrill ➜ Otra Vez ; Dragonite Danza Dragón x2 ",
-      "variant": []
-    },
-    {
-      "detail": "Scizor ➜ lanzallamas frente a Tentacruel; cambiar a chansey Amortiguador  frente a Absol; cambiar a Gengar; cambiar a Dragonite ante Scrafty Danza Dragón x2 + Atk X",
-      "variant": []
-    },
-    {
-      "detail": "Sin Intimidación  ➜ Gengar  Otra Vez  +2 no velo ; atacar",
-      "variant": []
+      "detail": "Sin Intimidación --> Opciones para resolver",
+      "variant": [
+        {
+          "detail": "Ahorrar dinero --> Trampa Rocas; Gengar +2 derrota a Absol; cambiar a Chansey y luego a Gengar +2",
+          "variant": []
+        },
+        {
+          "detail": "Prueba --> Cambiar a Slowbro y usar Bostezo frente a Gyarados; sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        }
+      ]
     }
   ]
 }
