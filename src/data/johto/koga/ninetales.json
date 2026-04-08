@@ -2,11 +2,20 @@
   "id": "ninetales",
   "name": "Ninetales",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨",
+  "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Tangrowth ➜ cambiar a Jirachi; usar Otra Vez; cambiar a Chandelure +2 +2",
-      "variant": []
+      "detail": "Sale Tangrowth ➜ Teletransporte → Slowbro, Bostezo. (Mira la precisión de Tangrowth) ",
+      "variant": [
+        {
+          "detail": "Golpea → Teletransporte → Volcarona +2.",
+          "variant": []
+        },
+        {
+          "detail": "Falla → Volcarona +2.",
+          "variant": []
+        }
+      ]
     }
   ]
 }
