@@ -5,35 +5,15 @@
   "initialMove": "💡Amortiguador💡",
   "tricks": [
     {
-      "detail": "Doble Filo  ➜ cambiar a Gengar ; Otra Vez ; Gallade  para debilitar a Umbreon",
+      "detail": "Lucario  ➜ Gengar, Otra Vez, +6 +2 Precisión X",
       "variant": []
     },
     {
-      "detail": "Xatu ➜ cambiar a Chansey Pantalla de Luz ; Amortiguador ",
+      "detail": "Golurk ➜ Gengar, Otra Vez, +4 +2 precisión X",
       "variant": []
     },
     {
-      "detail": "Golurk ➜ cambiar a Gengar ; Otra Vez x4",
-      "variant": []
-    },
-    {
-      "detail": "Golurk ➜ cambiar a Jirachi o Gallade; Otra Vez  +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Xatu ➜ cambiar a Chansey ; Pantalla de Luz ",
-      "variant": []
-    },
-    {
-      "detail": "Golurk / Cambio  ➜ cambiar a Gengar ; Otra Vez  x4",
-      "variant": []
-    },
-    {
-      "detail": "Empoleon ➜ abrir con Pantalla de Luz ; Amortiguador; frente a Golurk, forzar cambio a Gengar  con Otra Vez  x4 no velo ",
-      "variant": []
-    },
-    {
-      "detail": "Lucario ➜ cambiar a Gengar ; Otra Vez  x4 no velo ; ejecutar con Altaria para continuar fortaleciéndose ",
+      "detail": "Gengar, sale lucario → Que use un ataque tipo fuego (Zoroark) → Gengar, Otra Vez → Poliwrath +6 +2",
       "variant": []
     }
   ]
