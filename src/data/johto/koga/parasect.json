@@ -2,22 +2,23 @@
   "id": "parasect",
   "name": "Parasect",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Cambia a jirachi💡",
+  "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Se Queda  ➜ cambiar a Chandelure para debilitar ; cambiar a Chansey  y usar Pantalla Luz ",
-      "variant": []
+      "detail": "Se queda → Teletransporte",
+      "variant": [
+        {
+          "detail": "Aun se queda → Volcarona +1 +2 Ataque Especial X.",
+          "variant": []
+        },
+        {
+          "detail": "Lucario → Poliwrath → Gengar, Otra Vez, +4 +2. (Bola sombra a todos).",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "Lucario ➜ cambiar a Gengar  usar Otra Vez ; cambiar a Jirachi",
-      "variant": []
-    },
-    {
-      "detail": "Skuntank ➜ Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Lucario ➜ Jirachi usa Otra Vez ; Chandelure +2 +2 ; Crobat con Banda focus  no representa una amenaza",
+      "detail": "Lucario → Gengar, +4 +2. (Bola sombra a todos). ",
       "variant": []
     }
   ]
