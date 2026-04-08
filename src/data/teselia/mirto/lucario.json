@@ -2,30 +2,23 @@
   "id": "lucario",
   "name": "Lucario",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Cambia a  Gengar  👻 ",
+  "initialMove": "💡Cambiar a Gengar 👻💡",
   "tricks": [
     {
-      "detail": "Patada Salto  ➜ Ver salud (Vida amarilla)",
-      "variant": []
+      "detail": "Patada Salto Alta --> Revisar PS de Lucario",
+      "variant": [
+        {
+          "detail": "PS Amarillo --> Gengar usa Maquinación al enfrentar a Sandslash; Chansey usa 🪨Trampa Rocas 🪨 al enfrentar a Braviary; Slowbro usa Bostezo, sacrificar a Politoed y entrar con Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "PS Verde --> Gengar +2 al enfrentar a Excadrill; sacrificar con Bola Sombra, sacar a Slowbro y usar Bostezo al enfrentar a Volcarona; sacrificar a Politoed y entrar con Poliwrath +6; 🔔usar Cascada contra Reuniclus, Volcarona despierta no es amenaza🔔",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "(Vida Amarilla) ➜ Cambia a Chansey  Trampa rocas frente a Lucario  ; Gengar  +2  vs Lucario; NO usar Otra Vez ",
-      "variant": []
-    },
-    {
-      "detail": " (Vida Verde) ➜ Gengar  Otra Vez , cambia a Jirachi",
-      "variant": []
-    },
-    {
-      "detail": "Excadrill ➜ Jirachi Otra Vez , Dragonite  x4 Danza Dragón ",
-      "variant": []
-    },
-    {
-      "detail": "A bocajarro  ➜ Cambia a Jirachi",
-      "variant": []
-    },
-    {
-      "detail": "Krookodile  ➜ Dragonite x3 Danza Dragón;  (tiene pañuelo 🐊 )",
+      "detail": "A Bocajarro --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed y entrar con Poliwrath +6",
       "variant": []
     }
   ]
