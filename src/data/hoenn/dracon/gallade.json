@@ -2,22 +2,18 @@
   "id": "gallade",
   "name": "Gallade",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Gengar💡",
+  "initialMove": "🥚 AMORTIGUADOR 🥚",
   "tricks": [
     {
-      "detail": "Lucario ➜ cambiar a Chansey ; asegura Trampa rocas cambio a Gengar  Otra Vez  no ataque especial  +2 Velocidad ; (si no hay golpe crítico  no es amenaza",
+      "detail": "Espada Santa --> Gengar +4 +2 + Precisión + Otra Vez",
       "variant": []
     },
     {
-      "detail": "Se queda  ➜ Gengar  Otra Vez para observar velocidad ",
+      "detail": "Lucario --> Gengar usa Maquinación frente a Haxorus; cambiar a Chansey y luego volver a Gengar +4 + Otra Vez",
       "variant": []
     },
     {
-      "detail": "Gallade Pañuelo elegido  ➜ Gengar  +2 +2 );(pañuelo)",
-      "variant": []
-    },
-    {
-      "detail": "Gallade Banda Focus ➜ Gengar Otra Vez  +6 +2  + Otra Vez",
+      "detail": "Haxorus --> Gengar +4 +2",
       "variant": []
     }
   ]
