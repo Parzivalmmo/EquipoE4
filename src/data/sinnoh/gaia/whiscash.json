@@ -2,20 +2,24 @@
   "id": "whiscash",
   "name": "Whiscash",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Tramparocas🪨",
+  "initialMove": "🔔Cambiar a Volcarona🔔",
   "tricks": [
     {
-      "detail": "Rhyperior ➜ Gallade Otra Vez +4 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Parasect ➜ Chandelure +2 +2 (chandelure debe tener mas de 120 de vida para avanzar )",
+      "detail": "Si se queda / Rhyperior --> Absorber hasta que debilite al enfrentar a Blastoise ; entrar con Slowbro y usar Bostezo",
       "variant": [
         {
-          "detail": "",
+          "detail": "Si se queda --> Usar Protección y Relajo  al enfrentar a Leavanny ; entrar con Volcarona +1",
+          "variant": []
+        },
+        {
+          "detail": "Leavanny --> Entrar con Volcarona +1",
           "variant": []
         }
       ]
-    }    
+    },
+    {
+      "detail": "Leavanny  --> Entrar con Volcarona  +1",
+      "variant": []
+    }
   ]
 }
