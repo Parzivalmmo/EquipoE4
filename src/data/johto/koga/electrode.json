@@ -2,35 +2,20 @@
   "id": "electrode",
   "name": "Electrode",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨",
+  "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Se queda ➜ Dragonite debilita; ",
-      "variant": []
+      "detail": "Usa un ataque tipo fuego/siniestro (Zoroark) → Teletransporte → Volcarona, +1 → Gigadrenado a Lanturn/Tentacruel, Danza Aleteo una vez más.",
+      "variant": [
+        {
+          "detail": "Si Volcarona recibe retrocesos, cambia a Chansey → Max pocion a Volcarona y repite el proceso.",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "Skarmory ➜ cambiar a Chansey; usar Amortiguador ; cambiar a Jirachi para resistir Pájaro Osado ; cambiar a Chandelure; ante Nidoking , cambiar a Gallade ; usar Otra Vez  +4 +2  (realizar pruebas",
-      "variant": []
-    },
-    {
-      "detail": "Nidoqueen ➜ cambiar a Chandelure; cambiar a Gallade usar Otra Vez  +4 +2  ",
-      "variant": []
-    },
-    {
-      "detail": "Frente a Tentacruel ➜ cambiar a Jirachi; usar Protección ; ante Nidoking  usar Otra Vez ; Chandelure +2 +2 ; si Tentacruel permanece , cambiar a Chansey ; usar Pantalla de Luz ; cambiar a Jirachi; usar Otra Vez  Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Crobat ➜ cambiar a Jirachi; usar Otra Vez ; Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Priorizar velocidad  ➜ abrir con Pantalla de Luz ; Chandelure +2 +2 ; usar Poción Máxima ",
-      "variant": []
-    },
-    {
-      "detail": "Si usa movimiento Fuego o Pulso Umbrío  ➜ Pantalla de Luz ; Jirachi; usar Otra Vez; Chandelure +2 +2 ; detectar disfraz de Zoroark",
+      "detail": "Usa Rayo → Teletransporte → Volcarona +2. (Manten HP encima del 50%).",
       "variant": []
     }
   ]
-}
+ }
