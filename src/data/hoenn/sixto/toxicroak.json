@@ -2,15 +2,6 @@
   "id": "toxicroak",
   "name": "Toxicroak",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A CHANDELURE",
-  "tricks": [
-    {
-      "detail": "Gengar  Otra Vez  +4 no velo ; Otra Vez; ataca ",
-      "variant": []
-    },
-    {
-      "detail": "Huye hacia Mightyena ➜ cambiar a chansey ASEGURAR trampa rocas; atraer movimiento lucha ; Gengar  Otra Vez  +0 +2 ",
-      "variant": []
-    }
-  ]
+  "initialMove": "👻 Gengar +4 y luego usa otra vez porque tiene banda focus 🔔 Bola Sombra a todo 🔔",
+  "tricks": []
 }
