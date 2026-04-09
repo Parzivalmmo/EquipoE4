@@ -2,15 +2,6 @@
   "id": "primeape",
   "name": "Primeape",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Gengar Otra vez Cambiar a jirachi 🪨TrampaRocas🪨",
-  "tricks": [
-    {
-      "detail": "Hydreigon/Flareon ➜ cambiar a Chandelure +2 +2  corre hacia Houndoom sin peligro de amenaza ; continuar fortaleciendo",
-      "variant": []
-    },
-    {
-      "detail": "Houndoom ➜ usar Otra Vez ; cambiar a Chandelure +2 +2",
-      "variant": []
-    }
-  ]
+  "initialMove": "👻 Gengar +2 +2 + Precisión X 👻 (Primeape Banda Focus)",
+  "tricks": []
 }
