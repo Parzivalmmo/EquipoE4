@@ -2,15 +2,37 @@
   "id": "excadrill",
   "name": "Excadrill",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡OBSERVA SI TIENE GLOBO HELIO💡",
+  "initialMove": "💡 OBSERVA QUÉ OBJETO TIENE 💡",
   "tricks": [
     {
-      "detail": "Sin Globo Helio ➜ usar contador  para rematar y trampa  rocas  cambiar a Gengar +2 +2 ); No usar Otra Vez ",
-      "variant": []
+      "detail": "Globo Helio --> Encanto; Trampa Rocas (si se queda, usar Amortiguador) frente a Tyranitar; cambiar a Poliwrath para matalo ",
+      "variant": [
+        {
+          "detail": "Gyarados --> Volcarona +1 + Especial X; corre hasta Houndoom; ignora amenaza  💡 Psíquico contra Gyarados💡",
+          "variant": []
+        },
+        {
+          "detail": "Victreebel --> Volcarona +1 + Especial X; si recibe veneno curate  ; 💡 Psíquico contra Gyarados💡",
+          "variant": []
+        },
+        {
+          "detail": "Excadrill --> Seguir usando gigadrenado hasta que muera ",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "Con Globo Helio ➜Trampa rocas ; cambiar a Dragonite y luego a Jirachi con Otra Vez  cambiar a Gallade +4 +2  (Houndoom con Banda Focus  perseguir velocidad +2 +2 ; movimiento aleatorio contra Slowbro",
-      "variant": []
+      "detail": "Sin Globo Helio --> Teletransporte; enviar a Slowbro y usar Bostezo",
+      "variant": [
+        {
+          "detail": "Si se queda --> Teletransporte; Volcarona +1; barrer hasta Houndoom; luego usar Danza Aleteo una vez y barrer completo",
+          "variant": []
+        },
+        {
+          "detail": "Mismagius --> Volcarona +1; ataca hasta que salga  Houndoom; luego usar Danza Aleteo una vez y barrer completo",
+          "variant": []
+        }
+      ]
     }
   ]
 }
