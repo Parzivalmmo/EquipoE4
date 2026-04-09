@@ -5,15 +5,15 @@
   "initialMove": "🥚 Amortiguador 🥚",
   "tricks": [
     {
-      "detail": "Lucario  ➜ Gengar, Otra Vez, +6 +2 Precisión X",
+      "detail": "Lucario --> Gengar +6 + Precisión; Bola Sombra se queda bloqueado; 🔔 Onda Certera dos veces para golpear a Xatu🔔",
       "variant": []
     },
     {
-      "detail": "Golurk ➜ Gengar, Otra Vez, +4 +2 precisión X",
+      "detail": "Golurk --> Gengar +4 + Precisión",
       "variant": []
     },
     {
-      "detail": "Gengar, sale lucario → Que use un ataque tipo fuego (Zoroark) → Gengar, Otra Vez → Poliwrath +6 +2",
+      "detail": "Cambiar de Gengar si Lucario;  usa movimiento de fuego (es zoroark) --> Gengar usa Otra Vez al movimiento de fuego; Poliwrath +6 +2",
       "variant": []
     }
   ]
