@@ -2,11 +2,6 @@
   "id": "eelektross",
   "name": "Eelektross",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Cambia a Jirachi💡",
-  "tricks": [
-    {
-      "detail": "Rayo  ➜ Jirachi usar Rayo + Otra Vez ; Chandelure +2 +2 ; ",
-      "variant": []
-    }
-  ]
+  "initialMove": "🪨 Trampa Rocas 🪨; Teletransporte o sacrificar a Politoed; Gengar usa Maquinación frente a Dragonite; barrer al equipo usando Bola Sombra",
+  "tricks": []
 }
