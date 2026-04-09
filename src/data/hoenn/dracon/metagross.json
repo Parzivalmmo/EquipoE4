@@ -2,62 +2,46 @@
   "id": "metagross",
   "name": "Metagross",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨 ",
+  "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Se Queda ➜ para observar objeto",
+      "detail": "Si se queda --> Ver situación",
       "variant": []
     },
     {
-      "detail": "Mantener estabilidad  ➜ Contador   para debilitar ; no tiene Vidasfera ; no tiene velocidad para perseguir ",
+      "detail": "Vidasfera +x Atk --> Teletransporte; Volcarona usa Danza Aleteo frente a Flygon; Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Flygon ➜ Jirachi Otra Vez ; Chandelure +2 +2  Gallade +2 +2 ",
+      "detail": "Otras situaciones --> Slowbro usa Bostezo",
       "variant": []
     },
     {
-      "detail": "Regirock / Eelektross ➜ cambiar a Gengar Otra Vez ; cambiar a Jirachi",
+      "detail": "Lapras / Nidoking --> Sacrificar a Politoed; Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Atraer común  ➜ Rayo  frente a Nidoking; Otra Vez; Chandelure +2 +2 ",
+      "detail": "Salamence --> Protección y Bostezo frente a Nidoking; sacrificar a Politoed; Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Salamence ➜ Otra Vez ; Chandelure +2 +2 ",
+      "detail": "Eelektross / Regice --> Cambiar a Slowbro y usar Bostezo",
       "variant": []
     },
     {
-      "detail": "Vidasfera  con velocidad ➜ cambiar a Jirachi Otra Vez ; cambiar a Gallade +2 +2 ; cambiar Salamence; continuar fortaleciendo",
+      "detail": "Nidoking --> Sacrificar a Politoed; Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Feraligatr ➜ Contador  ",
+      "detail": "Salamence --> Protección y Bostezo frente a Nidoking; sacrificar a Politoed; Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Ampharos ➜ Gengar  Otra Vez ; cambiar a Jirachi",
+      "detail": "Lucario --> Gengar +4; 🔔 Bola Sombra a todo🔔 ",
       "variant": []
     },
     {
-      "detail": "Salamence ➜ Jirachi Otra Vez ; Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Lucario ➜ Gengar (ghost) Otra Vez  +4  0 Velocidad ); frente a Altaria resistir daño ",
-      "variant": []
-    },
-    {
-      "detail": "Regirock / Eelektross ➜ cambiar a Gengar  Otra Vez ; cambiar a Jirachi",
-      "variant": []
-    },
-    {
-      "detail": "Lapras ➜ Rayo  frente a Nidoking; Jirachi Otra Vez ); Chandelure +2 +2 (22)",
-      "variant": []
-    },
-    {
-      "detail": "Salamence ➜ Jirachi Otra Vez (Encore); Chandelure +2 +2 (22)",
+      "detail": "Feraligatr --> Cambiar a Slowbro y usar Bostezo frente a Sceptile; Volcarona +3 🔔 (mantener PS por encima del 75%)🔔 ",
       "variant": []
     }
   ]
