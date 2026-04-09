@@ -2,86 +2,64 @@
   "id": "salamence",
   "name": "Salamence",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Mira que habilidad tiene ,🪨Trampa Rocas🪨",
+  "initialMove": "🔔 Ver Intimidación 🔔",
   "tricks": [
     {
-      "detail": "Intimidación / y se queda  ➜ cambiar a Jirachi Otra Vez Fuego; Chandelure +2 +2 frente a Gallade Gengar  Otra Vez  +2 no velo ",
+      "detail": "Intimidación --> Amortiguador",
       "variant": []
     },
     {
-      "detail": "Gallade ➜ Gengar  Otra Vez  +6 +2 ; Otra Vez  (Gallade Banda Focus )",
+      "detail": "Feraligatr --> Trampa Rocas; cambiar a Slowbro y usar Bostezo frente a Sceptile; Volcarona +3 🔔 PS por encima del 75% 🔔",
       "variant": []
     },
     {
-      "detail": "Feraligatr ➜ Contador ",
+      "detail": "Gallade/Roserade --> Gengar +4 +2 + Precisión + Otra Vez",
       "variant": []
     },
     {
-      "detail": "Ampharos ➜ Gengar  Otra Vez; cambiar a Jirachi",
+      "detail": "Eelektross / Regice --> Gengar +4 +2 🔔 Bola Sombra a todo 🔔",
       "variant": []
     },
     {
-      "detail": "Salamence ➜ Jirachi Otra Vez; Chandelure +2 +2 ",
+      "detail": "Sin Intimidación --> Trampa Rocas",
       "variant": []
     },
     {
-      "detail": "Sceptile ➜ Jirachi Otra Vez; Chandelure +2 +2 ",
+      "detail": "Lucario --> Cambiar a Gengar para 🔔 ver movimiento 🔔",
       "variant": []
     },
     {
-      "detail": "Eelektross ➜ Gengar  Otra Vez  +4 no velo",
+      "detail": "A Bocajarro --> Gengar +4 🔔 Bola Sombra a todo 🔔",
       "variant": []
     },
     {
-      "detail": "Lapras / Salamence ➜ atacar hacia Metagross; Gallade +2 +2 ; NO usar Otra Vez ",
+      "detail": "Patada Salto Alta --> Opción para resolver",
       "variant": []
     },
     {
-      "detail": "Regirock ➜ Gengar Otra Vez ; Maquinación; atacar hacia Metagross; Gallade +2 +2 ; (Metagross pañuelo elegido )",
+      "detail": "Arriesgar --> Maquinación y barrer directamente; 🔔 aleatorio contra Lapras 🔔",
       "variant": []
     },
     {
-      "detail": "Metagross ➜ cambiar a Jirachi",
+      "detail": "Seguro --> Cambiar a Slowbro, luego a Chansey y volver a Gengar",
       "variant": []
     },
     {
-      "detail": "Velocidad para perseguir ➜ Gallade Otra Vez  +2 +2 ; cambiar a  Salamence; resistir Garra Dragón ; fortalecer ",
+      "detail": "Haxorus --> Gengar +2; presionar hasta Lucario; sacrificar a Politoed; Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Ahorrar $? medicina  ➜ Dragonite Otra Vez Danza Dragón +2 ",
+      "detail": "Lucario --> Sacrificar a Politoed; Poliwrath +6; ",
+      "variant": [
+        
+      ]
+    },
+    {
+      "detail": "Metagross --> Cambiar a Slowbro y usar Bostezo frente a Lapras; sacrificar a Politoed; Poliwrath +6 🔔 Si Metagross se queda, igual 🔔",
       "variant": []
     },
     {
-      "detail": "Lapras ➜ cambiar a Chansey Pantalla de Luz; cambiar a Jirachi",
-      "variant": []
-    },
-    {
-      "detail": "Metagross ➜ Dragonite Otra Vez  Danza Dragón +1 ",
-      "variant": []
-    },
-    {
-      "detail": "Flygon ➜ Jirachi Otra Vez ; Dragonite Danza Dragón +1 ",
-      "variant": []
-    },
-    {
-      "detail": "Seviper ➜ Jirachi Otra Vez ; Chandelure no x especial +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Lucario ➜ cambiar a Gengar ",
-      "variant": []
-    },
-    {
-      "detail": "Patada Salto Alta  ➜ Gengar (ghost) +2 no velo ( NO usar Otra Vez ; si no hay golpe crítico no es amenaza; mantener estabilidad; tomar velocidad x ",
-      "variant": []
-    },
-    {
-      "detail": "A Bocajarro  ➜ Gengar Otra Vez  +4 no velocidad si cambia a  Flygon violento; hacia Ampharos con Maquinación ",
-      "variant": []
-    },
-    {
-      "detail": "Haxorus ➜ Gengar  Otra Vez  +2 no velo se queda   +4 no velo Otra Vez ( cargar de nuevo)",
+      "detail": "Haxorus --> Gengar +2; presionar hasta Lucario; sacrificar a Politoed; Poliwrath +6",
       "variant": []
     }
   ]
