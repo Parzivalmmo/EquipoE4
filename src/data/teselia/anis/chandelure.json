@@ -2,83 +2,102 @@
   "id": "chandelure",
   "name": "Chandelure",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨",
+  "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
       "detail": "Onda Certera, mantenerse 【Zoroark】 --> cambiar a Gengar .",
-      "variant": []
-    },
-    {
-      "detail": "Mantenerse --> Gengar  4, 2 + 1 precisión .",
-      "variant": []
-    },
-    {
-      "detail": "Dragonite --> cambiar a Chansey , cambiar a Gengar; Gengar hace doble clic para debilitar frente a Bisharp; sacrificar a Politoed , entrar con Poliwrath +6 (cascada Cofa , Bronzong )",
-      "variant": []
+      "variant": [
+        {
+          "detail": "Se queda --> Gengar  4, 2 + 1 precisión .",
+          "variant": []
+        },
+        {
+          "detail": "Dragonite --> cambiar a Chansey , cambiar a Gengar; Gengar +2, debilitar. frente a Bisharp; sacrificar a Politoed , entrar con Poliwrath +6 (cascada Cofag , Bronzong )",
+          "variant": []
+        }
+      ]
     },
     {
       "detail": "Eelektross --> Gengar  usa Otra Vez , cambiar a Slowbro .",
-      "variant": []
-    },
-    {
-      "detail": "Mantenerse --> usar Bostezo .",
-      "variant": []
-    },
-    {
-      "detail": "Gengar --> usar Protección, cambiar de Poliwrath a Chandelure; Volcarona  con 2 Danza Aleteo.",
-      "variant": []
-    },
-    {
-      "detail": "Chandelure --> usar Protección, Bostezo frente a Gengar, Teletransporte ; Volcarona  con 2 Danza Aleteo.",
-      "variant": []
-    },
-    {
-      "detail": "Dragonite --> usar Bostezo, sacrificar a Politoed , entrar con Poliwrath +6(puño H Froslass ,Cascada dragonite)",
-      "variant": []
+      "variant": [
+        {
+          "detail": "Se queda --> usar Bostezo .",
+          "variant": [
+            {
+              "detail": "Gengar --> usar Protección, cambiar de Poliwrath, Sale Chandelure → Volcarona +2 Danza Aleteo (Psiquico Gengar).",
+              "variant": []
+            },
+            {
+              "detail": "Chandelure --> usar Protección, Bostezo frente a Gengar, Teletransporte ; Volcarona +2 Danza Aleteo. (Psiquico Gengar, Lanzallamas Chandelure si estas anulado)",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "Dragonite --> usar Bostezo, sacrificar a Politoed , entrar con Poliwrath +6(puño H Froslass ,Cascada dragonite)",
+          "variant": []
+        }
+      ]
     },
     {
       "detail": "Hydreigon --> Gengar +6 +2 con Onda Certera contra (Purugly/Snorlax).",
-      "variant": []
-    },
-    {
-      "detail": "Ida y Vuelta  activa Cuerpo Maldito  --> Gengar usa Otra Vez , cambiar a Poliwrath  para absorber el daño y debilitar.",
-      "variant": []
-    },
-    {
-      "detail": "Cambiar a Milotic --> cambiar a Chansey , usar Amortiguador para atraer a Golurk; entrar con Gengar  secuencia +6 +2.",
-      "variant": []
+      "variant": [
+        {
+          "detail": "Ida y Vuelta  activa Cuerpo Maldito  --> Gengar usa Otra Vez , cambiar a Poliwrath puño drenaje y debilitar.",
+          "variant": []
+        },
+        {
+          "detail": "Cambiar a Milotic --> cambiar a Chansey , usar Amortiguador para atraer a Golurk; entrar con Gengar  secuencia +6 +2.",
+          "variant": []
+        }
+      ]
     },
     {
       "detail": "Toxicroak --> cambiar a Slowbro , Bostezo  frente a Chandelure; sacrificar a Politoed , entrar con Poliwrath +6).",
       "variant": []
     },
     {
-      "detail": "Lucario --> Gengar  +4 +2 +1 precision x .",
+      "detail": "Lucario --> Gengar, Otra Vez,  +4 +2 +1 precision X. (Usa Otra Vez cada que puedas).",
       "variant": []
     },
     {
-      "detail": "Absol --> Gengar +4 +2 .",
+      "detail": "Absol --> Gengar, Otra Vez, +4 +2. (Bola Sombra a todos)",
       "variant": []
     },
     {
-      "detail": "Dragonite --> Slowbro  usa Bostezo.",
-      "variant": []
-    },
-    {
-      "detail": "Chandelure --> usar Protección y Bostezo.",
-      "variant": []
-    },
-    {
-      "detail": "Segundo Chandelure --> usar Protección y Bostezo frente a Bisharp; sacrificar a Politoed , entrar con Poliwrath +6 (cascada Cofa , Bronzong)",
-      "variant": []
-    },
-    {
-      "detail": "Bisharp --> sacrificar a Politoed , entrar con Poliwrath +6 (cascada Cofa , Bronzong )",
-      "variant": []
-    },
-    {
-      "detail": "Eelektross / Lucario --> sacrificar a Politoed  entrar con Poliwrath 6 (puño H Froslass)",
-      "variant": []
+      "detail": "Dragonite --> Slowbro → Chansey.",
+      "variant": [
+        {
+          "detail": "Chandelure/lucario --> Amortiguador, si usa Onda Certera → mira abajo",
+          "variant": [
+            {
+              "detail": "Dragonite --> Gengar, +2. (Mira el Item)",
+              "variant": [
+                {
+                  "detail": "Restos → Derrótalo, sale Bisharp → Politoed (sacrificar), Poliwrath +6. (Cascada Cofag/Bronzong).",
+                  "variant": []
+                },
+                {
+                  "detail": "Sin Restos → Slowbro, bostezo → Politoed (sacrificar), Poliwrath +6. (Puño Hielo Froslass, Cascada Dragonite).",
+                  "variant": []
+                }
+              ]
+            },
+            {
+              "detail": "Bisharp --> sacrificar a Politoed , entrar con Poliwrath +6 (cascada Cofa , Bronzong )",
+              "variant": []
+            },
+            {
+              "detail": "Eelektross / Lucario --> sacrificar a Politoed  entrar con Poliwrath 6 (puño H Froslass)",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "Eelektross / Lucario --> sacrificar a Politoed  entrar con Poliwrath 6 (puño H Froslass)",
+          "variant": []
+        }
+      ]
     }
   ]
 }
