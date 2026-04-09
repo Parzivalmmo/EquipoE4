@@ -2,15 +2,6 @@
   "id": "gallade",
   "name": "Gallade",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": " 💡Cambiar a Gengar Otra vez Chansey Trampa Rocas 🪨 ",
-  "tricks": [
-    {
-      "detail": "Rhyperior ➜ usar Trampa Rocas; frente a Honchkrow , cambiar a Gengar  usar Otra Vez +6; Gengar +4 si Rhyperior tiene 91% de vida",
-      "variant": []
-    },
-    {
-      "detail": "Rhyperior ➜ cambiar a Dragonite usar Danza Dragón  x4",
-      "variant": []
-    }
-  ]
+  "initialMove": "👻 Gengar usa Otra Vez; Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6 🐸 🔔 Curar Quemadura 🔔",
+  "tricks": []
 }
