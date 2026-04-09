@@ -2,19 +2,6 @@
   "id": "absol",
   "name": "Absol",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨 Gengar Otra Vez y Jirachi ",
-  "tricks": [
-    {
-      "detail": " Houndoom   ➜ cambiar a Chandelure +2 +2 Houndoom se queda encerrado ",
-      "variant": []
-    },
-    {
-      "detail": "Quagsire ➜ cambiar a Gallade usar Otra Vez +4 +2 (",
-      "variant": []
-    },
-    {
-      "detail": "Gengar  ante Houndoom ➜ cambiar a Dragonite para rematar ; frente a Salamence cambiar a Jirachi usar Otra Vez ; cambiar a Chandelure +2 +2 ",
-      "variant": []
-    }
-  ]
+  "initialMove": "🔔 Volcarona usa Danza Aleteo + Ataque Especial X (Gigadrenado contra Absol) 🔔",
+  "tricks": []
 }
