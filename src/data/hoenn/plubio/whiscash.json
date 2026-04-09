@@ -2,15 +2,6 @@
   "id": "whiscash",
   "name": "Whiscash",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Cambia a Jirachi 💡",
-  "tricks": [
-    {
-      "detail": "Se queda  ante Terremoto  ➜ Dragonite Otra Vez Danza Dragón +2 +2; puede presionar hasta +3 ",
-      "variant": []
-    },
-    {
-      "detail": "Togekiss ➜ Chandelure +2 +2; se queda encerrado en un movimiento ",
-      "variant": []
-    }
-  ]
+  "initialMove": "💡 Encanto; sacrificar a Politoed; Poliwrath +6 + Raíz Grande +2 💡",
+  "tricks": []
 }
