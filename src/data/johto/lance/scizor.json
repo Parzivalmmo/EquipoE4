@@ -2,26 +2,23 @@
   "id": "scizor",
   "name": "Scizor",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨",
+  "initialMove": "🪨 Trampa Rocas 🪨 🔔 Evaluar daño 🔔",
   "tricks": [
     {
-      "detail": "60% HP ➜ cambiar a Dragonite; Danza Dragón x1; NO usar Otra Vez ; observar objeto  para ejecutar directamente con Dragonite",
+      "detail": "Si el daño es ~90% --> Teletransporte; Volcarona +1 + Especial X; 🔔mantener PS por encima del 51%🔔",
+      "variant": [
+        {
+          "detail": "Si Volcarona cae por Crítico --> Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Si el daño es ~60% --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Gema Voladora  ➜ Dragonite danza un total de x4; NO usar Otra Vez ; curar; presionar ; curar crítico ",
-      "variant": []
-    },
-    {
-      "detail": "Sin Gema Voladora  ➜ Dragonite danza un total de x2; NO usar Otra Vez  curar ; Ataca con Gema Agua  y Acua Jet sin crítico no debilita ",
-      "variant": []
-    },
-    {
-      "detail": "Ejecutar con Dragonite  ➜ cambiar a Jirachi; Otra Vez ; Chandelure +2 +2 ; probando ",
-      "variant": []
-    },
-    {
-      "detail": "90% HP ➜ Chandelure +2 +2 ; si Chansey debilita, Jirachi pone Trampa Rocas ",
+      "detail": "Si cae por Crítico y no puso Trampa Rocas --> Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
       "variant": []
     }
   ]
