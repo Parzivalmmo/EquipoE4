@@ -2,23 +2,28 @@
   "id": "victreebel",
   "name": "Victreebel",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨(banda focus Houndoom)",
+  "initialMove": "🪨 Trampa Rocas 🪨 🥚 Si se queda usar Amortiguador 🥚",
   "tricks": [
     {
-      "detail": "Se queda  ➜ cambiar a Jirachi, luego a Chandelure; cambiar a Gallade usar Otra Vez  +2 +2 ; cambiar a Chandelure quedarse para debilitar ; frente a Tyranitar ver abajo",
+      "detail": "Excadrill --> Usar Encanto; Amortiguador frente a Tyranitar; cambiar a Poliwrath para matar  Tyranitar",
       "variant": []
     },
     {
-      "detail": "Excadrill ➜ cambiar a Dragonite, luego a Jirachi usar Otra Vez; Gallade +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Tyranitar ➜ usar Contador ",
-      "variant": []
-    },
-    {
-      "detail": "Excadrill ➜ cambiar a Dragonite, luego a Jirachi usar Otra Vez; Gallade  +2 +2 ",
-      "variant": []
+      "detail": "Tyranitar --> Cambiar a Poliwrath para matar a tyranitar",
+      "variant": [
+        {
+          "detail": "Gyarados --> Volcarona +1 + Especial X; barrer hasta Houndoom; ignorar amenaza; 🔔Psíquico a Gyarados🔔",
+          "variant": []
+        },
+        {
+          "detail": "Victreebel --> Volcarona +1 + Especial X; si recibe veneno se elimina; 🔔Psíquico a Gyarados🔔",
+          "variant": []
+        },
+        {
+          "detail": "Excadrill -->Gigadrenado hasta matarlo ",
+          "variant": []
+        }
+      ]
     }
   ]
 }
