@@ -2,38 +2,60 @@
   "id": "roserade",
   "name": "Roserade",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡 Pantalla luz 💡",
+  "initialMove": "🥚 Amortiguador 🥚",
   "tricks": [
     {
-      "detail": "Hoja Aguda  persistente; asegura que sea Pañuelo Elección  ➜ Dragonite Danza Dragón +4 NO usar Otra Vez ",
+      "detail": "Vidasfera + Lluevehojas / Bomba Lodo --> Teletransporte; Slowbro usa Bostezo; Teletransporte; Volcarona +1 x Especial ; dos veces contra Milotic",
       "variant": []
     },
     {
-      "detail": "Metagross ➜  Otra Vez (Encore) +4  +2  ; Bola Sombra  debilita a Basculin; si tiene velocidad para perseguir  no es necesario usar velocidad x; existe riesgo de golpe crítico",
+      "detail": "Sin Vidasfera + Lluevehojas --> Teletransporte",
+      "variant": [
+        {
+          "detail": "Si se queda --> Volcarona +4; PS por encima del 70%",
+          "variant": []
+        },
+        {
+          "detail": "Gardevoir --> Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Milotic --> Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Sin Vidasfera + Bomba Lodo (Test) --> Teletransporte; Volcarona debilita; ver quién sale",
+      "variant": [
+        {
+          "detail": "Milotic --> Cambiar a Chansey para ver movimiento",
+          "variant": []
+        },
+        {
+          "detail": "Hidrobomba / Surf --> Teletransporte; Slowbro usa Bostezo frente a Ludicolo; sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Escaldar --> Cambiar a Slowbro y usar Bostezo frente a Gardevoir; sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Togekiss --> Sacrificar a Volcarona; Slowbro aguanta el +x SpDef y usa Bostezo; sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Gardevoir --> Sacrificar a Volcarona; Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Metagross --> Sacrificar a Politoed; Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Se queda  ➜ para observar información; puede usar Trampa Rocas ; Dragonite Danza Dragón +2 ; puede cargar ",
-      "variant": []
-    },
-    {
-      "detail": "【Sin Vidasfera 】 Hoja Aguda ➜ Dragonite Danza Dragón +4 ; NO usar Otra Vez ; Garra Dragón debilita a Milotic  Acua Jet  hace menos del 15% a Dragonite",
-      "variant": []
-    },
-    {
-      "detail": "【Sin Vidasfera 】 Bomba Lodo  ➜ cambiar a Jirachi; Trampa Rocas frente a Empoleon; Jirachi Otra Vez ; Dragonite Danza Dragón +1  + ataque x ; frente a Ludicolo, cambiar a Chansey  Pantalla de Luz ; Gallade +2 +2 ; NO usar Otra Vez",
-      "variant": []
-    },
-    {
-      "detail": "【Con Vidasfera 】 ➜ cambiar a Jirachi Protección; observar quién entra ",
-      "variant": []
-    },
-    {
-      "detail": "Togekiss ➜ Chandelure +2 +2 o +4 en ataque especial; no asegura debilitar a Milotic de 1; existe riesgo de golpe crítico ",
-      "variant": []
-    },
-    {
-      "detail": "Whiscash ➜ Dragonite Otra Vez ; Danza Dragón +3 ; tanto Cascada  como Terremoto  permiten fortalecerse",
+      "detail": "Si Poliwrath cae --> Gengar +4 +2; Bola Sombra a Basculin",
       "variant": []
     }
   ]
