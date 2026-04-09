@@ -2,10 +2,10 @@
   "id": "flareon",
   "name": "Flareon",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡 Chandelure +2 +2 💡",
+  "initialMove": "👻 Gengar usa Otra Vez; cambiar a Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6 🐸",
   "tricks": [
     {
-      "detail": " (Notas Usar movimiento de Fuego ; Infernape  con Banda Focus ; no priorizar velocidad ; Tramparocas primero ",
+      "detail": "Si el Crítico de Typhlosion debilita a Poliwrath --> Gengar +6 +2",
       "variant": []
     }
   ]
