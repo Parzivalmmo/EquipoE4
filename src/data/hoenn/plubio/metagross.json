@@ -2,11 +2,6 @@
   "id": "metagross",
   "name": "Metagross",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Pantalla Luz Cambia a Gengar otra vez +4 +2",
-  "tricks": [
-    {
-      "detail": "-",
-      "variant": []
-    }
-  ]
+  "initialMove": "🔔 sacrificar a Politoed; Poliwrath +6 🔔 Si Poliwrath muere, Gengar +4 +2 🔔",
+  "tricks": []
 }
