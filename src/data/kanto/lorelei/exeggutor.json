@@ -1,10 +1,25 @@
 {
-    "id": "exeggutor",
-    "name": "Exeggutor",
-    "image": "/placeholder.svg?height=80&width=80",
-    "initialMove": "TRUCO",
-    "tricks": [
-        {"detail": "MAGNEZONE → Excadrill coloca Trampa Rocas, luego Terremoto lo mata. / Frente a Lapras, Poliwrath +6+2 (no necesita Puño Hielo)", "variant": []},
-        {"detail": "NIDOKING → Excadrill coloca Trampa Rocas, luego Cloyster +6", "variant": []}
-    ]
+  "id": "exeggutor",
+  "name": "Exeggutor",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨 Trampa Rocas 🪨; Chansey no cambia y usa Amortiguador 🥚",
+  "tricks": [
+    {
+      "detail": "Lapras --> Cambiar a Politoed; cambiar a Slowbro y luego a Mantine; usar Bostezo frente a Magnezone; sacrificar a Poliwrath; Volcarona +1 + Especial X 🔔Psíquico contra Mantine🔔",
+      "variant": []
+    },
+    {
+      "detail": "Golduck --> Cambiar a Gengar",
+      "variant": [
+        {
+          "detail": "Si se queda --> Cambiar a Slowbro y luego a Mantine; usar Bostezo frente a Magnezone; sacrificar a Poliwrath; Volcarona +1 + Especial X 🔔 Psíquico contra Mantine🔔",
+          "variant": []
+        },
+        {
+          "detail": "Lapras --> Cambiar a Slowbro y usar Bostezo frente a Magnezone; sacrificar a Poliwrath; Volcarona +2 + Especial X 🔔Psíquico contra Mantine🔔",
+          "variant": []
+        }
+      ]
+    }
+  ]
 }
