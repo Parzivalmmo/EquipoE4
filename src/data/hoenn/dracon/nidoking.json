@@ -2,15 +2,6 @@
   "id": "nidoking",
   "name": "Nidoking",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡 Pantalla luz 💡 te quedas  ➜ Amortiguador  + Pantalla de Luz ; (esperar a Eelektross en el campo) ",
-  "tricks": [
-    {
-      "detail": "Eelektross ➜ Gengar  Otra Vez  +4  +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Salamence ➜ Gengar atacar  presionar hacia Metagross; Dragonite Danza Dragón +3 ",
-      "variant": []
-    }
-  ]
+  "initialMove": "👻Amortiguador frente a Eelektross; Gengar +4 +2 (Bola Sombra a todo)👻",
+  "tricks": []
 }
