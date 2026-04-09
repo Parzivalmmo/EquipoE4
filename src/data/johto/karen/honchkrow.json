@@ -2,23 +2,6 @@
   "id": "honchkrow",
   "name": "Honchkrow",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡mira abajo 💡",
-  "tricks": [
-    {
-      "detail": "Priorizar velocidad (chasing speed) ➜ cambiar a Gengar  usar Otra Vez  +2 +0   ",
-      "variant": []
-    },
-    {
-      "detail": "Rhyperior ➜ cambiar a Dragonite usar Otra Vez y Danza Dragón x4",
-      "variant": []
-    },
-    {
-      "detail": "Si el rival usa recuperación o medicina   ➜ cambiar a Gengar  usar Otra Vez (Encore) +2 +0 (20) y ",
-      "variant": []
-    },
-    {
-      "detail": "Rhyperior ➜ cambiar a Dragonite y luego a Chansey  usar Trampa Rocas ",
-      "variant": []
-    }
-  ]
+  "initialMove": "🔔 Cambiar a Slowbro; usar Bostezo frente a Houndoom; sacrificar a Politoed; Poliwrath +6; Curar Quemadura 🔔",
+  "tricks": []
 }
