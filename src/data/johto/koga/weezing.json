@@ -2,15 +2,6 @@
   "id": "weezing",
   "name": "Weezing",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨",
-  "tricks": [
-    {
-      "detail": "Crobat ➜ usar Contador ; cambiar a Chandelure y luego cambiar a Lapras",
-      "variant": []
-    },
-    {
-      "detail": "Rhyperior ➜ Gallade usa Otra Vez +6 +2",
-      "variant": []
-    }
-  ]
+  "initialMove": "🪨Poner Trampa Rocas🪨 frente a Crobat; cambiar a Slowbro y usar Bostezo constantemente hasta que salgan Gengar o Lapras; sacrificar a Politoed y entrar con Poliwrath +6. 👻 Puño Hielo a Gengar 👻",
+  "tricks": []
 }
