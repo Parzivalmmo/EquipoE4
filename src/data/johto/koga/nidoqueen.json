@@ -2,19 +2,18 @@
   "id": "nidoqueen",
   "name": "Nidoqueen",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨",
+  "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Usa un Ataque Fuego/Siniestro (Zoroark) → Teletransporte → Volcarona, +1. Gigadrenado a Lanturn/Tentacruel → Danza Aleteo una vez más",
-      "variant": [
-        {
-          "detail": "Si Volcarona recibe retrocesos → Chansey, recupera HP a Volcarona y repite el proceso.",
-          "variant": []
-        }
-      ]
+      "detail": "Tierra Viva / Bomba Lodo --> Teletransporte; Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6; usar Cascada contra Skarmory / Tentacruel",
+      "variant": []
     },
     {
-      "detail": "Usa un Ataque Tierra/Veneno → Teletransporte → Slowbro, Bostezo → Politoed (sacrificar), Poliwrath +6.",
+      "detail": "Usa movimiento de Fuego / Pulso Umbrío (zoroark)  --> Teletransporte; enviar a Volcarona; Volcarona +1;Gigadrenado ; barrer hasta electrode/ Tentacruel; luego usar Danza Aleteo una vez para barrer",
+      "variant": []
+    },
+    {
+      "detail": "Si Volcarona retrocede por retroceso --> Cambiar a Chansey; recuperar vida al máximo y repetir la operación anterior",
       "variant": []
     }
   ]
