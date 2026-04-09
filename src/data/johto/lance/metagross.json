@@ -2,46 +2,39 @@
   "id": "metagross",
   "name": "Metagross",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨",
+  "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "se queda y usa  Puño Meteoro  ➜ observar objeto ",
+      "detail": "Puño Meteoro --> Teletransporte; enviar a Slowbro y usar Bostezo",
+      "variant": [
+        {
+          "detail": "Enviar a Slowbro frente a Tyranitar --> Bostezo; sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Hierba Lazo / Ampharos --> Sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Scizor --> Sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Dragonite / Lapras --> Sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Eelektross --> Teletransporte; Gengar usa Maquinación y barre",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Scizor --> Cambiar a Slowbro y usar Bostezo frente a Especial X; sacrificar a Politoed; Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Gema Acero  ➜ cambiar a Jirachi",
-      "variant": []
-    },
-    {
-      "detail": "Haxorus ➜ permanecer con Dragonite; Otra Vez ; Danza Dragón x2",
-      "variant": []
-    },
-    {
-      "detail": "Dragonite ➜ Jirachi Otra Vez ; Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Restos  ➜ cambiar a Jirachi; cambiar a Dragonite; Otra Vez  ante Terremoto ; Danza Dragón x2",
-      "variant": []
-    },
-    {
-      "detail": "Vidaesfera  ➜ cambiar a Jirachi; usar Protección + Otra Vez ; Chandelure +2 +2 ; aguantar un golpe",
-      "variant": []
-    },
-    {
-      "detail": "Frente a Scizor ➜ Amortiguador ; sacrificar ; cambiar a Dragonite; Danza Dragón x1; NO usar Otra Vez; observar objeto ",
-      "variant": []
-    },
-    {
-      "detail": "Gema Voladora  ➜ Dragonite Danza Dragón x4; NO usar Otra Vez   curar crítico  o puede ser +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Frente a Tyranitar ➜ Contador ",
-      "variant": []
-    },
-    {
-      "detail": "Charizard ➜ Amortiguador  para forzar el cambio del rival; frente a Ampharos, Chandelure +2 +2; el rival (pañuelo elegido); repetir con Chansey (tyra  cinta elegida)",
+      "detail": "Tyranitar --> Cambiar a Poliwrath para absorber Mismo Destino; cambiar a Chansey y usar Amortiguador; esperar a Metagross; Teletransporte; Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
       "variant": []
     }
   ]
