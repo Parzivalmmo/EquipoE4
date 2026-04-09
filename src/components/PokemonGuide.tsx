@@ -157,9 +157,13 @@ export default function PokemonGuide() {
            
             
           </p>
-          <p className="text-gray-400 mb-4">Ruta recomendada (x4 E4 + GYM): 
-          <span className="mr-2 pl-2 text-blue-400">Teselia → Sinnoh(casa) → Kanto(casa) → Johto(casa) → Hoenn</span>
-          </p>          
+          <p className="text-gray-400 mb-4">Ruta 4 Ligas: 
+          <span className="mr-2 pl-2 text-blue-400">Teselia → Sinnoh(casa) → Kanto(casa) → Hoenn(casa) → Johto(opcional)</span>
+          </p>
+          
+          <p className="text-gray-400 mb-4">Ruta 4 Ligas + Gym: 
+          <span className="mr-2 pl-2 text-blue-400">Teselia → Sinnoh(casa) → Kanto(casa) → Johto → Hoenn(opcional, solo si vas GYM)</span>
+          </p>
         </div>
 
         {/* Tips Toggle */}
