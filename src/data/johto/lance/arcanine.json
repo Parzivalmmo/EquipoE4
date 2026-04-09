@@ -2,18 +2,23 @@
   "id": "arcanine",
   "name": "Arcanine",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Roca🪨",
+  "initialMove": "👻 Gengar usa Otra Vez; cambiar a Chansey y luego a Dragonite; 🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Cinta elegida ➜ Chandelure +2 +2 ; si Chansey  cae por golpe crítico , usar Jirachi para poner Trampa Rocas ",
+      "detail": "Arcanine --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Vidasfera ➜ sacrificar a Chansey  cambiar a Gengar  para debilitar; frente a Steelix, usar Gallade o Roserade +2 +2  presionar  para que entre Dragonite y debilitar de nuevo",
-      "variant": []
+      "detail": "Scizor --> Teletransporte; Volcarona +1 + Especial X; mantener PS por encima del 51%",
+      "variant": [
+        {
+          "detail": "Si Volcarona cae por Crítico --> Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "Feraligatr ➜ Dragonite Danza Dragón +1 + Ataque X; observar la base de Jirachi; precaución con los PS; asegurar con Defensa X +2 + Ataque X para mayor estabilidad",
+      "detail": "Feraligatr --> Encanto; Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
       "variant": []
     }
   ]
