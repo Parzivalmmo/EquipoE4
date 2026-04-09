@@ -2,15 +2,6 @@
   "id": "luxray",
   "name": "Luxray",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨 Amortiguador ",
-  "tricks": [
-    {
-      "detail": "Primeape ➜ cambiar a Gengar  y luego a Jirachi",
-      "variant": []
-    },
-    {
-      "detail": "Hydreigon ➜ cambiar a Chandelure +2 +2 ",
-      "variant": []
-    }
-  ]
+  "initialMove": "🥚 Chansey usa Amortiguador; Trampa Rocas frente a tipo Lucha; Slowbro usa Bostezo frente a Atacante Especial; sacrificar a Politoed; Poliwrath +6 🐸",
+  "tricks": []
 }
