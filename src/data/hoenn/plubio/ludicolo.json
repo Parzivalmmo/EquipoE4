@@ -2,11 +2,6 @@
   "id": "ludicolo",
   "name": "Ludicolo",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Pantalla Luz Cambi a Gallade +2 +2 (no usar otra vez) 💡 ",
-  "tricks": [
-    {
-      "detail": "Roserade y milotic tienen objeto elegido",
-      "variant": []
-    }
-  ]
+  "initialMove": "💡 Teletransporte; enviar a Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6 💡",
+  "tricks": []
 }
