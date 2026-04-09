@@ -2,19 +2,6 @@
   "id": "charizard",
   "name": "Charizard",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨  ",
-  "tricks": [
-    {
-      "detail": "Tyranitar ➜ usar Contador ",
-      "variant": []
-    },
-    {
-      "detail": "Metagross ➜ cambiar a Jirachi; usar Protección + Otra Vez ; Chandelure +2 +2 ; resistir un golpe ",
-      "variant": []
-    },
-    {
-      "detail": "Se Queda  / Ampharos ➜ cambiar a Gengar  Otra Vez ; cambio manual a Gallade; ; frente a Charizard cambiar a Chansey y poner Pantalla de Luz ; cambiar a Jirachi y luego a Chandelure +2 +2 ",
-      "variant": []
-    }
-  ]
+  "initialMove": "🪨 Trampa Rocas 🪨 frente a Tyranitar; cambiar a Poliwrath para matar a tyra ; cambiar a Chansey y usar Amortiguador; esperar a Metagross; Teletransporte; Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
+  "tricks": []
 }
