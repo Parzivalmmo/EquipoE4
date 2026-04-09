@@ -2,30 +2,14 @@
   "id": "flygon",
   "name": "Flygon",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨",
+  "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Lucario ➜ cambiar a Gengar usar Otra Vez ; cambiar a Jirachi; si Dragonite Cinta Elegida Trampa rocas, cambiar a Jirachi usar Otra Vez; cambiar a Chandelure +2 +2 ",
+      "detail": "Lucario --> Gengar +2 +2 + Precisión X; 🔔 Ahorrar 62 (Lucario no tiene objeto elegido) 🔔",
       "variant": []
     },
     {
-      "detail": "Aerodactyl ➜ usar Protección , correr hacia Flygon; usar Otra Vez ",
-      "variant": []
-    },
-    {
-      "detail": "Llamarada  ➜ cambiar a Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Terremoto  ➜ cambiar a Gallade +4 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Dragonite Cinta Elegida ➜ cambiar a Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Frente a Dragonite Trampa rocas ➜ cambiar a Chandelure +2 +2 ",
+      "detail": "Dragonite --> Cambiar a Slowbro y usar Bostezo frente a Flygon; usar Protección y Bostezo; sacrificar a Politoed; Poliwrath +6",
       "variant": []
     }
   ]
