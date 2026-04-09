@@ -2,34 +2,38 @@
   "id": "gardevoir",
   "name": "Gardevoir",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨",
+  "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Eelektross ➜ Gengar  Otra Vez ; Maquinación ",
+      "detail": "Vidasfera + Psicocarga --> Teletransporte; enviar a Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Registeel ➜ Dragonite Otra Vez  Danza Dragón +2 ",
+      "detail": "Sin Vidasfera + Psicocarga --> Teletransporte; Gengar usa un movimiento para caer debilitado",
       "variant": []
     },
     {
-      "detail": "Se queda ➜ cambiar a Jirachi Otra Vez ",
+      "detail": "Whiscash --> Opción para resolver",
       "variant": []
     },
     {
-      "detail": "Onda Certera / Esfera Aural  ➜ Gengar +4  +2 ; Chandelure +2 +2 si no tiene Vidasfera  en Gardevoir, Gengar +4 para Bisharp",
+      "detail": "Seguro --> Slowbro usa Bostezo frente a Roserade; sacrificar a Politoed; Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Bola Sombra  ➜ cambiar a Dragonite; observar objeto de Gardevoir )",
+      "detail": "Arriesgar --> Sacrificar a Politoed; Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Vidasfera  ➜ Danza Dragón +1  curar  + ataque x ; Garra Dragón  a Milotic",
+      "detail": "Milotic --> Slowbro usa Bostezo frente a Roserade; sacrificar a Politoed; Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Restos  ➜ Dragonite Danza Dragón +2 ",
+      "detail": "Togekiss --> Onda Certera y sacrificar; Slowbro aguanta el +x defensa especial y usa Bostezo frente a Roserade; sacrificar a Politoed; Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Eelektross --> Gengar usa Otra Vez; cambiar a Slowbro; usar Bostezo; sacrificar a Politoed; Poliwrath +6",
       "variant": []
     }
   ]
