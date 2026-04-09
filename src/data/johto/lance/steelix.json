@@ -2,30 +2,32 @@
   "id": "steelix",
   "name": "Steelix",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨",
+  "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Se Queda  ➜ cambio rápido a Otra Vez +4 ",
+      "detail": "Terremoto --> Encanto; Amortiguador; esperar a Scizor; Teletransporte para 🔔evaluar daño🔔",
+      "variant": [
+        {
+          "detail": "Si el daño es ~60% --> Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Si el daño es ~90% --> Volcarona +1 + Especial X; mantener 🔔PS por encima del 51%🔔",
+          "variant": [
+            {
+              "detail": "Si Volcarona cae por Crítico --> Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "Lucario --> Gengar +2 +2 + Precisión X; 🔔ahorrar +6 +2 lucario no tiene objeto elegido 🔔",
       "variant": []
     },
     {
-      "detail": "Lapras ➜ cambiar a Chansey  Pantalla de Luz ; frente a Scizor, sacrificar a Chansey; cambiar a Dragonite; Danza Dragón x2 + Ataque X; cuidado con la curación",
-      "variant": []
-    },
-    {
-      "detail": "Frente a Dragonite ➜ Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Lucario ➜ Gengar  Otra Vez ; cambiar a Jirachi",
-      "variant": []
-    },
-    {
-      "detail": "Dragonite ➜ Chandelure +2 +2 ; (objeto elegido)",
-      "variant": []
-    },
-    {
-      "detail": "Aerodactyl ➜ Protección; frente a Flygon, Jirachi Otra Vez ; Chandelure +2 +2 ",
+      "detail": "Dragonite --> Cambiar a Slowbro y usar Bostezo frente a Flygon; usar Protección y Bostezo; sacrificar a Politoed; Poliwrath +6 ",
       "variant": []
     }
   ]
