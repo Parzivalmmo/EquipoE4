@@ -2,27 +2,103 @@
   "id": "lapras",
   "name": "Lapras",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRAMPA ROCAS",
+  "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
-    {"detail": "Surf → Cambia a Poliwrath 6+2 // (Si entra Slowbro, cambia a Chandelure, Truco para encerrar en Escaldar, luego cambia a Poliwrath 6+2)", "variant": []},
-    {"detail": "Rayo → Cambia a Excadrill 6+2 // (Si entra Slowbro, cambia a Chandelure, Truco para encerrar en Escaldar, luego cambia a Poliwrath 6+2)", "variant": []},
-    {"detail": "Taladradora→ Cambia a Excadrill para poner Trampa Rocas, luego cambia a Chandelure para hacer Truco a Mantine, saca a Scrafty +2 // (A Mantine hay que golpearlo 2 veces) // Si te saca crítico usa Raíz Energía", "variant": []},
-    {"detail": "Hidrobomba → Usa Trampa Rocas, luego cambia a Poliwrath 2 Veces Tambor +Velocidad X.", "variant": [
-      {"detail": "(Si Metagross no aguanta el ataque y no puedes poner Trampa Rocas, dale Defensa X a Poliwrath y usa 2 tambores.)"},
-      {"detail": "Lucario te mata → Saca a Chandelure, Truco para encerrar en Triturar / Roca Afilada, saca a Scrafty +2"}
-    ]},
-    {"detail": "Nidoqueen → Observa el ítem intercambiado:", "variant": [
-      {"detail": "Vidasfera → Cambia a Excadrill 6+2 (Mata a Lapras con Terremoto)"},
-      {"detail": "Casco Dentado → Cambia a Excadrill Trampa Rocas, 4+2 (Terremoto para matar a Nido)"}
-    ]},
-   {"detail": "Nidoking → Cambia a Excadrill para colocar Trampa Rocas, luego cambia a Cloyster +6", "variant": []},
-    {"detail": "Slowbro → Cambia a Chandelure y utiliza Poder Oculto para bajarle vida a Dragonite, luego cambia a Excadrill", "variant": [
-      {"detail": "Si entra Lapras / Slowbro → Cambia a Poliwrath 6+2"},
-      {"detail": "Lucario → Cambia a Chandelure y utiliza Truco para encerrar en Triturar / Roca Afilada, luego cambia a Scrafty +2"} 
-      ]},
-    {"detail": "Blissey / Jigglypuff → Cambia a Chandelure y utiliza Truco para encerrar el Tierra Viva de Nidoking, luego cambia a Excadrill +6", "variant": []},
-    {"detail": "Magnezone → Cambia a Excadrill, utiliza Trampa Rocas luego Terremoto para matar a Magnezone // Si entra Lapras, cambia a Poliwrath 6+2", "variant": []},
-    {"detail": "Bronzong → Saca a Excadrill 6+2, luego pon Trampa Rocas", "variant": []}
+    {
+      "detail": "Si se queda --> Ver movimiento",
+      "variant": [
+        {
+          "detail": "Rayo Hielo --> Sacrificar a Politoed; Poliwrath +6 Cascada a Banette 【 Si Rayo Hielo crítico mata a Poliwrath, se sugiere cambiar de estrategia 】",
+          "variant": []
+        },
+        {
+          "detail": "Acua Cola --> Cambiar a Politoed; cambiar a Slowbro y luego a Mantine; usar Bostezo frente a Magnezone; sacrificar a Poliwrath; Volcarona +1 + Especial X 🔔Psíquico contra Mantine🔔",
+          "variant": []
+        },
+        {
+          "detail": "Golduck --> Cambiar a Gengar",
+          "variant": [
+            {
+              "detail": "Si se queda --> Cambiar a Slowbro y luego a Mantine; usar Bostezo frente a Magnezone; sacrificar a Poliwrath; Volcarona +1 + Especial X 🔔Psíquico contra Mantine; dar Revivir Hierba a Poliwrath + Medicina pequeña; continuar🔔",
+              "variant": []
+            },
+            {
+              "detail": "Lapras --> Cambiar a Slowbro y usar Bostezo frente a Magnezone; sacrificar a Poliwrath; Volcarona +2 + Especial X 🔔Psíquico contra Mantine; dar Revivir Hierba a Poliwrath + Medicina pequeña; continuar🔔",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "Hariyama --> Cambiar a Slowbro y usar Bostezo",
+          "variant": [
+            {
+              "detail": "Nidoking --> Sacrificar a Politoed; Poliwrath +6 🔔Puño drenaje a Jynx🔔",
+              "variant": []
+            },
+            {
+              "detail": "Jynx --> Volcarona +2",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "Lucario --> Opción para resolver",
+          "variant": [
+            {
+              "detail": "Rápido --> Teletransporte para ver objeto",
+              "variant": [
+                {
+                  "detail": "Vidasfera --> Gengar +4 +2",
+                  "variant": []
+                },
+                {
+                  "detail": "Sin Vidasfera --> Enviar a Slowbro y usar Bostezo frente a Lapras; sacrificar a Politoed; Poliwrath +6",
+                  "variant": []
+                }
+              ]
+            },
+            {
+              "detail": "¿Ahorrar dinero? --> Gengar +2",
+              "variant": [
+                {
+                  "detail": "Si se queda --> Gengar +4 +2; barrer con Bola Sombra",
+                  "variant": []
+                },
+                {
+                  "detail": "Mantine --> Cambiar a Chansey y usar Amortiguador frente a Lucario; Gengar +4 +2; 🔔barrer con Bola Sombra🔔",
+                  "variant": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "detail": "Bronzong --> Chansey usa Encanto",
+          "variant": [
+            {
+              "detail": "Psíquico / Tierra --> Cambiar a Slowbro y usar Bostezo frente a Nidoking; sacrificar a Politoed; Poliwrath +6",
+              "variant": []
+            },
+            {
+              "detail": "Autodestrucción frente a Chansey --> Sacrificar a Politoed; Poliwrath +6",
+              "variant": []
+            },
+            {
+              "detail": "Autodestrucción frente a Nidoking --> Chansey usa Amortiguador para curar al máximo",
+              "variant": [
+                {
+                  "detail": "Si se queda --> Teletransporte; Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
+                  "variant": []
+                },
+                {
+                  "detail": "Chansey --> Sacrificar a Politoed; Poliwrath +6",
+                  "variant": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
   ]
 }
-        
