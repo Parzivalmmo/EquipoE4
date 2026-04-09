@@ -2,21 +2,21 @@
   "id": "exeggutor",
   "name": "Exeggutor",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨 Trampa Rocas 🪨; Chansey no cambia y usa Amortiguador 🥚",
+  "initialMove": "🪨 Trampa Rocas 🪨 🥚exeggutor no cambia y usa Amortiguador 🥚",
   "tricks": [
     {
-      "detail": "Lapras --> Cambiar a Politoed; cambiar a Slowbro y luego a Mantine; usar Bostezo frente a Magnezone; sacrificar a Poliwrath; Volcarona +1 + Especial X 🔔Psíquico contra Mantine🔔",
+      "detail": "Lapras ➜ Cambiar a Politoed ➜ cambiar a Slowbro y luego a Mantine ➜ usar Bostezo frente a Magnezone ➜ sacrificar a Poliwrath ➜ Volcarona +1 + Especial X 🔔Psíquico contra Mantine🔔",
       "variant": []
     },
     {
-      "detail": "Golduck --> Cambiar a Gengar",
+      "detail": "Golduck ➜ Cambiar a Gengar",
       "variant": [
         {
-          "detail": "Si se queda --> Cambiar a Slowbro y luego a Mantine; usar Bostezo frente a Magnezone; sacrificar a Poliwrath; Volcarona +1 + Especial X 🔔 Psíquico contra Mantine🔔",
+          "detail": "Si se queda ➜ Cambiar a Slowbro y luego a Mantine ➜ usar Bostezo frente a Magnezone ➜ sacrificar a Poliwrath; Volcarona +1 + Especial X 🔔 Psíquico contra Mantine🔔",
           "variant": []
         },
         {
-          "detail": "Lapras --> Cambiar a Slowbro y usar Bostezo frente a Magnezone; sacrificar a Poliwrath; Volcarona +2 + Especial X 🔔Psíquico contra Mantine🔔",
+          "detail": "Lapras ➜ Cambiar a Slowbro y usar Bostezo frente a Magnezone ➜ sacrificar a Poliwrath ➜ Volcarona +2 + Especial X 🔔Psíquico contra Mantine🔔",
           "variant": []
         }
       ]
