@@ -2,62 +2,58 @@
   "id": "lanturn",
   "name": "Lanturn",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Pantalla luz 💡",
+  "initialMove": "🥚Amortiguador🥚",
   "tricks": [
     {
-      "detail": "Registeel ➜ Dragonite Otra Vez  Danza Dragón +3 ; Otra Vez frente a Cuerpo Pesado ; si hay velocidad para perseguir  usar Danza Dragón +1  + ataque x ",
+      "detail": "Si se queda --> Aguantar con +x SpDef + Amortiguador dos veces",
       "variant": []
     },
     {
-      "detail": "Dragonite ➜ Jirachi Otra Vez ; Chandelure +2 +2 ",
+      "detail": "Si se queda --> Teletransporte; Gengar usa Bola Sombra; ver daño",
       "variant": []
     },
     {
-      "detail": "Registeel ➜ cambiar a Jirachi; cambiar a Dragonite Otra Vez  +3; si en el equipo de reserva está Milotic, (se sugiere subir a +4)",
+      "detail": "Más del 40% (Crítico 60%) --> Sacrificar a Politoed; Slowbro usa Bostezo; Teletransporte; Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Gardevoir ➜ cambiar a Jirachi; cambiar a Gengar Otra Vez  +4 +2 ",
+      "detail": "Menos del 35% (Crítico 52%) --> Maquinación",
       "variant": []
     },
     {
-      "detail": "Se queda  ➜ usar Amortiguador  para confirmar el equipo; mantener el uso de Amortiguador",
+      "detail": "Cambia a un Pokémon sin espíritu vital --> Ver abajo cómo lidiar",
       "variant": []
     },
     {
-      "detail": "Empoleon ➜ cambiar a Dragonite Otra Vez; Danza Dragón +4 (si Milotic tiene Casco Dentado , se puede intentar Terremoto  contra Milotic)",
+      "detail": "Dragonite --> Encanto; sacrificar a Politoed; Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Roserade ➜ cambiar a Jirachi; Rayo ",
+      "detail": "Regice/Registeel --> Sacrificar a Politoed; Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Milotic ➜ Dragonite Danza Dragón +2 ; NO usar Otra Vez ",
+      "detail": "Milotic --> Teletransporte; enviar a Slowbro; Bostezo frente a Roserade; Volcarona +4; Slowbro usa Bostezo a Milotic; Protección y Bostezo frente a Roserade",
       "variant": []
     },
     {
-      "detail": "Registeel ➜ Dragonite Otra Vez   Danza Dragón +4 ",
+      "detail": "Empoleon --> Cambiar a Slowbro y usar Bostezo frente a Roserade; Volcarona +3; 🔔PS por encima del 70%🔔",
       "variant": []
     },
     {
-      "detail": "Milotic ➜ cambiar a Gallade usar defensa especial x  +2 +2  si no hay suficiente HP, curar ; este equipo tiene parálisis molesta; usar a Chansey  para bloquear Rayo Hielo; si bloquea movimiento de agua, entonces Danza Dragón",
+      "detail": "Gardevoir --> Teletransporte; enviar a Slowbro; Bostezo; sacrificar a Politoed; Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Dragonite ➜ Jirachi Otra Vez; Chandelure +2 +2 ",
+      "detail": "Roserade --> Teletransporte para ver movimiento",
       "variant": []
     },
     {
-      "detail": "Milotic ➜ cambiar a Jirachi; Rayo ",
+      "detail": "Movimiento Planta --> Volcarona +4",
       "variant": []
     },
     {
-      "detail": "Ludicolo ➜ Otra Vez  manual; cambiar a Dragonite Danza Dragón +2 ; atacar; si hay golpe crítico usar medicina para curar ",
-      "variant": []
-    },
-    {
-      "detail": "Roserade ➜ Protección  para ver habilidad; si usa Poder Oculto  cambiar a Chandelure +2 +2 ",
+      "detail": "Movimiento Veneno --> Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
       "variant": []
     }
   ]
