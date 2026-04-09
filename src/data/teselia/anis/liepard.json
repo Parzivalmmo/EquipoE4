@@ -5,15 +5,15 @@
   "initialMove": "🪨TRAMPA ROCAS🪨",
   "tricks": [
     {
-      "detail": "Eelektross --> Gengar usa Otra Vez, cambiar a Slowbro y usar Bostezo",
+      "detail": "Eelektross ➜ Gengar usa Otra Vez ➜ cambiar a Slowbro y usar Bostezo",
       "variant": []
     },
     {
-      "detail": "Gengar --> usar Protección, cambiar de Poliwrath a Chandelure, Volcarona con 2 Danza Aleteo(🔔Psiquico Gengar🔔)",
+      "detail": "Gengar ➜ usar Protección ➜ cambiar de Poliwrath a Chandelure ➜ Volcarona con 2 Danza Aleteo(🔔Psiquico Gengar🔔)",
       "variant": []
     },
     {
-      "detail": "Chandelure --> usar Protección y Bostezo frente a Gengar, Teletransporte, Volcarona con 2 Danza Aleteo(🔔Psiquico Gengar lanzallamas chandelure🔔)",
+      "detail": "Chandelure ➜ usar Protección y Bostezo frente a Gengar ➜ Teletransporte ➜ Volcarona con 2 Danza Aleteo(🔔Psiquico Gengar lanzallamas chandelure🔔)",
       "variant": []
     }
   ]
