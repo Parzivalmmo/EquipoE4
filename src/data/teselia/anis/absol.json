@@ -9,12 +9,13 @@
       "variant": []
     },
     {
-      "detail": "Contra Bronzong ➡ Sacrificar a Politoed Entra Poliwrath +6",
-      "variant": []
-    },
-    {
-      "detail": "Ahorra Recursos ➡ Chansey atrae a hydreigon ➡ Gengar +4",
-      "variant": []
+      "detail": "Sale Bronzong ➡ Sacrificar a Politoed, Entra Poliwrath +6",
+      "variant": [
+        {
+          "detail": "Ahorra Recursos ➡ Chansey atrae a hydreigon ➡ Gengar +4",
+          "variant": []
+        }
+      ]
     }
   ]
 }
