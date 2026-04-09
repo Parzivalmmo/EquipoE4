@@ -2,27 +2,6 @@
   "id": "hydreigon",
   "name": "Hydreigon",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨",
-  "tricks": [
-    {
-      "detail": "Flareon ➜ cambiar a Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Primeape / Luxray ➜ cambiar a Gengar  usar Otra Vez; cambiar a Jirachi",
-      "variant": []
-    },
-    {
-      "detail": "Hydreigon ➜ cambiar a Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Houndoom ➜ usar Otra Vez; cambiar a Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Usar Otra Vez y correr hacia Hydreigon ➜ cambiar a Chansey  usar Amortiguador  frente a Luxray; cambiar a Gengar  usar Otra Vez; cambiar a Jirachi usar Otra Vez frente a fuego ; cambiar a Chandelure +2 +2 ",
-      "variant": []
-    }
-  ]
+  "initialMove": "🥚 Chansey usa Amortiguador frente a Primeape; cambiar a Gengar +2 +2 + Precisión X (primeate banda focus)🥚",
+  "tricks": []
 }
