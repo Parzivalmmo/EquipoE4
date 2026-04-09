@@ -2,26 +2,27 @@
   "id": "vileplume",
   "name": "Vileplume",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨",
+  "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Excadrill ➜ usar Contador ",
+      "detail": "Honchkrow --> Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Slowbro sin Puño Drenaje ➜ cambiar a Jirachi protegerse frente a Houndoom ; Jirachi usa Otra Vez; cambiar a Chandelure +2 +2",
-      "variant": []
+      "detail": "Excadrill --> Teletransporte; enviar a Slowbro y usar Bostezo",
+      "variant": [
+        {
+          "detail": "Si se queda --> Teletransporte; Volcarona +1; barrer hasta Houndoom; luego usar Danza Aleteo una vez y barrer completo",
+          "variant": []
+        },
+        {
+          "detail": "Mismagius --> Volcarona +1 frente a Houndoom; luego usar Danza Aleteo una vez y barrer completo",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "Slowbro con Puño Drenaje ➜ Gengar +4 +2; no usar Otra Vez",
-      "variant": []
-    },
-    {
-      "detail": "Honchkrow / Gallade ➜ cambiar a Gengar  usar Otra Vez +6",
-      "variant": []
-    },
-    {
-      "detail": "Correr hacia Rhyperior ➜ Gallade  usar Otra Vez +4 +2",
+      "detail": "Gallade --> Gengar usa Otra Vez; Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
       "variant": []
     }
   ]
