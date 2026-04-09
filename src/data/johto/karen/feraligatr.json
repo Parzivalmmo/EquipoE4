@@ -2,34 +2,14 @@
   "id": "feraligatr",
   "name": "Feraligatr",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨",
+  "initialMove": "❤️ Encanto ❤️",
   "tricks": [
     {
-      "detail": "Se Queda ➜ usar Amortiguador contador ",
+      "detail": "Menos de 36% (Crítico 54%) --> Trampa Rocas; cambiar a Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Garchomp ➜ cambiar a Jirachi usar Otra Vez ; cambiar a Gallade +4 +2  o a Dragonite +4",
-      "variant": []
-    },
-    {
-      "detail": "Gallade o Honchkrow  ➜ cambiar a Jirachi y luego a Gengar usar Otra Vez +2(houndoom banda focus)",
-      "variant": []
-    },
-    {
-      "detail": "Rhyperior ➜ cambiar a Dragonite usar Otra Vez +4",
-      "variant": []
-    },
-    {
-      "detail": "Se Queda  ➜ cambiar a Gengar  +6 no velo ",
-      "variant": []
-    },
-    {
-      "detail": "Gallade ➜ cambiar a Gengar  usar Otra Vez +4 0 velocidad ",
-      "variant": []
-    },
-    {
-      "detail": "Rhyperior ➜ cambiar a Dragonite usar Otra Vez  + Danza Dragón x4",
+      "detail": "Más de 39% (Crítico 59%) --> Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6 🔔curar quemadura🔔 ",
       "variant": []
     }
   ]
