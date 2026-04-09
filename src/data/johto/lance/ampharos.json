@@ -2,22 +2,18 @@
   "id": "ampharos",
   "name": "Ampharos",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨",
+  "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Tyranitar ➜ usar contador",
+      "detail": "Arcanine --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Metagross ➜ cambiar a Jirachi; Protección + Otra Vez ; Dragonite Danza Dragón +1; ante movimiento aleatorio retirar al común; no debilitar ; Gengar +2 no velo )",
+      "detail": "Tyranitar --> Cambiar a Poliwrath para matar a tyranitar; cambiar a Chansey y usar Amortiguador; esperar a Metagross; Teletransporte; Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6 🔔Puño Drenaje contra Ampharos 🔔",
       "variant": []
     },
     {
-      "detail": "Arcanine Cinta elegida ➜ sacrificar a Chansey; Dragonite Danza Dragón +2 o Chandelure +2 +2 ; Chandelure resiste un golpe de Rayo  sin debilitarse; el rival queda encerrado en el movimiento",
-      "variant": []
-    },
-    {
-      "detail": "Feraligatr ➜ Gengar  Otra Vez ; cambiar a Chansey ; sale Arcanine; Chandelure +2 +2 ",
+      "detail": "Feraligatr --> Encanto; Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
       "variant": []
     }
   ]
