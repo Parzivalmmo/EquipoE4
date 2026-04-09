@@ -2,30 +2,26 @@
   "id": "serperior",
   "name": "Serperior",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨 Trampa rocas🪨",
+  "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Vidasfera  llueve hijas   ➜ Pantalla de Luz ; Jirachi Otra Vez   Chandelure +2 +2 ",
+      "detail": "Lluevehojas --> Teletransporte; ver cuánto ataque  aumenta",
       "variant": []
     },
     {
-      "detail": "Frente a Eelektross ➜ Gengar  Otra Vez ; cambiar a Jirachi hacia columna de acero ; Jirachi Otra Vez",
+      "detail": "+4 --> Enviar a Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Terremoto  ➜ Dragonite +3",
+      "detail": "+2 --> Volcarona +1 x Especial ",
       "variant": []
     },
     {
-      "detail": "Eelektross ➜ Rayo  luego Otra Vez ; Chandelure +2 +2 ",
+      "detail": "Mienshao --> Cambiar a Slowbro y usar Bostezo frente a Serperior; Teletransporte; Volcarona +2",
       "variant": []
     },
     {
-      "detail": "Sin Vidasfera  se queda  ➜ Pantalla de Luz ; cambiar a Jirachi Otra Vez ; Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Mienshao ➜ cambiar a Gengar  Bola Sombra ; frente a Registeel cambiar a Chansey; cambiar a Jirachi frente a Eelektross; Otra Vez  dos veces; Chandelure +2 +2",
+      "detail": "Eelektross --> Gengar usa Otra Vez; cambiar a Slowbro frente a Milotic; usar Bostezo; sacrificar a Politoed; Poliwrath +6",
       "variant": []
     }
   ]
