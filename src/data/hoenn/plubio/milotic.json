@@ -2,135 +2,103 @@
   "id": "milotic",
   "name": "Milotic",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨",
+  "initialMove": "🥚 Amortiguador 🥚",
   "tricks": [
     {
-      "detail": "Se queda ➜ abrir Pantalla de Luz ; para observar habilidad ",
+      "detail": "Si se queda --> Ver movimiento",
       "variant": []
     },
     {
-      "detail": "Surf ➜ Dragonite +3; NO usar Otra Vez ",
+      "detail": "Surf / Hidrobomba --> Teletransporte; enviar a Slowbro y usar Bostezo",
+      "variant": [
+        {
+          "detail": "Roserade --> Volcarona +4",
+          "variant": []
+        },
+        {
+          "detail": "Ludicolo --> Sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Rayo Hielo --> Sacrificar a Politoed; Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Escaldar  ➜ abrir Pantalla de Luz; usar Amortiguador ",
+      "detail": "Escaldar --> Amortiguador",
       "variant": []
     },
     {
-      "detail": "Frente a Dragonite / Amortiguador frente a Dragonite ➜ contador  para debilitar ",
+      "detail": "Dragonite --> Cambiar a Slowbro y usar Bostezo; Protección y Bostezo frente a Lanturn; sacrificar a Politoed; Poliwrath +6",
+      "variant": [
+        {
+          "detail": "Empoleon --> Cambiar a Slowbro para ver movimiento",
+          "variant": []
+        },
+        {
+          "detail": "Cascada --> Bostezo frente a Roserade; Teletransporte; Volcarona +1; debilitar frente a Togekiss; luego debilitar frente a Milotic; usar Danza Aleteo 1 vez y barrer completo (Milotic Crítico o primero curar al máximo)",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Terremoto --> Bostezo frente a Roserade; Volcarona +3; PS por encima del 70%",
       "variant": []
     },
     {
-      "detail": "Frente a Ballena/Whalefish ➜ cambiar a Jirachi; cambiar a Gallade Otra Vez  +4 +2 Velocidad ; probando ?",
+      "detail": "Gardevoir --> Teletransporte; enviar a Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Abrir Pantalla de Luz  y sale Gardevoir ➜ cambiar a Gengar  frente a Empoleon; cambiar a Dragonite Otra Vez Danza Dragón +3 ",
+      "detail": "Regice/Registeel --> Sacrificar a Politoed; Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Chansey  quemado ➜ cambiar a Jirachi Otra Vez   Chandelure +2 +2 ",
-      "variant": []
+      "detail": "Empoleon --> Trampa Rocas para ver movimiento",
+      "variant": [
+        {
+          "detail": "Cascada --> Cambiar a Slowbro y usar Bostezo frente a Roserade; Teletransporte; Volcarona +1; presionar hasta Milotic; usar Danza Aleteo 1 vez y barrer completo; dos veces contra Milotic; Escaldar Crítico o primero curar",
+          "variant": []
+        },
+        {
+          "detail": "Terremoto --> Cambiar a Slowbro y usar Bostezo frente a Roserade; Teletransporte; Volcarona +3; mantener PS por encima del 70%",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "Cambiar a Dragonite Otra Vez ; sale Walrein o Dewgong ➜ cambiar a Chandelure +2 +2 ; Chandelure resiste Rayo Hielo ",
-      "variant": []
-    },
-    {
-      "detail": "Frente a Dragonite con velocidad para perseguir ➜ cambiar a Jirachi Otra Vez ; Chandelure +2 +2 ; Chandelure Energibola  ; pisar Trampa Rocas Milotic",
-      "variant": []
-    },
-    {
-      "detail": "Sale Carpa/Empoleon ➜ cambiar a Dragonite Otra Vez Danza Dragón +3 ",
-      "variant": []
-    },
-    {
-      "detail": "Hidrobomba (hydro pump) ➜ sacrificar a Chandelure; Dragonite +3; NO usar Otra Vez ",
-      "variant": []
-    },
-    {
-      "detail": "Dragonite ➜ cambiar a Jirachi Otra Vez ; cambiar a Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Eelektross ➜ cambiar a Gengar  Otra Vez (  cambiar a Jirachi",
-      "variant": []
-    },
-    {
-      "detail": "Registeel ➜ observar objeto ",
-      "variant": []
-    },
-    {
-      "detail": "Restos (Leftover) ➜ cambiar a Gengar; Maquinación  presionar  presionar hasta Swampert; cambiar a Dragonite Otra Vez  Danza Dragón +3",
-      "variant": []
-    },
-    {
-      "detail": "Sin Restos  ➜ cambiar a Gallade",
-      "variant": []
-    },
-    {
-      "detail": "Onda Certera  ➜ cambiar a Gengar +4 +2 ; NO usar Otra Vez ; Gafas elegidas ",
-      "variant": []
-    },
-    {
-      "detail": "Sale Eelektross ➜ Tajo  debilitar frente a Milotic  sacrificar a Gengar; cambiar a Danza Dragón +2 ; NO usar Otra Vez; Pañuelo elegido  bloqueo automático )",
-      "variant": []
-    },
-    {
-      "detail": "Bloqueo Hielo  ➜ Gallade +2 +2  NO usar Otra Vez ",
-      "variant": []
-    },
-    {
-      "detail": "Mienshao ➜ cambiar a Gengar  ataca ",
-      "variant": []
-    },
-    {
-      "detail": "Registeel / Milotic ➜ cambiar a Chansey ; cambiar a Jirachi",
-      "variant": []
-    },
-    {
-      "detail": "Eelektross ➜ Rayo ; Otra Vez  ; Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Metagross ➜ cambiar a Gengar  Otra Vez  +4 ",
-      "variant": []
-    },
-    {
-      "detail": "Eelektross ➜ cambiar a Jirachi; Protección  + Otra Vez ; Chandelure +2 +2 ; Chandelure resiste",
-      "variant": []
-    },
-    {
-      "detail": "Registeel ➜ Dragonite Otra Vez  Danza Dragón +3 ",
-      "variant": []
-    },
-    {
-      "detail": "Gardevoir ➜ abrir Pantalla de Luz ; cambiar a Jirachi Otra Vez ",
-      "variant": []
-    },
-    {
-      "detail": "Bola Sombra  ➜ cambiar a Chansey  usar Amortiguador",
-      "variant": []
-    },
-    {
-      "detail": "Empoleon ➜ Dragonite Otra Vez  Danza Dragón +4 ; si hay velocidad para perseguir  no usar Otra Vez , usar Danza Dragón +2  + ataque x",
-      "variant": []
-    },
-    {
-      "detail": "Esfera Aural  ➜ Chandelure +2 +2  / Gengar  +4 +2  )",
-      "variant": []
-    },
-    {
-      "detail": "Frente a Togekiss ➜ Otra Vez ; Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Empoleon ➜ cambiar a Jirachi; cambiar a Dragonite Otra Vez  Danza Dragón +4; si hay velocidad para perseguir  no usar Otra Vez  usar Dragonite Danza Dragón +2 + ataque x ",
-      "variant": []
-    },
-    {
-      "detail": "Roserade (蔷薇) [probando / testing] ➜ cambiar a Jirachi Otra Vez (Encore); Chandelure +2 +2 ",
-      "variant": []
+      "detail": "Metagross --> Sacrificar a Politoed; Poliwrath +6",
+      "variant": [
+        {
+          "detail": "Si Poliwrath muere por crítico --> Gengar +4 +2",
+          "variant": []
+        },
+        {
+          "detail": "Mienshao --> Cambiar a Slowbro y usar Bostezo frente a Serperior; Teletransporte; Volcarona +2",
+          "variant": []
+        },
+        {
+          "detail": "Regice/Registeel --> Sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Dragonite --> Encanto; sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Gardevoir --> Teletransporte; enviar a Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Whiscash --> Encanto; sacrificar a Politoed; Poliwrath +6 + Raíz Grande +2",
+          "variant": []
+        },
+        {
+          "detail": "Roserade --> Teletransporte; Slowbro usa Bostezo; Teletransporte; Volcarona +1 +x SpA; dos veces contra Milotic",
+          "variant": []
+        }
+      ]
     }
   ]
 }
