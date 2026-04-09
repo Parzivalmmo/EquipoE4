@@ -2,11 +2,6 @@
   "id": "altaria",
   "name": "Altaria",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "✨ AMORTIGUADOR ✨",
-  "tricks": [
-    {
-      "detail": "Eelektross ➜ Gengar Otra Vez luego cambia a Slowbro y usa Bostezo contra Altaria despues entra Chansey y espera a que salga Eelektross, cuando salga usa Teletransporte y saca a Slowbro luego usa Bostezo, sacrifica al sapito y entra Poliwrath +6",
-      "variant": []
-    }
-  ]
-}
+  "initialMove": "🥚 Amortiguador frente a Eelektross; Gengar usa Otra Vez; cambiar a Slowbro y usar Bostezo frente a Altaria; cambiar a Chansey y esperar a Eelektross; Teletransporte; Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6 🥚",
+  "tricks": []
+}   
