@@ -2,26 +2,27 @@
   "id": "lucario",
   "name": "Lucario",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨",
+  "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Salamence ➜ cambiar a Dragonite y luego a Jirachi usar Otra Vez frente a Colmillo Ígneo; cambiar a Chandelure +2 +2 )",
-      "variant": []
+      "detail": "Poder Oculto --> Cambiar a Gengar",
+      "variant": [
+        {
+          "detail": "Si se queda --> Gengar +6 🔔 Barrido con Bola Sombra 🔔",
+          "variant": []
+        },
+        {
+          "detail": "Salamence --> Cambiar a Slowbro usar Bostezo x2 ; ver abajo",
+          "variant": []
+        },
+        {
+          "detail": "Rapidash --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "Priorizar velocidad  ➜ cambiar a Jirachi usar Otra Vez; cambiar a Chandelure +2 +2 con Jirachi a vida completa",
-      "variant": []
-    },
-    {
-      "detail": "Esfera Aural  ➜ cambiar a Jirachi",
-      "variant": []
-    },
-    {
-      "detail": "Salamence ➜ Jirachi usa Otra Vez ; cambiar a Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Se Queda  ➜ usar Rayo  y Otra Vez; cambiar a Chandelure +2 +2 ",
+      "detail": "Salamence --> Cambiar a Slowbro  usar Bostezo x2  frente a Spiritomb; sacrificar a Politoed; Poliwrath +6 🔔 Spiritomb despierto no es amenaza 🔔",
       "variant": []
     }
   ]
