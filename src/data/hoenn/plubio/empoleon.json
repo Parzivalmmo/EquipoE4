@@ -2,31 +2,47 @@
   "id": "empoleon",
   "name": "Empoleon",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Amortiguador💡",
+  "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Se queda ) ➜ para observar información ",
+      "detail": "Terremoto --> Cambiar a Slowbro y usar Bostezo frente a Roserade; Volcarona +3; 🔔antes de barrer mantener PS por encima del 70%🔔",
       "variant": []
     },
     {
-      "detail": "Cascada ➜ Danza Dragón +1  + ataque x ; NO usar Otra Vez; (llegar a +3 para Gardevoir)",
+      "detail": "Cascada --> Cambiar a Slowbro y usar Bostezo frente a Roserade; Teletransporte; Volcarona +1; presionar hasta Milotic, luego usar Danza Aleteo una vez y presionar dos veces a Milotic;🔔 Milotic Crítico o primero curar al máximo🔔",
       "variant": []
     },
     {
-      "detail": "Terremoto ➜ Dragonite Otra Vez  Danza Dragón +4 ; ",
+      "detail": "Escaldar --> Cambiar a Slowbro",
       "variant": []
     },
     {
-      "detail": "Escaldar  ➜ Trampa rocas; cambiar a Dragonite Otra Vez Danza Dragón +1  + ataque x ",
+      "detail": "Si se queda --> Bostezo frente a Roserade; Volcarona +4 ",
       "variant": []
     },
     {
-      "detail": "Milotic ➜ Abrir Pantalla de Luz   a Chandelure; Dragonite +3; NO usar Otra Vez ",
+      "detail": "Milotic --> Bostezo; sacrificar a Politoed; Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Roserade  ➜ Gengar  +4 0 Velocidad; NO usar Otra Vez ",
+      "detail": "Roserade --> Volcarona +4 ",
+      "variant": []
+    },
+    {
+      "detail": "Milotic --> Cambiar a Slowbro y usar Bostezo frente a Roserade; Volcarona +4",
+      "variant": []
+    },
+    {
+      "detail": "Roserade --> Teletransporte",
+      "variant": []
+    },
+    {
+      "detail": "Movimiento Planta --> Volcarona +4",
+      "variant": []
+    },
+    {
+      "detail": "Movimiento Veneno --> Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
       "variant": []
     }
   ]
-}
+}6
