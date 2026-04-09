@@ -2,23 +2,6 @@
   "id": "kangaskhan",
   "name": "Kangaskhan",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨y mira que ataque usan  ",
-  "tricks": [
-    {
-      "detail": "se queda ➜ Contador ",
-      "variant": []
-    },
-    {
-      "detail": "Haxorus ➜ sacrificar a Chansey ; Jirachi Otra Vez ; Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Dragonite ➜ sacrificar a Chansey ; Jirachi Otra Vez; Chandelure +2 +2 ; si usa Fuerza Bruta  y debilita a Chansey , Gengar  Otra Vez  +4 no velo  + Defensa X ",
-      "variant": []
-    },
-    {
-      "detail": "Puño Drenaje  ➜ sacrificar a uno ; Dragonite danza x3; NO usar Otra Vez ; atacar  hasta la posición de Metagross; usar Poción Máxima  o fortalecer al frente usando Defensa X ",
-      "variant": []
-    }
-  ]
+  "initialMove": "🪨 Trampa Rocas 🪨; cambiar a Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6",
+  "tricks": []
 }
