@@ -2,46 +2,49 @@
   "id": "mismagius",
   "name": "Mismagius",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨",
+  "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Feraligatr ➜ usar Contador y Contraataque",
-      "variant": []
+      "detail": "Si se queda --> Teletransporte",
+      "variant": [
+        {
+          "detail": "Si se mantiene --> Volcarona absorbe; cambiar a Chansey y usar Teletransporte; Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Feraligatr --> Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Cambio de Politoed a Houndoom --> Esperar a que caiga; Poliwrath usa Ataque X y barre",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "Garchomp ➜ cambiar a Jirachi usar Otra Vez; Gallade +4 +2 ",
-      "variant": []
+      "detail": "Feraligatr --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6",
+      "variant": [
+        {
+          "detail": "Cambio de Politoed a Houndoom --> Esperar a que caiga; Poliwrath usa Ataque X y barre",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "Hippowdon ➜ Chandelure +2 +2",
-      "variant": []
+      "detail": "Excadrill --> Teletransporte; enviar a Slowbro y usar Bostezo",
+      "variant": [
+        {
+          "detail": "Si se queda --> Teletransporte; Volcarona +1; barrer hasta Houndoom; luego usar Danza Aleteo una vez y barrer completo",
+          "variant": []
+        },
+        {
+          "detail": "Mismagius --> Volcarona +1 frente a Houndoom; luego usar Danza Aleteo una vez y barrer completo",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "Primeape / Luxray ➜ Gengar usar Otra Vez; cambiar a Jirachi; Hydreigon y Houndoom pañuelo ",
-      "variant": []
-    },
-    {
-      "detail": "Hydreigon ➜ cambiar a Chandelure +2 +2",
-      "variant": []
-    },
-    {
-      "detail": "Houndoom ➜ usar Otra Vez; Chandelure +2 +2; no usar Otra Vez",
-      "variant": []
-    },
-    {
-      "detail": "Sin Otra Vez para correr directo a Hydreigon ➜ cambiar a Chansey usar Pantalla de Luz; frente a Flareon; Chandelure +2 +2 corre a Houndoom y sigue fortaleciendo, no hay amenaza",
-      "variant": []
-    },
-    {
-      "detail": "Excadrill ➜ usar Contador ; (Cinta Elegida Hippowdon) ",
-      "variant": []
-    },
-    {
-      "detail": "Hippowdon lento ➜ Gengar +4 +2 cinta elegida ",
-      "variant": []
-    },
-    {
-      "detail": "Quedarse con Rayo ➜ abrir Pantalla de Luz; cambiar a Jirachi usar Rayo; frente a Tierra usar Otra Vez; Gallade  +4 +2",
+      "detail": "Primeape --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6",
       "variant": []
     }
   ]
