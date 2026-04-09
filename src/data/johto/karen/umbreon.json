@@ -2,11 +2,16 @@
   "id": "umbreon",
   "name": "Umbreon",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨",
+  "initialMove": "🪨 Trampa Rocas 🪨; si usa Juego Sucio y se queda, usar 🥚Amortiguador🥚",
   "tricks": [
     {
-      "detail": "Se queda Usa Contador Sale Feraligart usa contador Sale Garchomp cambia a jirachi otra vez Gallade +4 + 2 ",
-      "variant": []
+      "detail": "Feraligatr --> Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
+      "variant": [
+        {
+          "detail": "Cambio de Politoed a Houndoom --> Esperar a que caiga; Poliwrath usa Ataque X y barre",
+          "variant": []
+        }
+      ]
     }
   ]
 }
