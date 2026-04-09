@@ -2,34 +2,10 @@
   "id": "salamence",
   "name": "Salamence",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨",
+  "initialMove": "🪨 Trampa Rocas 🪨 frente a Absol; Volcarona +2 🔔(aguantar el Persecución de Absol; límite extremo Crítico 50%)🔔",
   "tricks": [
     {
-      "detail": "Absol ➜ cambiar a Gengar  usar Otra Vez ; cambiar a Jirachi",
-      "variant": []
-    },
-    {
-      "detail": "Houndoom ➜ cambiar a Chandelure +2 +2  Pañuelo elegido",
-      "variant": []
-    },
-    {
-      "detail": "Quagsire ➜ cambiar a Gallade usar Otra Vez +4 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Cambio a Gengar frente a Houndoom / Gengar usa Otra Vez frente a Houndoom ➜ cambiar a Chansey  y luego a Jirachi",
-      "variant": []
-    },
-    {
-      "detail": "Absol ➜ Jirachi usa Otra Vez; cambiar a Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Salamence ➜ Jirachi usa Otra Vez; cambiar a Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Houndoom ➜ cambiar a Chandelure +2 +2 ",
+      "detail": "Usar Danza Aleteo una vez y barrer hasta Houndoom --> Luego usar Danza Aleteo otra vez (Total +2) y barrer ",
       "variant": []
     }
   ]
