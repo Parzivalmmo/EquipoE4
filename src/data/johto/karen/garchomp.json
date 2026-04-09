@@ -2,11 +2,6 @@
   "id": "garchomp",
   "name": "Garchomp",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨 (Banda Focus Mismaguis)",
-  "tricks": [
-    {
-      "detail": "Terremoto  ➜ cambiar a Jirachi usar Otra Vez ; cambiar a Gallade  +4 +2  priorizar velocidad",
-      "variant": []
-    }
-  ]
+  "initialMove": "🪨 Trampa Rocas 🪨; Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6 🐸",
+  "tricks": []
 }
