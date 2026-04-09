@@ -157,8 +157,8 @@ export default function PokemonGuide() {
            
             
           </p>
-          <p className="text-gray-400 mb-4">Ruta recomendada: 
-          <span className="mr-2 pl-2 text-blue-400">Teselia → Hoenn(casa) → Sinnoh(casa) → Kanto(casa) → Johto</span>
+          <p className="text-gray-400 mb-4">Ruta recomendada (x4 E4 + GYM): 
+          <span className="mr-2 pl-2 text-blue-400">Teselia → Sinnoh(casa) → Kanto(casa) → Johto(casa) → Hoenn</span>
           </p>          
         </div>
 
@@ -177,12 +177,12 @@ export default function PokemonGuide() {
             </button>
             {showTips && (
               <ul className="list-disc text-left max-w-2xl mx-auto pl-6 text-gray-300 animate-in slide-in-from-top duration-300">
-                <li>EQUIPO NECESARIO PARA LA GUIA: <a href="https://imgur.com/jDkRW8k" target="_blank" rel="noreferrer" className="text-blue-400 hover:text-blue-600 transition-colors"> 👉 VER 👈 </a></li>
+                <li>EQUIPO NECESARIO PARA LA GUIA: <a href="https://pokepast.es/38eb5d1bdb25b35e" target="_blank" rel="noreferrer" className="text-blue-400 hover:text-blue-600 transition-colors"> 👉 VER 👈 </a></li>
                 <li className="mb-2">Completa cada Liga de cada región 5 veces antes de emplear esta guía; solo así llegarás al nivel 100 y los pasos serán precisos.</li>
                 <li className="mb-2">Las estrategias presuponen que el equipo está correctamente configurado (objetos, EV/IV y salud al 100 % tras cada combate).</li>
                 <li className="mb">Usar equipos "económicos" o distintos a los recomendados puede generar resultados imprecisos.</li>
                 <li className="mb">Si encuentras algún error o tienes sugerencias, por favor, reporta en el canal de Discord. 👉 <a href="https://discord.gg/SDCx66c5AM" target="_blank" rel="noreferrer" className="text-blue-400 hover:text-blue-600 transition-colors">DISCORD 👈</a></li>
-                <li className="mb">Al bloquear con CLOYSTER, usar contra GENGAR(Surf) y LUCARIO,HOUNDOOM, SHARPEDO(Carambano)</li>
+                <li className="mb">Este equipo está diseñado para hacer 4 Ligas (E4), la ruta que indicamos es para hacer las 4 ligas + iniciar ruta de farmear GYM. (Opcionalmente).</li>
               </ul>
             )}
         </div>
