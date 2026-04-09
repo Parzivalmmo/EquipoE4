@@ -2,10 +2,10 @@
   "id": "electrode",
   "name": "Electrode",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨 Pantalla luz cambia a gallade +4 +2 ",
+  "initialMove": "🪨 Trampa Rocas 🪨; Teletransporte; Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
   "tricks": [
     {
-      "detail": "Mismagius con Banda Focus ➜ usar Espada Santa ; atacar ); Garchomp queda paralizado ; recuperar toda la salud )",
+      "detail": "Si Slowbro está paralizado y no puede usar Bostezo --> Cambiar a Chansey, recuperar vida al máximo y repetir la operación",
       "variant": []
     }
   ]
