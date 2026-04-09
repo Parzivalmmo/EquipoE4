@@ -2,20 +2,64 @@
   "id": "bronzong",
   "name": "Bronzong",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
-    {"detail": "NIDOQUEEN, saca a Excadrill 6+2", "variant": []},
-    {"detail": "GIRO BOLA, usa Trampa Rocas. Cambiará a Nidoking y tu cambia a Excadrill 4+0", "variant": []},
-    {"detail": "TERREMOTO, cambia a Excadrill 6+2 y luego Trampa Rocas", "variant": []},
-    {"detail": "SLOWBRO, cambia a Chandelure ya que el cambiara a Dragonite, utiliza Poder Oculto para bajarle vida y luego cambia a Excadrill 6+2",
-    "variant": [
-        {"detail": "Si Slowbro cambia a Lucario utiliza Truco con Chandelure para encerrar en Roca Afilada / Triturar, luego cambia a Scrafty +2"},
-        {"detail": "Si cambia a Lapras o Slowbro se queda, cambia a Poliwrath 6+2 (Slowbro muere de 2 TERREMOTOS) (Usar A BOCAJARRO contra Bronzong)", "variant": []}
-    ]},
-    {"detail": "DRAGONITE, saca a Chandelure y utiliza Poder Oculto para ver que hace:", "variant": [
-        {"detail": "Si entra Lapras cambia a Poliwrath 6 + 2"},
-        {"detail": "Si entra Lucario cambia a Scrafty para cambiar a Chandelure inmediatamente utiliza Truco para encerrar en Roca Afilada o Triturar, vuelve Scrafty +2", "variant": []}
-    ]},
-    {"detail": "LUCARIO, Chandelure utiliza Truco para luego cambiar a Scrafty +3", "variant": []}
+    {
+      "detail": "Si se queda --> Ver movimiento",
+      "variant": []
+    },
+    {
+      "detail": "Giro Bola --> Cambiar a Volcarona; usar Especial X y barrer; 🔔si está quemado bronzong puedes usar Danza Aleteo x2 y 🔔usar ataques súper efectivos🔔",
+      "variant": []
+    },
+    {
+      "detail": "Autodestrucción frente a Chansey --> Sacrificar a Politoed; Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Cabezazo Zen / Terremoto --> Cambiar a Slowbro y usar Bostezo frente a Nidoking; sacrificar a Politoed; Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Si usa Autodestrucción y sale Nidoking --> Chansey usa Amortiguador para curar al máximo",
+      "variant": []
+    },
+    {
+      "detail": "Si se queda --> Teletransporte; Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Chansey --> Sacrificar a Politoed; Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Hariyama --> Ver objeto",
+      "variant": [
+        {
+          "detail": "Llamasfera --> Cambiar a Slowbro; luego a Gengar +4 +2; barrer con Bola Sombra",
+          "variant": []
+        },
+        {
+          "detail": "Sin Llamasfera --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6 🔔Puño Drenaje a Jynx🔔",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Walrein o Dewgong --> Gengar +2",
+      "variant": []
+    },
+    {
+      "detail": "Si se queda --> Gengar +6",
+      "variant": []
+    },
+    {
+      "detail": "Cambia a Lapras --> Presionar hasta Bronzong; Volcarona +1",
+      "variant": []
+    },
+    {
+      "detail": "Lucario --> Gengar +4 +2; 🔔barrer con Bola Sombra🔔",
+      "variant": []
+    }
   ]
 }
