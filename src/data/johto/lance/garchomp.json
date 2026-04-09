@@ -2,11 +2,6 @@
   "id": "garchomp",
   "name": "Garchomp",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Cambiar a Chandelure y sacrificar en jirachi otra vez Dragonite x3 danza dragon 💡  ",
-  "tricks": [
-    {
-      "detail": "-",
-      "variant": []
-    }
-  ]
-}
+  "initialMove": "💡 Cambiar a Slowbro y usar Bostezo frente a Eelektross; sacrificar a Politoed; Poliwrath +6 💡",
+  "tricks": []
+}    
