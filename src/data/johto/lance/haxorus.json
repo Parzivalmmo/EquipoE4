@@ -2,23 +2,6 @@
   "id": "haxorus",
   "name": "Haxorus",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨",
-  "tricks": [
-    {
-      "detail": "hacer la ruta mas rapido ➜ sacrificar a Chansey ; Gengar  Otra Vez  +4 no velo ; Otra Vez ; y atacar  a (Haxorus con Banda Focus)",
-      "variant": []
-    },
-    {
-      "detail": "Asegurar victoria  ➜ cambiar a Gengar ; usar Bola Sombra ",
-      "variant": []
-    },
-    {
-      "detail": "Dragonite ➜ Jirachi Otra Vez ; Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Permanecer para romper Banda Focus ➜ Jirachi Otra Vez; Gallade +2 +2  o Chandelure +2 +2",
-      "variant": []
-    }
-  ]
+  "initialMove": "Cambiar a Gengar para sacrificar con Bola Sombra; Slowbro usa Bostezo frente a Scizor; sacrificar a Politoed; Poliwrath +6",
+  "tricks": []
 }
