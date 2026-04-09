@@ -2,30 +2,50 @@
   "id": "lapras",
   "name": "Lapras",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨 (Lapras Se queda Usa Amortiguador)",
+  "initialMove": "🪨 Trampa Rocas 🪨 (Si Lapras se queda, usa Amortiguador)",
   "tricks": [
     {
-      "detail": "Lucario ➜ cambiar a Gengar  para observar movimiento ",
+      "detail": "Lucario --> Cambiar a Gengar para ver el movimiento",
       "variant": []
     },
     {
-      "detail": "Patada Salto Alta ➜ Gengar (ghost) +2 0 Velocidad ; NO usar Otra Vez (pañuelo elegido)",
+      "detail": "A Bocajarro --> Gengar +4; Bola Sombra a todo",
+      "variant": [
+        
+      ]
+    },
+    {
+      "detail": "Patada Salto Alta --> Opción para resolver",
       "variant": []
     },
     {
-      "detail": "A Bocajarro (close combat) ➜ Gengar (ghost) Otra Vez  +4 0 Velocidad  cambiar a  Altaria; continuar con Maquinación",
+      "detail": "Arriesgar --> Maquinación y barrer directamente; aleatorio contra Lapras",
       "variant": []
     },
     {
-      "detail": "Eelektross / Pillar ➜ Gengar  Otra Vez  +4 +2 ",
+      "detail": "Seguro --> Cambiar a Slowbro, luego a Chansey y volver a Gengar",
       "variant": []
     },
     {
-      "detail": "Metagross ➜ cambiar a Chandelure para debilitar; frente a Flygon, cambiar a Dragonite  y luego a Jirachi Otra Vez ; Gallade +2 +2 ; (si Chandelure tiene PS bajos  puede cambiar directamente a Jirachi Otra Vez (",
+      "detail": "Haxorus --> Gengar +2; presionar hasta Lucario; sacrificar a Politoed; Poliwrath +6; ",
       "variant": []
     },
     {
-      "detail": "Haxorus ➜ Amortiguador ; Gengar  Otra Vez  +4 no velo ",
+      "detail": "Lucario --> Sacrificar a Politoed; Poliwrath +6; Absorbefuego a Ampharos",
+      "variant": [
+        
+      ]
+    },
+    {
+      "detail": "Haxorus --> Gengar +2; presionar hasta Lucario; sacrificar a Politoed; Poliwrath +6; ",
+      "variant": []
+    },
+    {
+      "detail": "Metagross --> Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Eelektross / Regice --> Slowbro usa Bostezo frente a Nidoking; sacrificar a Politoed; Poliwrath +6",
       "variant": []
     }
   ]
