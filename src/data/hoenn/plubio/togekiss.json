@@ -2,38 +2,38 @@
   "id": "togekiss",
   "name": "Togekiss",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": " 💡Pantalla luz y mira cuanto daño hace 💡",
+  "initialMove": "💡 Teletransporte 💡",
   "tricks": [
     {
-      "detail": "Esfera Aural  24% ➜ Chandelure +2 +2; primero usar Ataque Especial X  (Gafas Togekiss",
+      "detail": "Fallo al cambiar --> Ver daño; si no hay golpe, ver Roserade con Vidasfera para confirmar equipo",
       "variant": []
     },
     {
-      "detail": "Sale Empoleon ➜ contador frente a Milotic ; usar Energibola; sacrificara Chansey ; usar Trampa Rocas ; Dragonite usa Defensa Especial X  +2",
+      "detail": "Golpe a Chansey (menos del 15%) --> Enviar a Slowbro; aguantar con +x SpDef; Bostezo frente a Roserade; Teletransporte; Volcarona +4; 🔔mantener PS por encima del 70%🔔",
       "variant": []
     },
     {
-      "detail": "Esfera Aural  < 20% o fallo de Tajo Aéreo  10% ➜ cambiar a Jirachi; Rayo ; permanecer con Protección",
+      "detail": "Golpe a Chansey (más del 15%) --> Enviar a Slowbro; aguantar con +x SpDef; Bostezo frente a Roserade; Teletransporte; Volcarona +1 +x especial ",
       "variant": []
     },
     {
-      "detail": "Roserade ➜ Chandelure +2 +2 ; (pañuelo elegido)",
+      "detail": "Poder Oculto --> Ver daño",
       "variant": []
     },
     {
-      "detail": "Cambiar a Jirachi frente a Ludicolo ➜ Jirachi Otra Vez ; Dragonite Danza Dragón +2 ",
+      "detail": "Golpe a Chansey (menos del 20%) --> Gengar usa Otra Vez; cambiar a Slowbro frente a Milotic; usar Bostezo",
       "variant": []
     },
     {
-      "detail": "Se queda  ➜ Jirachi Protección ; para observar habilidad ",
+      "detail": "Poder Oculto Eléctrico --> Sacrificar a Politoed; Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Si usa un ataque de fuego  ➜ Otra Vez; Chandelure +2 +2",
+      "detail": "Roserade --> Volcarona +4; 🔔antes de barrer mantener PS por encima del 70%🔔",
       "variant": []
     },
     {
-      "detail": "Fallo al cambiar ➜ curar hasta más de 2/3  Otra Vez  al fuego Chandelure +2 +2 ",
+      "detail": "Golpe a Chansey (más del 20%) --> Enviar a Slowbro; usar Bostezo frente a Roserade; Teletransporte; Volcarona +1 +x especial; ",
       "variant": []
     }
   ]
