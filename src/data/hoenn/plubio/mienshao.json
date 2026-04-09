@@ -2,15 +2,6 @@
   "id": "mienshao",
   "name": "Mienshao",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Cambia a Gengar y atacar ",
-  "tricks": [
-    {
-      "detail": "Registeel ➜ cambiar a Chansey ; cambiar a Jirachi",
-      "variant": []
-    },
-    {
-      "detail": "Eelektross ➜ Rayo ; Otra Vez  ; Chandelure +2 +2; Eelektross es más lento que Jirachi ",
-      "variant": []
-    }
-  ]
+  "initialMove": "🔔🐸Cambiar a Slowbro y usar Bostezo frente a Serperior; Teletransporte; Volcarona +2🐸🔔",
+  "tricks": []
 }
