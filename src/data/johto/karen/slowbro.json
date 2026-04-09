@@ -2,31 +2,50 @@
   "id": "slowbro",
   "name": "Slowbro",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨",
+  "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Escaldar ➜ usar Amortiguador ",
+      "detail": "Puño Drenaje  --> Volcarona +2",
       "variant": []
     },
     {
-      "detail": "Excadrill ➜ cambiar a Dragonite y luego a Jirachi usar Otra Vez ; cambiar a Gallade +2 +2 ",
-      "variant": []
+      "detail": "Excadrill --> Ver objeto",
+      "variant": [
+        {
+          "detail": "Globo Helio --> Encanto; Amortiguador frente a Tyranitar; cambiar a Poliwrath para matar  Tyranitar",
+          "variant": []
+        },
+        {
+          "detail": "Sin Globo Helio --> Teletransporte; enviar a Slowbro y usar Bostezo",
+          "variant": [
+            {
+              "detail": "Si se queda --> Teletransporte; Volcarona +1; barrer hasta Houndoom; luego usar Danza Aleteo una vez y barrer completo",
+              "variant": []
+            },
+            {
+              "detail": "Mismagius --> Volcarona +1 frente a Houndoom; luego usar Danza Aleteo una vez y barrer completo",
+              "variant": []
+            }
+          ]
+        }
+      ]
     },
     {
-      "detail": "Puño Drenaje ➜ cambiar a Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Tyranitar ➜ usar Contador ",
-      "variant": []
-    },
-    {
-      "detail": "Excadrill ➜ cambiar a Dragonite y luego a Jirachi usar Otra Vez; cambiar a Gallade +2 +2 (22)",
-      "variant": []
-    },
-    {
-      "detail": "Excadrill Vidasfera Rompemoldes ➜ cambiar a Dragonite y luego a Jirachi usar Otra Vez; Danza Dragón +4 o Slowbro correrá; Dragonite usa Terremoto o Vileplume ; Priorizar velocidad: Gallade +4 +2 ",
-      "variant": []
+      "detail": "Tyranitar --> Cambiar a Poliwrath para matar a tyranitar ",
+      "variant": [
+        {
+          "detail": "Gyarados --> Volcarona +1 + Especial X; barrer hasta Houndoom; ignorar amenaza; 🔔Psíquico a Gyarados🔔",
+          "variant": []
+        },
+        {
+          "detail": "Victreebel --> Volcarona +1 + Especial X; si recibe veneno se elimina; 🔔Psíquico a Gyarados🔔",
+          "variant": []
+        },
+        {
+          "detail": "Excadrill --> Full Gigadrenado hasta matarlo ",
+          "variant": []
+        }
+      ]
     }
   ]
 }
