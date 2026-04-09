@@ -2,18 +2,14 @@
   "id": "lapras",
   "name": "Lapras",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨",
+  "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Frente a Tyranitar ➜ Contador ; debilitar ; frente a Metagross, cambiar a Jirachi; usar Protección + Otra Vez ; Chandelure +2 +2 ; aguantar un golpe ",
+      "detail": "Tyranitar --> Cambiar a Poliwrath para matar a tyranitar; cambiar a Chansey y usar Amortiguador; esperar a Metagross; Teletransporte; Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Scizor ➜ Amortiguador ; Dragonite danza x4; NO usar Otra Vez ; cuidado con los PS",
-      "variant": []
-    },
-    {
-      "detail": "Scizor (¿ahorrar en medicina? probando) ➜ Amortiguador  para forzar el cambio del rival; frente a Steelix, cambiar a Gallade Otra Vez  +2 ; ¿asegurar victoria frente a Steelix?",
+      "detail": "Scizor --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6",
       "variant": []
     }
   ]
