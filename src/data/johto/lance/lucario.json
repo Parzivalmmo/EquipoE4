@@ -2,34 +2,22 @@
   "id": "lucario",
   "name": "Lucario",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨",
+  "initialMove": "👻 Cambiar a Gengar 👻",
   "tricks": [
     {
-      "detail": "A Bocajarro  ➜ sacrificar a Chansey ; cambiar a Jirachi Otra Vez; cambiar a Chandelure +2 +2 ; Chansey  no puede poner Trampa Rocas , Jirachi primero pone Trampa Rocas y luego usa Otra Vez ",
+      "detail": "A Bocajarro --> Gengar usa Otra Vez; cambiar a Slowbro y usar Bostezo frente a Flygon; cambiar a Chansey y usar 🪨 Trampa Rocas 🪨; Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Arcanine ➜ Chandelure +2 +2 ; (pañuelo elegido)",
+      "detail": "Infernape --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Infernape ➜ abrir Pantalla de Luz  y sacrificar ; cambiar a Jirachi Otra Vez ; Chandelure +2 +2 ",
+      "detail": "Arcanine --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6 🔔puño drenaje a Lucario y Ampharos🔔",
       "variant": []
     },
     {
-      "detail": "Frente a Feraligatr ➜ usar Amortiguador  para observar el movimiento ",
-      "variant": []
-    },
-    {
-      "detail": "Cascada  ➜ Contador ",
-      "variant": []
-    },
-    {
-      "detail": " (infernape/primeape) ➜ sacrificar a Jirachi; Otra Vez; Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Fuerza Bruta  ➜ usar Amortiguador  para forzar el cambio del rival; frente a Arcanine, Chandelure +2 +2 ; (pañuelo elegido)",
+      "detail": "Feraligatr --> Sacrificar a Gengar con Bola Sombra; Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6; 🔔usar Puño Drenaje  para mantener salud🔔",
       "variant": []
     }
   ]
