@@ -2,18 +2,14 @@
   "id": "seviper",
   "name": "Seviper",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨",
+  "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Metagross ➜ cambiar a Jirachi; cambiar a Gallade Otra Vez  +2 +2  ",
+      "detail": "Metagross --> Cambiar a Slowbro y usar Bostezo frente a Lapras; sacrificar a Politoed; Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Gallade ➜ cambiar a Gengar  Otra Vez  +6  +2  ; Otra Vez atacar( Gallade Banda Focus ",
-      "variant": []
-    },
-    {
-      "detail": "Krookodile  ➜ Dragonite Danza Dragón +3 ; NO usar Otra Vez ",
+      "detail": "Gallade--> Cambiar a Slowbro y usar Bostezo frente a Empoleon; sacrificar a Politoed; Poliwrath +6",
       "variant": []
     }
   ]
