@@ -2,24 +2,19 @@
   "id": "darmanitan",
   "name": "Darmanitan",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡",
+  "initialMove": "💡 Varias Opciones Mira Abajo 💡",
   "tricks": [
     {
-      "detail": "Varias Opciones",
-      "variant": [
-        {
-          "detail": "Ahorro $? → Volcarona +3",
-          "variant": []
-        },
-        {
-          "detail": "Estable → Slowbro, Bostezo → Politoed (sacrificar), Poliwrath +6",
-          "variant": []
-        },
-        {
-          "detail": "RNG → Politoed (sacrificar), Poliwrath +6",
-          "variant": []
-        }
-      ]
+      "detail": "Asegurar --> Volcarona +3",
+      "variant": []
+    },
+    {
+      "detail": "Estable --> Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Arriesgar  --> Sacrificar a Politoed; Poliwrath +6",
+      "variant": []
     }
   ]
 }
