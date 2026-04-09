@@ -47,6 +47,31 @@
       "variant": []
     },
     {
+      "detail": "Eelektross --> 🪨 Trampa Rocas 🪨; Gengar usa Otra Vez; cambiar Slowbro a Milotic / Swampert; Bostezo y Escaldar; mantener el Bostezo",
+      "variant": [
+        {
+          "detail": "Poder Oculto Eléctrico --> Sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Serperior --> Protección y Bostezo frente a Eelektross; sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Altaria --> Chansey saca a Eelektross; Teletransporte; Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Eelektross --> Sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Gardevoir --> Sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        }
+      ]
+    },
+    {
       "detail": "Gardevoir --> Teletransporte; enviar a Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6",
       "variant": []
     },
@@ -95,7 +120,7 @@
           "variant": []
         },
         {
-          "detail": "Roserade --> Teletransporte; Slowbro usa Bostezo; Teletransporte; Volcarona +1 +x SpA; dos veces contra Milotic",
+          "detail": "Roserade --> Teletransporte; Slowbro usa Bostezo; Teletransporte; Volcarona +1 + Especial X; dos veces contra Milotic",
           "variant": []
         }
       ]
