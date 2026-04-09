@@ -25,10 +25,10 @@
           "variant": []
         },
         {
-          "detail": "No tiene vidaesfera → Teletransporte → Gengar, Otra Vez, +2 +2 +2 precisión X.",
+          "detail": "",
           "variant": [
             {
-              "detail": "Si Vidasfera  → Teletransporte → Gengar, Otra Vez, +2 +2 +2 precisión X.",
+              "detail": "Sin Vidasfera  → Teletransporte → Gengar, Otra Vez, +2 +2 +2 precisión X.",
               "variant": []
             }
           ]
