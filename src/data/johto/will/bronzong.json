@@ -1,24 +1,23 @@
 {
-    "id": "bronzong",
-    "name": "Bronzong",
-    "image": "/placeholder.svg?height=80&width=80",
-    "initialMove": "🥚 Amortiguador 🥚",
-   "tricks": [
+  "id": "bronzong",
+  "name": "Bronzong",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🥚 Amortiguador 🥚",
+  "tricks": [
     {
-      "detail": "Flareon ➜ Gengar, Otra Vez, +2",
-      "variant": [
-          {
-              "detail": "Se queda → Derrótalo, sale Absol → Politoed (sacrificar), Poliwrath +6.",
-              "variant": []
-          },
-          {
-              "detail": "Sale Bronzong → Politoed (sacrificar), Poliwrath +6. (cascada a Bronzong). ",
-              "variant": []
-          }
-      ]
+      "detail": "Absol --> Gengar +4 + Precisión (No usar Otra Vez)",
+      "variant": []
     },
     {
-      "detail": "Absol ➜ Gengar, +4 +2 precisión X. (No es necesario Otra Vez)",
+      "detail": "Flareon --> Gengar +2",
+      "variant": []
+    },
+    {
+      "detail": "Si se queda --> Usar bola sombra frente a Absol; sacrificar a Politoed; Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Cambia a Bronzong --> Sacrificar a Politoed; Poliwrath +6; usar 🔔 Cascada contra Bronzong🔔 ",
       "variant": []
     }
   ]
