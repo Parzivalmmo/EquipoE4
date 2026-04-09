@@ -2,99 +2,58 @@
   "id": "dragonite",
   "name": "Dragonite",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨",
+  "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "(Infernape) ➜ abrir Pantalla de Luz  y sacrificar ; cambiar a Jirachi Otra Vez ; Chandelure +2 +2 ",
+      "detail": "Si se queda --> Cambiar a Slowbro y usar Bostezo",
+      "variant": [
+        {
+          "detail": "Scizor --> Sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Flygon --> Protección; Bostezo; sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Eelektross --> Teletransporte o sacrificar a Politoed; Gengar usa Maquinación y barre completo",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Scizor --> Teletransporte; evaluar daño",
+      "variant": [
+        {
+          "detail": "Si el daño es ~60% --> Enviar a Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Si el daño es ~90% --> Volcarona +1 + Especial X; mantener PS por encima del 51%",
+          "variant": [
+            {
+              "detail": "Si Volcarona cae por Crítico --> Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "Tyranitar --> Cambiar a Poliwrath para matar a tyra; cambiar a Chansey y usar Amortiguador; esperar a Metagross; Teletransporte; Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Arcanine ➜ cambiar a Gengar ; cambiar a Jirachi",
+      "detail": "Infernape --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Hydreigon ➜ Jirachi Otra Vez ; cambiar a Chandelure +2 +2; para asegurar estabilidad primero cambiar a Dragonite y luego a Jirachi",
+      "detail": "Arcanine --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Steelix ➜ Dragonite Otra Vez  + Danza Dragón x3; Danza Dragón x2 contra Steelix o Scizor aleatorio; con Danza Dragón +1 + Ataque X, Dragonite puede debilitar ",
-      "variant": []
-    },
-    {
-      "detail": "Dragonite ➜ observar objeto ",
-      "variant": []
-    },
-    {
-      "detail": "Restos (Leftover) ➜ Jirachi Otra Vez ; Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Sin Restos / Gema Dragón  ➜ cambiar a Chansey ; usar Amortiguador ",
-      "variant": []
-    },
-    {
-      "detail": "Arcanine ➜ Chandelure +2 +2 ; el rival queda encerrado",
-      "variant": []
-    },
-    {
-      "detail": "Scizor ➜ Chansey pone Trampa Rocas ; observar daño",
-      "variant": []
-    },
-    {
-      "detail": "Daño 90% ➜ sacrificar a Chansey ; Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Daño 60% ➜ Danza Dragón +1; observar objeto; si hay golpe crítico , curar ",
-      "variant": []
-    },
-    {
-      "detail": "(Salamence con globo) ➜ Dragonite danza x4; NO usar Otra Vez ; puede ser +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Sin globo ➜ Dragonite danza x2; NO usar Otra Vez ",
-      "variant": []
-    },
-    {
-      "detail": "Golpe crítico y determinar que no es equipo ➜ Dragonite Danza Dragón +2 +2; NO usar Otra Vez ",
-      "variant": []
-    },
-    {
-      "detail": "Fuerza Bruta ➜ observar daño",
-      "variant": []
-    },
-    {
-      "detail": "Cinta elegida  golpea a Chansey 90% ➜ Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Si Chansey cae ➜ enviar a Jirachi para poner Trampa Rocas; Chandelure +2 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Daño 50% ➜ cambiar a Gengar  cambiar a Jirachi Otra Vez  a Fuerza Bruta; Chandelure +2 +2 ; si el daño fue 90% por crítico, usar Chandelure +2 +2  + Poción Máxima directamente",
-      "variant": []
-    },
-    {
-      "detail": "Tyranitar ➜ usar Contador  para debilitar a Tyranitar ; sacrificar a Chansey ",
-      "variant": []
-    },
-    {
-      "detail": "Metagross ➜ cambiar a Jirachi; usar Protección + Otra Vez ; Chandelure +2 +2 ; resistir un golpe ",
-      "variant": []
-    },
-    {
-      "detail": "Ampharos ➜ Gengar +2 no velo ",
-      "variant": []
-    },
-    {
-      "detail": "Permanecer ante Garra Dragón  ➜ cambiar a Jirachi; Rayo  + Otra Vez ; Chandelure +2 +2",
-      "variant": []
-    },
-    {
-      "detail": "Sale Gyarados ➜ Jirachi Rayo ; frente a Garchomp usar Otra Vez ; Dragonite Danza Dragón x3",
+      "detail": "Feraligatr --> Encanto; Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
       "variant": []
     }
   ]
-}
+}  
