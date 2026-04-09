@@ -2,15 +2,7 @@
   "id": "venomoth",
   "name": "Venomoth",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Cambia a Chandelure Frente a Scizor lanzallamas y cambia a jirachi",
-  "tricks": [
-    {
-      "detail": "Crobat ➜ Jirachi usa Otra Vez ; cambiar a Chandelure +2 +2; probar Rayo frente a Stunfisk; Dragonite usa Danza Dragón x2",
-      "variant": []
-    },
-    {
-      "detail": "Floatzel ➜ recibir Rayo frente a Stunfisk; Dragonite usa Otra Vez manual + Danza Dragón x2",
-      "variant": []
-    }
-  ]
+  "initialMove": "Cambiar de Volcarona a Scizor; Volcarona +1 x Especial 🔔 Si el Crítico debilita a  volcarona  cambiar a Politoed y Poliwrath +6 🔔",
+  "tricks": []
 }
+  
