@@ -2,18 +2,14 @@
   "id": "weavile",
   "name": "Weavile",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨",
+  "initialMove": "🥚 Amortiguador 🥚 para recibir el golpe de hielo; 🪨 Trampa Rocas 🪨 frente a Excadrill; Teletransporte y enviar a Slowbro para usar Bostezo",
   "tricks": [
     {
-      "detail": "Quedarse ➜ usar Amortiguador ; quedarse para usar Contador",
+      "detail": "Si se queda --> Teletransporte; Volcarona +1; barrer hasta Houndoom; luego usar Danza Aleteo una vez y barrer completo",
       "variant": []
     },
     {
-      "detail": "Slowbro ➜ cambiar a Gengar +6 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Excadrill ➜ usar Contador hasta debilitar; frente a Slowbro cambiar a Chandelure +2 +2 (Slow cinta elegida)",
+      "detail": "Mismagius --> Volcarona +1 frente a Houndoom; luego usar Danza Aleteo una vez y barrer completo",
       "variant": []
     }
   ]
