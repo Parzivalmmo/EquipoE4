@@ -6,19 +6,20 @@
   "tricks": [
     {
       "detail": "Intimidación --> Amortiguador",
-      "variant": []
-    },
-    {
-      "detail": "Feraligatr --> Trampa Rocas; cambiar a Slowbro y usar Bostezo frente a Sceptile; Volcarona +3 🔔 PS por encima del 75% 🔔",
-      "variant": []
-    },
-    {
-      "detail": "Gallade/Roserade --> Gengar +4 +2 + Precisión + Otra Vez",
-      "variant": []
-    },
-    {
-      "detail": "Eelektross / Regice --> Gengar +4 +2 🔔 Bola Sombra a todo 🔔",
-      "variant": []
+      "variant": [
+        {
+          "detail": "Feraligatr --> Trampa Rocas; cambiar a Slowbro y usar Bostezo frente a Sceptile; Volcarona +3 🔔 PS por encima del 75% 🔔",
+          "variant": []
+        },
+        {
+          "detail": "Gallade --> Gengar +4 +2 + Precisión + Otra Vez",
+          "variant": []
+        },
+        {
+          "detail": "Eelektross / Regice --> Gengar +4 +2 🔔 Bola Sombra a todo 🔔",
+          "variant": []
+        }
+      ]
     },
     {
       "detail": "Sin Intimidación --> Trampa Rocas",
@@ -49,10 +50,8 @@
       "variant": []
     },
     {
-      "detail": "Lucario --> Sacrificar a Politoed; Poliwrath +6; ",
-      "variant": [
-        
-      ]
+      "detail": "Lucario --> Sacrificar a Politoed; Poliwrath +6",
+      "variant": []
     },
     {
       "detail": "Metagross --> Cambiar a Slowbro y usar Bostezo frente a Lapras; sacrificar a Politoed; Poliwrath +6 🔔 Si Metagross se queda, igual 🔔",
