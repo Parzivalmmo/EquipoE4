@@ -2,79 +2,123 @@
   "id": "houndoom",
   "name": "Houndoom",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨 Usar Amortiguador ",
+  "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Rhyperior ➜ cambiar a Dragonite usar Otra Vez y Danza Dragón x4",
+      "detail": "Si se queda --> Ver objeto; si falla, usar Amortiguador",
+      "variant": [
+        {
+          "detail": "Vidasfera --> Teletransporte; enviar a Slowbro y usar Bostezo",
+          "variant": [
+            {
+              "detail": "Si se queda --> Sacrificar a Politoed; Poliwrath +6",
+              "variant": []
+            },
+            {
+              "detail": "Leafeon --> Volcarona +1 + Especial X",
+              "variant": []
+            },
+            {
+              "detail": "Gyarados --> Protección; usar Bostezo frente a Leafeon; Volcarona +1 + Especial X",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "Sin Vidasfera --> Usar Amortiguador y esperar el cambio",
+          "variant": [
+            {
+              "detail": "Honchkrow --> Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "Tyranitar --> Cambiar a Poliwrath para matarlo ",
+      "variant": [
+        {
+          "detail": "Gyarados --> Volcarona +1 + Especial X; Psíquico a Gyarados; corre hasta Houndoom; ignorar amenaza",
+          "variant": []
+        },
+        {
+          "detail": "Victreebel --> Volcarona +1 + Especial X; si recibe veneno se elimina; Psíquico a Gyarados",
+          "variant": []
+        },
+        {
+          "detail": "Excadrill --> Gigadrenado hasta matarlo ",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Excadrill --> Ver objeto",
+      "variant": [
+        {
+          "detail": "Globo Helio --> Encanto; Amortiguador frente a Tyranitar; cambiar a Poliwrath para matar a tyra ",
+          "variant": [
+            {
+              "detail": "Gyarados --> Volcarona +1 + Especial X; Psíquico a Gyarados; corre hasta Houndoom; ignorar amenaza",
+              "variant": []
+            },
+            {
+              "detail": "Victreebel --> Volcarona +1 + Especial X; si recibe veneno se elimina; 🔔Psíquico a Gyarados🔔",
+              "variant": []
+            },
+            {
+              "detail": "Excadrill --> Gigadrenado hasta matarlo ",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "Sin Globo Helio --> Cambiar a Slowbro y usar Bostezo",
+          "variant": [
+            {
+              "detail": "Si se queda --> Teletransporte; Volcarona +1; barrer hasta Houndoom; luego usar Danza Aleteo una vez y barrer completo",
+              "variant": []
+            },
+            {
+              "detail": "Mismagius --> Volcarona +1 frente a Houndoom; luego usar Danza Aleteo una vez y barrer completo",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "Rhyperior --> Encanto; cambiar a Slowbro",
+      "variant": [
+        {
+          "detail": "Si se queda --> Bostezo frente a Leafeon; Volcarona +1 + Especial X",
+          "variant": []
+        },
+        {
+          "detail": "Leafeon --> Volcarona +1 + Especial X",
+          "variant": []
+        },
+        {
+          "detail": "Gyarados --> Bostezo; Protección; Bostezo frente a Leafeon; Volcarona +1 + Especial X",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Leafeon --> Volcarona +1 + Especial X",
       "variant": []
     },
     {
-      "detail": "Frente a Gallade  ➜ cambiar a Gengar  usar Otra Vez +2",
+      "detail": "Primeape --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Rhyperior ➜ cambiar a Gallade  usar Otra Vez +4 +2 Efecto Espora flor no arriesgar ; Chandelure y ataca ",
+      "detail": "Absol --> Volcarona +2",
       "variant": []
     },
     {
-      "detail": "Absol ➜ cambiar a Gengar  y cambiar a Jirachi; frente a Houndoom (pañuelo); Chandelure +2 +2; si Gengar  recibe Persecución  cambiar a Jirachi usar Rayo  frente a perro de fuego ",
-      "variant": []
-    },
-    {
-      "detail": "Hippowdon  ➜ Chandelure +2 +2Gengar (ghost) +4 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Excadrill ➜ ver objeto ",
-      "variant": []
-    },
-    {
-      "detail": "Sin Globo Helio  ➜ cambiar a Dragonite y cambiar a Jirachi; Otra Vez; cambiar a Dragonite usar Danza Dragón x4; ",
-      "variant": []
-    },
-    {
-      "detail": "Con Globo Helio  ➜ cambiar a Dragonite y cambiar a Jirachi; Otra Vez; cambiar a Gallade +4 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Cambio de Dragonite a Tyranitar ➜ cambiar a Jirachi usar Protección  y Otra Vez; Dragonite +2? prueba de nivel de fuerza (en Testeo)",
-      "variant": []
-    },
-    {
-      "detail": "Garchomp ➜ cambiar a Dragonite y cambiar a Jirachi; Otra Vez; Gallade +4 +2 ",
-      "variant": []
-    },
-    {
-      "detail": "Mismagius ➜ Gengar usar Otra Vez; cambiar a Gallade para debilitar a Umbreon",
-      "variant": []
-    },
-    {
-      "detail": "Garchomp ➜ Jirachi usar Otra Vez; Dragonite usa Danza Dragón x2",
-      "variant": []
-    },
-    {
-      "detail": "Houndoom ➜ Chandelure +2 +2",
-      "variant": []
-    },
-    {
-      "detail": "Honchkrow  ➜ Gengar  usar Otra Vez +6 no velo ",
-      "variant": []
-    },
-    {
-      "detail": "Lanzallamas quedarse  ➜ usar Amortiguador  abrir Pantalla de Luz",
-      "variant": []
-    },
-    {
-      "detail": "Frente a Feraligatr ➜ usar Contador ; cambiar a Dragonite y cambiar a Jirachi; Otra Vez; Gallade +4 +2 )",
-      "variant": []
-    },
-    {
-      "detail": "Excadrill ➜ cambiar a Dragonite y cambiar a Jirachi; Otra Vez; si tiene Globo Helio  Gallade +4 +2 ; si tiene Vidasfera  Dragonite usar Danza Dragón x4",
-      "variant": []
-    },
-    {
-      "detail": "Tyranitar ➜ frente a Excadrill; cambiar a Dragonite y cambiar a Jirachi; Otra Vez; Gallade +2 +2",
+      "detail": "Gallade / Roserade --> Gengar usa Otra Vez; Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
       "variant": []
     }
   ]
-}
+} 
