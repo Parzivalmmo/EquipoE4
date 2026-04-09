@@ -2,10 +2,18 @@
   "id": "tyranitar",
   "name": "Tyranitar",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨",
+  "initialMove": "🪨 Trampa Rocas 🪨; cambiar a Poliwrath para matar a tyranitar",
   "tricks": [
     {
-      "detail":  " Se Queda con Triturar usar contador Si sale Excadrill saca a Dragonite luego jirachi otra vez gallade +4 +2   ",
+      "detail": "Gyarados --> Volcarona +1 + Especial X; barrer hasta Houndoom; ignorar amenaza; 🔔Psíquico a Gyarados🔔",
+      "variant": []
+    },
+    {
+      "detail": "Victreebel --> Volcarona +1 + Especial X; si recibe veneno se elimina; 🔔Psíquico a Gyarados🔔",
+      "variant": []
+    },
+    {
+      "detail": "Excadrill --> Gigadrenado hasta matarlo ",
       "variant": []
     }
   ]
