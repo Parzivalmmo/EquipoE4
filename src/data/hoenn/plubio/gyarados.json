@@ -2,15 +2,6 @@
   "id": "gyarados",
   "name": "Gyarados",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Pantalla luz💡 ",
-  "tricks": [
-    {
-      "detail": "Eelektross ➜ Jirachi Rayo  + Otra Vez ; Chandelure +2 +2 ; si Jirachi recibe golpe crítico y cae , ver instrucciones de abajo",
-      "variant": []
-    },
-    {
-      "detail": "Jirachi golpe crítico  ➜ Dragonite Otra Vez Ataque tipo fuego ; Danza Dragón +1  + ataque x ; (quemadura eliminada y ataca)",
-      "variant": []
-    }
-  ]
+  "initialMove": "💡 Amortiguador frente a Eelektross; Gengar usa Otra Vez; cambiar a Slowbro y usar Bostezo frente a Altaria; cambiar a Chansey y esperar a Eelektross; Teletransporte; Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6 💡",
+  "tricks": []
 }
