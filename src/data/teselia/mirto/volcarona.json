@@ -5,11 +5,11 @@
   "initialMove": "🪨 TRAMPA ROCAS 🪨",
   "tricks": [
     {
-      "detail": "Si se queda --> Sacrificar a Gengar; Slowbro usa Bostezo, sacrificar a Politoed y entrar con Poliwrath +6",
+      "detail": "Si se queda --> Sacrificar a Gengar; Slowbro usa Bostezo, sacrificar a Politoed y entrar con Poliwrath +6 🔔(Puño drenaje contra Volcarona)🔔",
       "variant": []
     },
     {
-      "detail": "Conkeldurr --> Slowbro usa Bostezo al enfrentar a Volcarona; sacrificar a Politoed y entrar con Poliwrath +6",
+      "detail": "Conkeldurr --> Slowbro usa Bostezo al enfrentar a Volcarona; sacrificar a Politoed y entrar con Poliwrath +6 🔔(Puño drenaje contra Volcarona)🔔",
       "variant": []
     },
     {
@@ -27,19 +27,19 @@
               "variant": []
             }
           ]
-        }
-      ]
+        },
+        {   
+           "detail": "Volcarona --> Sacrificar a Politoed y entrar con Poliwrath +6+2 🔔(Puño drenaje contra Volcarona)🔔",
+           "variant": []
+        }  
+      ] 
     },
     {
-      "detail": "Volcarona --> Sacrificar a Politoed y entrar con Poliwrath +6+2 🔔Poliwrath absorbe el ataque de Volcarona🔔",
+      "detail": "Escavalier/Magcargo --> Slowbro usa Bostezo al enfrentar a Volcarona; sacrificar a Politoed y entrar con Poliwrath +6 🔔(Puño drenaje contra Volcarona)🔔",
       "variant": []
     },
     {
-      "detail": "Escavalier--> Slowbro usa Bostezo al enfrentar a Volcarona; sacrificar a Politoed y entrar con Poliwrath +6",
-      "variant": []
-    },
-    {
-      "detail": "Lucario --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed y entrar con Poliwrath +6 🔔Poliwrath absorbe el ataque de Volcarona / Usar Cascada contra Reuniclus / Volcarona despierta no es amenaza🔔",
+      "detail": "Lucario --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed y entrar con Poliwrath +6 🔔Puño drenaje contra Volcarona / Usar Cascada contra Reuniclus / Volcarona despierta no es amenaza🔔",
       "variant": []
     },
     {
