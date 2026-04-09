@@ -2,11 +2,6 @@
   "id": "dragonite",
   "name": "Dragonite",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💕 ENCANTO, SACRIFICA AL SAPITO Y ENTRA POLIWARTH +6 💕",
-  "tricks": [
-    {
-      "detail": "⚠️Testear ➜ Cambia a Wailord....⚠️",
-      "variant": []
-    }
-  ]
+  "initialMove": "💕🐸 Encanto; sacrificar a Politoed; Poliwrath +6 🐸💕",
+  "tricks": []
 }
