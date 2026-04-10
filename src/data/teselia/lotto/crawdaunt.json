@@ -2,41 +2,45 @@
   "id": "crawdaunt",
   "name": "Crawdaunt",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Entra Gengar💡",
+  "initialMove": "💡Cambia a Gengar💡",
   "tricks": [
     {
-      "detail": "A bocajarro --> Gengar  Otra Vez +4 y usar Bola Sombra porque tiene banda focus ",
+      "detail": "A bocajarro --> Gengar +4 y Otra Vez, usa Bola Sombra 🔔(Mira tu Situacion)🔔",
       "variant": [
         {
-          "detail": "Si despues sale Salamence cambia a slowbro bostezo sacrifica a politoed . Poliwrath +6 (salamece tiene pañuelo) ",
+          "detail": "La banda se rompe --> Tirale otra Bola sombra",
           "variant": []
         },
         {
-          "detail": "Mienshao --> Continuar presionando; ",
+          "detail": "Mienshao --> Continuar presionando; 🔔(Mienshao tiene banda Focus no te preocupes)🔔",
           "variant": [
             {
-              "detail": "Crítico --> Sacrificar a Politoed; Slowbro usa Bostezo ante Salamence; usar Teletransporte para entrar con Poliwrath +6",
+              "detail": "💀Crítico💀 --> Sacrificar a Politoed; Slowbro usa Bostezo ante Salamence; usar Teletransporte para entrar con Poliwrath +6",
               "variant": []
             }
           ]
         },
         {
-          "detail": "Gliscor / Gyarados --> Continuar presionando hasta Magnezone; Chansey usa Amortiguador para atraer al tipo lucha; Gengar +6",
+          "detail": "Gliscor / Gyarados --> Continuar presionando hasta Magnezone; Cambia a Chansey y usa Amortiguador para atraer al tipo lucha; Gengar +6",
           "variant": []
         }
       ]
     },
     {
       "detail": "Medicham --> Slowbro usa Bostezo",
-      "variant": []
-    },
-    {
-      "detail": "Magnezone --> Protección y Bostezo; sacrificar a Politoed y entrar con Poliwrath +6",
-      "variant": []
-    },
-    {
-      "detail": "Crawdaunt --> Sacrificar a Politoed y entrar con Poliwrath +6",
-      "variant": []
+      "variant": [
+        {
+          "detail": "Magnezone --> Protección y Bostezo; sacrificar a Politoed y entrar con Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Crawdaunt --> Sacrificar a Politoed y entrar con Poliwrath +6",
+          "variant": []
+        }
+      ]
     }
   ]
 }
+
+    
+    
