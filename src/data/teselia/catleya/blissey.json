@@ -2,7 +2,7 @@
   "id": "blissey",
   "name": "Blissey",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Frente a Absol --> Cambiar a Slowbro Frente a Nidoking/Queen --> Cambiar a Volcarona y usar el movimiento según veas la situación",
+  "initialMove": "Cambia a Slowbro, sale Absol --> Cambiar a Slowbro Frente a Nidoking/Queen --> Cambiar a Volcarona y usar el movimiento según veas la situación",
   "tricks": [
     {
       "detail": "Si se queda --> Usar Psíquico hasta caer debilitado frente a Blissey; luego usar Danza Aleteo dos veces",
