@@ -181,7 +181,7 @@ export default function PokemonGuide() {
             </button>
             {showTips && (
               <ul className="list-disc text-left max-w-2xl mx-auto pl-6 text-gray-300 animate-in slide-in-from-top duration-300">
-                <li>EQUIPO NECESARIO PARA LA GUIA: <a href="https://pokepast.es/38eb5d1bdb25b35e" target="_blank" rel="noreferrer" className="text-blue-400 hover:text-blue-600 transition-colors"> 👉 VER 👈 </a></li>
+                <li>EQUIPO NECESARIO PARA LA GUIA: <a href="https://pokepast.es/e356ee22f26cf6dc" target="_blank" rel="noreferrer" className="text-blue-400 hover:text-blue-600 transition-colors"> 👉 VER 👈 </a></li>
                 <li className="mb-2">Completa cada Liga de cada región 5 veces antes de emplear esta guía; solo así llegarás al nivel 100 y los pasos serán precisos.</li>
                 <li className="mb-2">Las estrategias presuponen que el equipo está correctamente configurado (objetos, EV/IV y salud al 100 % tras cada combate).</li>
                 <li className="mb">Usar equipos "económicos" o distintos a los recomendados puede generar resultados imprecisos.</li>
