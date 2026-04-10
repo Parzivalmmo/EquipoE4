@@ -5,15 +5,15 @@
   "initialMove": "🥚 Amortiguador 🥚",
   "tricks": [
     {
-      "detail": "Golurk ➜ Gengar, Otra Vez, +4 +2 precisión X.",
+      "detail": "Golurk ➜ Gengar ➜ Otra Vez ➜ +4 +2 usar precisión X.",
       "variant": []
     },
     {
-      "detail": "Lucario ➜ Gengar, Otra Vez, +2 +2 +2 precisión X. (Lucario Banda Focus).",
+      "detail": "Lucario ➜ Gengar ➜ Otra Vez ➜ +2 +2 Usar precision x  (Lucario Banda Focus).",
       "variant": []
     },
     {
-      "detail": "Se queda → Slowbro, Bostezo → Politoed (sacrificar), Poliwrath +6.",
+      "detail": "Se queda → Slowbro ➜ Bostezo → Politoed (sacrificar), Poliwrath +6.",
       "variant": []
     }
   ]
