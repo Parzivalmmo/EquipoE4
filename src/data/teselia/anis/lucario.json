@@ -2,19 +2,20 @@
   "id": "lucario",
   "name": "Lucario",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨",
+  "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
       "detail": "A bocajarro --> revisar el estado de salud de Chansey.",
-      "variant": []
-    },
-    {
-      "detail": "PS bajos --> usar Teletransporte para sacrificar; Slowbro  usa Bostezo ; sacrificar a Politoed , entrar con Poliwrath +6).",
-      "variant": []
-    },
-    {
-      "detail": "Debilitado --> Slowbro  usa Bostezo ; sacrificar a Politoed , entrar con Poliwrath +6.",
-      "variant": []
+      "variant": [
+        {
+          "detail": "PS bajos --> usar Teletransporte para sacrificar; Slowbro  usa Bostezo ; sacrificar a Politoed , entrar con Poliwrath +6.",
+          "variant": []
+        },
+        {
+          "detail": "Debilitado --> Slowbro  usa Bostezo ; sacrificar a Politoed , entrar con Poliwrath +6.",
+          "variant": []
+        }
+      ]
     },
     {
       "detail": "Dragonite --> cambiar a Slowbro y usar Bostezo; sacrificar a Politoed, entrar con Poliwrath +6 🔔Puño H a Froslass Cascada Dragonite🔔.",
@@ -26,11 +27,12 @@
     },
     {
       "detail": "Hydreigon --> Gengar +6 +2 🔔Purugly onda certera🔔",
-      "variant": []
-    },
-    {
-      "detail": "Ida y Vuelta activa Cuerpo Maldito --> Gengar  usa Otra Vez , cambiar a Poliwrath para matarlo",
-      "variant": []
+      "variant": [
+        {
+          "detail": "Ida y Vuelta activa Cuerpo Maldito --> Gengar  usa Otra Vez , cambiar a Poliwrath para matarlo",
+          "variant": []
+        }
+      ]
     }
   ]
 }
