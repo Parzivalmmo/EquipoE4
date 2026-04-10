@@ -66,28 +66,29 @@
           ]
         },
         {
-          "detail": "Ninetales --> Usar Protección y Bostezo al enfrentar a Absol; sacrificar a Politoed; entrar con Poliwrath +6",
-          "variant": []
-        },
-        {
-          "detail": "Espada Santa vs Gengar rápido --> Entrar con Gengar +2 +2 + Precisión (No usar Otra Vez)",
-          "variant": []
-        },
-        {
-          "detail": "Otra Vez contra Golpe Bajo --> Sacrificar a Politoed; entrar con Poliwrath +6",
-          "variant": []
-        },
-        {
-          "detail": "Protección --> Gengar usa Maquinación y atacar hasta debilitar al enfrentar a Raichu; entrar con Chansey y usar Trampa Rocas al enfrentar a Absol; entrar con Gengar +4 +2",
-          "variant": []
-        },
-        {
-          "detail": "Cambio a Dragonite --> Cambiar a Slowbro y usar Bostezo al enfrentar a Raichu; sacrificar a Politoed; entrar con Poliwrath +6",
-          "variant": []
-        },
-        {
-          "detail": "Segundo Gallade o Roserade --> Sacrificar a Politoed; enviar a Chansey; entrar con Gengar +6 y usar Bola Sombra a todos",
-          "variant": []
+          "detail": "Ninetales --> Usar Protección y Bostezo al enfrentar a Absol; sacrificar a Politoed;",
+          "variant": [
+            {
+              "detail": "Espada Santa vs Gengar rápido --> Entrar con Gengar +2 +2 + Precisión (No usar Otra Vez)",
+              "variant": []
+            },
+            {
+              "detail": "Otra Vez contra Golpe Bajo --> Sacrificar a Politoed; entrar con Poliwrath +6",
+              "variant": []
+            },
+            {
+              "detail": "Protección --> Gengar usa Maquinación y atacar hasta debilitar al enfrentar a Raichu; entrar con Chansey y usar Trampa Rocas al enfrentar a Absol; entrar con Gengar +4 +2",
+              "variant": []
+            },
+            {
+              "detail": "Cambio a Dragonite --> Cambiar a Slowbro y usar Bostezo al enfrentar a Raichu; sacrificar a Politoed; entrar con Poliwrath +6",
+              "variant": []
+            },
+            {
+              "detail": "Segundo Gallade o Roserade --> Sacrificar a Politoed; enviar a Chansey; entrar con Gengar +6 y usar Bola Sombra a todos",
+              "variant": []
+            }
+          ]
         }
       ]
     }
