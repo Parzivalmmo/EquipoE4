@@ -2,10 +2,10 @@
   "id": "absol",
   "name": "Absol",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Gengar otra vez y maquinación si Hydreigon entra , cambiar a Chansey Trampa Rocas frente a Luxray, Gengar +6 +2",
+  "initialMove": "Gengar otra vez y maquinación, cambiar a Chansey Trampa Rocas frente a Luxray, Gengar, Otra Vez, +6 +2 (Usar Otra Vez cada que puedas)",
   "tricks": [
     {
-      "detail": "Absol no cambia ➡ Gengar +4 +2",
+      "detail": "Absol no cambia ➡ Gengar, Otra Vez, +4 +2 (Usar Otra Vez cada que puedas)",
       "variant": []
     },
     {
