@@ -9,32 +9,35 @@
       "variant": []
     },
     {
-      "detail": "Vidasfera +x Atk --> Teletransporte; Volcarona usa Danza Aleteo frente a Flygon; Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
-      "variant": []
-    },
-    {
-      "detail": "Otras situaciones --> Slowbro usa Bostezo",
-      "variant": []
-    },
-    {
-      "detail": "Lapras / Nidoking --> Sacrificar a Politoed; Poliwrath +6",
-      "variant": []
-    },
-    {
-      "detail": "Salamence --> Protección y Bostezo frente a Nidoking; sacrificar a Politoed; Poliwrath +6",
-      "variant": []
+      "detail": "Vidasfera + se sube Atk --> Teletransporte; Volcarona usa Danza Aleteo frente a Flygon; Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
+      "variant": [
+        {
+          "detail": "Otras situaciones --> Slowbro usa Bostezo",
+          "variant": [
+            {
+              "detail": "Lapras / Nidoking --> Sacrificar a Politoed; Poliwrath +6",
+              "variant": []
+            },
+            {
+              "detail": "Salamence --> Protección y Bostezo frente a Nidoking; sacrificar a Politoed; Poliwrath +6",
+              "variant": []
+            }
+          ]
+        }
+      ]
     },
     {
       "detail": "Eelektross / Regice --> Cambiar a Slowbro y usar Bostezo",
-      "variant": []
-    },
-    {
-      "detail": "Nidoking --> Sacrificar a Politoed; Poliwrath +6",
-      "variant": []
-    },
-    {
-      "detail": "Salamence --> Protección y Bostezo frente a Nidoking; sacrificar a Politoed; Poliwrath +6",
-      "variant": []
+      "variant": [
+        {
+          "detail": "Nidoking --> Sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Salamence --> Protección y Bostezo frente a Nidoking; sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        }
+      ]
     },
     {
       "detail": "Lucario --> Gengar +4; 🔔 Bola Sombra a todo🔔 ",
