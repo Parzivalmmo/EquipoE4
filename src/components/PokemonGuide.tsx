@@ -137,7 +137,7 @@ export default function PokemonGuide() {
       <div className="container mx-auto px-4 py-8">
         {/* Header */}
         <div className="text-center mb-8">
-          <h1 className="text-4xl font-bold mb-2">Farm Liga PokeMMO</h1>
+          <h1 className="text-4xl font-bold mb-2">FARM LIGA PokeMMO</h1>
           <p className="text-blue-400 font-bold mb-4">
             <span className="mr-2"></span>
             
