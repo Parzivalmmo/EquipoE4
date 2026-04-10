@@ -5,22 +5,22 @@
   "initialMove": "💡Cambia a Poliwrath y puño drenaje al rival💡",
   "tricks": [
     {
-      "detail": "Seismitoad / Skarmory --> Cambiar a Chansey y usar 🪨Trampa Rocas🪨 al enfrentar a Conkeldurr; Gengar usa Otra Vez, cambiar a Volcarona ante Seismitoad; Volcarona x1 Danza aleteo x especial",
+      "detail": "Seismitoad / Skarmory --> Cambiar a Chansey y usar 🪨Trampa Rocas🪨 al enfrentar a Conkeldurr; Gengar usa Otra Vez, cambiar a Volcarona ante Seismitoad; 💊Volcarona +1 y especial X💊",
       "variant": []
     },
     {
-      "detail": "Conkeldurr --> Gengar usa Otra Vez, cambiar a Chansey y usar 🪨Trampa Rocas🪨 (ver arriba)",
+      "detail": "Conkeldurr --> Gengar usa Otra Vez, cambiar a Chansey y usar 🪨Trampa Rocas🪨 (⬆️Ver arriba⬆️)",
       "variant": []
     },
     {
-      "detail": "Dusknoir --> Cambiar a Volcarona, luego a Chansey y usar 🪨Trampa Rocas🪨 🔔Si la rana no tiene PS, cúrate al máximo🔔",
+      "detail": "Dusknoir --> Cambiar a Volcarona, luego a Chansey y usar 🪨Trampa Rocas🪨 🔔(Si la rana no tiene PS, cúrate al máximo)🔔",
       "variant": [
         {
-          "detail": "Quedarse --> Sacrificar a Politoed y entrar con Poliwrath +6",
+          "detail": "Si se querda --> Sacrificar a Politoed y entrar con Poliwrath +6",
           "variant": []
         },
         {
-          "detail": "Conkeldurr --> Gengar usa Otra Vez, cambiar a Volcarona ante Seismitoad; Volcarona x1 danza aleteo x especial",
+          "detail": "Conkeldurr --> Gengar usa Otra Vez, cambiar a Volcarona ante Seismitoad; 💊Volcarona +1 y especial X💊 ",
           "variant": []
         }
       ]
