@@ -42,11 +42,11 @@
     "detail": "Lucario → Teletransporte → Mira el item",
     "variant": [
      {
-      "detail": "Vidaesfera → Gengar, Otra Vez, +4 +2 precisión X.",
+      "detail": "Vidaesfera → Gengar, Otra Vez, +4 +2 precisión X. (Otra Vez cada que puedas)",
       "variant": []
      },
      {
-      "detail": "Sin Vidaesfera → Gengar, Otra Vez, +2 +2 +2 precisión X.",
+      "detail": "Sin Vidaesfera → Gengar, Otra Vez, +2 +2 +2 precisión X. (Otra Vez cada que puedas)",
       "variant": []
      },
      {
@@ -56,7 +56,7 @@
     ]
    },
    {
-    "detail": "Electivire → Gengar, Otra Vez, +2 +2 Precisión X.",
+    "detail": "Electivire → Gengar, Otra Vez, +2 +2 Precisión X. (Otra Vez cada que puedas)",
     "variant": []
    }
   ]
