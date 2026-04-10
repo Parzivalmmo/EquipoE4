@@ -2,10 +2,10 @@
   "id": "absol",
   "name": "Absol",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Gengar otra vez y maquinación, cambiar a Chansey Trampa Rocas frente a Luxray, Gengar, Otra Vez, +6 +2 (Usar Otra Vez cada que puedas)",
+  "initialMove": "👻Gengar otra vez y maquinación, luego mata a Absol, frente a Hydreigon cambia a Chansey y usa Trampa rocas, frente a Luxray, Gengar usa Otra Vez +2",
   "tricks": [
     {
-      "detail": "Absol no cambia ➡ Gengar, Otra Vez, +4 +2 (Usar Otra Vez cada que puedas)",
+      "detail": "Absol no cambia ➡ Termina de Bostear a Gengar +4 +2 🔔(Barre con Bola Sombra)🔔",
       "variant": []
     },
     {
