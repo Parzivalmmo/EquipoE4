@@ -5,31 +5,31 @@
   "initialMove": "🪨Coloca Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Demolición --> Sacrificar a Politoed y entrar con Poliwrath +6",
+      "detail": "Demolición ➜ Sacrificar a Politoed y entrar con Poliwrath +6 🐸",
       "variant": []
     },
     {
-      "detail": "Aggron --> Cambiar a Poliwrath, y rematalo  ",
+      "detail": "Aggron ➜ Cambiar a 🐸 Poliwrath, y rematalo  ",
       "variant": []
     },
     {
-      "detail": "Seismitoad / Skarmory --> Cambiar a Chansey y usar Amortiguador ante Conkeldurr; Gengar usa Otra Vez, cambiar a Volcarona ante Seismitoad; Volcarona +1 x especial 🔔si es crítico, ver nota de Seismitoad🔔",
+      "detail": "Seismitoad / Skarmory --> Cambiar a Chansey y usar Amortiguador ante Conkeldurr ➜ Gengar usa Otra Vez, cambiar a Volcarona ante Seismitoad ➜ Volcarona usa Expecial X 🔔si es crítico, ver nota de Seismitoad🔔",
       "variant": []
     },
     {
-      "detail": "Conkeldurr --> Gengar usa Otra Vez, cambiar a Volcarona ante Seismitoad; Volcarona +1 x ataque 🔔si es crítico, ver nota de Seismitoad🔔",
+      "detail": "Conkeldurr ➜ Gengar usa Otra Vez, cambiar a Volcarona ante Seismitoad ➜ Volcarona Usa Expecial X 🔔si es crítico, ver nota de Seismitoad🔔",
       "variant": []
     },
     {
-      "detail": "Dusknoir --> Sacrificar a Politoed y entrar con Poliwrath +6",
+      "detail": "Dusknoir ➜ Sacrificar a Politoed y entrar con Poliwrath +6 🐸",
       "variant": []
     },
     {
-      "detail": "Breloom --> Gengar +4 y precisión",
+      "detail": "Breloom ➜ Gengar +4 y precisión X ",
       "variant": []
     },
     {
-      "detail": "si cambia a Conkeldurr --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed y entrar con Poliwrath +6",
+      "detail": "si cambia a Conkeldurr ➜ Cambiar a Slowbro y usar Bostezo ➜ sacrificar a Politoed y entrar con Poliwrath +6 🐸",
       "variant": []
     }
   ]
