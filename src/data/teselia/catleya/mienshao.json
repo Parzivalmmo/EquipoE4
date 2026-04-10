@@ -2,7 +2,7 @@
   "id": "mienshao",
   "name": "Mienshao",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "👻Gengar Otra Vez y mira abajo👻",
+  "initialMove": "👻Gengar Otra Vez si usa patada salto mira abajo👻",
   "tricks": [
     {
       "detail": "Gengar primer Otra Vez --> Maquinación y esperar a que se debilite solo; ver quién entra:",
@@ -30,7 +30,7 @@
       ]
     },
     {
-      "detail": "Mienshao primer Patada --> Cambiar a Slowbro  y usar Bostezo al enfrentar a Jolteon; sacrificar a Politoed y entrar con Poliwrath +6 🔔Cascada a Reuniclus🔔",
+      "detail": "Mienshao usa Patada salto  --> Cambiar a Slowbro  y usar Bostezo al enfrentar a Jolteon; sacrificar a Politoed y entrar con Poliwrath +6 🔔Cascada a Reuniclus🔔",
       "variant": []
     }
   ]
