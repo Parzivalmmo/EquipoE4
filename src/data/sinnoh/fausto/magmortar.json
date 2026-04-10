@@ -23,16 +23,16 @@
         {
           "detail": "Si se queda --> Gengar  +4 + Precisión ",
           "variant": []
+        },
+        {
+          "detail": "Salamence --> Atacar hasta debilitar al enfrentar a Steelix; sacrificar a Politoed entrar con Poliwrath  usar Ataque X y presionar 🔔 Cascada a Steelix / Conkeldurr restante con Puño Drenaje  🔔",
+          "variant": []
+        },
+        {
+          "detail": "Ludicolo --> Cambiar a Slowbro  y usar Bostezo  sacrificar a Politoed entrar con Poliwrath +6",
+          "variant": []
         }
       ]
-    },
-    {
-      "detail": "Salamence --> Atacar hasta debilitar al enfrentar a Steelix; sacrificar a Politoed entrar con Poliwrath  usar Ataque X y presionar 🔔 Cascada a Steelix / Conkeldurr restante con Puño Drenaje  🔔",
-      "variant": []
-    },
-    {
-      "detail": "Ludicolo --> Cambiar a Slowbro  y usar Bostezo  sacrificar a Politoed entrar con Poliwrath +6",
-      "variant": []
     },
     {
       "detail": "Medicham --> Usar Teletransporte ",
@@ -47,17 +47,18 @@
         },
         {
           "detail": "Si no acierta el golpe  --> Cambiar a Slowbro  y usar Bostezo ",
-          "variant": []
+          "variant": [
+            {
+              "detail": "Cacturne  --> Volcarona  +3 🔔 puede usar Especial X 🔔",
+              "variant": []
+            },
+            {
+              "detail": "Magmortar --> Cambiar a Chansey  y usar Amortiguador al enfrentar a Medicham; Gengar  +2 ante suicidio o frente a Bronzong  Volcarona  +1 si se queda o si sale Houndoom; usar Especial X y presionar para completar",
+              "variant": []
+            }
+          ]
         }
       ]
-    },
-    {
-      "detail": "Cacturne  --> Volcarona  +3 🔔 puede usar Especial X 🔔",
-      "variant": []
-    },
-    {
-      "detail": "Magmortar --> Cambiar a Chansey  y usar Amortiguador al enfrentar a Medicham; Gengar  +2 ante suicidio o frente a Bronzong  Volcarona  +1 si se queda o si sale Houndoom; usar Especial X y presionar para completar",
-      "variant": []
     },
     {
       "detail": "Blaziken / Arcanine --> Cambiar a Slowbro  y usar Bostezo  al enfrentar a Cacturne sacrificar a Politoed  entrar con Poliwrath  +6",
@@ -73,35 +74,38 @@
     },
     {
       "detail": "Bouffalant --> Gengar  usa Maquinación  al enfrentar a Dragonite; atacar hasta debilitar",
-      "variant": []
-    },
-    {
-      "detail": "Magmortar --> Sacrificar a Politoed  entrar con Poliwrath +6",
-      "variant": []
-    },
-    {
-      "detail": "Steelix --> Cambiar a Slowbro  y usar Bostezo sacrificar a Politoed  entrar con Poliwrath  +6",
-      "variant": []
-    },
-    {
-      "detail": "Arriesgado  --> Sacrificar directamente a Politoed  entrar con Poliwrath  +6",
-      "variant": []
-    },
-    {
-      "detail": "Cacturne --> Usar Trampa Rocas para recibir Esfuerzo ; usar Amortiguador ",
-      "variant": []
-    },
-    {
-      "detail": "Lopunny / Medicham --> Cambiar a Slowbro  y usar Bostezo al enfrentar a Cacturne entrar con Volcarona +3 🔔 puede usar Especial X y Gigadrenado a Steelix 🔔",
-      "variant": []
-    },
-    {
-      "detail": "Magmortar --> Gengar +2 y presionar hasta Steelix; cambiar a Slowbro  y usar Bostezo  al enfrentar a Cacturne  Volcarona  +3 🔔 Gigadrenado a Steelix, puede usar Especial X 🔔",
-      "variant": []
+      "variant": [
+        {
+          "detail": "Magmortar --> Sacrificar a Politoed  entrar con Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Steelix --> Cambiar a Slowbro  y usar Bostezo sacrificar a Politoed  entrar con Poliwrath  +6",
+          "variant": [
+            {
+              "detail": "Arriesgado  --> Sacrificar directamente a Politoed  entrar con Poliwrath  +6",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "Cacturne --> Usar Trampa Rocas para recibir Esfuerzo ; usar Amortiguador ",
+          "variant": [
+            {
+              "detail": "Lopunny / Medicham --> Cambiar a Slowbro  y usar Bostezo al enfrentar a Cacturne entrar con Volcarona +3 🔔 puede usar Especial X y Gigadrenado a Steelix 🔔",
+              "variant": []
+            },
+            {
+              "detail": "Magmortar --> Gengar +2 y presionar hasta Steelix; cambiar a Slowbro  y usar Bostezo  al enfrentar a Cacturne  Volcarona  +3 🔔 Gigadrenado a Steelix, puede usar Especial X 🔔",
+              "variant": []
+            }
+          ]
+        }
+      ]
     },
     {
       "detail": "Camerupt --> Usar Amortiguador  y esperar a Bouffalant; ver estrategia de Bouffalant",
       "variant": []
     }
   ]
-}  
+}
