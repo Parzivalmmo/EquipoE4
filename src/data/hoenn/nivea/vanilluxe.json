@@ -2,6 +2,11 @@
   "id": "vanilluxe",
   "name": "Vanilluxe",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🥚 Amortiguador 🥚 frente a Gallade; Gengar, Otra Vez, +2 +2 + Precisión 🔔 Onda Certera a Empoleon, Walrein o Dewgong 🔔",
-  "tricks": []
+  "initialMove": "🥚 Amortiguador 🥚",
+  "tricks": [
+    {
+      "detail": "frente a Gallade; Gengar, Otra Vez, +4 +2 + Precisión (Usa Otra Vez cada que puedas) 🔔 Onda Certera a Empoleon, Walrein o Dewgong 🔔".,
+      "variant": []
+    }
+  ]
 }
