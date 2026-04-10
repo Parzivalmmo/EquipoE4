@@ -27,83 +27,83 @@
               "variant": []
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "detail": "Sin Vidasfera --> Usar Teletransporte",
+      "variant": [
         {
-          "detail": "Sin Vidasfera --> Usar Teletransporte",
+          "detail": "Tajo Umbrío --> Chansey recibe golpe crítico; usar Máx. Poción y luego cambiar a Gengar.",
           "variant": [
             {
-              "detail": "Tajo Umbrío --> Chansey recibe golpe crítico; usar Máx. Poción y luego cambiar a Gengar.",
-              "variant": [
-                {
-                  "detail": "Recibir A Bocajarro --> Gengar usa Otra Vez, +2 + Precisión (ahorro: +6).",
-                  "variant": []
-                }
-              ]
+              "detail": "Recibir A Bocajarro --> Gengar usa Otra Vez, +2 + Precisión (ahorro: +6).",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "Persecución --> Enviar a Chansey, cambiar a Gengar, usar Otra Vez + Bola Sombra; cambiar a Slowbro y usar Bostezo.",
+          "variant": [
+            {
+              "detail": "Se queda --> usar Protección y Bostezo frente a Huntail / Excadrill; sacrificar a Politoed; entrar con Poliwrath +6.",
+              "variant": []
             },
             {
-              "detail": "Persecución --> Enviar a Chansey, cambiar a Gengar, usar Otra Vez + Bola Sombra; cambiar a Slowbro y usar Bostezo.",
-              "variant": [
-                {
-                  "detail": "Se queda --> usar Protección y Bostezo frente a Huntail / Excadrill; sacrificar a Politoed; entrar con Poliwrath +6.",
-                  "variant": []
-                },
-                {
-                  "detail": "Huntail --> sacrificar a Politoed; entrar con Poliwrath +6.",
-                  "variant": []
-                }
-              ]
+              "detail": "Huntail --> sacrificar a Politoed; entrar con Poliwrath +6.",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "Luxray --> Enviar a Chansey y usar Amortiguador.",
+          "variant": [
+            {
+              "detail": "Absol --> Gengar +4 + Precisión (no usar Otra Vez).",
+              "variant": []
             },
             {
-              "detail": "Luxray --> Enviar a Chansey y usar Amortiguador.",
-              "variant": [
-                {
-                  "detail": "Absol --> Gengar +4 + Precisión (no usar Otra Vez).",
-                  "variant": []
-                },
-                {
-                  "detail": "Scizor --> Volcarona +2 + Ataque Especial X.",
-                  "variant": []
-                }
-              ]
+              "detail": "Scizor --> Volcarona +2 + Ataque Especial X.",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "Magnezone --> Enviar a Chansey y usar 🪨Trampa Rocas🪨.",
+          "variant": [
+            {
+              "detail": "Darmanitan --> Gengar +2 + Precisión (no usar Otra Vez); ahorro: Gengar +6.",
+              "variant": []
             },
             {
-              "detail": "Magnezone --> Enviar a Chansey y usar 🪨Trampa Rocas🪨.",
-              "variant": [
-                {
-                  "detail": "Darmanitan --> Gengar +2 + Precisión (no usar Otra Vez); ahorro: Gengar +6.",
-                  "variant": []
-                },
-                {
-                  "detail": "Absol --> Gengar usa Otra Vez, +2 +2 + Precisión.",
-                  "variant": []
-                }
-              ]
+              "detail": "Absol --> Gengar usa Otra Vez, +2 +2 + Precisión.",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "Salamence (Intimidación) --> Enviar a Chansey y usar Amortiguador.",
+          "variant": [
+            {
+              "detail": "Absol --> Gengar +4 + Precisión (no usar Otra Vez).",
+              "variant": []
             },
             {
-              "detail": "Salamence (Intimidación) --> Enviar a Chansey y usar Amortiguador.",
-              "variant": [
-                {
-                  "detail": "Absol --> Gengar +4 + Precisión (no usar Otra Vez).",
-                  "variant": []
-                },
-                {
-                  "detail": "Scizor --> Volcarona +2 + Ataque Especial X.",
-                  "variant": []
-                }
-              ]
+              "detail": "Scizor --> Volcarona +2 + Ataque Especial X.",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "Salamence (sin Intimidación) --> Enviar a Chansey; sacrificar a Politoed; Poliwrath usa Puño Hielo.",
+          "variant": [
+            {
+              "detail": "Shiftry --> Volcarona +2.",
+              "variant": []
             },
             {
-              "detail": "Salamence (sin Intimidación) --> Enviar a Chansey; sacrificar a Politoed; Poliwrath usa Puño Hielo.",
-              "variant": [
-                {
-                  "detail": "Shiftry --> Volcarona +2.",
-                  "variant": []
-                },
-                {
-                  "detail": "Hariyama --> Gengar +4 +2 y Bola Sombra a todo.",
-                  "variant": []
-                }
-              ]
+              "detail": "Hariyama --> Gengar +4 +2 y Bola Sombra a todo.",
+              "variant": []
             }
           ]
         }
