@@ -5,51 +5,51 @@
   "initialMove": "💡 Ver habilidad 💡",
   "tricks": [
     {
-      "detail": "Intimidación --> Trampa Rocas",
+      "detail": "Intimidación ➜ Trampa Rocas",
       "variant": [
         {
-          "detail": "Absol --> Gengar +2 y Bola Sombra a todo",
+          "detail": "Absol ➜ Gengar +2  ⚫ Bola Sombra a todo ⚫",
           "variant": []
         },
         {
-          "detail": "Luxray --> Gengar +4 y Bola Sombra a todo",
+          "detail": "Luxray ➜ Gengar +4  ⚫Bola Sombra a todo⚫",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Sin Intimidación --> Trampa Rocas",
+      "detail": "Sin Intimidación ➜ 🪨TrampaRocas🪨",
       "variant": [
         {
-          "detail": "Acua Cola --> Amortiguador frente a Absol; Gengar +4 y Bola Sombra a todo",
+          "detail": "Acua Cola ➜ Amortiguador frente a Absol ➜ Gengar +4  ⚫Bola Sombra a todo ⚫",
           "variant": []
         },
         {
-          "detail": "Darmanitan --> Gengar +2 + Precisión (No usar Otra Vez); usar movimientos súper eficaces; para ahorrar dinero: Gengar +6",
+          "detail": "Darmanitan ➜ Gengar +2 + Precisión X (No usar Otra Vez) usar movimientos súper eficaces 💰 ahorrar dinero: Gengar +6 💰",
           "variant": []
         },
         {
-          "detail": "Absol --> Cambiar a Slowbro y usar Bostezo",
+          "detail": "Absol ➜ Cambiar a Slowbro y usar Bostezo",
           "variant": []
         },
         {
-          "detail": "Bostezo frente a la fila trasera + Ataque Especial X --> Sacrificar a Politoed; Poliwrath +6",
+          "detail": "Si el Bostezo fuerza la salida de un atacante especial del enemigo ➜ Sacrifica a Politoed y entra con Poliwrath +6 🐸🥊",
           "variant": []
         },
         {
-          "detail": "Tajo Umbrío --> Ver estado de Slowbro",
+          "detail": "Tajo Umbrío ➜ Ver estado de Slowbro",
           "variant": []
         },
         {
-          "detail": "Slowbro vive --> Sacrificar a Politoed; Poliwrath +6; Golpe Bajo no es amenaza",
+          "detail": "Slowbro vive ➜ Sacrificar a Politoed; Poliwrath +6 🐸🥊  ⚠️Golpe Bajo no es amenaza ⚠️",
           "variant": []
         },
         {
-          "detail": "Slowbro se debilita --> Cambiar a Chansey y luego a Gengar +2 +2 + Precisión; para ahorrar dinero: +6 +2",
+          "detail": "Slowbro se debilita ➜ Cambiar a Chansey y luego a Gengar +2 +2 y Precisión X 💰 ahorrar dinero: +6 +2 💰",
           "variant": []
         },
         {
-          "detail": "Luxray --> Amortiguador; esperar a Absol; Gengar +2 + Precisión; para ahorrar dinero: Gengar +6",
+          "detail": "Luxray ➜ Amortiguador ➜ esperar a Absol ➜ Gengar +2 + Precisión X  💰ahorrar dinero: Gengar +6 💰",
           "variant": []
         }
       ]
