@@ -2,10 +2,10 @@
   "id": "beautifly",
   "name": "Beautifly",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Slowbro y usar Bostezo; sacrificar a Politoed y entrar con Poliwrath +6💡",
+  "initialMove": "💡Slowbro y usa Bostezo ➜ sacrifica a Politoed y entra con Poliwrath +6 🐸🥊💡",
   "tricks": [
     {
-      "detail": "🔔Frente a Flygon: usar Protección y Bostezo🔔",
+      "detail": "🔔Frente a Flygon ➜ usar Protección y Bostezo🔔",
       "variant": []
     }
   ]
