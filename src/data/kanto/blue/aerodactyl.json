@@ -2,10 +2,10 @@
   "id": "aerodactyl",
   "name": "Aerodactyl",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Encierra en Terremoto, Saca a Cloyster.+6 (Si cambia saca a Chandelure, Truco y luego saca a Excadrill 4+2",
+      "detail": "Poliwrath --> Usa Teletransporte, 💊entra Gengar Otra Vez 2+2 + Precision X💊 🤑(Si quieres Ahorrar, Gengar 6+2)🤑",
       "variant": []
     }
   ]
