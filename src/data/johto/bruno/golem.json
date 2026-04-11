@@ -2,10 +2,10 @@
   "id": "golem",
   "name": "Golem",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "❤️ Encanto, Trampa rocas 🪨",
+  "initialMove": "❤️ Encanto y Trampa rocas 🪨",
   "tricks": [
     {
-      "detail": "Metagros → Slowbro, Bostezo → Politoed (sacrificar), Poliwrath +6",
+      "detail": "Metagros → Slowbro Bostezo → Sacrifica Politoed ➜ Poliwrath +6",
       "variant": []
     }
   ]
