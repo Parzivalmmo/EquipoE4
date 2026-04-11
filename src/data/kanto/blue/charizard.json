@@ -2,19 +2,14 @@
   "id": "charizard",
   "name": "Charizard",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A CHANDELURE Y OBSERVA",
+  "initialMove": "🪨Trampa Rocas🪨 🔔(Si se queda usa Amortiguador)🔔",
   "tricks": [
     {
-      "detail": "(Envite Ígneo) → Cambiar a Poliwrath para recibir Acróbata (se sacrifica), luego Chandelure usa Truco para bloquear Terremoto, Cloyster con +4 y medicina de ataque especial.",
-      "variant": [
-        {
-          "detail": "Si entra Vaporeon, usa Rompecoraza y sacrificarse, luego Metagross usa Truco para bloquear Golem, Excadrill +6+2.",
-          "variant": []
-        }
-      ]
+      "detail": "Machamp --> Usa Teletransporte y saca a Slowbro, Bostezo frente a Vaporeon, sacrifica a Politoed. entra Poliwrath +6",
+      "variant": []
     },
     {
-      "detail": "(Puño Fuego) → Truco para bloquear Terremoto, Cloyster +6. / Carámbano para matar a Poliwrath.",
+      "detail": "Poliwrath --> Cambia a Slowbro y usa Bostezo frente a Jolteon, Sacrifica a Politoed, entra Poliwrath +6 🔔(Cascada contra Skarmory)🔔",
       "variant": []
     }
   ]
