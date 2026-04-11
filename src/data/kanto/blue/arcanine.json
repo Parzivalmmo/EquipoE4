@@ -2,15 +2,16 @@
   "id": "arcanine",
   "name": "Arcanine",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A CHANDELURE",
+  "initialMove": "👻Cambia a Gengar👻 🚨(Skarmory tiene Banda focus)🚨",
   "tricks": [
     {
-      "detail": "(No se retira) → Usa Truco para bloquear Voltio Cruel, Excadrill 6+2.",
-      "variant": []
-    },
-    {
-      "detail": "(Contra Nidoking) → Cloyster +6.",
-      "variant": []
+      "detail": "Si se queda --> Cambia a Gengar 4+2 🔔(Barrer con Bola sombra)🔔",
+      "variant": [
+        {
+          "detail": "Gengar muere → Envia a Slowbro (Mantenerlo), usa Bostezo frente a Nidoking, sacrificar a Politoed, Poliwrath +6 🔔(Puño drenaje contra Leafeon)🔔",
+          "variant": []
+        }
+      ]
     }
   ]
 }
