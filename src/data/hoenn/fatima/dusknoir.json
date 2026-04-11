@@ -5,17 +5,17 @@
   "initialMove": "💡 Mira Qué Habilidad tiene 💡",
   "tricks": [
     {
-      "detail": "Con Presión ➜ Trampa Rocas; mantener con Amortiguador🥚",
+      "detail": "Con Presión ➜ Trampa Rocas ➜ mantener con Amortiguador🥚",
       "variant": [
         {
-          "detail": "Mawile ➜ Cambiar a Slowbro usar Bostezo; sacrificar a  🐸 Politoed; Poliwrath +6 🥊",
+          "detail": "Mawile ➜ Cambiar a Slowbro usar Bostezo ➜ sacrificar a  🐸 Politoed ➜ Poliwrath +6 🥊",
           "variant": []
         },
         {
           "detail": "Lucario ➜ Cambiar a Gengar para ver movimiento",
           "variant": [
             {
-              "detail": "A Bocajarro ➜ Gengar +2 + Precisión (No usar Otra Vez) 🔔para ahorrar dinero: Gengar +6🔔",
+              "detail": "A Bocajarro ➜ Gengar +2 + Precisión X (No usar Otra Vez) 🔔para ahorrar dinero: Gengar +6🔔",
               "variant": []
             },
             {
@@ -37,11 +37,11 @@
           "variant": []
         },
         {
-          "detail": "Si permanece ➜ Enviar a slowbro y usar Bostezo ➜ sacrificar a Politoed; Poliwrath +6; 🔔Puño Hielo a Froslass🔔",
+          "detail": "Si permanece ➜ Enviar a slowbro y usar Bostezo ➜ sacrificar a Politoed; Poliwrath +6 🔔Puño Hielo a Froslass🔔",
           "variant": []
         },
         {
-          "detail": "Mawile ➜ Enviar a slowbro y usar Bostezo ➜ sacrificar a Politoed; Poliwrath +6 ➜ 🔔Puño Hielo a Froslass; si el Puño Trueno paraliza, usar Cura Total🔔",
+          "detail": "Mawile ➜ Enviar a slowbro y usar Bostezo ➜ sacrificar a Politoed ➜ Poliwrath +6 ➜ 🔔Puño Hielo a Froslass; si el Puño Trueno paraliza, usar Cura Total🔔",
           "variant": []
         }
       ]
