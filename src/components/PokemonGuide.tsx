@@ -138,7 +138,7 @@ export default function PokemonGuide() {
         {/* Header */}
         <div className="text-center mb-8">
           <h1 className="text-4xl font-bold mb-2">FARM LIGA PokeMMO</h1>
-          <p className="text-blue-400 font-bold mb-4">
+          <div className="text-blue-400 font-bold mb-4">
             <span className="mr-2"></span>
             
             <a href="https://youtu.be/qroUOLDMZv8" target="_blank" rel="noreferrer">
@@ -147,6 +147,12 @@ export default function PokemonGuide() {
                 <span className="mr-2 pl-2">Ver tutorial en video</span>
               </span>
             </a> 
+            <div className="flex items-center justify-center gap-2 mt-2">
+              <img className="w-6 h-6" src={`${import.meta.env.BASE_URL}images/IrvingHC.png`} alt="youtube" />
+              <img className="w-6 h-6" src={`${import.meta.env.BASE_URL}images/ParzivalTwitch.png`} alt="discord" />
+              <img className="w-6 h-6" src={`${import.meta.env.BASE_URL}images/ItachiSuka.png`} alt="twitch" />
+            </div>
+            
             <span className="mr-2">|</span>
             <a href="https://discord.gg/SDCx66c5AM" target="_blank" rel="noreferrer">
               <span className="inline-flex items-center text-blue-400 hover:text-blue-600 transition-colors">
@@ -156,7 +162,7 @@ export default function PokemonGuide() {
             </a> 
            
             
-          </p>
+          </div>
           <p className="text-gray-400 mb-4">Ruta 4 Ligas: 
           <span className="mr-2 pl-2 text-blue-400">Teselia → Sinnoh(casa) → Kanto(casa) → Hoenn(casa) → Johto(opcional)</span>
           </p>
