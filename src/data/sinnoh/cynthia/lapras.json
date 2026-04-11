@@ -2,34 +2,34 @@
   "id": "lapras",
   "name": "Lapras",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨 Trampa Rocas 🪨 Lapras se Queda Usa Amortiguador",
+  "initialMove": "🥚Amortiguador 🥚 Lapras se Queda Usa Amortiguador",
   "tricks": [
     {
-      "detail": "Lucario --> Usar Teletransporte",
+      "detail": "Lucario ➜ Usar Teletransporte",
       "variant": [
         {
-          "detail": "Poder Oculto --> Entrar con Gengar +6 +2",
+          "detail": "Poder Oculto ➜ Entrar con Gengar +6 +2",
           "variant": []
         },
         {
-          "detail": "A bocajarro --> Revisar objeto",
+          "detail": "A bocajarro ➜ Revisar objeto",
           "variant": [
             {
-              "detail": "Vidasfera --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed; entrar con Poliwrath +6",
+              "detail": "Vidasfera ➜ Cambiar a Slowbro y usar Bostezo ➜ sacrifica a Politoed ➜ entra con Poliwrath +6 🐸🥊",
               "variant": []
             },
             {
-              "detail": "Sin Vidasfera --> Entrar con Gengar +4 y usar Otra Vez (Bola Sombra a todo)",
+              "detail": "Sin Vidasfera ➜ Entra con Gengar otra vez + 4 (Bola Sombra a todo)",
               "variant": []
             },
             {
-              "detail": "Garchomp --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed; entrar con Poliwrath +6",
+              "detail": "Garchomp ➜ Cambiar a Slowbro y usar Bostezo ➜ sacrifica a Politoed ➜ entra con Poliwrath +6 🐸🥊",
               "variant": []
             }
           ]
         },
         {
-          "detail": "Garchomp --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed; entrar con Poliwrath +6",
+          "detail": "Garchomp ➜ Cambiar a Slowbro y usar Bostezo ➜ sacrifica a Politoed ➜ entra con Poliwrath +6 🐸🥊",
           "variant": []
         }
       ]
