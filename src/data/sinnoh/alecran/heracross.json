@@ -2,10 +2,10 @@
   "id": "heracross",
   "name": "Heracross",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Gengar +2 hasta debilitar💡",
+  "initialMove": "💡Gengar Otra vez y matarlo con bola sombra 💡",
   "tricks": [
     {
-      "detail": "Drapion --> Cambiar a Chansey y usar 🪨Trampa Rocas🪨 al enfrentar a Durant; entrar con Gengar +4 💡No usar Otra Vez💡",
+      "detail": "Drapion ➜ Cambia a Chansey usa Trampa Rocas al enfrentar a Durant ➜ entra con Gengar +4 💡No usar Otra Vez💡",
       "variant": []
     }
   ]
