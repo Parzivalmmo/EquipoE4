@@ -291,7 +291,7 @@ export default function PokemonGuide() {
     <span className="text-gray-400">Creditos</span>
 
     <img
-      src={`${import.meta.env.BASE_URL}images/pokemon/LehosifJS.png`}
+      src={`${import.meta.env.BASE_URL}images/LehosifJS.png`}
       className="w-16 h-16"
       alt="Munchlax"
     />
