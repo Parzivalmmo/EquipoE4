@@ -2,6 +2,15 @@
   "id": "aerodactyl",
   "name": "Aerodactyl",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡 Encanto ➜ cambiar a Slowbro y usar Bostezo ➜ sacrifica a Politoed ➜ entra con Poliwrath +6 🐸🥊💡 Usar Cascada contra Metagross",
-  "tricks": []
+  "initialMove": "❤️ Encanto ❤️",
+  "tricks": [
+    {
+      "detail": "Si se queda ➜ Usa Encanto hasta que salga Garchomp ➜ cambiar a Slowbro usar bostezo (repetidamente) hasta que salga Glaceon o Roserade ➜ sacrifica a Politoed ➜ Poliwrath +6 🐸🥊  Cascada a Metagross",
+      "variant": []
+    },
+    {
+      "detail": "Garchomp ➜ Cambiar a Slowbro usar Bostezo (repetidamente) Hasta que salga Glaceon o Roserade ➜ sacrifica a Politoed; Poliwrath +6 🐸🥊 Cascada a Metagross",
+      "variant": []
+    }
+  ]
 }
