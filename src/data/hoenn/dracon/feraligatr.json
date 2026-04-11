@@ -5,19 +5,19 @@
   "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Cascada --> Teletransporte para sacar a Slowbro y usar Bostezo",
+      "detail": "Cascada ➜ Teletransporte para sacar a Slowbro y usar Bostezo",
       "variant": []
     },
     {
-      "detail": "Triturar --> Sacrificar a Politoed; Poliwrath +6",
+      "detail": "Triturar ➜ Sacrificar a Politoed; Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Sceptile --> Volcarona +3 🔔(mantener PS por encima del 75%)🔔",
+      "detail": "Sceptile ➜ Volcarona +3 🔔(mantener PS por encima del 75%)🔔",
       "variant": []
     },
     {
-      "detail": "Gallade/Roserade --> Sacrificar a Politoed; Slowbro mantiene Bostezo frente a Salamence; Teletransporte para sacar a Poliwrath +6",
+      "detail": "Gallade/Roserade ➜ Sacrificar a Politoed; Slowbro mantiene Bostezo frente a Salamence ➜ Teletransporte para sacar a Poliwrath +6",
       "variant": []
     }
   ]
