@@ -160,10 +160,6 @@ export default function PokemonGuide() {
           <p className="text-gray-400 mb-4">Ruta 4 Ligas: 
           <span className="mr-2 pl-2 text-blue-400">Teselia → Sinnoh(casa) → Kanto(casa) → Hoenn(casa) → Johto(opcional)</span>
           </p>
-          
-          <p className="text-gray-400 mb-4">Ruta 4 Ligas + Gym: 
-          <span className="mr-2 pl-2 text-blue-400">Teselia → Sinnoh(casa) → Kanto(casa) → Johto → Hoenn(opcional, solo si vas GYM)</span>
-          </p>
         </div>
 
         {/* Tips Toggle */}
@@ -186,7 +182,7 @@ export default function PokemonGuide() {
                 <li className="mb-2">Las estrategias presuponen que el equipo está correctamente configurado (objetos, EV/IV y salud al 100 % tras cada combate).</li>
                 <li className="mb">Usar equipos "económicos" o distintos a los recomendados puede generar resultados imprecisos.</li>
                 <li className="mb">Si encuentras algún error o tienes sugerencias, por favor, reporta en el canal de Discord. 👉 <a href="https://discord.gg/SDCx66c5AM" target="_blank" rel="noreferrer" className="text-blue-400 hover:text-blue-600 transition-colors">DISCORD 👈</a></li>
-                <li className="mb">Este equipo está diseñado para hacer 4 Ligas (E4), la ruta que indicamos es para hacer las 4 ligas + iniciar ruta de farmear GYM. (Opcionalmente).</li>
+                <li className="mb">DESACTIVAR el reamplicador de EXP - Chansey debe ser el iniciador SIEMPRE.</li>
               </ul>
             )}
         </div>
