@@ -5,11 +5,11 @@
   "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "Metagross ➜ cambiar a Slowbro (Mantener contra Golem) → Politoed (sacrificar), Poliwrath +6",
+      "detail": "Metagross ➜ Cambiar a Slowbro y usar Bostezo (repetidamente) hasta que salga Golem → sacrifica a Politoed → entra con Poliwrath +6🐸🥊",
       "variant": []
     },
     {
-      "detail": "Golem ➜ Encanto, amortiguador → sale Metagross, cambiar a Slowbro, bostezo → Politoed (sacrificar), Poliwrath +6",
+      "detail": "Golem ➜ Encanto, amortiguador → sale Metagross ➜ cambiar a Slowbro bostezo → Sacrifica Politoed ➜ Poliwrath +6🐸🥊",
       "variant": []
     },
     {
@@ -29,11 +29,11 @@
           "variant": []
         },
         {
-          "detail": "Aggron derrota a Gengar (no activa cuerpo maldito) → Saca a Volcarona y derrotalo, sale Slowbro, +1",
+          "detail": "Aggron derrota a Gengar (no activa cuerpo maldito) → Saca a Volcarona elimina a Aggdron ➜Entra Slowbro enemigo usa danza aleteo y ataca ",
           "variant": []
         },
         {
-          "detail": "Aggron derrota a Gengar (Activa cuerpo maldito) → Volcarona +1",
+          "detail": "Aggron derrota a Gengar (Activa cuerpo maldito) → Volcarona +1 danza aleteo ",
           "variant": []
         }
       ]
