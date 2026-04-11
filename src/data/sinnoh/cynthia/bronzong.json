@@ -27,7 +27,12 @@
     },
     {
       "detail": "Lucario --> Usar Teletransporte; cambiar a Slowbro y usar Bostezo; sacrificar a Politoed; entrar con Poliwrath +6",
-      "variant": []
+      "variant": [
+        {
+          "detail": "Si Slowbro retrocede, saca politoed (sacrificar), Poliwrath +2 (con Ataque X), (manten HP 70%).",
+          "variant":  []
+        }
+      ]
     }
   ]
 }
