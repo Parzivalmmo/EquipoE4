@@ -5,42 +5,42 @@
   "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Leavanny --> Cambiar a Volcarona",
+      "detail": "Parasect ➜ Cambiar a Volcarona",
       "variant": []
     },
     {
-      "detail": "Si se queda --> Volcarona +1",
+      "detail": "Si se queda ➜ Volcarona +1",
       "variant": []
     },
     {
-      "detail": "Rhyperior --> Absorber golpe hasta debilitar al enfrentar a Blastoise; cambiar a Slowbro y usar Bostezo",
+      "detail": "Rhyperior ➜ Absorber golpe hasta debilitar al enfrentar a Blastoise ➜ cambiar a Slowbro y usar Bostezo",
       "variant": []
     },
     {
-      "detail": "Si se queda --> Usar Protección y Relajo al enfrentar a Leavanny; entrar con Volcarona +1",
+      "detail": "Si se queda ➜ Usar Protección y Relajo al enfrentar a Parasect ➜ entrar con Volcarona +1",
       "variant": []
     },
     {
-      "detail": "Leavanny --> Entrar con Volcarona +1",
+      "detail": "Parasect ➜ Entrar con Volcarona +1",
       "variant": []
     },
     {
-      "detail": "Rhyperior --> Usar Teletransporte; Slowbro usa Bostezo 🔔Revisar si tiene Terremoto, Vidasfera o la precisión de Megacuerno 🔔",
+      "detail": "Parasect ➜ Usar Teletransporte ➜ Slowbro usa Bostezo 🔔Revisar si tiene Terremoto, Vidasfera o la precisión de Megacuerno 🔔",
       "variant": [
         {
-          "detail": "Vidasfera + Acierto --> Usar Teletransporte; entrar con Volcarona, usar Especial X y presionar",
+          "detail": "Vidasfera + Acierto ➜ Usar Teletransporte ➜ entrar con Volcarona, usar Especial X y presionar",
           "variant": []
         },
         {
-          "detail": "Vidasfera + Fallo --> Entrar con Volcarona, usar Especial X y presionar",
+          "detail": "Vidasfera + Fallo ➜ Entrar con Volcarona, usar Especial X y presionar",
           "variant": []
         },
         {
-          "detail": "Sin Vidasfera + Acierto --> Usar Teletransporte; entrar con Volcarona +1",
+          "detail": "Sin Vidasfera + Acierto ➜ Usar Teletransporte ➜ entrar con Volcarona +1",
           "variant": []
         },
         {
-          "detail": "Sin Vidasfera + Fallo --> Entrar con Volcarona +1",
+          "detail": "Sin Vidasfera + Fallo ➜ Entrar con Volcarona +1",
           "variant": []
         }
       ]
