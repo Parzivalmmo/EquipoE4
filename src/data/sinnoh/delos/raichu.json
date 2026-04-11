@@ -6,15 +6,16 @@
   "tricks": [
     {
       "detail": "Lucario --> Gengar usa Otra Vez",
-      "variant": []
-    },
-    {
-      "detail": "Si se queda --> Entrar con Gengar +2/+2 + Precisión",
-      "variant": []
-    },
-    {
-      "detail": "Dragonite --> Cambiar a Slowbro para atraer a Gallade o Roserade; usar Protección y Bostezo al enfrentar a Raichu; sacrificar a Politoed; entrar con Poliwrath +6",
-      "variant": []
+      "variant": [
+        {
+          "detail": "Si se queda --> Entrar con Gengar +2/+2 + Precisión",
+          "variant": []
+        },
+        {
+          "detail": "Dragonite --> Cambiar a Slowbro para atraer a Gallade o Roserade; usar Protección y Bostezo al enfrentar a Raichu; sacrificar a Politoed; entrar con Poliwrath +6",
+          "variant": []
+        }
+      ]
     },
     {
       "detail": "Gallade / Roserade --> Gengar usa Otra Vez",
@@ -34,20 +35,21 @@
         {
           "detail": "Golpe Bajo --> Sacrificar a Politoed; entrar con Poliwrath +6",
           "variant": []
+        },
+        {
+          "detail": "Al enfrentar a Dragonite --> Cambiar a Slowbro y usar Bostezo",
+          "variant": [
+            {
+              "detail": "Raichu --> Sacrificar a Politoed; entrar con Poliwrath +6",
+              "variant": []
+            },
+            {
+              "detail": "Gallade / Roserade (Alakazam) --> Usar Protección y Bostezo al enfrentar a Raichu; sacrificar a Politoed; entrar con Poliwrath +6",
+              "variant": []
+            }
+          ]
         }
       ]
-    },
-    {
-      "detail": "Al enfrentar a Dragonite --> Cambiar a Slowbro y usar Bostezo",
-      "variant": []
-    },
-    {
-      "detail": "Raichu --> Sacrificar a Politoed; entrar con Poliwrath +6",
-      "variant": []
-    },
-    {
-      "detail": "Gallade / Roserade (Alakazam) --> Usar Protección y Bostezo al enfrentar a Raichu; sacrificar a Politoed; entrar con Poliwrath +6",
-      "variant": []
     }
   ]
 }
