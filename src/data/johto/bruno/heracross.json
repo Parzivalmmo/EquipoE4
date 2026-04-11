@@ -2,13 +2,13 @@
   "id": "heracross",
   "name": "Heracross",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Varias Opciones💡 ",
+  "initialMove": "💡Varias Opciones💡",
   "tricks": [
     {
       "detail": "RNG → Trampa Rocas",
       "variant": [
         {
-          "detail": "No crítico → Gengar, Otra Vez, +2 +2 Precision X",
+          "detail": "No crítico → Gengar, Otra Vez, +2 +2 Precisión X",
           "variant": []
         },
         {
@@ -22,13 +22,13 @@
       ]
     },
     {
-      "detail": "Estable ➜ Gengar, Otra vez, +2",
+      "detail": "Estable → Gengar, Otra Vez, +2",
       "variant": [
         {
           "detail": "Se queda → Derrótalo, sale Steelix → Slowbro, Bostezo → Teletransporte → Chansey, Trampa Rocas",
           "variant": [
             {
-              "detail": "Machamp → Gengar, Otra vez → Chansey, sale Staraptor → Gengar +2 +2 Precisión X",
+              "detail": "Machamp → Gengar, Otra Vez → Chansey, sale Staraptor → Gengar, Otra Vez, +2 +2 Precisión X",
               "variant": []
             },
             {
@@ -49,19 +49,23 @@
               "variant": []
             },
             {
-              "detail": "Machamp → Gengar → Chansey → Staraptor → Gengar +2 +2 Precisión X",
+              "detail": "Machamp → Gengar → Chansey → Staraptor → Gengar, +2 +2 Precisión X",
               "variant": []
             }
           ]
         },
         {
-          "detail": "Machamp → Chansey → Gengar, Otra vez +2",
+          "detail": "Machamp → Chansey → Gengar, Otra Vez, +2",
           "variant": [
             {
-              "detail": "Se queda → Derrótalo → Steelix → Slowbro → Bostezo",
+              "detail": "Se queda → Derrótalo → Sale Steelix → Slowbro, mantén Bostezo, sale Heracross → Teletransporte → Chansey, Trampa Rocas",
               "variant": [
                 {
-                  "detail": "Se queda → Protección → Bostezo a Heracross → Chansey → Amortiguador → Gengar +4 +2 Precisión X",
+                  "detail": "Machamp → Gengar, Otra Vez → Chansey, sale Staraptor → Gengar, Otra Vez, +2 +2 Precisión X",
+                  "variant": []
+                },
+                {
+                  "detail": "Staraptor → Gengar, Otra Vez, +2 +2 Precisión X",
                   "variant": []
                 }
               ]
