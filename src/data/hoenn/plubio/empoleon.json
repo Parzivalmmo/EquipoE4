@@ -14,19 +14,20 @@
     },
     {
       "detail": "Escaldar --> Cambiar a Slowbro",
-      "variant": []
-    },
-    {
-      "detail": "Si se queda --> Bostezo frente a Roserade; Volcarona +4 ",
-      "variant": []
-    },
-    {
-      "detail": "Milotic --> Bostezo; sacrificar a Politoed; Poliwrath +6",
-      "variant": []
-    },
-    {
-      "detail": "Roserade --> Volcarona +4 ",
-      "variant": []
+      "variant": [
+        {
+          "detail": "Si se queda --> Bostezo frente a Roserade; Volcarona +4 ",
+          "variant": []
+        },
+        {
+          "detail": "Milotic --> Bostezo; sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Roserade --> Volcarona +4 ",
+          "variant": []
+        }
+      ]
     },
     {
       "detail": "Milotic --> Cambiar a Slowbro y usar Bostezo frente a Roserade; Volcarona +4",
@@ -34,15 +35,16 @@
     },
     {
       "detail": "Roserade --> Teletransporte",
-      "variant": []
-    },
-    {
-      "detail": "Movimiento Planta --> Volcarona +4",
-      "variant": []
-    },
-    {
-      "detail": "Movimiento Veneno --> Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
-      "variant": []
+      "variant": [
+        {
+          "detail": "Movimiento Planta --> Volcarona +4",
+          "variant": []
+        },
+        {
+          "detail": "Movimiento Veneno --> Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        }
+      ]
     }
   ]
 }
