@@ -2,18 +2,18 @@
   "id": "camerupt",
   "name": "Camerupt",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Usar Trampa Rocas🪨 al enfrentar a Bouffalant; cambiar a Gengar  y usar Maquinación  al enfrentar a Dragonite; atacar hasta debilitar",
+  "initialMove": "🪨Usar Trampa Rocas🪨 al enfrentar a Bouffalant (cinta elegida) ➜ cambiar a Gengar y usa Maquinación ➜ Dragonite atacar con bola sombra",
   "tricks": [
     {
-      "detail": "Magmortar --> Sacrificar a Politoed ; entrar con Poliwrath  +6 ",
+      "detail": "Magmortar ➜ Sacrificar a Politoed ➜ entrar con Poliwrath +6🐸🥊 ",
       "variant": []
     },
     {
-      "detail": "Steelix --> Entrar con Slowbro  y usar Bostezo  sacrificar a Politoed  entrar con Poliwrath  +6 ",
+      "detail": "Steelix ➜ Entrar con Slowbro y usar Bostezo sacrificar a Politoed  entrar con Poliwrath +6🐸🥊 ",
       "variant": []
     },
     {
-      "detail": "Arriesgado  --> Sacrificar directamente a Politoed entrar con Poliwrath  +6",
+      "detail": "Arriesgado ➜ Sacrificar directamente a Politoed entrar con Poliwrath +6🐸🥊",
       "variant": []
     }
   ]
