@@ -5,28 +5,28 @@
   "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Si se queda --> Usar Teletransporte; enviar a Slowbro y revisar daño",
+      "detail": "Si se queda ➜ Usar Teletransporte ➜ enviar a Slowbro y revisar daño",
       "variant": [
         {
-          "detail": "29.4 - 34.5% (Crítico 43.7 - 51.7%) --> Usar Relajo para aguantar Cometa Draco; usar Bostezo para que entre Yanmega; sacrificar a Politoed y entrar con Poliwrath +6",
+          "detail": "29.4 - 34.5% (Crítico 43.7 - 51.7%) ➜ Usar Relajo para aguantar Cometa Draco ➜ usar Bostezo para que entre Yanmega ➜ sacrificar a Politoed y entrar con Poliwrath +6 🐸🥊",
           "variant": []
         },
         {
-          "detail": "36.5 - 44% (Crítico 54 - 65%) --> Usar Bostezo al enfrentar a Drapion; sacrificar a Politoed y entrar con Poliwrath +6",
+          "detail": "36.5 - 44% (Crítico 54 - 65%) ➜ Usar Bostezo al enfrentar a Drapion ➜ sacrifica a Politoed y entrar con Poliwrath +6 🐸🥊",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Skuntank --> Sacrificar a Politoed; cambiar de Volcarona a Gengar para que Skuntank use Autodestrucción al enfrentar a Durant; Slowbro usa Bostezo y Teletransporte; entrar con Poliwrath +6 🔔absorbiendo golpe de Crustle y usar Velocidad X para presionar🔔",
+      "detail": "Skuntank ➜ Sacrifica a Politoed ➜ cambiar de Volcarona a Gengar para que Skuntank use Autodestrucción al enfrentar a Durant ➜ Slowbro usa Bostezo y Teletransporte ➜ entrar con Poliwrath +6 🐸🥊 🔔absorbiendo golpe de Crustle y usar Velocidad X para presionar🔔",
       "variant": []
     },
     {
-      "detail": "Scizor --> Slowbro usa Bostezo; sacrificar a Politoed y entrar con Poliwrath +6; usar Bostezo 🔔al enfrentar a Flygon, seguido de Protección y Bostezo🔔",
+      "detail": "Scizor ➜ Slowbro usa Bostezo ➜ sacrifica a Politoed y entra con Poliwrath +6🐸🥊🔔 usar Bostezo al enfrentar a Flygon, seguido de Protección y Bostezo🔔",
       "variant": []
     },
     {
-      "detail": "Escavalier --> Sacrificar a Politoed; entrar con Poliwrath +6",
+      "detail": "Escavalier ➜ Sacrifica a Politoed ➜ entra con Poliwrath +6 🐸🥊",
       "variant": []
     }
   ]
