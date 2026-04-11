@@ -5,32 +5,32 @@
   "initialMove": "🥚Amortiguador🥚",
   "tricks": [
     {
-      "detail": "Blaziken ➜ cambiar a Gengar, se queda encerrado +4 +2",
+      "detail": "Blaziken ➜ cambiar a Gengar +4 +2 (Blaziken Pañuelo elegido)",
       "variant": []
     },
     {
       "detail": "Frente a Darmanitan ➜ Varias opciones",
       "variant": [
         {
-          "detail": "Ahorro $? → Volcarona +3",
+          "detail": "Ahorro $? → Volcarona +3 🦋🔥",
           "variant": []
         },
         {
-          "detail": "Estable → Slowbro, Bostezo → Politoed (sacrificar), Poliwrath +6",
+          "detail": "Estable → Slowbro Bostezo → Sacrifica a Politoed ➜ Poliwrath +6 🐸🥊",
           "variant": []
         },
         {
-          "detail": "RNG → Politoed (sacrificar), Poliwrath +6",
+          "detail": "RNG → Sacrifica a Politoed Poliwrath +6 🐸🥊",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Hitmonchan ➜ Cambiar a Slowbro Bostezo, sale Metagross → Politoed (sacrificar), Poliwrath +6",
+      "detail": "Hitmonchan ➜ Cambiar a Slowbro Bostezo, sale Metagross → Sacrifica a Politoed Poliwrath +6 🐸🥊",
       "variant": []
     },
     {
-      "detail": "Machamp ➜ cambiar a Gengar, Otra Vez, +4 +2",
+      "detail": "Machamp ➜ cambiar a  👻 Gengar Otra Vez +4 +2 👻",
       "variant": []
     }
   ]
