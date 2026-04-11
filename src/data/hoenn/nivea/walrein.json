@@ -6,31 +6,29 @@
   "tricks": [
     {
       "detail": "Superdiente --> Amortiguador frente a Hariyama; Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6; 🔔Puño Hielo a Froslass🔔",
-      "variant": []
-    },
-    {
-      "detail": "Mantiene Triturar --> Cambiar a Gengar +4 +2 + Precisión; si se bloquea, 🔔usar Onda Certera para barrer🔔",
-      "variant": []
+      "variant": [
+        {
+          "detail": "Mantiene Superdiente --> Cambiar a Gengar +4 +2 + Precisión; si se bloquea, 🔔usar Onda Certera para barrer🔔",
+          "variant": []
+        }
+      ]
     },
     {
       "detail": "Mienshao --> Cambiar a Gengar y atacar hasta debilitar (Prueba: Gengar +2 y atacar hasta debilitar)",
-      "variant": []
-    },
-    {
-      "detail": "Metagross --> Cambiar a Slowbro y usar Bostezo frente a Nidoking; sacrificar a Politoed; Poliwrath +6",
-      "variant": []
-    },
-    {
-      "detail": "Walrein o Dewgong --> Sacrificar a Politoed; Poliwrath +6; 🔔Cascada a Skarmory🔔",
-      "variant": []
-    },
-    {
-      "detail": "Skarmory --> Cambiar a Slowbro; Slowbro frente a Mismagius; sacrificar a Politoed; Poliwrath +6; 🔔vCascada a Skarmory🔔",
-      "variant": []
-    },
-    {
-      "detail": "Altaria --> Cambiar a Slowbro y usar Bostezo frente a Nidoking; sacrificar a Politoed; Poliwrath +6",
-      "variant": []
+      "variant": [
+        {
+          "detail": "Walrein o Dewgong --> Sacrificar a Politoed; Poliwrath +6; 🔔Cascada a Skarmory🔔",
+          "variant": []
+        },
+        {
+          "detail": "Mismagius, derrotarlo. Sale Skarmory --> Cambiar a Slowbro; Slowbro frente a Mismagius; sacrificar a Politoed; Poliwrath +6; 🔔Cascada a Skarmory🔔",
+          "variant": []
+        },
+        {
+          "detail": "Glalie --> Sigue presionando, derrotándolos.",
+          "variant": []
+        }
+      ]
     },
     {
       "detail": "Gallade/Roserade --> Gengar +2 + Precisión (No usar Otra Vez); 🔔Onda Certera a Walrein, Dewgong o Skarmory🔔",
@@ -41,7 +39,7 @@
       "variant": []
     },
     {
-      "detail": "Metagross (Variante) --> Cambiar a Slowbro, luego de Volcarona a Serperior; Volcarona +2",
+      "detail": "Metagross (Variante) --> Cambiar a Slowbro, sale Serperior; Volcarona +2",
       "variant": []
     }
   ]
