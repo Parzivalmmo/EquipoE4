@@ -26,101 +26,101 @@
       "variant": []
     },
     {
-      "detail": "Escaldar --> Amortiguador",
+      "detail": "Escaldar ➜Teletransporte, sacar a Slowbro y usar Bostezo (si no cambia usa Bostezo)",
       "variant": []
     },
     {
-      "detail": "Dragonite --> Cambiar a Slowbro y usar Bostezo; Protección y Bostezo frente a Lanturn; sacrificar a Politoed; Poliwrath +6",
+      "detail": "Serperior ➜ Usar Protección y Bostezo hasta que salga Lanturn ➜ sacrificar a Politoed y entrar con Poliwrath +6",
       "variant": [
         {
-          "detail": "Empoleon --> Cambiar a Slowbro para ver movimiento",
+          "detail": "Roserade ➜ Usar Teletransporte y revisar el objeto del rival:",
           "variant": []
         },
         {
-          "detail": "Cascada --> Bostezo frente a Roserade; Teletransporte; Volcarona +1; debilitar frente a Togekiss; luego debilitar frente a Milotic; usar Danza Aleteo 1 vez y barrer completo (Milotic Crítico o primero curar al máximo)",
+          "detail": "Si lleva Vidasfera: Entrar con Volcarona +1 + Especial X",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Terremoto --> Bostezo frente a Roserade; Volcarona +3; PS por encima del 70%",
+      "detail": "Sin Vidasfera: Entrar con Volcarona +2  + Especial X  🔔que tu vida no baje del 70%🔔",
       "variant": []
     },
     {
-      "detail": "Eelektross --> 🪨 Trampa Rocas 🪨; Gengar usa Otra Vez; cambiar Slowbro a Milotic / Swampert; Bostezo y Escaldar; mantener el Bostezo",
+      "detail": "Gardevoir ➜ Sacrificar a Politoed y entrar con Poliwrath +6",
       "variant": [
         {
-          "detail": "Poder Oculto Eléctrico --> Sacrificar a Politoed; Poliwrath +6",
+          "detail": "Empoleon ➜ Poner Trampa Rocas para ver su movimiento:",
           "variant": []
         },
         {
-          "detail": "Serperior --> Protección y Bostezo frente a Eelektross; sacrificar a Politoed; Poliwrath +6",
+          "detail": "Cascada ➜ Cambiar a Slowbro y usar Bostezo frente a Roserade ➜ usar Teletransporte y entrar con Volcarona +1 para presionar hasta que salga Milotic ➜ entonces usar Danza Aleteo una vez y terminar de barrer",
           "variant": []
         },
         {
-          "detail": "Altaria --> Chansey saca a Eelektross; Teletransporte; Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
+          "detail": "Terremoto ➜ Cambiar a Slowbro y usar Bostezo hasta que salga Roserade ➜ usar Teletransporte y entrar con Volcarona +3",
           "variant": []
         },
         {
-          "detail": "Eelektross --> Sacrificar a Politoed; Poliwrath +6",
+          "detail": "Eelektross ➜ Poner Trampas ➜ Gengar usa Otra Vez y cambiar a Slowbro frente a Milotic/Swampert ➜ usar Bostezo (si continua usando escanda sigue con bostezo hasta que cambie)",
           "variant": []
         },
         {
-          "detail": "Gardevoir --> Sacrificar a Politoed; Poliwrath +6",
+          "detail": "Poder Oculto Eléctrico --> Sacrificar a Politoed y entrar con Poliwrath +6",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Gardevoir --> Teletransporte; enviar a Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6",
+      "detail": "Serperior --> Usar Protección y Bostezo hasta que salga Eelektross ➜ luego sacrifica a Politoed y entrar con Poliwrath +6.",
       "variant": []
     },
     {
-      "detail": "Regice/Registeel --> Sacrificar a Politoed; Poliwrath +6",
+      "detail": "Altaria --> Usar a Chansey para atraer a Eelektross, usar Teletransporte, cambiar a Slowbro para usar Bostezo; finalmente sacrifica a Politoed y entrar con Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Empoleon --> Trampa Rocas para ver movimiento",
+      "detail": "Eelektross --> Sacrificar a Politoed y entrar con Poliwrath +6",
       "variant": [
         {
-          "detail": "Cascada --> Cambiar a Slowbro y usar Bostezo frente a Roserade; Teletransporte; Volcarona +1; presionar hasta Milotic; usar Danza Aleteo 1 vez y barrer completo; dos veces contra Milotic; Escaldar Crítico o primero curar",
+          "detail": "Gardevoir --> Sacrificar a Politoed y entrar con Poliwrath +6",
           "variant": []
         },
         {
-          "detail": "Terremoto --> Cambiar a Slowbro y usar Bostezo frente a Roserade; Teletransporte; Volcarona +3; mantener PS por encima del 70%",
+          "detail": "Metagross --> Sacrificar a Politoed y entrar con Poliwrath +6",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Metagross --> Sacrificar a Politoed; Poliwrath +6",
+      "detail": "Si Poliwrath muere por crítico --> Gengar  Otra vez +4 +2",
       "variant": [
-        {
-          "detail": "Si Poliwrath muere por crítico --> Gengar +4 +2",
-          "variant": []
-        },
         {
           "detail": "Mienshao --> Cambiar a Slowbro y usar Bostezo frente a Serperior; Teletransporte; Volcarona +2",
           "variant": []
         },
         {
-          "detail": "Regice/Registeel --> Sacrificar a Politoed; Poliwrath +6",
+          "detail": "Regice/Registeel ➜ Sacrificar a Politoed; Poliwrath +6",
           "variant": []
         },
         {
-          "detail": "Dragonite --> Encanto; sacrificar a Politoed; Poliwrath +6",
+          "detail": "Dragonite ➜ Encanto ➜sacrificar a Politoed ➜ Poliwrath +6 ",
           "variant": []
         },
         {
-          "detail": "Gardevoir --> Teletransporte; enviar a Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6",
+          "detail": "Gardevoir --> Teletransporte ➜ enviar a Slowbro y usar Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6",
           "variant": []
         },
         {
-          "detail": "Whiscash --> Encanto; sacrificar a Politoed; Poliwrath +6 + Raíz Grande +2",
+          "detail": "Whiscash --> Encanto; sacrificar a Politoed; Poliwrath +6 + Raíz Grande +2 ",
           "variant": []
         },
         {
-          "detail": "Roserade --> Teletransporte; Slowbro usa Bostezo; Teletransporte; Volcarona +1 + Especial X; dos veces contra Milotic",
+          "detail": "Roserade --> Teletransporte ➜ Slowbro usa Bostezo; Teletransporte ➜ Volcarona +1 + Especial X ",
+          "variant": []
+        },
+        {
+          "detail": "",
           "variant": []
         }
       ]
