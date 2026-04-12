@@ -2,11 +2,6 @@
   "id": "leafeon",
   "name": "Leafeon",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Truco para bloquear a Nidoking",
-  "tricks": [
-    {
-      "detail": "luego entra Cloyster con +6",
-      "variant": []
-    }
-  ]
+  "initialMove": "🪨 Trampa Rocas 🪨 frente al Luchador, cambia a Slowbro y usa Bostezo, sacrifica a Politoed, entra Poliwrath +6 🔔(Gigadrenado contra Leafeon)🔔",
+  "tricks": []
 }
