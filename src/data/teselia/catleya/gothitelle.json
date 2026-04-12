@@ -2,6 +2,11 @@
   "id": "gothitelle",
   "name": "Gothitelle",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Teletransporte, sacar a Volcarona frente a Metagross; al enfrentar a Staraptor va usar sacrificio y cambia a Gengar +6 y +1 precisión (No usar Otra Vez)💡",
-  "tricks": []
+  "initialMove": "💡 Teletransporte, para  sacar a Volcarona 💡",
+  "tricks": [
+    {
+      "detail": "Frente a Metagross usa Lanzallamas; al enfrentar a Staraptor va usar sacrificio y cambia a Gengar +6 y Precisión X (Staraptor tiene Pañuelo)",
+      "variant": []
+    }
+  ]
 }
