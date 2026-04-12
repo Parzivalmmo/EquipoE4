@@ -2,23 +2,14 @@
   "id": "vaporeon",
   "name": "Vaporeon",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Sandslash → Metagross coloca Trampa Rocas, Cloyster +6.",
-      "variant": [
-        {
-          "detail": "Si Metagross falla al colocar Trampa Rocas (muere), entonces Cloyster +6 con medicina de defensa especial / Carámbano mata a Magnezone.",
-          "variant": []
-        }
-      ]
+      "detail": "Scaldar/Gyarados → Usa Teletransporte y saca a Slowbro, Bostezo, Proteccion, Bostezo, para forzar cambio a Magnezone, sacrifica a Poliwrath, 💊entra Volcarona +1 + atk. Especial X💊",
+      "variant": [] 
     },
     {
-      "detail": "Golem → Excadrill +6 +2",
-      "variant": []
-    },
-    {
-      "detail": "Escaldar → Colocar Trampa Rocas, Scrafty usa medicina de defensa especial +3. + Pildora \"DIRECTO\" esto aumenta la probabilidad de golpe crítico",
+      "detail": "Machamp → Usa Teletransporte y saca a Slowbro, Bostezo frente a Vaporeon, sacrifica a Politoed, entra Poliwrath +6",
       "variant": []
     }
   ]
