@@ -2,20 +2,15 @@
   "id": "flareon",
   "name": "Flareon",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Coloca Trampa Rocas, luego cambia a Chandelure para usar Truco",
+  "initialMove": "Cambia a Slowbro luego a Chansey, frente a Magnezone pon Trampa Rocas",
   "tricks": [
     {
-      "detail": "POLIWRATH → Poliwrath 6+2. / Usar A Bocajarro para matar a Magnezone.",
+      "detail": "Poliwrath → Usa Teletransporte, saca a 💊Gengar 2+2 + Precion X💊 🔔(Si no quieres gastar: 6+2)🔔",
       "variant": []
     },
     {
-      "detail": "AERODACTYL → Scrafty +4. / Usar A Bocajarro para matar a Poliwrath.",
-      "variant": [
-        {
-          "detail": "Si Scrafty y recibe Terremoto, usar Cloyster +6. / Prestar atención a la curación",
-          "variant": []
-        }
-      ]
+      "detail": "Flareon → Cambia a Slowbro y usa Bostezo frente a magnezone, usar Proteccion y Bostezo, luego Teletransporte y entra Volcarona +2",
+      "variant": []
     }
   ]
 }
