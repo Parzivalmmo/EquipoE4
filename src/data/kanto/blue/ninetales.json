@@ -2,42 +2,64 @@
   "id": "ninetales",
   "name": "Ninetales",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A CHANDELURE",
+  "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "LLAMARADA → Usar Truco",
+      "detail": "🔥Llamarada🔥 → Usa Teletransportacion",
       "variant": [
         {
-          "detail": "Rayo Solar → Cambiar a Metagross y usar Truco, bloquear a Rhyperior, luego Cloyster con +6",
+          "detail": "Si se queda → Cambia a Poliwrath luego a Politoed, deja que lo maten, luego entra Poliwrath +6",
           "variant": [
             {
-              "detail": "Ninetales no se retira → Chandelure usa Bola Sombra, si entra Golduck o Rhyperior, usar Truco y sacrificarse. Luego, Metagross usa Truco para bloquear a Rhyperior o Terremoto. Cloyster +6 limpia.",
+              "detail": "Poliwrath recibe Tiro Vital al azar → Slowbro usa Bostezo frente a Exeggutor, sacrificar a Poliwrath, Volcarona +1",
               "variant": []
             }
-          ]
+          ] 
         },
         {
-          "detail": "Poder Oculto → Scrafty +3 /// Paliza + Puño Drenaje para Magnezone /////// A Bocajarro para Poliwrath //// Paliza para Sandslash //// Si Magnezone está a rango de Activar Baya (VIDA EN ROJO) usa Raíz Energía para curarte y seguir barriendo.",
+          "detail": "Leafeon → Cambia a Volcarona +2",
           "variant": []
-        },
-        {
-          "detail": "Psicocarga → Scrafty +3 // Paliza + Puño Drenaje para Magnezone",
-          "variant": [
-            {
-              "detail": "Si el Rival cambia a Vaporeon, usa Defensa Especial X y sigue boosteando. (CRÍTICO -51.7%) // a Bocajarro para Machamp",
-              "variant": []
-            }
-          ]
-        },
-        {
-          "detail": "Vaporeon → Cambiar a Metagross y usar Truco para bloquear a Magnezone, Excadrill 4 + 2 + Trampa Rocas",
-          "variant": []
-        }
-      ]
-    },    
+        }  
+      ]   
+    },
     {
-      "detail": "RHYPERIOR → Usar Truco para bloquear Terremoto, luego Cloyster +6",
-      "variant": []
+      "detail": "Leafeon → Usa Teletransportacion",
+      "variant": [
+        {
+          "detail": "Si se queda → Saca a Volcarona +2",
+          "variant": []
+        },    
+        {
+          "detail": "Machamp → Saca a Slowbro y usa Bostezo frente a Magnezone, sacrifica a Poliwrath, entra Volcarona +2",
+          "variant": []
+        }  
+      ]  
+    },
+    {
+      "detail": "Machamp → Cambia a Gengar +2 🔔(No usar Otra Vez)🔔",
+      "variant": [
+        {
+          "detail": "Si se queda → Gengar +6 🔔(Barre con Bola sombra)🔔",
+          "variant": []
+        },
+        {    
+          "detail": "Cambia a Charizard → Pushea hasta Magnezone, usa Bola sombra",
+          "variant": [
+            {    
+              "detail": "Vaporeon recibe el golpe → Usa Maquinacion y sigue Pusheando",
+              "variant": []
+            },
+            {     
+              "detail": "Geangar Muere → Entra Volcarona y usa Psiquico, frente a Machamp, sacrifica a Politoed y entra Poliwrath +6",
+              "variant": []
+            }
+          ]
+        },  
+        { 
+          "detail": "Cambia a Vaporeon → Cambia a Slowbro y usa Bostezo frente a Magnezone, sacrifica a Poliwrath y entra Volcarona +2",
+          "variant": []
+        }  
+      ]  
     }
   ]
 }
