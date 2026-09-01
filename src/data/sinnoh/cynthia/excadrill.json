@@ -2,10 +2,10 @@
   "id": "excadrill",
   "name": "Excadrill",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡 Cambiar a Politoed 💡",
+  "initialMove": "💡 Sacrifica a Politoed 💡",
   "tricks": [
     {
-      "detail": "◉ Si Excadrill no cambia ➜ deja que Politoed se debilite y entra con chansey usa amortiguador Frente a Heracross ,chansey usa Teletransporte y entra con Gengar Otraz vez +4 + Precisión X",
+      "detail": "◉ Excadrill no cambia ➜ entra con Poliwrath y ataca Frente a Jellicnet ➜ chansey usa amortiguador Frente a Heracross ,chansey usa Teletransporte y entra con Gengar Otraz vez +4 + Precisión X",
       "variant": []
     },
     {
