@@ -5,18 +5,18 @@
   "initialMove": "💡Cambiar a Slowbro💡",
   "tricks": [
     {
-      "detail": "Durant ➜ Bostezo , Protección vuelve a usar Bostezo ➜ frente a Rhyperior ➜ Teletransporte ➜ Poliwrath +6 🐸🥊(todos son lentos)",
+      "detail": "Durant ➜ Bostezo , Protección vuelve a usar Bostezo ➜ frente a Rhyperior o Amoongus ➜ Teletransporte ➜ Poliwrath +6 🐸🥊(todos son lentos)",
       "variant": []
     },
     {
-      "detail": "Rhyperior ➜ Usar Bostezo ",
+      "detail": "Rhyperior ➜ Slowbro, Bostezo ",
       "variant": [
         {
-          "detail": "Si se queda ➜ Usar Teletransporte ➜ entrar con Volcarona +1  🔔usar Psíquico al enfrentar a Gengar🔔",
+          "detail": "Si Rhyperior Se queda ➜ Slowbro, Teletransporte ➜ entrar con Volcarona x1 Danza Aleteo  🔔usar Psíquico a Gengar🔔",
           "variant": []
         },
         {
-          "detail": "Gengar ➜ Cambiar a Volcarona +1  🔔usar Psíquico al enfrentar a Gengar🔔",
+          "detail": "Gengar ➜ Cambiar a Volcarona +1 🔔usar Psíquico Gengar🔔",
           "variant": []
         }
       ]
