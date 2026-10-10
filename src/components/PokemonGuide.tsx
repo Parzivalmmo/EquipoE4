@@ -268,7 +268,7 @@ export default function PokemonGuide() {
               <li>
                 EQUIPO NECESARIO:{" "}
                 <a
-                  href="https://pokepast.es/e356ee22f26cf6dc"
+                  href="https://pdftourl.net/images/1791652235937-c711d66c-ff37-457c-973d-873711323734.webp"
                   target="_blank"
                   rel="noreferrer"
                   className="text-blue-400"
@@ -280,6 +280,7 @@ export default function PokemonGuide() {
               <li>Completa cada Liga 5 veces antes.</li>
               <li>Recuerda Que Otra Vez Sirve Para Bostearte 2 Veces Cuando se acaba usalo otra vez,si te hace falta bostearte mas.</li>
               <li>Desactivar EXP Share/Reamplificador.</li>
+              <li>Compra 20 Ataque x , Velocidad x ,Especial x , Precisión x Y 5 Defensa X y Defensa Especial X    .</li>
               <li>Recuerda que el primer numero es maquinacion o especial x.</li>
               <li>Y el segundo numero es Velocidad</li>
               <li>Utilizar "Otra Vez" con Gengar salvo indicación.</li>
